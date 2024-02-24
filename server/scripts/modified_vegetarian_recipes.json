@@ -90,7 +90,13 @@
       "Kosher",
       "Immuno-Supportive"
     ],
-    "totalTime": 130
+    "totalTime": 130,
+    "instructions": [
+      "Heat an oven to 325°F. \n",
+      "Cook lasagne noodles in a pot on the stove with salt water. \n",
+      "Add the ingredients to a mixing bowl and mix in between the layers of noodles.\n",
+      "Put in the oven and bake for 40 minutes. Serve."
+    ]
   },
   {
     "recipeName": "Vegetarian Stir-Fried Garlic Scape",
@@ -178,7 +184,12 @@
       "Mollusk-Free",
       "Kosher"
     ],
-    "totalTime": 30
+    "totalTime": 30,
+    "instructions": [
+      "Heat a pot on the stove. \n",
+      "Add the ingredients to a mixing bowl and mix. Put them in the pot. \n",
+      "Put in the pot and cook for 20 minutes. Serve."
+    ]
   },
   {
     "recipeName": "Cheat’s cheesy focaccia",
@@ -227,7 +238,12 @@
       "FODMAP-Free",
       "Kosher"
     ],
-    "totalTime": 40
+    "totalTime": 40,
+    "instructions": [
+      "Heat an oven to 325°F. \n",
+      "Add the ingredients to a mixing bowl and mix.\n",
+      "Put in the oven and bake for 30 minutes. Serve."
+    ]
   },
   {
     "recipeName": "Vegetarian Shepherd's Pie",
@@ -331,7 +347,12 @@
       "Sulfite-Free",
       "Kosher"
     ],
-    "totalTime": 140
+    "totalTime": 140,
+    "instructions": [
+      "Heat an oven to 325°F. \n",
+      "Stir fry all ingredients seperately and well until done.\n",
+      "Put in the oven and bake for 135 minutes. Serve."
+    ]
   },
   {
     "recipeName": "Vegetarian Gumbo",
@@ -418,7 +439,12 @@
       "Sulfite-Free",
       "Kosher"
     ],
-    "totalTime": 0
+    "totalTime": 70,
+    "instructions": [
+      "Heat an oven to 325°F. \n",
+      "Make the roux. Make the other ingredients. Mix in bowl.\n",
+      "Put in the oven and bake for 60 minutes. Serve."
+    ]
   },
   {
     "recipeName": "Breakfast Burritos With Vegetarian Sausage",
@@ -479,7 +505,12 @@
       "Sulfite-Free",
       "Kosher"
     ],
-    "totalTime": 11
+    "totalTime": 11,
+    "instructions": [
+      "Heat an oven to 325°F. \n",
+      "Cook all ingredients until done. Layer on the tortilla and wrap.\n",
+      "Put in the oven and bake for 6 minutes. Serve."
+    ]
   },
   {
     "recipeName": "Vegetarian Poutine",
@@ -537,7 +568,12 @@
       "Sulfite-Free",
       "Kosher"
     ],
-    "totalTime": 0
+    "totalTime": 40,
+    "instructions": [
+      "Heat an oven to 325°F. \n",
+      "Add the ingredients to a mixing bowl and mix. Put in oven bowl. \n",
+      "Put in the oven and bake for 30 minutes. Serve."
+    ]
   },
   {
     "recipeName": "Vegetarian Thai Red Curry",
@@ -617,7 +653,12 @@
       "Sulfite-Free",
       "Kosher"
     ],
-    "totalTime": 30
+    "totalTime": 30,
+    "instructions": [
+      "Heat an oven to 325°F. \n",
+      "Add the ingredients to a oven safe bowl and mix.\n",
+      "Put in the oven and bake for 20 minutes. Serve."
+    ]
   },
   {
     "recipeName": "Zucchini With Thyme",
@@ -689,7 +730,11 @@
       "Alcohol-Free",
       "Sulfite-Free"
     ],
-    "totalTime": 0
+    "totalTime": 5,
+    "instructions": [
+      "Add the ingredients to a mixing bowl and mix on cut veggies.\n",
+      "Serve."
+    ]
   },
   {
     "recipeName": "Vegetarian Bagel",
@@ -736,6 +781,10 @@
       "Sulfite-Free",
       "Kosher"
     ],
-    "totalTime": 0
+    "totalTime": 10,
+    "instructions": [
+      "Add the ingredients to a mixing bowl and mix on bagel.\n",
+      "Serve."
+    ]
   }
 ]

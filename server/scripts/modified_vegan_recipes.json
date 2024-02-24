@@ -80,10 +80,15 @@
       "Alcohol-Free",
       "Kosher"
     ],
-    "totalTime": 50
+    "totalTime": 50,
+    "instructions": [
+      "Heat an oven to 325°F. \n",
+      "Add the ingredients to a mixing bowl and mix.\n",
+      "Put in the oven and bake for 40 minutes. Serve."
+    ]
   },
   {
-    "recipeName": "Vegan Chocolate-Coffee Muffins Recipe",
+    "recipeName": "Vegan Chocolate-Coffee Muffins",
     "ingredients": [
       {
         "food": "all purpose flour",
@@ -159,7 +164,12 @@
       "Alcohol-Free",
       "Kosher"
     ],
-    "totalTime": 35
+    "totalTime": 35,
+    "instructions": [
+      "Heat an oven to 325°F. \n",
+      "Add the ingredients to a mixing bowl and mix.\n",
+      "Put in the oven and bake for 25 minutes. Serve."
+    ]
   },
   {
     "recipeName": "Spiked Vegan Eggnog",
@@ -204,7 +214,11 @@
       "Sulfite-Free",
       "Kosher"
     ],
-    "totalTime": 5
+    "totalTime": 5,
+    "instructions": [
+      "Add the ingredients to a serving container and mix.\n",
+      "Serve."
+    ]
   },
   {
     "recipeName": "Vegan Cucumber Tea Sandwiches",
@@ -278,9 +292,15 @@
       "Kosher"
     ],
     "totalTime": 15
+    ,
+    "instructions": [
+      "Heat an oven to 325°F. \n",
+      "Add the ingredients to a oven safe tray on the bread. \n",
+      "Put in the oven and bake for 7 minutes. Serve."
+    ]
   },
   {
-    "recipeName": "Marbled Chocolate Protein Cookies (Vegan)",
+    "recipeName": "Marbled Chocolate Protein Cookies",
     "ingredients": [
       {
         "food": "vegan butter",
@@ -372,6 +392,12 @@
       "Kosher"
     ],
     "totalTime": 30
+    ,
+    "instructions": [
+      "Heat an oven to 325°F. \n",
+      "Add the ingredients to a mixing bowl and mix.\n",
+      "Put in the oven and bake for 25 minutes. Serve."
+    ]
   },
   {
     "recipeName": "Vegan Nachos",
@@ -449,10 +475,15 @@
       "Sulfite-Free",
       "Kosher"
     ],
-    "totalTime": 15
+    "totalTime": 15,
+    "instructions": [
+      "Heat an oven to 325°F. \n",
+      "Add the ingredients to a serving tray on top of the nochos and mix.\n",
+      "Put in the oven and bake for 10 minutes. Serve."
+    ]
   },
   {
-    "recipeName": "The Best Vegan Breakfast Sandwich",
+    "recipeName": "Vegan Breakfast Sandwich",
     "ingredients": [
       {
         "food": "tofu",
@@ -554,10 +585,15 @@
       "Mollusk-Free",
       "Alcohol-Free"
     ],
-    "totalTime": 0
+    "totalTime": 25,
+    "instructions": [
+      "Heat an oven to 325°F. \n",
+      "Add the ingredients to a oven tray and mix on the bread. Place other bread piece on top.\n",
+      "Put in the oven and bake for 20 minutes. Serve."
+    ]
   },
   {
-    "recipeName": "Classic American Fare, Now In Vegan! recipes",
+    "recipeName": "Classic American Fare",
     "ingredients": [
       {
         "food": "vegan butter",
@@ -630,10 +666,16 @@
       "Alcohol-Free",
       "Kosher"
     ],
-    "totalTime": 30
+    "totalTime": 30,
+    "instructions": [
+      "Heat stock in a pot on the stove. \n",
+      "Add the ingredients to a mixing bowl and mix.\n",
+      "Add the ingrdients to the pot on the stove. \n",
+      "Put in the oven and bake for 40 minutes. Serve."
+    ]
   },
   {
-    "recipeName": "{Vegan} Peanut Butter & Honey Muffins recipes",
+    "recipeName": "Peanut Butter & Honey Muffins",
     "ingredients": [
       {
         "food": "flour",
@@ -690,10 +732,15 @@
       "Alcohol-Free",
       "Kosher"
     ],
-    "totalTime": 25
+    "totalTime": 25,
+    "instructions": [
+      "Heat an oven to 325°F. \n",
+      "Add the ingredients to a mixing bowl and mix.\n",
+      "Put in the oven and bake for 20 minutes. Serve."
+    ]
   },
   {
-    "recipeName": "Vegan Pots de Crème",
+    "recipeName": "Pots de Crème",
     "ingredients": [
       {
         "food": "nondairy milk",
@@ -737,6 +784,11 @@
       "Alcohol-Free",
       "Kosher"
     ],
-    "totalTime": 172
+    "totalTime": 172,
+    "instructions": [
+      "Heat an oven to 325°F. \n",
+      "Add the ingredients to a mixing bowl and mix.\n",
+      "Put in the oven and bake for 160 minutes. Serve."
+    ]
   }
 ]
