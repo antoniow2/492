@@ -52,12 +52,10 @@ router.post("/register", async (req, res) => {
   } catch (error) {
     // Handle unique constraint violation (username or email already exists)
     if (error.name === "SequelizeUniqueConstraintError") {
-      return res
-        .status(409)
-        .json({
-          error:
-            "Username or email is already in use. Please choose a different one.",
-        });
+      return res.status(409).json({
+        error:
+          "Username or email is already in use. Please choose a different one.",
+      });
     }
     console.error(error);
     res.status(500).json({ error: "Internal Server Error" });
@@ -71,7 +69,7 @@ router.post("/login", async (req, res) => {
     const foundUser = await Users.findOne({
       where: { username },
     });
-    
+
     if (foundUser) {
       const passwordMatch = await bcrypt.compare(password, foundUser.password);
       if (passwordMatch) {
@@ -132,8 +130,8 @@ router.get("/profile", authenticate, async (req, res) => {
 // Gets the User's Ingredient Options
 router.get("/ingredient_options", async (req, res) => {
   try {
-    const { query } = req.query
-    console.log("query"+query)
+    const { query } = req.query;
+    console.log("query" + query);
 
     // Query the database for ingredients that match the provided query
     const matchingIngredients = await Ingredient.findAll({
@@ -142,26 +140,21 @@ router.get("/ingredient_options", async (req, res) => {
           [Sequelize.Op.like]: `%${query}%`,
         },
       },
-      attributes: ["name"], 
+      attributes: ["name"],
     });
 
-
-    
-    if (matchingIngredients == 0){
+    if (matchingIngredients == 0) {
       res.status(404).json({ error: "Ingredient not found in our recipes." });
- 
-    }
-    else if (query == ""){
-      
-      res.status(404).json({ error: "input is empty" })
-    }
-    else {
+    } else if (query == "") {
+      res.status(404).json({ error: "input is empty" });
+    } else {
       // Extract the names of matching ingredients from the query result
-      const ingredientOptions = matchingIngredients.map((ingredient) => ingredient.name);
-      
+      const ingredientOptions = matchingIngredients.map(
+        (ingredient) => ingredient.name
+      );
+
       res.status(200).json({ ingredientOptions });
     }
-
   } catch (error) {
     console.error(error);
     res.status(500).json({ error: "Internal Server Error" });
@@ -172,7 +165,7 @@ router.post("/profile_ingredient_list", authenticate, async (req, res) => {
   try {
     const { name, quantity } = req.body;
 
-    console.log('req.body' + name + quantity)
+    console.log("req.body" + name + quantity);
 
     // check if user's ingredient name is in the Ingredient table
     const ingredient = await Ingredient.findOne({
@@ -186,7 +179,7 @@ router.post("/profile_ingredient_list", authenticate, async (req, res) => {
     // if true
     if (ingredient) {
       console.log("Ingredient:", ingredient.name);
-          // Check if the ingredient already exists in the user's profile
+      // Check if the ingredient already exists in the user's profile
       const [userProfile, created] = await FridgeIngredient.findOrCreate({
         where: {
           user_id: req.userId,
@@ -203,20 +196,18 @@ router.post("/profile_ingredient_list", authenticate, async (req, res) => {
       }
 
       res.json({ message: "Fridge updated successfully" });
-    } 
-    else {
+    } else {
       console.error("Ingredient not found for: ", name);
       res.status(404).json({ error: "Ingredient not found." });
     }
-  }
-    catch (error) {
+  } catch (error) {
     res.status(500).json({ error: "Internal Server Error" });
   }
 });
 
 router.get("/saved_ingredients", authenticate, async (req, res) => {
   try {
-    console.log("HIT SAVED INGREDIENTS")
+    console.log("HIT SAVED INGREDIENTS");
     const userProfile = await FridgeIngredient.findAll({
       where: { user_id: req.userId },
       include: [
@@ -404,12 +395,15 @@ router.get("/healthlabels", async (req, res) => {
   }
 });
 
-router.post("/upload_profile_picture", upload.single("profilePicture"), authenticate, 
+router.post(
+  "/upload_profile_picture",
+  upload.single("profilePicture"),
+  authenticate,
   async (req, res) => {
     try {
       if (!req.file) {
         return res.status(400).json({ error: "No profile picture uploaded" });
-      }   
+      }
 
       // Save the uploaded file
       const fileName = `${req.userId}_profile_picture`;
@@ -417,11 +411,16 @@ router.post("/upload_profile_picture", upload.single("profilePicture"), authenti
       fs.writeFileSync(filePath, req.file.buffer);
 
       // Update user's profile with the file path
-      await Users.update({ profilePicture: fileName }, { where: { id: req.userId } });
+      await Users.update(
+        { profilePicture: fileName },
+        { where: { id: req.userId } }
+      );
 
-      res.json({ message: "Profile Picture uploaded successfully", filePath: fileName });  
-    } 
-    catch (error) {
+      res.json({
+        message: "Profile Picture uploaded successfully",
+        filePath: fileName,
+      });
+    } catch (error) {
       console.error(error);
       res.status(500).json({ error: "Internal Server Error" });
     }
@@ -429,7 +428,7 @@ router.post("/upload_profile_picture", upload.single("profilePicture"), authenti
 );
 
 router.post("/bookmark_recipe", authenticate, async (req, res) => {
-  try{
+  try {
     const userId = req.userId;
     const recipeId = req.body.data.recipeID;
 
@@ -438,13 +437,12 @@ router.post("/bookmark_recipe", authenticate, async (req, res) => {
       userId: userId,
       recipeId: recipeId,
     });
-    res.status(201).json({ message: 'Recipe favorited successfully' });
-  }
-  catch (error) {
+    res.status(201).json({ message: "Recipe favorited successfully" });
+  } catch (error) {
     console.error(error);
-    res.status(500).json({ error: 'Internal server error' });
+    res.status(500).json({ error: "Internal server error" });
   }
-})
+});
 
 router.post("/unbookmark_recipe", authenticate, async (req, res) => {
   try {
@@ -459,19 +457,20 @@ router.post("/unbookmark_recipe", authenticate, async (req, res) => {
       },
     });
 
-    res.status(200).json({ message: 'Recipe removed from favorites successfully' });
+    res
+      .status(200)
+      .json({ message: "Recipe removed from favorites successfully" });
   } catch (error) {
     console.error(error);
-    res.status(500).json({ error: 'Internal server error' });
+    res.status(500).json({ error: "Internal server error" });
   }
 });
 
 router.delete("/unbookmark", authenticate, async (req, res) => {
   try {
-    
     const userId = req.userId;
     const recipeId = req.body.recipeID;
-    
+
     // Find and delete the corresponding entry in the FavRecipes table
     await FavRecipes.destroy({
       where: {
@@ -480,15 +479,17 @@ router.delete("/unbookmark", authenticate, async (req, res) => {
       },
     });
 
-    res.status(200).json({ message: 'Recipe removed from favorites successfully' });
+    res
+      .status(200)
+      .json({ message: "Recipe removed from favorites successfully" });
   } catch (error) {
     console.error(error);
-    res.status(500).json({ error: 'Internal server error' });
+    res.status(500).json({ error: "Internal server error" });
   }
 });
 
 router.get("/favorite_recipe", authenticate, async (req, res) => {
-  try{
+  try {
     const userId = req.userId;
     const favRecipes = await FavRecipes.findAll({
       where: { userId },
@@ -500,17 +501,18 @@ router.get("/favorite_recipe", authenticate, async (req, res) => {
       return {
         id,
         title,
-        image: image ? `http://localhost:3000/recipe_images/${image}` : null,
+        image: image
+          ? `https://whattocook2-4e261a72626f.herokuapp.com/recipe_images/${image}`
+          : null,
       };
     });
 
     res.status(200).json({ favoriteRecipes });
-  }
-  catch(error){
+  } catch (error) {
     console.error(error);
-    res.status(500).json({ error: 'Internal server error' });
+    res.status(500).json({ error: "Internal server error" });
   }
-})
+});
 
 router.post("/isBookmarked", authenticate, async (req, res) => {
   try {
@@ -518,20 +520,20 @@ router.post("/isBookmarked", authenticate, async (req, res) => {
     const recipeId = req.body.data.recipeID;
 
     const [bookmark, exists] = await FavRecipes.findAll({
-      where: { userId: userId , recipeId: recipeId}
+      where: { userId: userId, recipeId: recipeId },
     });
     // if the bookmark doesn't exist, we return an empty Json
-    if(bookmark === undefined){
-      const nullJson = {full:0};
+    if (bookmark === undefined) {
+      const nullJson = { full: 0 };
       res.status(200).json(nullJson);
-    } else { // Else, we return a json 
-      const somethingjson = {full:1};
+    } else {
+      // Else, we return a json
+      const somethingjson = { full: 1 };
       res.status(200).json(somethingjson);
     }
-    
   } catch (error) {
     console.error(error);
-    res.status(500).json({ error: 'Internal server error' });
+    res.status(500).json({ error: "Internal server error" });
   }
 });
 

@@ -13,7 +13,9 @@ const DietaryRestrictions = () => {
 
   useEffect(() => {
     // Fetch health labels from the server
-    Axios.get("http://localhost:3000/users/healthlabels")
+    Axios.get(
+      "https://whattocook2-4e261a72626f.herokuapp.com/users/healthlabels"
+    )
       .then((response) => {
         const filteredLabels = response.data.labels.filter(
           (label) => label !== "DASH"

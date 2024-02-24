@@ -34,7 +34,7 @@ const Profile = ({ onRecipeSelect }) => {
   const [error, setError] = useState(null);
   const [quantityError, setQuantityError] = useState("");
 
-  const API = "https://whattocook2-4e261a72626f.herokuapp.com/";
+  const API = "https://whattocook2-4e261a72626f.herokuapp.com";
 
   const handleRecipeToSearchBar = (recipeTitle) => {
     if (onRecipeSelect) {

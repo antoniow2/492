@@ -5,7 +5,7 @@ import Cookies from "js-cookie";
 export const SearchBar = ({ setResults, inputValue, selectedRecipe }) => {
   const [input, setInput] = useState("");
 
-  const API_BASE_URL = "https://whattocook2-4e261a72626f.herokuapp.com/";
+  const API_BASE_URL = "https://whattocook2-4e261a72626f.herokuapp.com";
 
   const fetchData = async (value) => {
     try {

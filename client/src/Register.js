@@ -58,7 +58,7 @@ const Register = () => {
   }, []);
 
   const handleRegistration = async () => {
-    const API = "https://whattocook2-4e261a72626f.herokuapp.com/";
+    const API = "https://whattocook2-4e261a72626f.herokuapp.com";
 
     try {
       const response = await Axios.post(

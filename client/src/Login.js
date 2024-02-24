@@ -58,7 +58,7 @@ const Login = () => {
 
   const handleLogin = async () => {
     // const API_BASE_URL = 'https://www.whattocook.cc'
-    const API = "https://whattocook2-4e261a72626f.herokuapp.com/";
+    const API = "https://whattocook2-4e261a72626f.herokuapp.com";
 
     if (!usernameLog || !passwordLog) {
       setLoginStatus("Please enter both username and password");
