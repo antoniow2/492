@@ -8,7 +8,11 @@ import Cookies from "js-cookie";
 import { Link } from "react-router-dom";
 import { RecipeGenerator } from "../RecipeGenerator";
 
-export const SearchResultsList = ({ results, inputValue, onIngredientSelect }) => {
+export const SearchResultsList = ({
+  results,
+  inputValue,
+  onIngredientSelect,
+}) => {
   const [showSearchResult, setShowSearchResult] = useState(false);
   const [recipeToShow, setRecipeToShow] = useState(null);
   const [response, setResponse] = useState([]);
@@ -25,23 +29,21 @@ export const SearchResultsList = ({ results, inputValue, onIngredientSelect }) =
   };
 
   useEffect(() => {
-    if(inputValue !== response){
+    if (inputValue !== response) {
       setShowSearchResult(false);
       setResponse(inputValue);
     }
   }, [inputValue, response]);
-
 
   const handleIngredientClick = (ingredient) => {
     setSelectedIngredient(ingredient);
     onIngredientSelect(ingredient);
   };
 
-
   const isBookmark = async (recipeID) => {
     try {
       const response = await Axios.post(
-        "http://localhost:3000/users/isBookmarked",
+        "https://whattocook2-4e261a72626f.herokuapp.com/users/isBookmarked",
         {
           data: { recipeID },
         },
@@ -65,7 +67,7 @@ export const SearchResultsList = ({ results, inputValue, onIngredientSelect }) =
 
       if (!isCurrentlyBookmarked) {
         await Axios.post(
-          "http://localhost:3000/users/bookmark_recipe",
+          "https://whattocook2-4e261a72626f.herokuapp.com/users/bookmark_recipe",
           {
             data: { recipeID },
           },
@@ -79,7 +81,7 @@ export const SearchResultsList = ({ results, inputValue, onIngredientSelect }) =
         console.log("Recipe bookmarked successfully!");
       } else {
         await Axios.post(
-          "http://localhost:3000/users/unbookmark_recipe",
+          "https://whattocook2-4e261a72626f.herokuapp.com/users/unbookmark_recipe",
           {
             data: { recipeID },
           },
@@ -103,23 +105,25 @@ export const SearchResultsList = ({ results, inputValue, onIngredientSelect }) =
     }
   };
 
-
   return (
     <div className="results-list">
       {/* SHOWS RESULTS OF THE SEARCH */}
-      {(dataArray.length > 0 && showSearchResult === false) && (
+      {dataArray.length > 0 &&
+        showSearchResult === false &&
         dataArray.map((result, index) => (
           <div key={isArrayofObjects ? result.recipeID : index}>
-            {isArrayofObjects ? 
-            <button onClick={() => handleButtonClick(result.recipeName)}>
-              {result.recipeName}
-            </button>  : result}
+            {isArrayofObjects ? (
+              <button onClick={() => handleButtonClick(result.recipeName)}>
+                {result.recipeName}
+              </button>
+            ) : (
+              result
+            )}
           </div>
-        ))
+        ))}
+      {dataArray.length === 0 && results && (
+        <p>No results found or not within dietary restriction</p>
       )}
-      {dataArray.length === 0 && results && 
-      <p>No results found or not within dietary restriction</p>}
-
 
       {/* IF YOU CLICK ON A RECIPE IT SHOWS IT HERE */}
       {showSearchResult && (
@@ -133,18 +137,20 @@ export const SearchResultsList = ({ results, inputValue, onIngredientSelect }) =
                     {bookmarks[recipe.recipeID] ? "Unbookmark" : "Bookmark"}
                   </button>
                   <h3>
-                  Missing {recipe.missingIngredients.length} ingredients:
+                    Missing {recipe.missingIngredients.length} ingredients:
                   </h3>
                   <ul>
                     {recipe.missingIngredients.map((ingredient, idx) => (
                       <React.Fragment key={idx}>
-                        {idx > 0  && ", "}
-                        {<Link
-                        to="http://localhost:3001/PriceComparer"
-                        onClick={() => handleIngredientClick(ingredient)}
-                      >
-                        {ingredient}
-                      </Link>}
+                        {idx > 0 && ", "}
+                        {
+                          <Link
+                            to="https://whattocook2-4e261a72626f.herokuapp.com/PriceComparer"
+                            onClick={() => handleIngredientClick(ingredient)}
+                          >
+                            {ingredient}
+                          </Link>
+                        }
                       </React.Fragment>
                     ))}
                   </ul>
@@ -152,13 +158,11 @@ export const SearchResultsList = ({ results, inputValue, onIngredientSelect }) =
                   <p>{recipe.instructions}</p>
                   <br />
                   <p>Time: {recipe.total_time} mins</p>
-
                 </div>
               );
             }
             return null;
           })}
-
         </div>
       )}
     </div>

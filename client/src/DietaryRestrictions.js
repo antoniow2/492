@@ -42,7 +42,7 @@ const DietaryRestrictions = () => {
 
       // Fetch the healthLabel_ids corresponding to the selected health labels
       const response = await Axios.get(
-        "http://localhost:3000/users/healthlabels_ids",
+        "https://whattocook2-4e261a72626f.herokuapp.com/users/healthlabels_ids",
         {
           params: { selectedRestrictions: selectedRestrictions.join(",") },
           withCredentials: true,
@@ -57,7 +57,7 @@ const DietaryRestrictions = () => {
       console.log(healthLabelIds);
 
       await Axios.post(
-        "http://localhost:3000/users/dietary_restrictions",
+        "https://whattocook2-4e261a72626f.herokuapp.com/users/dietary_restrictions",
         { selectedRestrictions: healthLabelIds },
         {
           withCredentials: true,
@@ -76,12 +76,15 @@ const DietaryRestrictions = () => {
 
   useEffect(() => {
     // Fetch user's saved dietary restrictions
-    Axios.get("http://localhost:3000/users/user_healthlabels", {
-      withCredentials: true,
-      headers: {
-        Authorization: `Bearer ${Cookies.get("userToken")}`,
-      },
-    })
+    Axios.get(
+      "https://whattocook2-4e261a72626f.herokuapp.com/users/user_healthlabels",
+      {
+        withCredentials: true,
+        headers: {
+          Authorization: `Bearer ${Cookies.get("userToken")}`,
+        },
+      }
+    )
       .then((response) => {
         // console.log('Response from server:', response)
         const savedRestrictions = response.data.userHealthLabels || [];

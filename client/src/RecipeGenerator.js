@@ -4,7 +4,7 @@ import Header from "./Header";
 import Footer from "./Footer";
 import Cookies from "js-cookie";
 import Search from "./Search";
-import './RecipeGenerator.css';
+import "./RecipeGenerator.css";
 import withTokenExpirationCheck from "./withTokenExpirationCheck";
 import { Link, Navigate } from "react-router-dom";
 
@@ -22,26 +22,28 @@ export const RecipeGenerator = ({ onIngredientSelect, selectedRecipe }) => {
   useEffect(() => {
     const fetchLibrary = async () => {
       try {
-        const response = await Axios.get("http://localhost:3000/recipe/library", {
-          withCredentials: true,
-          headers: {
-            Authorization: `Bearer ${Cookies.get("userToken")}`,
-          },
-        });
+        const response = await Axios.get(
+          "https://whattocook2-4e261a72626f.herokuapp.com/recipe/library",
+          {
+            withCredentials: true,
+            headers: {
+              Authorization: `Bearer ${Cookies.get("userToken")}`,
+            },
+          }
+        );
         setAllRecipes(response.data);
-      }
-      catch(error){
+      } catch (error) {
         console.error("Error fetching recipes:", error);
       }
-    }
+    };
 
-    fetchLibrary()
-  }, []) 
+    fetchLibrary();
+  }, []);
 
   const fetchData = async () => {
     try {
       const responseData = await Axios.get(
-        "http://localhost:3000/recipe/recipesIngredient",
+        "https://whattocook2-4e261a72626f.herokuapp.com/recipe/recipesIngredient",
         {
           withCredentials: true,
           headers: {
@@ -93,7 +95,6 @@ export const RecipeGenerator = ({ onIngredientSelect, selectedRecipe }) => {
     loadBookmarks();
   }, [closeRecipes]);
 
-
   // Ayden Modified
   // This function shows the recipe's description when clicked.
   const handleButtonClick = (recipeName) => {
@@ -106,7 +107,7 @@ export const RecipeGenerator = ({ onIngredientSelect, selectedRecipe }) => {
 
   // When you click on a missing ingredient, I want to send the user to price comparer
   // with the ingredient filled in the search.
-  // So, this function pass the ingredient string to the App.js, which passes it to 
+  // So, this function pass the ingredient string to the App.js, which passes it to
   // price comparer.
   const handleIngredientClick = (ingredient) => {
     console.log("Walter");
@@ -127,7 +128,7 @@ export const RecipeGenerator = ({ onIngredientSelect, selectedRecipe }) => {
   const isBookmark = async (recipeID) => {
     try {
       const response = await Axios.post(
-        "http://localhost:3000/users/isBookmarked",
+        "https://whattocook2-4e261a72626f.herokuapp.com/users/isBookmarked",
         {
           data: { recipeID },
         },
@@ -139,7 +140,6 @@ export const RecipeGenerator = ({ onIngredientSelect, selectedRecipe }) => {
         }
       );
       return response.data.full === 1;
-
     } catch (error) {
       console.error("Error fetching recipes:", error);
       return false;
@@ -150,10 +150,10 @@ export const RecipeGenerator = ({ onIngredientSelect, selectedRecipe }) => {
     try {
       //const bookmarked = bookmarks[recipeID];
       const isCurrentlyBookmarked = await isBookmark(recipeID);
-      
+
       if (!isCurrentlyBookmarked) {
         await Axios.post(
-          "http://localhost:3000/users/bookmark_recipe",
+          "https://whattocook2-4e261a72626f.herokuapp.com/users/bookmark_recipe",
           {
             data: { recipeID },
           },
@@ -167,7 +167,7 @@ export const RecipeGenerator = ({ onIngredientSelect, selectedRecipe }) => {
         console.log("Recipe bookmarked successfully!");
       } else {
         await Axios.post(
-          "http://localhost:3000/users/unbookmark_recipe",
+          "https://whattocook2-4e261a72626f.herokuapp.com/users/unbookmark_recipe",
           {
             data: { recipeID },
           },
@@ -192,16 +192,17 @@ export const RecipeGenerator = ({ onIngredientSelect, selectedRecipe }) => {
   };
 
   const handleIngredientSelect = (ingredient) => {
-    console.log('Selected Ingredient:', ingredient);
+    console.log("Selected Ingredient:", ingredient);
     // Handle the selected ingredient logic here
   };
 
-
-
   return (
-    <div className='recipe_page'>
+    <div className="recipe_page">
       <Header />
-      <Search onIngredientSelect={handleIngredientClick} selectedRecipe={selectedRecipe}/>
+      <Search
+        onIngredientSelect={handleIngredientClick}
+        selectedRecipe={selectedRecipe}
+      />
       <br />
       <br />
       <br />
@@ -230,7 +231,10 @@ export const RecipeGenerator = ({ onIngredientSelect, selectedRecipe }) => {
             <div className="library-list">
               {allRecipes.map((recipe, index) => (
                 <div key={index} className="library-item">
-                  <img src={`http://localhost:3000/recipe_images/${recipe.image}`} alt={recipe.recipeName} />
+                  <img
+                    src={`https://whattocook2-4e261a72626f.herokuapp.com/recipe_images/${recipe.image}`}
+                    alt={recipe.recipeName}
+                  />
                   <h3>{recipe.recipeName}</h3>
                 </div>
               ))}
@@ -240,75 +244,84 @@ export const RecipeGenerator = ({ onIngredientSelect, selectedRecipe }) => {
       </div>
 
       {closeRecipes.length > 0 && (
-      <div>
-        <h2>Recipes with Missing Ingredients:</h2>
-        <ul>
-          {closeRecipes.map((recipeInfo, index) => {
-            return (
-              <li key={index}>
-                <button onClick={() => handleButtonClick(recipeInfo.recipeName)}>
-                  {recipeInfo.recipeName}
-                </button>{" "}
-                <button onClick={() => toggleBookmark(recipeInfo.recipeID)}>
-                  {bookmarks[recipeInfo.recipeID] ? "Unbookmark" : "Bookmark"}
-                </button>
-                <br />
-                Missing {recipeInfo.missingIngredients.length} ingredients:
-                <ul>
-                  {recipeInfo.missingIngredients.map((ingredient, idx) => (
-                    <React.Fragment key={idx}>
-                      {idx > 0 && idx < 5 && ", "}
-                      {idx < 5 && (
-                        <Link
-                          to="/PriceComparer"
-                          onClick={() => handleIngredientClick(ingredient)}
-                        >
-                          {ingredient}
-                        </Link>
-                      )}
-                      {idx === 4 && !showMore[recipeInfo.recipeName] && (
-                        <button onClick={() => handleButtonMoreOrLess(recipeInfo.recipeName)}>
-                          more
-                        </button>
-                      )}
-                    </React.Fragment>
-                  ))}
-                  {showMore[recipeInfo.recipeName] &&
-                    recipeInfo.missingIngredients
-                      .slice(5)
-                      .map((ingredient, idx) => (
-                        <React.Fragment key={idx}>
-                          {", "}
+        <div>
+          <h2>Recipes with Missing Ingredients:</h2>
+          <ul>
+            {closeRecipes.map((recipeInfo, index) => {
+              return (
+                <li key={index}>
+                  <button
+                    onClick={() => handleButtonClick(recipeInfo.recipeName)}
+                  >
+                    {recipeInfo.recipeName}
+                  </button>{" "}
+                  <button onClick={() => toggleBookmark(recipeInfo.recipeID)}>
+                    {bookmarks[recipeInfo.recipeID] ? "Unbookmark" : "Bookmark"}
+                  </button>
+                  <br />
+                  Missing {recipeInfo.missingIngredients.length} ingredients:
+                  <ul>
+                    {recipeInfo.missingIngredients.map((ingredient, idx) => (
+                      <React.Fragment key={idx}>
+                        {idx > 0 && idx < 5 && ", "}
+                        {idx < 5 && (
                           <Link
                             to="/PriceComparer"
                             onClick={() => handleIngredientClick(ingredient)}
                           >
                             {ingredient}
                           </Link>
-                        </React.Fragment>
-                      ))}
-                  {showMore[recipeInfo.recipeName] && (
-                    <button onClick={() => handleButtonMoreOrLess(recipeInfo.recipeName)}>
-                      less
-                    </button>
+                        )}
+                        {idx === 4 && !showMore[recipeInfo.recipeName] && (
+                          <button
+                            onClick={() =>
+                              handleButtonMoreOrLess(recipeInfo.recipeName)
+                            }
+                          >
+                            more
+                          </button>
+                        )}
+                      </React.Fragment>
+                    ))}
+                    {showMore[recipeInfo.recipeName] &&
+                      recipeInfo.missingIngredients
+                        .slice(5)
+                        .map((ingredient, idx) => (
+                          <React.Fragment key={idx}>
+                            {", "}
+                            <Link
+                              to="/PriceComparer"
+                              onClick={() => handleIngredientClick(ingredient)}
+                            >
+                              {ingredient}
+                            </Link>
+                          </React.Fragment>
+                        ))}
+                    {showMore[recipeInfo.recipeName] && (
+                      <button
+                        onClick={() =>
+                          handleButtonMoreOrLess(recipeInfo.recipeName)
+                        }
+                      >
+                        less
+                      </button>
+                    )}
+                  </ul>
+                  {clickedRecipe === recipeInfo.recipeName && (
+                    <div>
+                      <p>{recipeInfo.instructions}</p>
+                      <p>{recipeInfo.total_time} mins</p>
+                    </div>
                   )}
-                </ul>
-                {clickedRecipe === recipeInfo.recipeName && (
-                  <div>
-                    <p>{recipeInfo.instructions}</p>
-                    <p>{recipeInfo.total_time} mins</p>
-                  </div>
-                )}
-                <br />
-              </li>
-            );
-          })}
-        </ul>
-      </div>
+                  <br />
+                </li>
+              );
+            })}
+          </ul>
+        </div>
       )}
       <Footer />
     </div>
-    
   );
 };
 

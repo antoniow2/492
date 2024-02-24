@@ -5,26 +5,25 @@ import Cookies from "js-cookie";
 export const SearchBar = ({ setResults, inputValue, selectedRecipe }) => {
   const [input, setInput] = useState("");
 
-  const API_BASE_URL = "http://localhost:3000";
+  const API_BASE_URL = "https://whattocook2-4e261a72626f.herokuapp.com/";
 
   const fetchData = async (value) => {
-      try {
-        const response = await Axios.get(
-          "http://localhost:3000/recipe/allergy",
-          {
-            params: { value },
-            withCredentials: true,
-            headers: {
-              Authorization: `Bearer ${Cookies.get("userToken")}`,
-            },
-          }
-        );
+    try {
+      const response = await Axios.get(
+        "https://whattocook2-4e261a72626f.herokuapp.com/recipe/allergy",
+        {
+          params: { value },
+          withCredentials: true,
+          headers: {
+            Authorization: `Bearer ${Cookies.get("userToken")}`,
+          },
+        }
+      );
 
-        setResults(response);
-      } catch (error) {
-        console.error("Error fetching data:", error);
-      }
-      
+      setResults(response);
+    } catch (error) {
+      console.error("Error fetching data:", error);
+    }
   };
 
   const handleChange = (value) => {
@@ -38,8 +37,7 @@ export const SearchBar = ({ setResults, inputValue, selectedRecipe }) => {
     const valueToFetch = selectedRecipe !== null ? selectedRecipe : input;
     if (valueToFetch !== "") {
       fetchData(valueToFetch);
-    }
-    else {
+    } else {
       setResults("");
     }
     setInput(valueToFetch);
