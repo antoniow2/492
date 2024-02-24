@@ -1,0 +1,108 @@
+{
+  "data": [
+    {
+      "productId": "0084419702336",
+      "brand": "Vitacost",
+      "upc": "0084419702336",
+      "price": [
+        null
+      ]
+    },
+    {
+      "productId": "0081213002049",
+      "brand": "Truvia",
+      "upc": "0081213002049",
+      "price": [
+        null
+      ]
+    },
+    {
+      "productId": "0001111085325",
+      "brand": "Simple Truth Organic",
+      "upc": "0001111085325",
+      "price": [
+        {
+          "regular": 3.79,
+          "promo": 3.5
+        }
+      ]
+    },
+    {
+      "productId": "0072277623032",
+      "brand": "Splenda",
+      "upc": "0072277623032",
+      "price": [
+        {
+          "regular": 5.49,
+          "promo": 4.49
+        }
+      ]
+    },
+    {
+      "productId": "0004920005780",
+      "brand": "Domino",
+      "upc": "0004920005780",
+      "price": [
+        {
+          "regular": 3.49,
+          "promo": 0
+        }
+      ]
+    },
+    {
+      "productId": "0081213002086",
+      "brand": "Truvia",
+      "upc": "0081213002086",
+      "price": [
+        {
+          "regular": 7.99,
+          "promo": 6.99
+        }
+      ]
+    },
+    {
+      "productId": "0004920005791",
+      "brand": "Domino",
+      "upc": "0004920005791",
+      "price": [
+        {
+          "regular": 3.49,
+          "promo": 0
+        }
+      ]
+    },
+    {
+      "productId": "0007577931118",
+      "brand": "Florida Crystals",
+      "upc": "0007577931118",
+      "price": [
+        {
+          "regular": 4.49,
+          "promo": 0
+        }
+      ]
+    },
+    {
+      "productId": "0001111087660",
+      "brand": "Kroger",
+      "upc": "0001111087660",
+      "price": [
+        {
+          "regular": 2.69,
+          "promo": 1.79
+        }
+      ]
+    },
+    {
+      "productId": "0001111087662",
+      "brand": "Kroger",
+      "upc": "0001111087662",
+      "price": [
+        {
+          "regular": 2.69,
+          "promo": 1.79
+        }
+      ]
+    }
+  ]
+}

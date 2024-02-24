@@ -1,0 +1,1289 @@
+[
+  {
+    "label": "Steak & Chips Salad",
+    "url": "http://www.bbcgoodfood.com/recipes/3076/",
+    "ingredients": [
+      {
+        "text": "750.0g bag frozen potato wedges",
+        "quantity": 750,
+        "measure": "gram",
+        "food": "potato",
+        "weight": 750,
+        "foodCategory": "vegetables",
+        "foodId": "food_abiw5baauresjmb6xpap2bg3otzu",
+        "image": "https://www.edamam.com/food-img/651/6512e82417bce15c2899630c1a2799df.jpg"
+      },
+      {
+        "text": "1.0 tbsp olive oil",
+        "quantity": 1,
+        "measure": "tablespoon",
+        "food": "olive oil",
+        "weight": 13.5,
+        "foodCategory": "Oils",
+        "foodId": "food_b1d1icuad3iktrbqby0hiagafaz7",
+        "image": "https://www.edamam.com/food-img/4d6/4d651eaa8a353647746290c7a9b29d84.jpg"
+      },
+      {
+        "text": "2 pieces sirloin steak , about 350g/12oz in total",
+        "quantity": 2,
+        "measure": "<unit>",
+        "food": "sirloin steak",
+        "weight": 680,
+        "foodCategory": "meats",
+        "foodId": "food_aifm62daw1i6txalya881bcetyzn",
+        "image": "https://www.edamam.com/food-img/4f1/4f10105d5c8178f25590ca6dfcd37fca.jpg"
+      },
+      {
+        "text": "120.0g bag herb salad",
+        "quantity": 120,
+        "measure": "gram",
+        "food": "herb",
+        "weight": 120,
+        "foodCategory": "Condiments and sauces",
+        "foodId": "food_avsq22zadwyb5cb5sl1byaa4mbo8",
+        "image": "https://www.edamam.com/food-img/89b/89b37a04e46e052671d73addcb84aa51.jpg"
+      },
+      {
+        "text": "6.0 tbsp honey and mustard salad dessing , bought or homemade",
+        "quantity": 6,
+        "measure": "tablespoon",
+        "food": "honey",
+        "weight": 126,
+        "foodCategory": "sugar syrups",
+        "foodId": "food_b1cj2pmac27zngan87974b0a40hk",
+        "image": "https://www.edamam.com/food-img/198/198c7b25c23b4235b4cc33818c7b335f.jpg"
+      },
+      {
+        "text": "6.0 tbsp honey and mustard salad dessing , bought or homemade",
+        "quantity": 6,
+        "measure": "tablespoon",
+        "food": "mustard",
+        "weight": 93.3749999984214,
+        "foodCategory": "Condiments and sauces",
+        "foodId": "food_a34cdj5b0kyuhfbov30xcb50u4dv",
+        "image": "https://www.edamam.com/food-img/e23/e238f2e4cfa6aa1a30f46dc73e7344eb.jpg"
+      }
+    ],
+    "uri": "http://www.edamam.com/ontologies/edamam.owl#recipe_dd4a76ee9f4ce2efd21e40e3d620f8c4",
+    "image": "https://edamam-product-images.s3.amazonaws.com/web-img/72e/72ebeef4f13b029165ce5fc4a675130e.jpg?X-Amz-Security-Token=IQoJb3JpZ2luX2VjEGsaCXVzLWVhc3QtMSJHMEUCIC5EcVohn5KOF%2BqsJMnWN15QAQiEjniqRzrDkKyFbnySAiEAklir9G9lxG0xv0NtH%2BbNUzcDusmggahGna36Vka0pfsqwQUIs%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FARAAGgwxODcwMTcxNTA5ODYiDE38n9doIwHPgmHkWCqVBbisrUc9re%2F9CDcggsOnHnBDSRivSr3n%2FpYDQwMNPvf0SYUmrug6XHTenjdFdVWV1Ff4x%2FBsbtdGVuGulJC598dBW%2FIXmHxB4RjkYiS0v%2BNR9rt8jcBLiQUdFZ1UDal6PePuO4XlD02vZtgzOL2rjk1S1%2FRf02SGPYJDSeRFq6YjIqTzCh0jJZTg0%2FA3mMwFzUHaQfuQhzaODUHy1ebxM9d9XMiSmONtMNlrIpIOojhoDIOugj9wpKzV1B4G2F%2FqIWaDFP25ylNKNxv88Xm00chUeTkgDxIn0%2BqyokvCIZdkiTHYWrZx9j%2B7gtiIywqN4eoqf48CItxwd3eZ71tpbn8KAdJRsFADWtqRn6XaPyfWjEnaZusqQyD%2FM5IgFH8v7T7kORlhTNQqvu3qWAZeMYp6hUGrDS%2FF7XZuXXkQ9yzH4skZOOMi6r1nr0sCJrML1oDJvC7Q7IsuvUWJPtpZVHDhzi8aUFs%2F2N8ILHtfUhPKIRzDCuh9FVjGw99civG%2BPOzyxr8RdH7%2FBMXZn%2B1WacULKtWF1byJOq56cJr48nuUeFCUM6pc2T6B50aVoJ9Gz5mPJtrrDmxRwPP3gRaKs%2BjhgPZ2p7zF7m7UbnvAzsnKmT6ea9fdY9eOAlr%2FVVEFAej3tXqn%2BRExSPcoysRWrzlGdsGFyCIb4LnjHQN3x8ndZ2m3BlYfR4pzXkXPytgvuQEcM7a3rznYy74k8Tf4m5AmnC92WA0MQ7C6%2BkvAO04Dhs06NMw8rJU8BgjyGK%2B%2F8PH9%2FFvH2PwUnqOVlkRSXlV1JtA70t5Kj6MYcZ3zB8jMYefoRof3Yo72ahjXkanHysD141KKoDO2UX3DxRT3zwC%2B7JvAZjqahjJyrfNtPsg%2FrNyahrUw17jgqgY6sQGeksuY%2F97zXR%2BobwqmxhruCnjVQr%2BL2fGGQNCFMEuHGe6Qqw57JcQ2csndirt5ZrsgvI37Rll9JHP3FXR2svQVNgb6%2BxCZWqynfWvMKZDTFTSVmUtYaqez1LlAuKXnuqJW2j8Han1M%2BhZGYZhwmUyADyPiBl0N2JHAR%2BMfdYrmkWOG2mNDMiJrkrBkg5SmzABy3VtH3F46kLOE0hf3Mgbc6VKYTVszV6sdIdys475UY1I%3D&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Date=20231118T025829Z&X-Amz-SignedHeaders=host&X-Amz-Expires=3599&X-Amz-Credential=ASIASXCYXIIFBUSCGD4D%2F20231118%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Signature=3c3bd8f15fb4ad26083813931a38f99d99a6e192a14540efb814c975493f9fe3",
+    "source": "BBC Good Food",
+    "shareAs": "http://www.edamam.com/recipe/steak-chips-salad-dd4a76ee9f4ce2efd21e40e3d620f8c4/salad",
+    "yield": 4,
+    "dietLabels": [
+      "High-Fiber"
+    ],
+    "healthLabels": [
+      "Dairy-Free",
+      "Gluten-Free",
+      "Wheat-Free",
+      "Egg-Free",
+      "Peanut-Free",
+      "Tree-Nut-Free",
+      "Soy-Free",
+      "Fish-Free",
+      "Shellfish-Free",
+      "Pork-Free",
+      "Crustacean-Free",
+      "Celery-Free",
+      "Sesame-Free",
+      "Lupine-Free",
+      "Mollusk-Free",
+      "Alcohol-Free"
+    ],
+    "cautions": [],
+    "ingredientLines": [
+      "750.0g bag frozen potato wedges",
+      "1.0 tbsp olive oil",
+      "2 pieces sirloin steak , about 350g/12oz in total",
+      "120.0g bag herb salad",
+      "6.0 tbsp honey and mustard salad dessing , bought or homemade"
+    ],
+    "calories": 2922.3049999990526,
+    "totalWeight": 1782.8749999984213,
+    "totalTime": 0,
+    "cuisineType": [
+      "american"
+    ],
+    "mealType": [
+      "lunch/dinner"
+    ],
+    "dishType": [
+      "salad"
+    ]
+  },
+  {
+    "label": "Zuni-Inspired Grilled Chicken Salad",
+    "url": "https://food52.com/recipes/82361-zuni-inspired-grilled-chicken-salad-recipe",
+    "ingredients": [
+      {
+        "text": "1 pound boneless, skinless chicken breasts",
+        "quantity": 1,
+        "measure": "pound",
+        "food": "boneless, skinless chicken breasts",
+        "weight": 453.59237,
+        "foodCategory": "Poultry",
+        "foodId": "food_bdrxu94aj3x2djbpur8dhagfhkcn",
+        "image": "https://www.edamam.com/food-img/da5/da510379d3650787338ca16fb69f4c94.jpg"
+      },
+      {
+        "text": "3/4 teaspoon kosher salt, divided, plus more for salad",
+        "quantity": 0.75,
+        "measure": "teaspoon",
+        "food": "kosher salt",
+        "weight": 3.6406250001846567,
+        "foodCategory": "Condiments and sauces",
+        "foodId": "food_a1vgrj1bs8rd1majvmd9ubz8ttkg",
+        "image": "https://www.edamam.com/food-img/694/6943ea510918c6025795e8dc6e6eaaeb.jpg"
+      },
+      {
+        "text": "1 tablespoon olive oil, plus more for salad",
+        "quantity": 1,
+        "measure": "tablespoon",
+        "food": "olive oil",
+        "weight": 13.5,
+        "foodCategory": "Oils",
+        "foodId": "food_b1d1icuad3iktrbqby0hiagafaz7",
+        "image": "https://www.edamam.com/food-img/4d6/4d651eaa8a353647746290c7a9b29d84.jpg"
+      },
+      {
+        "text": "1/4 cup aioli or 1/4 cup mayo + 1 small garlic clove, grated",
+        "quantity": 0.25,
+        "measure": "cup",
+        "food": "aioli",
+        "weight": 57.75,
+        "foodCategory": "condiments and sauces",
+        "foodId": "food_bbtkut8bmmxc7abaj2huubgjc4k5",
+        "image": "https://www.edamam.com/food-img/577/577308a0422357885c94cc9b5f1f1862.jpg"
+      },
+      {
+        "text": "Zest and juice of 1 lemon, plus more for salad",
+        "quantity": 1,
+        "measure": "<unit>",
+        "food": "lemon",
+        "weight": 84,
+        "foodCategory": "fruit",
+        "foodId": "food_a6uzc62astrxcgbtzyq59b6fncrr",
+        "image": "https://www.edamam.com/food-img/70a/70acba3d4c734d7c70ef4efeed85dc8f.jpg"
+      },
+      {
+        "text": "Your favorite greens and fresh herbs, for salad",
+        "quantity": 0,
+        "measure": null,
+        "food": "fresh herbs",
+        "weight": 6.124829950001847,
+        "foodCategory": "vegetables",
+        "foodId": "food_b244pqdazw24zobr5vqu2bf0uid8",
+        "image": "https://www.edamam.com/food-img/46a/46a132e96626d7989b4d6ed8c91f4da0.jpg"
+      }
+    ],
+    "uri": "http://www.edamam.com/ontologies/edamam.owl#recipe_b20815eac65ee2fa5f848f56c16056dd",
+    "image": "https://edamam-product-images.s3.amazonaws.com/web-img/3ac/3accba1eeb5ac38d902d056050c05ead.jpg?X-Amz-Security-Token=IQoJb3JpZ2luX2VjEGsaCXVzLWVhc3QtMSJHMEUCIC5EcVohn5KOF%2BqsJMnWN15QAQiEjniqRzrDkKyFbnySAiEAklir9G9lxG0xv0NtH%2BbNUzcDusmggahGna36Vka0pfsqwQUIs%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FARAAGgwxODcwMTcxNTA5ODYiDE38n9doIwHPgmHkWCqVBbisrUc9re%2F9CDcggsOnHnBDSRivSr3n%2FpYDQwMNPvf0SYUmrug6XHTenjdFdVWV1Ff4x%2FBsbtdGVuGulJC598dBW%2FIXmHxB4RjkYiS0v%2BNR9rt8jcBLiQUdFZ1UDal6PePuO4XlD02vZtgzOL2rjk1S1%2FRf02SGPYJDSeRFq6YjIqTzCh0jJZTg0%2FA3mMwFzUHaQfuQhzaODUHy1ebxM9d9XMiSmONtMNlrIpIOojhoDIOugj9wpKzV1B4G2F%2FqIWaDFP25ylNKNxv88Xm00chUeTkgDxIn0%2BqyokvCIZdkiTHYWrZx9j%2B7gtiIywqN4eoqf48CItxwd3eZ71tpbn8KAdJRsFADWtqRn6XaPyfWjEnaZusqQyD%2FM5IgFH8v7T7kORlhTNQqvu3qWAZeMYp6hUGrDS%2FF7XZuXXkQ9yzH4skZOOMi6r1nr0sCJrML1oDJvC7Q7IsuvUWJPtpZVHDhzi8aUFs%2F2N8ILHtfUhPKIRzDCuh9FVjGw99civG%2BPOzyxr8RdH7%2FBMXZn%2B1WacULKtWF1byJOq56cJr48nuUeFCUM6pc2T6B50aVoJ9Gz5mPJtrrDmxRwPP3gRaKs%2BjhgPZ2p7zF7m7UbnvAzsnKmT6ea9fdY9eOAlr%2FVVEFAej3tXqn%2BRExSPcoysRWrzlGdsGFyCIb4LnjHQN3x8ndZ2m3BlYfR4pzXkXPytgvuQEcM7a3rznYy74k8Tf4m5AmnC92WA0MQ7C6%2BkvAO04Dhs06NMw8rJU8BgjyGK%2B%2F8PH9%2FFvH2PwUnqOVlkRSXlV1JtA70t5Kj6MYcZ3zB8jMYefoRof3Yo72ahjXkanHysD141KKoDO2UX3DxRT3zwC%2B7JvAZjqahjJyrfNtPsg%2FrNyahrUw17jgqgY6sQGeksuY%2F97zXR%2BobwqmxhruCnjVQr%2BL2fGGQNCFMEuHGe6Qqw57JcQ2csndirt5ZrsgvI37Rll9JHP3FXR2svQVNgb6%2BxCZWqynfWvMKZDTFTSVmUtYaqez1LlAuKXnuqJW2j8Han1M%2BhZGYZhwmUyADyPiBl0N2JHAR%2BMfdYrmkWOG2mNDMiJrkrBkg5SmzABy3VtH3F46kLOE0hf3Mgbc6VKYTVszV6sdIdys475UY1I%3D&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Date=20231118T025829Z&X-Amz-SignedHeaders=host&X-Amz-Expires=3600&X-Amz-Credential=ASIASXCYXIIFBUSCGD4D%2F20231118%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Signature=81b8dc7ca8bfff80bcb0d77f1a23e98afa6e0c54639e30dea62c433be899b0a2",
+    "source": "Food52",
+    "shareAs": "http://www.edamam.com/recipe/zuni-inspired-grilled-chicken-salad-b20815eac65ee2fa5f848f56c16056dd/salad",
+    "yield": 4,
+    "dietLabels": [
+      "Low-Carb"
+    ],
+    "healthLabels": [
+      "Sugar-Conscious",
+      "Keto-Friendly",
+      "Paleo",
+      "Dairy-Free",
+      "Gluten-Free",
+      "Wheat-Free",
+      "Peanut-Free",
+      "Tree-Nut-Free",
+      "Soy-Free",
+      "Fish-Free",
+      "Shellfish-Free",
+      "Pork-Free",
+      "Red-Meat-Free",
+      "Crustacean-Free",
+      "Celery-Free",
+      "Sesame-Free",
+      "Lupine-Free",
+      "Mollusk-Free",
+      "Alcohol-Free",
+      "Sulfite-Free",
+      "Kosher"
+    ],
+    "cautions": [
+      "Sulfites"
+    ],
+    "ingredientLines": [
+      "1 pound boneless, skinless chicken breasts",
+      "3/4 teaspoon kosher salt, divided, plus more for salad",
+      "1 tablespoon olive oil, plus more for salad",
+      "1/4 cup aioli or 1/4 cup mayo + 1 small garlic clove, grated",
+      "Zest and juice of 1 lemon, plus more for salad",
+      "Your favorite greens and fresh herbs, for salad"
+    ],
+    "calories": 1089.8457827820007,
+    "totalWeight": 617.254261684197,
+    "totalTime": 20,
+    "cuisineType": [
+      "british"
+    ],
+    "mealType": [
+      "lunch/dinner"
+    ],
+    "dishType": [
+      "salad"
+    ]
+  },
+  {
+    "label": "Shrimp Salad",
+    "url": "http://www.eatingwell.com/recipe/263673/shrimp-salad/",
+    "ingredients": [
+      {
+        "text": "1 cup mixed salad greens",
+        "quantity": 1,
+        "measure": "cup",
+        "food": "salad greens",
+        "weight": 36,
+        "foodCategory": "vegetables",
+        "foodId": "food_bqalyxzbzu04hcb8xj930bzar7xg",
+        "image": "https://www.edamam.com/food-img/b6d/b6d9f3052d27a3c71220cfa55c6f0a42.jpg"
+      },
+      {
+        "text": "½ cup diced orange and yellow sweet peppers",
+        "quantity": 0.5,
+        "measure": "cup",
+        "food": "sweet peppers",
+        "weight": 74.5,
+        "foodCategory": "vegetables",
+        "foodId": "food_a8g63g7ak6bnmvbu7agxibp4a0dy",
+        "image": "https://www.edamam.com/food-img/4dc/4dc48b1a506d334b4ab6671b9d56a18f.jpeg"
+      },
+      {
+        "text": "3 ounces cooked shrimp (see Tip)",
+        "quantity": 3,
+        "measure": "ounce",
+        "food": "cooked shrimp",
+        "weight": 85.048569375,
+        "foodCategory": "seafood",
+        "foodId": "food_a739i92bq1vivfaym277jb3lul7x",
+        "image": "https://www.edamam.com/food-img/dab/dab4af51e4a31595410ce67fd283e2c6.jpg"
+      },
+      {
+        "text": "½ cup garbanzo beans",
+        "quantity": 0.5,
+        "measure": "cup",
+        "food": "garbanzo beans",
+        "weight": 100,
+        "foodCategory": "plant-based protein",
+        "foodId": "food_baux5rqbkto336asd7w3lbbi1koo",
+        "image": "https://www.edamam.com/food-img/520/520c62055515f730b8947e0e445fd2be.jpg"
+      },
+      {
+        "text": "2 tablespoons low-fat salad dressing (see Tip)",
+        "quantity": 2,
+        "measure": "tablespoon",
+        "food": "salad dressing",
+        "weight": 32,
+        "foodCategory": "Condiments and sauces",
+        "foodId": "food_a67f1v3boelh4wasob4qib34t5bv",
+        "image": "https://www.edamam.com/food-img/241/24178db68d42001caf980f8f209534cb.jpg"
+      },
+      {
+        "text": "1¼ cups strawberries, quartered (optional)",
+        "quantity": 1.25,
+        "measure": "cup",
+        "food": "strawberries",
+        "weight": 190,
+        "foodCategory": "fruit",
+        "foodId": "food_b4s2ibkbrrucmbabbaxhfau8ay42",
+        "image": "https://www.edamam.com/food-img/00c/00c8851e401bf7975be7f73499b4b573.jpg"
+      },
+      {
+        "text": "⅔ cup fat-free yogurt (optional)",
+        "quantity": 0.6666666666666666,
+        "measure": "cup",
+        "food": "fat-free yogurt",
+        "weight": 163.33333333333331,
+        "foodCategory": "yogurt",
+        "foodId": "food_bq99rb6bfw035yaeise2hbhlg406",
+        "image": "https://www.edamam.com/food-img/5f7/5f743324b687dae75598e2888694fc4f.jpg"
+      }
+    ],
+    "uri": "http://www.edamam.com/ontologies/edamam.owl#recipe_6a3fc8ccd42927e8116685e886393cc3",
+    "image": "https://edamam-product-images.s3.amazonaws.com/web-img/c99/c99a458d618b59f48cc02153908f7dc5.jpg?X-Amz-Security-Token=IQoJb3JpZ2luX2VjEGsaCXVzLWVhc3QtMSJHMEUCIC5EcVohn5KOF%2BqsJMnWN15QAQiEjniqRzrDkKyFbnySAiEAklir9G9lxG0xv0NtH%2BbNUzcDusmggahGna36Vka0pfsqwQUIs%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FARAAGgwxODcwMTcxNTA5ODYiDE38n9doIwHPgmHkWCqVBbisrUc9re%2F9CDcggsOnHnBDSRivSr3n%2FpYDQwMNPvf0SYUmrug6XHTenjdFdVWV1Ff4x%2FBsbtdGVuGulJC598dBW%2FIXmHxB4RjkYiS0v%2BNR9rt8jcBLiQUdFZ1UDal6PePuO4XlD02vZtgzOL2rjk1S1%2FRf02SGPYJDSeRFq6YjIqTzCh0jJZTg0%2FA3mMwFzUHaQfuQhzaODUHy1ebxM9d9XMiSmONtMNlrIpIOojhoDIOugj9wpKzV1B4G2F%2FqIWaDFP25ylNKNxv88Xm00chUeTkgDxIn0%2BqyokvCIZdkiTHYWrZx9j%2B7gtiIywqN4eoqf48CItxwd3eZ71tpbn8KAdJRsFADWtqRn6XaPyfWjEnaZusqQyD%2FM5IgFH8v7T7kORlhTNQqvu3qWAZeMYp6hUGrDS%2FF7XZuXXkQ9yzH4skZOOMi6r1nr0sCJrML1oDJvC7Q7IsuvUWJPtpZVHDhzi8aUFs%2F2N8ILHtfUhPKIRzDCuh9FVjGw99civG%2BPOzyxr8RdH7%2FBMXZn%2B1WacULKtWF1byJOq56cJr48nuUeFCUM6pc2T6B50aVoJ9Gz5mPJtrrDmxRwPP3gRaKs%2BjhgPZ2p7zF7m7UbnvAzsnKmT6ea9fdY9eOAlr%2FVVEFAej3tXqn%2BRExSPcoysRWrzlGdsGFyCIb4LnjHQN3x8ndZ2m3BlYfR4pzXkXPytgvuQEcM7a3rznYy74k8Tf4m5AmnC92WA0MQ7C6%2BkvAO04Dhs06NMw8rJU8BgjyGK%2B%2F8PH9%2FFvH2PwUnqOVlkRSXlV1JtA70t5Kj6MYcZ3zB8jMYefoRof3Yo72ahjXkanHysD141KKoDO2UX3DxRT3zwC%2B7JvAZjqahjJyrfNtPsg%2FrNyahrUw17jgqgY6sQGeksuY%2F97zXR%2BobwqmxhruCnjVQr%2BL2fGGQNCFMEuHGe6Qqw57JcQ2csndirt5ZrsgvI37Rll9JHP3FXR2svQVNgb6%2BxCZWqynfWvMKZDTFTSVmUtYaqez1LlAuKXnuqJW2j8Han1M%2BhZGYZhwmUyADyPiBl0N2JHAR%2BMfdYrmkWOG2mNDMiJrkrBkg5SmzABy3VtH3F46kLOE0hf3Mgbc6VKYTVszV6sdIdys475UY1I%3D&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Date=20231118T025829Z&X-Amz-SignedHeaders=host&X-Amz-Expires=3600&X-Amz-Credential=ASIASXCYXIIFBUSCGD4D%2F20231118%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Signature=46b930b3e65a4620dd9644720f7956cf8d6612884f1ff93abdd40bbf28875ddf",
+    "source": "EatingWell",
+    "shareAs": "http://www.edamam.com/recipe/shrimp-salad-6a3fc8ccd42927e8116685e886393cc3/salad",
+    "yield": 1,
+    "dietLabels": [
+      "High-Fiber"
+    ],
+    "healthLabels": [
+      "Pescatarian",
+      "Gluten-Free",
+      "Wheat-Free",
+      "Egg-Free",
+      "Peanut-Free",
+      "Tree-Nut-Free",
+      "Soy-Free",
+      "Fish-Free",
+      "Pork-Free",
+      "Red-Meat-Free",
+      "Celery-Free",
+      "Mustard-Free",
+      "Sesame-Free",
+      "Lupine-Free",
+      "Mollusk-Free",
+      "Alcohol-Free"
+    ],
+    "cautions": [
+      "Sulfites",
+      "FODMAP"
+    ],
+    "ingredientLines": [
+      "1 cup mixed salad greens",
+      "½ cup diced orange and yellow sweet peppers",
+      "3 ounces cooked shrimp (see Tip)",
+      "½ cup garbanzo beans",
+      "2 tablespoons low-fat salad dressing (see Tip)",
+      "1¼ cups strawberries, quartered (optional)",
+      "⅔ cup fat-free yogurt (optional)"
+    ],
+    "calories": 799.9244642229166,
+    "totalWeight": 680.8819027083332,
+    "totalTime": 25,
+    "cuisineType": [
+      "chinese"
+    ],
+    "mealType": [
+      "lunch/dinner"
+    ],
+    "dishType": [
+      "salad"
+    ]
+  },
+  {
+    "label": "Buffalo Chicken Salad",
+    "url": "http://www.delish.com/cooking/recipe-ideas/recipes/a23965/buffalo-chicken-salad/",
+    "ingredients": [
+      {
+        "text": "2 bag romaine salad mix",
+        "quantity": 2,
+        "measure": "bag",
+        "food": "salad mix",
+        "weight": 520,
+        "foodCategory": "vegetables",
+        "foodId": "food_bqalyxzbzu04hcb8xj930bzar7xg",
+        "image": "https://www.edamam.com/food-img/b6d/b6d9f3052d27a3c71220cfa55c6f0a42.jpg"
+      },
+      {
+        "text": "1 container Carrot and celery sticks",
+        "quantity": 1,
+        "measure": "container",
+        "food": "Carrot",
+        "weight": 0,
+        "foodCategory": "vegetables",
+        "foodId": "food_ai215e5b85pdh5ajd4aafa3w2zm8",
+        "image": "https://www.edamam.com/food-img/121/121e33fce0bb9546ed7d060b6c114e29.jpg"
+      },
+      {
+        "text": "1 container Carrot and celery sticks",
+        "quantity": 1,
+        "measure": "stick",
+        "food": "celery",
+        "weight": 40,
+        "foodCategory": "vegetables",
+        "foodId": "food_bffeoksbyyur8ja4da73ub2xs57g",
+        "image": "https://www.edamam.com/food-img/d91/d91d2aed1c36d8fad54c4d7dc58f5a18.jpg"
+      },
+      {
+        "text": "1 takeout order chicken fingers",
+        "quantity": 1,
+        "measure": "<unit>",
+        "food": "chicken",
+        "weight": 1200,
+        "foodCategory": "Poultry",
+        "foodId": "food_bmyxrshbfao9s1amjrvhoauob6mo",
+        "image": "https://www.edamam.com/food-img/d33/d338229d774a743f7858f6764e095878.jpg"
+      },
+      {
+        "text": "2 tbsp. cayenne pepper sauce",
+        "quantity": 2,
+        "measure": "tablespoon",
+        "food": "pepper sauce",
+        "weight": 28.79999999805231,
+        "foodCategory": "canned soup",
+        "foodId": "food_a6201h1bu1m0tfbrvis6ma6nvhzv",
+        "image": "https://www.edamam.com/food-img/946/946c38a4c278da4361d2615d653d685a.jpg"
+      },
+      {
+        "text": "½ c. blue cheese salad dressing",
+        "quantity": 0.5,
+        "measure": "cup",
+        "food": "blue cheese salad dressing",
+        "weight": 122.5,
+        "foodCategory": "Condiments and sauces",
+        "foodId": "food_a7uejbga4bjcztbe4naceb72mnwf",
+        "image": "https://www.edamam.com/food-img/06f/06fde1f5c1a30fbc87e0a5c0052ba4dd.jpg"
+      }
+    ],
+    "uri": "http://www.edamam.com/ontologies/edamam.owl#recipe_decb658ec24b765db6a2dc5c7c592932",
+    "image": "https://edamam-product-images.s3.amazonaws.com/web-img/745/745f3cfed84767d39dc2b7f7d5161904.jpg?X-Amz-Security-Token=IQoJb3JpZ2luX2VjEGsaCXVzLWVhc3QtMSJHMEUCIC5EcVohn5KOF%2BqsJMnWN15QAQiEjniqRzrDkKyFbnySAiEAklir9G9lxG0xv0NtH%2BbNUzcDusmggahGna36Vka0pfsqwQUIs%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FARAAGgwxODcwMTcxNTA5ODYiDE38n9doIwHPgmHkWCqVBbisrUc9re%2F9CDcggsOnHnBDSRivSr3n%2FpYDQwMNPvf0SYUmrug6XHTenjdFdVWV1Ff4x%2FBsbtdGVuGulJC598dBW%2FIXmHxB4RjkYiS0v%2BNR9rt8jcBLiQUdFZ1UDal6PePuO4XlD02vZtgzOL2rjk1S1%2FRf02SGPYJDSeRFq6YjIqTzCh0jJZTg0%2FA3mMwFzUHaQfuQhzaODUHy1ebxM9d9XMiSmONtMNlrIpIOojhoDIOugj9wpKzV1B4G2F%2FqIWaDFP25ylNKNxv88Xm00chUeTkgDxIn0%2BqyokvCIZdkiTHYWrZx9j%2B7gtiIywqN4eoqf48CItxwd3eZ71tpbn8KAdJRsFADWtqRn6XaPyfWjEnaZusqQyD%2FM5IgFH8v7T7kORlhTNQqvu3qWAZeMYp6hUGrDS%2FF7XZuXXkQ9yzH4skZOOMi6r1nr0sCJrML1oDJvC7Q7IsuvUWJPtpZVHDhzi8aUFs%2F2N8ILHtfUhPKIRzDCuh9FVjGw99civG%2BPOzyxr8RdH7%2FBMXZn%2B1WacULKtWF1byJOq56cJr48nuUeFCUM6pc2T6B50aVoJ9Gz5mPJtrrDmxRwPP3gRaKs%2BjhgPZ2p7zF7m7UbnvAzsnKmT6ea9fdY9eOAlr%2FVVEFAej3tXqn%2BRExSPcoysRWrzlGdsGFyCIb4LnjHQN3x8ndZ2m3BlYfR4pzXkXPytgvuQEcM7a3rznYy74k8Tf4m5AmnC92WA0MQ7C6%2BkvAO04Dhs06NMw8rJU8BgjyGK%2B%2F8PH9%2FFvH2PwUnqOVlkRSXlV1JtA70t5Kj6MYcZ3zB8jMYefoRof3Yo72ahjXkanHysD141KKoDO2UX3DxRT3zwC%2B7JvAZjqahjJyrfNtPsg%2FrNyahrUw17jgqgY6sQGeksuY%2F97zXR%2BobwqmxhruCnjVQr%2BL2fGGQNCFMEuHGe6Qqw57JcQ2csndirt5ZrsgvI37Rll9JHP3FXR2svQVNgb6%2BxCZWqynfWvMKZDTFTSVmUtYaqez1LlAuKXnuqJW2j8Han1M%2BhZGYZhwmUyADyPiBl0N2JHAR%2BMfdYrmkWOG2mNDMiJrkrBkg5SmzABy3VtH3F46kLOE0hf3Mgbc6VKYTVszV6sdIdys475UY1I%3D&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Date=20231118T025829Z&X-Amz-SignedHeaders=host&X-Amz-Expires=3600&X-Amz-Credential=ASIASXCYXIIFBUSCGD4D%2F20231118%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Signature=f9bf2ab7a936554782d89b821a04d30a222b3cbc6f55fefc60970fa495d0b4d0",
+    "source": "Delish",
+    "shareAs": "http://www.edamam.com/recipe/buffalo-chicken-salad-decb658ec24b765db6a2dc5c7c592932/salad",
+    "yield": 6,
+    "dietLabels": [],
+    "healthLabels": [
+      "Gluten-Free",
+      "Wheat-Free",
+      "Egg-Free",
+      "Peanut-Free",
+      "Tree-Nut-Free",
+      "Soy-Free",
+      "Fish-Free",
+      "Shellfish-Free",
+      "Pork-Free",
+      "Red-Meat-Free",
+      "Crustacean-Free",
+      "Mustard-Free",
+      "Sesame-Free",
+      "Lupine-Free",
+      "Mollusk-Free",
+      "Alcohol-Free",
+      "Sulfite-Free"
+    ],
+    "cautions": [
+      "Sulfites"
+    ],
+    "ingredientLines": [
+      "2 bag romaine salad mix",
+      "1 container Carrot and celery sticks",
+      "1 takeout order chicken fingers",
+      "2 tbsp. cayenne pepper sauce",
+      "½ c. blue cheese salad dressing"
+    ],
+    "calories": 3259.667999999786,
+    "totalWeight": 1911.2999999980523,
+    "totalTime": 10,
+    "cuisineType": [
+      "american"
+    ],
+    "mealType": [
+      "lunch/dinner"
+    ],
+    "dishType": [
+      "salad"
+    ]
+  },
+  {
+    "label": "Shrimp Salad",
+    "url": "http://www.cookstr.com/recipes/shrimp-salad-mimi-sheraton",
+    "ingredients": [
+      {
+        "text": "1 pound medium-sized shrimp, cooked, shelled and de-veined",
+        "quantity": 1,
+        "measure": "pound",
+        "food": "shrimp",
+        "weight": 453.59237,
+        "foodCategory": "seafood",
+        "foodId": "food_bjap0xzbf5x6s3azkpwtfb14i25u",
+        "image": "https://www.edamam.com/food-img/4df/4df0fd62e878ed84b387b9e3ab48f2dc.jpg"
+      },
+      {
+        "text": "1 tablespoon minced onion",
+        "quantity": 1,
+        "measure": "tablespoon",
+        "food": "onion",
+        "weight": 10,
+        "foodCategory": "vegetables",
+        "foodId": "food_bmrvi4ob4binw9a5m7l07amlfcoy",
+        "image": "https://www.edamam.com/food-img/205/205e6bf2399b85d34741892ef91cc603.jpg"
+      },
+      {
+        "text": "1 tablespoon minced parsley",
+        "quantity": 1,
+        "measure": "tablespoon",
+        "food": "parsley",
+        "weight": 3.8,
+        "foodCategory": "vegetables",
+        "foodId": "food_b244pqdazw24zobr5vqu2bf0uid8",
+        "image": "https://www.edamam.com/food-img/46a/46a132e96626d7989b4d6ed8c91f4da0.jpg"
+      },
+      {
+        "text": "Salt and pepper to taste",
+        "quantity": 0,
+        "measure": null,
+        "food": "Salt",
+        "weight": 3.714854219998453,
+        "foodCategory": "Condiments and sauces",
+        "foodId": "food_btxz81db72hwbra2pncvebzzzum9",
+        "image": "https://www.edamam.com/food-img/694/6943ea510918c6025795e8dc6e6eaaeb.jpg"
+      },
+      {
+        "text": "Salt and pepper to taste",
+        "quantity": 0,
+        "measure": null,
+        "food": "pepper",
+        "weight": 1.8574271099992266,
+        "foodCategory": "Condiments and sauces",
+        "foodId": "food_b6ywzluaaxv02wad7s1r9ag4py89",
+        "image": "https://www.edamam.com/food-img/c6e/c6e5c3bd8d3bc15175d9766971a4d1b2.jpg"
+      },
+      {
+        "text": "1 tablespoon lemon juice",
+        "quantity": 1,
+        "measure": "tablespoon",
+        "food": "lemon juice",
+        "weight": 15.2499999997422,
+        "foodCategory": "100% juice",
+        "foodId": "food_bglm6vxahuauteb0n6ynfbg9eryu",
+        "image": "https://www.edamam.com/food-img/e31/e310952d214e78a4cb8b73f30ceeaaf2.jpg"
+      },
+      {
+        "text": "½ cup mayonnaise",
+        "quantity": 0.5,
+        "measure": "cup",
+        "food": "mayonnaise",
+        "weight": 115.5,
+        "foodCategory": "condiments and sauces",
+        "foodId": "food_bu8t61zaplle7dbrzk81dbygq0qj",
+        "image": "https://www.edamam.com/food-img/577/577308a0422357885c94cc9b5f1f1862.jpg"
+      },
+      {
+        "text": "1½ tablespoons salad oil",
+        "quantity": 1.5,
+        "measure": "tablespoon",
+        "food": "oil",
+        "weight": 21,
+        "foodCategory": "Oils",
+        "foodId": "food_bk9p9aaavhvoq4bqsnprobpsiuxs",
+        "image": "https://www.edamam.com/food-img/07e/07e106ab3536d57428e5c46d009038f8.jpg"
+      }
+    ],
+    "uri": "http://www.edamam.com/ontologies/edamam.owl#recipe_f38bcef5962fcb27cb84a75fdf997942",
+    "image": "https://edamam-product-images.s3.amazonaws.com/web-img/a35/a35a9ea5a5b0e712d8193b5ca61201d5.jpg?X-Amz-Security-Token=IQoJb3JpZ2luX2VjEGsaCXVzLWVhc3QtMSJHMEUCIC5EcVohn5KOF%2BqsJMnWN15QAQiEjniqRzrDkKyFbnySAiEAklir9G9lxG0xv0NtH%2BbNUzcDusmggahGna36Vka0pfsqwQUIs%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FARAAGgwxODcwMTcxNTA5ODYiDE38n9doIwHPgmHkWCqVBbisrUc9re%2F9CDcggsOnHnBDSRivSr3n%2FpYDQwMNPvf0SYUmrug6XHTenjdFdVWV1Ff4x%2FBsbtdGVuGulJC598dBW%2FIXmHxB4RjkYiS0v%2BNR9rt8jcBLiQUdFZ1UDal6PePuO4XlD02vZtgzOL2rjk1S1%2FRf02SGPYJDSeRFq6YjIqTzCh0jJZTg0%2FA3mMwFzUHaQfuQhzaODUHy1ebxM9d9XMiSmONtMNlrIpIOojhoDIOugj9wpKzV1B4G2F%2FqIWaDFP25ylNKNxv88Xm00chUeTkgDxIn0%2BqyokvCIZdkiTHYWrZx9j%2B7gtiIywqN4eoqf48CItxwd3eZ71tpbn8KAdJRsFADWtqRn6XaPyfWjEnaZusqQyD%2FM5IgFH8v7T7kORlhTNQqvu3qWAZeMYp6hUGrDS%2FF7XZuXXkQ9yzH4skZOOMi6r1nr0sCJrML1oDJvC7Q7IsuvUWJPtpZVHDhzi8aUFs%2F2N8ILHtfUhPKIRzDCuh9FVjGw99civG%2BPOzyxr8RdH7%2FBMXZn%2B1WacULKtWF1byJOq56cJr48nuUeFCUM6pc2T6B50aVoJ9Gz5mPJtrrDmxRwPP3gRaKs%2BjhgPZ2p7zF7m7UbnvAzsnKmT6ea9fdY9eOAlr%2FVVEFAej3tXqn%2BRExSPcoysRWrzlGdsGFyCIb4LnjHQN3x8ndZ2m3BlYfR4pzXkXPytgvuQEcM7a3rznYy74k8Tf4m5AmnC92WA0MQ7C6%2BkvAO04Dhs06NMw8rJU8BgjyGK%2B%2F8PH9%2FFvH2PwUnqOVlkRSXlV1JtA70t5Kj6MYcZ3zB8jMYefoRof3Yo72ahjXkanHysD141KKoDO2UX3DxRT3zwC%2B7JvAZjqahjJyrfNtPsg%2FrNyahrUw17jgqgY6sQGeksuY%2F97zXR%2BobwqmxhruCnjVQr%2BL2fGGQNCFMEuHGe6Qqw57JcQ2csndirt5ZrsgvI37Rll9JHP3FXR2svQVNgb6%2BxCZWqynfWvMKZDTFTSVmUtYaqez1LlAuKXnuqJW2j8Han1M%2BhZGYZhwmUyADyPiBl0N2JHAR%2BMfdYrmkWOG2mNDMiJrkrBkg5SmzABy3VtH3F46kLOE0hf3Mgbc6VKYTVszV6sdIdys475UY1I%3D&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Date=20231118T025829Z&X-Amz-SignedHeaders=host&X-Amz-Expires=3600&X-Amz-Credential=ASIASXCYXIIFBUSCGD4D%2F20231118%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Signature=c02323a1cc137b4831873d5fde6204e033a36aed28362bac6513821829ff1a2a",
+    "source": "Cookstr",
+    "shareAs": "http://www.edamam.com/recipe/shrimp-salad-f38bcef5962fcb27cb84a75fdf997942/salad",
+    "yield": 6,
+    "dietLabels": [
+      "Low-Carb"
+    ],
+    "healthLabels": [
+      "Sugar-Conscious",
+      "Kidney-Friendly",
+      "Keto-Friendly",
+      "Pescatarian",
+      "Dairy-Free",
+      "Gluten-Free",
+      "Wheat-Free",
+      "Peanut-Free",
+      "Tree-Nut-Free",
+      "Soy-Free",
+      "Pork-Free",
+      "Red-Meat-Free",
+      "Celery-Free",
+      "Sesame-Free",
+      "Lupine-Free",
+      "Mollusk-Free",
+      "Alcohol-Free",
+      "Sulfite-Free"
+    ],
+    "cautions": [
+      "Sulfites"
+    ],
+    "ingredientLines": [
+      "1 pound medium-sized shrimp, cooked, shelled and de-veined",
+      "1 tablespoon minced onion",
+      "1 tablespoon minced parsley",
+      "Salt and pepper to taste",
+      "1 tablespoon lemon juice",
+      "½ cup mayonnaise",
+      "1½ tablespoons salad oil"
+    ],
+    "calories": 1383.8386565460414,
+    "totalWeight": 621.6051081985579,
+    "totalTime": 60,
+    "cuisineType": [
+      "american"
+    ],
+    "mealType": [
+      "lunch/dinner"
+    ],
+    "dishType": [
+      "salad"
+    ]
+  },
+  {
+    "label": "Strawberry Hazelnut Salad",
+    "url": "http://userealbutter.com/2009/05/08/strawberry-hazelnut-salad-recipe/",
+    "ingredients": [
+      {
+        "text": "8 oz salad greens",
+        "quantity": 8,
+        "measure": "ounce",
+        "food": "salad greens",
+        "weight": 226.796185,
+        "foodCategory": "vegetables",
+        "foodId": "food_bqalyxzbzu04hcb8xj930bzar7xg",
+        "image": "https://www.edamam.com/food-img/b6d/b6d9f3052d27a3c71220cfa55c6f0a42.jpg"
+      },
+      {
+        "text": "8 oz strawberries",
+        "quantity": 8,
+        "measure": "ounce",
+        "food": "strawberries",
+        "weight": 226.796185,
+        "foodCategory": "fruit",
+        "foodId": "food_b4s2ibkbrrucmbabbaxhfau8ay42",
+        "image": "https://www.edamam.com/food-img/00c/00c8851e401bf7975be7f73499b4b573.jpg"
+      },
+      {
+        "text": "2 oz Hazelnuts",
+        "quantity": 2,
+        "measure": "ounce",
+        "food": "Hazelnuts",
+        "weight": 56.69904625,
+        "foodCategory": "plant-based protein",
+        "foodId": "food_ahshk5kaw2j86lbtd1akiaxbiwc2",
+        "image": "https://www.edamam.com/food-img/136/13615074edcc12bf37a30987ebfec6dc.jpg"
+      },
+      {
+        "text": "3 oz Balsamic Vinegar",
+        "quantity": 3,
+        "measure": "ounce",
+        "food": "Balsamic Vinegar",
+        "weight": 85.048569375,
+        "foodCategory": "Condiments and sauces",
+        "foodId": "food_b1ic8tzapja8jubas1f8lbhpbn6x",
+        "image": "https://www.edamam.com/food-img/90a/90a1f211768e166ecfff19e8b4747498.jpg"
+      },
+      {
+        "text": "1 tsp Sugar",
+        "quantity": 1,
+        "measure": "teaspoon",
+        "food": "Sugar",
+        "weight": 4.2,
+        "foodCategory": "sugars",
+        "foodId": "food_axi2ijobrk819yb0adceobnhm1c2",
+        "image": "https://www.edamam.com/food-img/ecb/ecb3f5aaed96d0188c21b8369be07765.jpg"
+      },
+      {
+        "text": "4 oz Extra Virgin Olive Oil",
+        "quantity": 4,
+        "measure": "ounce",
+        "food": "Extra Virgin Olive Oil",
+        "weight": 113.3980925,
+        "foodCategory": "Oils",
+        "foodId": "food_b1d1icuad3iktrbqby0hiagafaz7",
+        "image": "https://www.edamam.com/food-img/4d6/4d651eaa8a353647746290c7a9b29d84.jpg"
+      },
+      {
+        "text": "4 x salt and pepper",
+        "quantity": 4,
+        "measure": "<unit>",
+        "food": "pepper",
+        "weight": 465.15555555555557,
+        "foodCategory": "vegetables",
+        "foodId": "food_bz8rcwobbzm7zhb3wh2n7aznivou",
+        "image": "https://www.edamam.com/food-img/629/629dc9fddc1f8aec27fa337dd6ce2b7c.jpg"
+      }
+    ],
+    "uri": "http://www.edamam.com/ontologies/edamam.owl#recipe_ce6b0299ece2cd64868f7b1db5f98829",
+    "image": "https://edamam-product-images.s3.amazonaws.com/web-img/832/832af8392d347d88705dedc503410ad7.jpg?X-Amz-Security-Token=IQoJb3JpZ2luX2VjEGsaCXVzLWVhc3QtMSJHMEUCIC5EcVohn5KOF%2BqsJMnWN15QAQiEjniqRzrDkKyFbnySAiEAklir9G9lxG0xv0NtH%2BbNUzcDusmggahGna36Vka0pfsqwQUIs%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FARAAGgwxODcwMTcxNTA5ODYiDE38n9doIwHPgmHkWCqVBbisrUc9re%2F9CDcggsOnHnBDSRivSr3n%2FpYDQwMNPvf0SYUmrug6XHTenjdFdVWV1Ff4x%2FBsbtdGVuGulJC598dBW%2FIXmHxB4RjkYiS0v%2BNR9rt8jcBLiQUdFZ1UDal6PePuO4XlD02vZtgzOL2rjk1S1%2FRf02SGPYJDSeRFq6YjIqTzCh0jJZTg0%2FA3mMwFzUHaQfuQhzaODUHy1ebxM9d9XMiSmONtMNlrIpIOojhoDIOugj9wpKzV1B4G2F%2FqIWaDFP25ylNKNxv88Xm00chUeTkgDxIn0%2BqyokvCIZdkiTHYWrZx9j%2B7gtiIywqN4eoqf48CItxwd3eZ71tpbn8KAdJRsFADWtqRn6XaPyfWjEnaZusqQyD%2FM5IgFH8v7T7kORlhTNQqvu3qWAZeMYp6hUGrDS%2FF7XZuXXkQ9yzH4skZOOMi6r1nr0sCJrML1oDJvC7Q7IsuvUWJPtpZVHDhzi8aUFs%2F2N8ILHtfUhPKIRzDCuh9FVjGw99civG%2BPOzyxr8RdH7%2FBMXZn%2B1WacULKtWF1byJOq56cJr48nuUeFCUM6pc2T6B50aVoJ9Gz5mPJtrrDmxRwPP3gRaKs%2BjhgPZ2p7zF7m7UbnvAzsnKmT6ea9fdY9eOAlr%2FVVEFAej3tXqn%2BRExSPcoysRWrzlGdsGFyCIb4LnjHQN3x8ndZ2m3BlYfR4pzXkXPytgvuQEcM7a3rznYy74k8Tf4m5AmnC92WA0MQ7C6%2BkvAO04Dhs06NMw8rJU8BgjyGK%2B%2F8PH9%2FFvH2PwUnqOVlkRSXlV1JtA70t5Kj6MYcZ3zB8jMYefoRof3Yo72ahjXkanHysD141KKoDO2UX3DxRT3zwC%2B7JvAZjqahjJyrfNtPsg%2FrNyahrUw17jgqgY6sQGeksuY%2F97zXR%2BobwqmxhruCnjVQr%2BL2fGGQNCFMEuHGe6Qqw57JcQ2csndirt5ZrsgvI37Rll9JHP3FXR2svQVNgb6%2BxCZWqynfWvMKZDTFTSVmUtYaqez1LlAuKXnuqJW2j8Han1M%2BhZGYZhwmUyADyPiBl0N2JHAR%2BMfdYrmkWOG2mNDMiJrkrBkg5SmzABy3VtH3F46kLOE0hf3Mgbc6VKYTVszV6sdIdys475UY1I%3D&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Date=20231118T025829Z&X-Amz-SignedHeaders=host&X-Amz-Expires=3600&X-Amz-Credential=ASIASXCYXIIFBUSCGD4D%2F20231118%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Signature=a7dff4f5f9b980bdfdc1e1637ee844b9be1d1d68a40ddfc3f8a8d80d2e2cea17",
+    "source": "Use Real Butter",
+    "shareAs": "http://www.edamam.com/recipe/strawberry-hazelnut-salad-ce6b0299ece2cd64868f7b1db5f98829/salad",
+    "yield": 6,
+    "dietLabels": [
+      "Low-Carb",
+      "Low-Sodium"
+    ],
+    "healthLabels": [
+      "Vegan",
+      "Vegetarian",
+      "Pescatarian",
+      "Dairy-Free",
+      "Gluten-Free",
+      "Wheat-Free",
+      "Egg-Free",
+      "Peanut-Free",
+      "Soy-Free",
+      "Fish-Free",
+      "Shellfish-Free",
+      "Pork-Free",
+      "Red-Meat-Free",
+      "Crustacean-Free",
+      "Celery-Free",
+      "Mustard-Free",
+      "Sesame-Free",
+      "Lupine-Free",
+      "Mollusk-Free",
+      "Alcohol-Free",
+      "FODMAP-Free",
+      "Kosher"
+    ],
+    "cautions": [
+      "Sulfites"
+    ],
+    "ingredientLines": [
+      "8 oz salad greens",
+      "8 oz strawberries",
+      "2 oz Hazelnuts",
+      "3 oz Balsamic Vinegar",
+      "1 tsp Sugar",
+      "4 oz Extra Virgin Olive Oil",
+      "4 x salt and pepper"
+    ],
+    "calories": 1649.2312072611114,
+    "totalWeight": 1178.0936336805557,
+    "totalTime": 0,
+    "cuisineType": [
+      "american"
+    ],
+    "mealType": [
+      "lunch/dinner"
+    ],
+    "dishType": [
+      "salad"
+    ]
+  },
+  {
+    "label": "Grilled Tofu Salad With Miso Dressing",
+    "url": "http://steamykitchen.com/20074-grilled-tofu-with-miso-dressing-recip.html",
+    "ingredients": [
+      {
+        "text": "14 ounces extra firm tofu",
+        "quantity": 14,
+        "measure": "ounce",
+        "food": "firm tofu",
+        "weight": 396.89332375000004,
+        "foodCategory": "plant-based protein",
+        "foodId": "food_bu9fz3paqr6xcebft7onna22v8ve",
+        "image": "https://www.edamam.com/food-img/c44/c44799e4beb77540acad305ac9f9ef7e.jpg"
+      },
+      {
+        "text": "2 teaspoons cooking oil",
+        "quantity": 2,
+        "measure": "teaspoon",
+        "food": "cooking oil",
+        "weight": 9,
+        "foodCategory": "Oils",
+        "foodId": "food_bk9p9aaavhvoq4bqsnprobpsiuxs",
+        "image": "https://www.edamam.com/food-img/07e/07e106ab3536d57428e5c46d009038f8.jpg"
+      },
+      {
+        "text": "2 tablespoons Miso & Easy (3 teaspoons miso paste + 3 teaspoons hot water), divided",
+        "quantity": 2,
+        "measure": "tablespoon",
+        "food": "miso paste",
+        "weight": 34,
+        "foodCategory": "plant-based protein",
+        "foodId": "food_agp37bpbhswz7sa7hlwj7b8vzcbt",
+        "image": "https://www.edamam.com/food-img/352/3525e5a38bb13c74aa34ef6c0273bf33.jpg"
+      },
+      {
+        "text": "1 teaspoon soy sauce",
+        "quantity": 1,
+        "measure": "teaspoon",
+        "food": "soy sauce",
+        "weight": 5.3,
+        "foodCategory": "plant-based protein",
+        "foodId": "food_a5g9yevb1iactoaiimbvjbkrxueh",
+        "image": "https://www.edamam.com/food-img/f56/f562e461eb0618f367f538b836c17b82.jpg"
+      },
+      {
+        "text": "1/2 teaspoon grated fresh ginger",
+        "quantity": 0.5,
+        "measure": "teaspoon",
+        "food": "fresh ginger",
+        "weight": 1,
+        "foodCategory": "vegetables",
+        "foodId": "food_bi2ki2xb5zmmvbaiwf7ztbgktzp6",
+        "image": "https://www.edamam.com/food-img/b9c/b9c06ef451ef29513880af0a53ebbaa6.jpg"
+      },
+      {
+        "text": "1 tablespoon water",
+        "quantity": 1,
+        "measure": "tablespoon",
+        "food": "water",
+        "weight": 14.786764781,
+        "foodCategory": "water",
+        "foodId": "food_a99vzubbk1ayrsad318rvbzr3dh0",
+        "image": "https://www.edamam.com/food-img/5dd/5dd9d1361847b2ca53c4b19a8f92627e.jpg"
+      },
+      {
+        "text": "1/2 teaspoon sesame oil",
+        "quantity": 0.5,
+        "measure": "teaspoon",
+        "food": "sesame oil",
+        "weight": 2.25,
+        "foodCategory": "Oils",
+        "foodId": "food_b2id9opa0l5afvbw2do5xa1fnz4q",
+        "image": "https://www.edamam.com/food-img/b87/b874ddcfb6770adc7a155355a902ffb8.jpg"
+      },
+      {
+        "text": "1/2 teaspoon sugar",
+        "quantity": 0.5,
+        "measure": "teaspoon",
+        "food": "sugar",
+        "weight": 2.1,
+        "foodCategory": "sugars",
+        "foodId": "food_axi2ijobrk819yb0adceobnhm1c2",
+        "image": "https://www.edamam.com/food-img/ecb/ecb3f5aaed96d0188c21b8369be07765.jpg"
+      },
+      {
+        "text": "1 tablespoon oil for salad (olive, canola, vegetable, grapeseed)",
+        "quantity": 1,
+        "measure": "tablespoon",
+        "food": "oil",
+        "weight": 14,
+        "foodCategory": "Oils",
+        "foodId": "food_bk9p9aaavhvoq4bqsnprobpsiuxs",
+        "image": "https://www.edamam.com/food-img/07e/07e106ab3536d57428e5c46d009038f8.jpg"
+      },
+      {
+        "text": "4 handfuls of salad greens + any other salad vegetables of your choice",
+        "quantity": 4,
+        "measure": "handful",
+        "food": "salad greens",
+        "weight": 18,
+        "foodCategory": "vegetables",
+        "foodId": "food_bqalyxzbzu04hcb8xj930bzar7xg",
+        "image": "https://www.edamam.com/food-img/b6d/b6d9f3052d27a3c71220cfa55c6f0a42.jpg"
+      }
+    ],
+    "uri": "http://www.edamam.com/ontologies/edamam.owl#recipe_0657d391510851af8144901267a4c26a",
+    "image": "https://edamam-product-images.s3.amazonaws.com/web-img/272/2724347f1843a7c437faacf837326676.jpg?X-Amz-Security-Token=IQoJb3JpZ2luX2VjEGsaCXVzLWVhc3QtMSJHMEUCIC5EcVohn5KOF%2BqsJMnWN15QAQiEjniqRzrDkKyFbnySAiEAklir9G9lxG0xv0NtH%2BbNUzcDusmggahGna36Vka0pfsqwQUIs%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FARAAGgwxODcwMTcxNTA5ODYiDE38n9doIwHPgmHkWCqVBbisrUc9re%2F9CDcggsOnHnBDSRivSr3n%2FpYDQwMNPvf0SYUmrug6XHTenjdFdVWV1Ff4x%2FBsbtdGVuGulJC598dBW%2FIXmHxB4RjkYiS0v%2BNR9rt8jcBLiQUdFZ1UDal6PePuO4XlD02vZtgzOL2rjk1S1%2FRf02SGPYJDSeRFq6YjIqTzCh0jJZTg0%2FA3mMwFzUHaQfuQhzaODUHy1ebxM9d9XMiSmONtMNlrIpIOojhoDIOugj9wpKzV1B4G2F%2FqIWaDFP25ylNKNxv88Xm00chUeTkgDxIn0%2BqyokvCIZdkiTHYWrZx9j%2B7gtiIywqN4eoqf48CItxwd3eZ71tpbn8KAdJRsFADWtqRn6XaPyfWjEnaZusqQyD%2FM5IgFH8v7T7kORlhTNQqvu3qWAZeMYp6hUGrDS%2FF7XZuXXkQ9yzH4skZOOMi6r1nr0sCJrML1oDJvC7Q7IsuvUWJPtpZVHDhzi8aUFs%2F2N8ILHtfUhPKIRzDCuh9FVjGw99civG%2BPOzyxr8RdH7%2FBMXZn%2B1WacULKtWF1byJOq56cJr48nuUeFCUM6pc2T6B50aVoJ9Gz5mPJtrrDmxRwPP3gRaKs%2BjhgPZ2p7zF7m7UbnvAzsnKmT6ea9fdY9eOAlr%2FVVEFAej3tXqn%2BRExSPcoysRWrzlGdsGFyCIb4LnjHQN3x8ndZ2m3BlYfR4pzXkXPytgvuQEcM7a3rznYy74k8Tf4m5AmnC92WA0MQ7C6%2BkvAO04Dhs06NMw8rJU8BgjyGK%2B%2F8PH9%2FFvH2PwUnqOVlkRSXlV1JtA70t5Kj6MYcZ3zB8jMYefoRof3Yo72ahjXkanHysD141KKoDO2UX3DxRT3zwC%2B7JvAZjqahjJyrfNtPsg%2FrNyahrUw17jgqgY6sQGeksuY%2F97zXR%2BobwqmxhruCnjVQr%2BL2fGGQNCFMEuHGe6Qqw57JcQ2csndirt5ZrsgvI37Rll9JHP3FXR2svQVNgb6%2BxCZWqynfWvMKZDTFTSVmUtYaqez1LlAuKXnuqJW2j8Han1M%2BhZGYZhwmUyADyPiBl0N2JHAR%2BMfdYrmkWOG2mNDMiJrkrBkg5SmzABy3VtH3F46kLOE0hf3Mgbc6VKYTVszV6sdIdys475UY1I%3D&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Date=20231118T025829Z&X-Amz-SignedHeaders=host&X-Amz-Expires=3600&X-Amz-Credential=ASIASXCYXIIFBUSCGD4D%2F20231118%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Signature=5a8236d56bf455c02f9f2f8d0ab87afcdfe42c5580e3fd2709d624a1ecd6f338",
+    "source": "Steamy Kitchen",
+    "shareAs": "http://www.edamam.com/recipe/grilled-tofu-salad-with-miso-dressing-0657d391510851af8144901267a4c26a/salad",
+    "yield": 4,
+    "dietLabels": [
+      "Low-Carb"
+    ],
+    "healthLabels": [
+      "Sugar-Conscious",
+      "Keto-Friendly",
+      "Vegan",
+      "Vegetarian",
+      "Pescatarian",
+      "Dairy-Free",
+      "Egg-Free",
+      "Peanut-Free",
+      "Tree-Nut-Free",
+      "Fish-Free",
+      "Shellfish-Free",
+      "Pork-Free",
+      "Red-Meat-Free",
+      "Crustacean-Free",
+      "Celery-Free",
+      "Mustard-Free",
+      "Lupine-Free",
+      "Mollusk-Free",
+      "Alcohol-Free",
+      "Kosher"
+    ],
+    "cautions": [
+      "Gluten",
+      "Wheat",
+      "Sulfites"
+    ],
+    "ingredientLines": [
+      "14 ounces extra firm tofu",
+      "2 teaspoons cooking oil",
+      "2 tablespoons Miso & Easy (3 teaspoons miso paste + 3 teaspoons hot water), divided",
+      "1 teaspoon soy sauce",
+      "1/2 teaspoon grated fresh ginger",
+      "1 tablespoon water",
+      "1/2 teaspoon sesame oil",
+      "1/2 teaspoon sugar",
+      "1 tablespoon oil for salad (olive, canola, vegetable, grapeseed)",
+      "4 handfuls of salad greens + any other salad vegetables of your choice"
+    ],
+    "calories": 876.4923862,
+    "totalWeight": 497.33008853100006,
+    "totalTime": 0,
+    "cuisineType": [
+      "asian"
+    ],
+    "mealType": [
+      "lunch/dinner"
+    ],
+    "dishType": [
+      "condiments and sauces",
+      "salad"
+    ]
+  },
+  {
+    "label": "Buffalo Chicken Salad recipes",
+    "url": "http://www.goodhousekeeping.com/food-recipes/a3338/buffalo-chicken-salad/",
+    "ingredients": [
+      {
+        "text": "2 bag romaine salad mix",
+        "quantity": 2,
+        "measure": "bag",
+        "food": "salad mix",
+        "weight": 520,
+        "foodCategory": "vegetables",
+        "foodId": "food_bqalyxzbzu04hcb8xj930bzar7xg",
+        "image": "https://www.edamam.com/food-img/b6d/b6d9f3052d27a3c71220cfa55c6f0a42.jpg"
+      },
+      {
+        "text": "1 container Carrot and celery sticks",
+        "quantity": 1,
+        "measure": "container",
+        "food": "Carrot",
+        "weight": 0,
+        "foodCategory": "vegetables",
+        "foodId": "food_ai215e5b85pdh5ajd4aafa3w2zm8",
+        "image": "https://www.edamam.com/food-img/121/121e33fce0bb9546ed7d060b6c114e29.jpg"
+      },
+      {
+        "text": "1 container Carrot and celery sticks",
+        "quantity": 1,
+        "measure": "stick",
+        "food": "celery",
+        "weight": 40,
+        "foodCategory": "vegetables",
+        "foodId": "food_bffeoksbyyur8ja4da73ub2xs57g",
+        "image": "https://www.edamam.com/food-img/d91/d91d2aed1c36d8fad54c4d7dc58f5a18.jpg"
+      },
+      {
+        "text": "1 takeout order chicken fingers",
+        "quantity": 1,
+        "measure": "<unit>",
+        "food": "chicken",
+        "weight": 1200,
+        "foodCategory": "Poultry",
+        "foodId": "food_bmyxrshbfao9s1amjrvhoauob6mo",
+        "image": "https://www.edamam.com/food-img/d33/d338229d774a743f7858f6764e095878.jpg"
+      },
+      {
+        "text": "2 tbsp. cayenne pepper sauce",
+        "quantity": 2,
+        "measure": "tablespoon",
+        "food": "pepper sauce",
+        "weight": 28.79999999805231,
+        "foodCategory": "canned soup",
+        "foodId": "food_a6201h1bu1m0tfbrvis6ma6nvhzv",
+        "image": "https://www.edamam.com/food-img/946/946c38a4c278da4361d2615d653d685a.jpg"
+      },
+      {
+        "text": "0.50 c. blue cheese salad dressing",
+        "quantity": 0.5,
+        "measure": "cup",
+        "food": "blue cheese salad dressing",
+        "weight": 122.5,
+        "foodCategory": "Condiments and sauces",
+        "foodId": "food_a7uejbga4bjcztbe4naceb72mnwf",
+        "image": "https://www.edamam.com/food-img/06f/06fde1f5c1a30fbc87e0a5c0052ba4dd.jpg"
+      }
+    ],
+    "uri": "http://www.edamam.com/ontologies/edamam.owl#recipe_087a8931b23d89b0e64236e7b3b52e2e",
+    "image": "https://edamam-product-images.s3.amazonaws.com/web-img/b5b/b5baa361c0a1dfdf08d13f13c3a513d9?X-Amz-Security-Token=IQoJb3JpZ2luX2VjEGsaCXVzLWVhc3QtMSJHMEUCIC5EcVohn5KOF%2BqsJMnWN15QAQiEjniqRzrDkKyFbnySAiEAklir9G9lxG0xv0NtH%2BbNUzcDusmggahGna36Vka0pfsqwQUIs%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FARAAGgwxODcwMTcxNTA5ODYiDE38n9doIwHPgmHkWCqVBbisrUc9re%2F9CDcggsOnHnBDSRivSr3n%2FpYDQwMNPvf0SYUmrug6XHTenjdFdVWV1Ff4x%2FBsbtdGVuGulJC598dBW%2FIXmHxB4RjkYiS0v%2BNR9rt8jcBLiQUdFZ1UDal6PePuO4XlD02vZtgzOL2rjk1S1%2FRf02SGPYJDSeRFq6YjIqTzCh0jJZTg0%2FA3mMwFzUHaQfuQhzaODUHy1ebxM9d9XMiSmONtMNlrIpIOojhoDIOugj9wpKzV1B4G2F%2FqIWaDFP25ylNKNxv88Xm00chUeTkgDxIn0%2BqyokvCIZdkiTHYWrZx9j%2B7gtiIywqN4eoqf48CItxwd3eZ71tpbn8KAdJRsFADWtqRn6XaPyfWjEnaZusqQyD%2FM5IgFH8v7T7kORlhTNQqvu3qWAZeMYp6hUGrDS%2FF7XZuXXkQ9yzH4skZOOMi6r1nr0sCJrML1oDJvC7Q7IsuvUWJPtpZVHDhzi8aUFs%2F2N8ILHtfUhPKIRzDCuh9FVjGw99civG%2BPOzyxr8RdH7%2FBMXZn%2B1WacULKtWF1byJOq56cJr48nuUeFCUM6pc2T6B50aVoJ9Gz5mPJtrrDmxRwPP3gRaKs%2BjhgPZ2p7zF7m7UbnvAzsnKmT6ea9fdY9eOAlr%2FVVEFAej3tXqn%2BRExSPcoysRWrzlGdsGFyCIb4LnjHQN3x8ndZ2m3BlYfR4pzXkXPytgvuQEcM7a3rznYy74k8Tf4m5AmnC92WA0MQ7C6%2BkvAO04Dhs06NMw8rJU8BgjyGK%2B%2F8PH9%2FFvH2PwUnqOVlkRSXlV1JtA70t5Kj6MYcZ3zB8jMYefoRof3Yo72ahjXkanHysD141KKoDO2UX3DxRT3zwC%2B7JvAZjqahjJyrfNtPsg%2FrNyahrUw17jgqgY6sQGeksuY%2F97zXR%2BobwqmxhruCnjVQr%2BL2fGGQNCFMEuHGe6Qqw57JcQ2csndirt5ZrsgvI37Rll9JHP3FXR2svQVNgb6%2BxCZWqynfWvMKZDTFTSVmUtYaqez1LlAuKXnuqJW2j8Han1M%2BhZGYZhwmUyADyPiBl0N2JHAR%2BMfdYrmkWOG2mNDMiJrkrBkg5SmzABy3VtH3F46kLOE0hf3Mgbc6VKYTVszV6sdIdys475UY1I%3D&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Date=20231118T025829Z&X-Amz-SignedHeaders=host&X-Amz-Expires=3600&X-Amz-Credential=ASIASXCYXIIFBUSCGD4D%2F20231118%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Signature=ccb907601a61f5e15e86889c2484d25ce60c58f95c559d858a9f66070e58c128",
+    "source": "Good Housekeeping",
+    "shareAs": "http://www.edamam.com/recipe/buffalo-chicken-salad-recipes-087a8931b23d89b0e64236e7b3b52e2e/salad",
+    "yield": 6,
+    "dietLabels": [],
+    "healthLabels": [
+      "Gluten-Free",
+      "Wheat-Free",
+      "Egg-Free",
+      "Peanut-Free",
+      "Tree-Nut-Free",
+      "Soy-Free",
+      "Fish-Free",
+      "Shellfish-Free",
+      "Pork-Free",
+      "Red-Meat-Free",
+      "Crustacean-Free",
+      "Mustard-Free",
+      "Sesame-Free",
+      "Lupine-Free",
+      "Mollusk-Free",
+      "Alcohol-Free",
+      "Sulfite-Free"
+    ],
+    "cautions": [
+      "Sulfites"
+    ],
+    "ingredientLines": [
+      "2 bag romaine salad mix",
+      "1 container Carrot and celery sticks",
+      "1 takeout order chicken fingers",
+      "2 tbsp. cayenne pepper sauce",
+      "0.50 c. blue cheese salad dressing"
+    ],
+    "calories": 3259.667999999786,
+    "totalWeight": 1911.2999999980523,
+    "totalTime": 10,
+    "cuisineType": [
+      "american"
+    ],
+    "mealType": [
+      "lunch/dinner"
+    ],
+    "dishType": [
+      "salad"
+    ]
+  },
+  {
+    "label": "Steak & chips salad",
+    "url": "https://www.bbcgoodfood.com/recipes/steak-chips-salad",
+    "ingredients": [
+      {
+        "text": "750g bag frozen potato wedges",
+        "quantity": 750,
+        "measure": "gram",
+        "food": "potato",
+        "weight": 750,
+        "foodCategory": "vegetables",
+        "foodId": "food_abiw5baauresjmb6xpap2bg3otzu",
+        "image": "https://www.edamam.com/food-img/651/6512e82417bce15c2899630c1a2799df.jpg"
+      },
+      {
+        "text": "1 tbsp olive oil",
+        "quantity": 1,
+        "measure": "tablespoon",
+        "food": "olive oil",
+        "weight": 13.5,
+        "foodCategory": "Oils",
+        "foodId": "food_b1d1icuad3iktrbqby0hiagafaz7",
+        "image": "https://www.edamam.com/food-img/4d6/4d651eaa8a353647746290c7a9b29d84.jpg"
+      },
+      {
+        "text": "2 pieces sirloin steak , about 350g/12oz in total",
+        "quantity": 2,
+        "measure": "<unit>",
+        "food": "sirloin steak",
+        "weight": 680,
+        "foodCategory": "meats",
+        "foodId": "food_aifm62daw1i6txalya881bcetyzn",
+        "image": "https://www.edamam.com/food-img/4f1/4f10105d5c8178f25590ca6dfcd37fca.jpg"
+      },
+      {
+        "text": "120g bag herb salad",
+        "quantity": 120,
+        "measure": "gram",
+        "food": "herb",
+        "weight": 120,
+        "foodCategory": "Condiments and sauces",
+        "foodId": "food_avsq22zadwyb5cb5sl1byaa4mbo8",
+        "image": "https://www.edamam.com/food-img/89b/89b37a04e46e052671d73addcb84aa51.jpg"
+      },
+      {
+        "text": "6 tbsp honey and mustard salad dressing , bought or homemade",
+        "quantity": 6,
+        "measure": "tablespoon",
+        "food": "salad dressing",
+        "weight": 96,
+        "foodCategory": "Condiments and sauces",
+        "foodId": "food_a67f1v3boelh4wasob4qib34t5bv",
+        "image": "https://www.edamam.com/food-img/241/24178db68d42001caf980f8f209534cb.jpg"
+      }
+    ],
+    "uri": "http://www.edamam.com/ontologies/edamam.owl#recipe_7db5997d6132896155b9ebeb0bc596ad",
+    "image": "https://edamam-product-images.s3.amazonaws.com/web-img/4a2/4a2bc6e663b5fb8fcc91f425398ef0f0.jpg?X-Amz-Security-Token=IQoJb3JpZ2luX2VjEGsaCXVzLWVhc3QtMSJHMEUCIC5EcVohn5KOF%2BqsJMnWN15QAQiEjniqRzrDkKyFbnySAiEAklir9G9lxG0xv0NtH%2BbNUzcDusmggahGna36Vka0pfsqwQUIs%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FARAAGgwxODcwMTcxNTA5ODYiDE38n9doIwHPgmHkWCqVBbisrUc9re%2F9CDcggsOnHnBDSRivSr3n%2FpYDQwMNPvf0SYUmrug6XHTenjdFdVWV1Ff4x%2FBsbtdGVuGulJC598dBW%2FIXmHxB4RjkYiS0v%2BNR9rt8jcBLiQUdFZ1UDal6PePuO4XlD02vZtgzOL2rjk1S1%2FRf02SGPYJDSeRFq6YjIqTzCh0jJZTg0%2FA3mMwFzUHaQfuQhzaODUHy1ebxM9d9XMiSmONtMNlrIpIOojhoDIOugj9wpKzV1B4G2F%2FqIWaDFP25ylNKNxv88Xm00chUeTkgDxIn0%2BqyokvCIZdkiTHYWrZx9j%2B7gtiIywqN4eoqf48CItxwd3eZ71tpbn8KAdJRsFADWtqRn6XaPyfWjEnaZusqQyD%2FM5IgFH8v7T7kORlhTNQqvu3qWAZeMYp6hUGrDS%2FF7XZuXXkQ9yzH4skZOOMi6r1nr0sCJrML1oDJvC7Q7IsuvUWJPtpZVHDhzi8aUFs%2F2N8ILHtfUhPKIRzDCuh9FVjGw99civG%2BPOzyxr8RdH7%2FBMXZn%2B1WacULKtWF1byJOq56cJr48nuUeFCUM6pc2T6B50aVoJ9Gz5mPJtrrDmxRwPP3gRaKs%2BjhgPZ2p7zF7m7UbnvAzsnKmT6ea9fdY9eOAlr%2FVVEFAej3tXqn%2BRExSPcoysRWrzlGdsGFyCIb4LnjHQN3x8ndZ2m3BlYfR4pzXkXPytgvuQEcM7a3rznYy74k8Tf4m5AmnC92WA0MQ7C6%2BkvAO04Dhs06NMw8rJU8BgjyGK%2B%2F8PH9%2FFvH2PwUnqOVlkRSXlV1JtA70t5Kj6MYcZ3zB8jMYefoRof3Yo72ahjXkanHysD141KKoDO2UX3DxRT3zwC%2B7JvAZjqahjJyrfNtPsg%2FrNyahrUw17jgqgY6sQGeksuY%2F97zXR%2BobwqmxhruCnjVQr%2BL2fGGQNCFMEuHGe6Qqw57JcQ2csndirt5ZrsgvI37Rll9JHP3FXR2svQVNgb6%2BxCZWqynfWvMKZDTFTSVmUtYaqez1LlAuKXnuqJW2j8Han1M%2BhZGYZhwmUyADyPiBl0N2JHAR%2BMfdYrmkWOG2mNDMiJrkrBkg5SmzABy3VtH3F46kLOE0hf3Mgbc6VKYTVszV6sdIdys475UY1I%3D&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Date=20231118T025829Z&X-Amz-SignedHeaders=host&X-Amz-Expires=3600&X-Amz-Credential=ASIASXCYXIIFBUSCGD4D%2F20231118%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Signature=9b1089dd4389c9a977160b88723dfb64bb3702ab2d24065c369d4277ac5035dd",
+    "source": "BBC Good Food",
+    "shareAs": "http://www.edamam.com/recipe/steak-chips-salad-7db5997d6132896155b9ebeb0bc596ad/salad",
+    "yield": 4,
+    "dietLabels": [
+      "High-Fiber",
+      "Low-Sodium"
+    ],
+    "healthLabels": [
+      "Sugar-Conscious",
+      "Dairy-Free",
+      "Gluten-Free",
+      "Wheat-Free",
+      "Egg-Free",
+      "Peanut-Free",
+      "Tree-Nut-Free",
+      "Soy-Free",
+      "Fish-Free",
+      "Shellfish-Free",
+      "Pork-Free",
+      "Crustacean-Free",
+      "Celery-Free",
+      "Sesame-Free",
+      "Lupine-Free",
+      "Mollusk-Free",
+      "Alcohol-Free"
+    ],
+    "cautions": [
+      "Sulfites",
+      "FODMAP"
+    ],
+    "ingredientLines": [
+      "750g bag frozen potato wedges",
+      "1 tbsp olive oil",
+      "2 pieces sirloin steak , about 350g/12oz in total",
+      "120g bag herb salad",
+      "6 tbsp honey and mustard salad dressing , bought or homemade"
+    ],
+    "calories": 2914.2799999999997,
+    "totalWeight": 1659.5,
+    "totalTime": 0,
+    "cuisineType": [
+      "american"
+    ],
+    "mealType": [
+      "lunch/dinner"
+    ],
+    "dishType": [
+      "salad"
+    ]
+  },
+  {
+    "label": "Chicken Salad With Mango & Basil",
+    "url": "http://www.sfgate.com/food/recipes/detail.html?rid=14131&sorig=qs",
+    "ingredients": [
+      {
+        "text": "1 small cooked rotisserie chicken (about 1 1/2 pounds)",
+        "quantity": 1.5,
+        "measure": "pound",
+        "food": "chicken",
+        "weight": 680.388555,
+        "foodCategory": "Poultry",
+        "foodId": "food_bmyxrshbfao9s1amjrvhoauob6mo",
+        "image": "https://www.edamam.com/food-img/d33/d338229d774a743f7858f6764e095878.jpg"
+      },
+      {
+        "text": "3 tablespoons red wine or raspberry vinegar",
+        "quantity": 3,
+        "measure": "tablespoon",
+        "food": "red wine",
+        "weight": 44.0999999992544,
+        "foodCategory": "wines",
+        "foodId": "food_b5q0xv2ba8la5hbzdfzdgaca3fwu",
+        "image": "https://www.edamam.com/food-img/82b/82b8d0db2d5c38fc7498a657c0afc4ee.JPG"
+      },
+      {
+        "text": "3 tablespoons fresh basil, minced",
+        "quantity": 3,
+        "measure": "tablespoon",
+        "food": "fresh basil",
+        "weight": 7.949999999999999,
+        "foodCategory": "Condiments and sauces",
+        "foodId": "food_bfeht3obd58c3gak5ehpibxgbbs6",
+        "image": "https://www.edamam.com/food-img/5f1/5f1b05685ac2b404236a5d1c1f3c8c10.jpg"
+      },
+      {
+        "text": "Pinch sugar",
+        "quantity": 1,
+        "measure": "pinch",
+        "food": "sugar",
+        "weight": 0.2604166669968817,
+        "foodCategory": "sugars",
+        "foodId": "food_axi2ijobrk819yb0adceobnhm1c2",
+        "image": "https://www.edamam.com/food-img/ecb/ecb3f5aaed96d0188c21b8369be07765.jpg"
+      },
+      {
+        "text": "3 tablespoons vegetable oil",
+        "quantity": 3,
+        "measure": "tablespoon",
+        "food": "vegetable oil",
+        "weight": 42,
+        "foodCategory": "Oils",
+        "foodId": "food_bt1mzi2ah2sfg8bv7no1qai83w8s",
+        "image": "https://www.edamam.com/food-img/6e5/6e51a63a6300a8ea1b4c4cc68dfaba33.jpg"
+      },
+      {
+        "text": "Salt and pepper, to taste",
+        "quantity": 0,
+        "measure": null,
+        "food": "Salt",
+        "weight": 8.725165217497509,
+        "foodCategory": "Condiments and sauces",
+        "foodId": "food_btxz81db72hwbra2pncvebzzzum9",
+        "image": "https://www.edamam.com/food-img/694/6943ea510918c6025795e8dc6e6eaaeb.jpg"
+      },
+      {
+        "text": "Salt and pepper, to taste",
+        "quantity": 0,
+        "measure": null,
+        "food": "pepper",
+        "weight": 4.362582608748754,
+        "foodCategory": "Condiments and sauces",
+        "foodId": "food_b6ywzluaaxv02wad7s1r9ag4py89",
+        "image": "https://www.edamam.com/food-img/c6e/c6e5c3bd8d3bc15175d9766971a4d1b2.jpg"
+      },
+      {
+        "text": "1 mango, mostly ripe but still firm",
+        "quantity": 1,
+        "measure": "<unit>",
+        "food": "mango",
+        "weight": 336,
+        "foodCategory": "fruit",
+        "foodId": "food_an1dqoib8xj3tyb3pr7c0abi4rbw",
+        "image": "https://www.edamam.com/food-img/6e0/6e04857756d0876f14bfc035ff238e0b.png"
+      },
+      {
+        "text": "10-ounce bag hearty salad mix, including radicchio",
+        "quantity": 10,
+        "measure": "ounce",
+        "food": "salad mix",
+        "weight": 283.49523125,
+        "foodCategory": "vegetables",
+        "foodId": "food_bqalyxzbzu04hcb8xj930bzar7xg",
+        "image": "https://www.edamam.com/food-img/b6d/b6d9f3052d27a3c71220cfa55c6f0a42.jpg"
+      },
+      {
+        "text": "1 1/2 cups garlic croutons",
+        "quantity": 1.5,
+        "measure": "cup",
+        "food": "garlic croutons",
+        "weight": 60,
+        "foodCategory": "bread, rolls and tortillas",
+        "foodId": "food_ad9psyqap98pmrar3z9qvaw0qpio",
+        "image": "https://www.edamam.com/food-img/6f2/6f298bb7171f1c62384d9489bb60d45a.jpg"
+      }
+    ],
+    "uri": "http://www.edamam.com/ontologies/edamam.owl#recipe_bd76f186805e4a9f4312516038f07e0e",
+    "image": "https://edamam-product-images.s3.amazonaws.com/web-img/a44/a44d07f61756a1be3766687067e5eb36.jpg?X-Amz-Security-Token=IQoJb3JpZ2luX2VjEGsaCXVzLWVhc3QtMSJHMEUCIC5EcVohn5KOF%2BqsJMnWN15QAQiEjniqRzrDkKyFbnySAiEAklir9G9lxG0xv0NtH%2BbNUzcDusmggahGna36Vka0pfsqwQUIs%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FARAAGgwxODcwMTcxNTA5ODYiDE38n9doIwHPgmHkWCqVBbisrUc9re%2F9CDcggsOnHnBDSRivSr3n%2FpYDQwMNPvf0SYUmrug6XHTenjdFdVWV1Ff4x%2FBsbtdGVuGulJC598dBW%2FIXmHxB4RjkYiS0v%2BNR9rt8jcBLiQUdFZ1UDal6PePuO4XlD02vZtgzOL2rjk1S1%2FRf02SGPYJDSeRFq6YjIqTzCh0jJZTg0%2FA3mMwFzUHaQfuQhzaODUHy1ebxM9d9XMiSmONtMNlrIpIOojhoDIOugj9wpKzV1B4G2F%2FqIWaDFP25ylNKNxv88Xm00chUeTkgDxIn0%2BqyokvCIZdkiTHYWrZx9j%2B7gtiIywqN4eoqf48CItxwd3eZ71tpbn8KAdJRsFADWtqRn6XaPyfWjEnaZusqQyD%2FM5IgFH8v7T7kORlhTNQqvu3qWAZeMYp6hUGrDS%2FF7XZuXXkQ9yzH4skZOOMi6r1nr0sCJrML1oDJvC7Q7IsuvUWJPtpZVHDhzi8aUFs%2F2N8ILHtfUhPKIRzDCuh9FVjGw99civG%2BPOzyxr8RdH7%2FBMXZn%2B1WacULKtWF1byJOq56cJr48nuUeFCUM6pc2T6B50aVoJ9Gz5mPJtrrDmxRwPP3gRaKs%2BjhgPZ2p7zF7m7UbnvAzsnKmT6ea9fdY9eOAlr%2FVVEFAej3tXqn%2BRExSPcoysRWrzlGdsGFyCIb4LnjHQN3x8ndZ2m3BlYfR4pzXkXPytgvuQEcM7a3rznYy74k8Tf4m5AmnC92WA0MQ7C6%2BkvAO04Dhs06NMw8rJU8BgjyGK%2B%2F8PH9%2FFvH2PwUnqOVlkRSXlV1JtA70t5Kj6MYcZ3zB8jMYefoRof3Yo72ahjXkanHysD141KKoDO2UX3DxRT3zwC%2B7JvAZjqahjJyrfNtPsg%2FrNyahrUw17jgqgY6sQGeksuY%2F97zXR%2BobwqmxhruCnjVQr%2BL2fGGQNCFMEuHGe6Qqw57JcQ2csndirt5ZrsgvI37Rll9JHP3FXR2svQVNgb6%2BxCZWqynfWvMKZDTFTSVmUtYaqez1LlAuKXnuqJW2j8Han1M%2BhZGYZhwmUyADyPiBl0N2JHAR%2BMfdYrmkWOG2mNDMiJrkrBkg5SmzABy3VtH3F46kLOE0hf3Mgbc6VKYTVszV6sdIdys475UY1I%3D&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Date=20231118T025829Z&X-Amz-SignedHeaders=host&X-Amz-Expires=3600&X-Amz-Credential=ASIASXCYXIIFBUSCGD4D%2F20231118%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Signature=e509d094c5b7596e70b6e76aab11df229624d14b725343bd3059b3b3bb075210",
+    "source": "San Francisco Gate",
+    "shareAs": "http://www.edamam.com/recipe/chicken-salad-with-mango-basil-bd76f186805e4a9f4312516038f07e0e/salad",
+    "yield": 8,
+    "dietLabels": [],
+    "healthLabels": [
+      "Dairy-Free",
+      "Egg-Free",
+      "Peanut-Free",
+      "Tree-Nut-Free",
+      "Soy-Free",
+      "Fish-Free",
+      "Shellfish-Free",
+      "Pork-Free",
+      "Red-Meat-Free",
+      "Crustacean-Free",
+      "Celery-Free",
+      "Mustard-Free",
+      "Sesame-Free",
+      "Lupine-Free",
+      "Mollusk-Free",
+      "Kosher"
+    ],
+    "cautions": [
+      "Sulfites"
+    ],
+    "ingredientLines": [
+      "Dressing:",
+      "1 small cooked rotisserie chicken (about 1 1/2 pounds)",
+      "3 tablespoons red wine or raspberry vinegar",
+      "3 tablespoons fresh basil, minced",
+      "Pinch sugar",
+      "3 tablespoons vegetable oil",
+      "Salt and pepper, to taste",
+      "Salad:",
+      "1 mango, mostly ripe but still firm",
+      "10-ounce bag hearty salad mix, including radicchio",
+      "1 1/2 cups garlic croutons"
+    ],
+    "calories": 1940.4037469461034,
+    "totalWeight": 1464.1863831950627,
+    "totalTime": 0,
+    "cuisineType": [
+      "american"
+    ],
+    "mealType": [
+      "lunch/dinner"
+    ],
+    "dishType": [
+      "salad"
+    ]
+  }
+]

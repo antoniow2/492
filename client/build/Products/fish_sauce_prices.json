@@ -1,0 +1,96 @@
+{
+  "data": [
+    {
+      "productId": "0003915600045",
+      "brand": "Louisiana Fish Fry",
+      "upc": "0003915600045",
+      "price": [
+        {
+          "regular": 3.49,
+          "promo": 2.69
+        }
+      ]
+    },
+    {
+      "productId": "0003915600046",
+      "brand": "Louisiana Fish Fry",
+      "upc": "0003915600046",
+      "price": [
+        {
+          "regular": 3.49,
+          "promo": 0
+        }
+      ]
+    },
+    {
+      "productId": "0073621160538",
+      "brand": "Red Boat",
+      "upc": "0073621160538",
+      "price": [
+        null
+      ]
+    },
+    {
+      "productId": "0007084400528",
+      "brand": "Ka-Me",
+      "upc": "0007084400528",
+      "price": [
+        null
+      ]
+    },
+    {
+      "productId": "1073621160538",
+      "brand": "Red Boat",
+      "upc": "1073621160538",
+      "price": [
+        null
+      ]
+    },
+    {
+      "productId": "0073762800100",
+      "brand": "Thai Kitchen",
+      "upc": "0073762800100",
+      "price": [
+        {
+          "regular": 4.49,
+          "promo": 0
+        }
+      ]
+    },
+    {
+      "productId": "0003915600048",
+      "brand": "Louisiana Fish Fry",
+      "upc": "0003915600048",
+      "price": [
+        {
+          "regular": 3.49,
+          "promo": 0
+        }
+      ]
+    },
+    {
+      "productId": "0007142910525",
+      "brand": "Zatarain's",
+      "upc": "0007142910525",
+      "price": [
+        null
+      ]
+    },
+    {
+      "productId": "1073762800100",
+      "brand": "Thai Kitchen",
+      "upc": "1073762800100",
+      "price": [
+        null
+      ]
+    },
+    {
+      "productId": "0081167003032",
+      "brand": "Ocean's Halo",
+      "upc": "0081167003032",
+      "price": [
+        null
+      ]
+    }
+  ]
+}

@@ -1,0 +1,47 @@
+{
+  "data": [
+    {
+      "productId": "1001115202140",
+      "brand": "Kikkoman",
+      "upc": "1001115202140",
+      "price": [
+        null
+      ]
+    },
+    {
+      "productId": "3001115202140",
+      "brand": "Kikkoman",
+      "upc": "3001115202140",
+      "price": [
+        null
+      ]
+    },
+    {
+      "productId": "0001115202140",
+      "brand": "Kikkoman",
+      "upc": "0001115202140",
+      "price": [
+        {
+          "regular": 4.99,
+          "promo": 0
+        }
+      ]
+    },
+    {
+      "productId": "0070788151003",
+      "brand": "Ohsawa",
+      "upc": "0070788151003",
+      "price": [
+        null
+      ]
+    },
+    {
+      "productId": "0002418200048",
+      "brand": "Eden",
+      "upc": "0002418200048",
+      "price": [
+        null
+      ]
+    }
+  ]
+}

@@ -1,0 +1,108 @@
+{
+  "data": [
+    {
+      "productId": "0007175810158",
+      "brand": "Fiesta",
+      "upc": "0007175810158",
+      "price": [
+        {
+          "regular": 1.69,
+          "promo": 0
+        }
+      ]
+    },
+    {
+      "productId": "0001111011752",
+      "brand": "Smart Way",
+      "upc": "0001111011752",
+      "price": [
+        {
+          "regular": 1.25,
+          "promo": 0
+        }
+      ]
+    },
+    {
+      "productId": "0008983618521",
+      "brand": "Simply Organic",
+      "upc": "0008983618521",
+      "price": [
+        null
+      ]
+    },
+    {
+      "productId": "0001111074491",
+      "brand": "Private Selection",
+      "upc": "0001111074491",
+      "price": [
+        {
+          "regular": 3.79,
+          "promo": 0
+        }
+      ]
+    },
+    {
+      "productId": "0003384400009",
+      "brand": "Badia",
+      "upc": "0003384400009",
+      "price": [
+        null
+      ]
+    },
+    {
+      "productId": "0001111068292",
+      "brand": "Kroger",
+      "upc": "0001111068292",
+      "price": [
+        {
+          "regular": 2.49,
+          "promo": 2.49
+        }
+      ]
+    },
+    {
+      "productId": "0005210082791",
+      "brand": "McCormick",
+      "upc": "0005210082791",
+      "price": [
+        {
+          "regular": 5.49,
+          "promo": 5.49
+        }
+      ]
+    },
+    {
+      "productId": "0001111002402",
+      "brand": "Simple Truth Organic",
+      "upc": "0001111002402",
+      "price": [
+        {
+          "regular": 2.79,
+          "promo": 0
+        }
+      ]
+    },
+    {
+      "productId": "0001732400266",
+      "brand": "Spice Islands",
+      "upc": "0001732400266",
+      "price": [
+        {
+          "regular": 4.99,
+          "promo": 4.99
+        }
+      ]
+    },
+    {
+      "productId": "0001111001996",
+      "brand": "Kroger",
+      "upc": "0001111001996",
+      "price": [
+        {
+          "regular": 3.99,
+          "promo": 0
+        }
+      ]
+    }
+  ]
+}

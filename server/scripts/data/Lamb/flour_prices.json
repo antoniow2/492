@@ -1,0 +1,114 @@
+{
+  "data": [
+    {
+      "productId": "0007101204105",
+      "brand": "King Arthur Flour",
+      "upc": "0007101204105",
+      "price": [
+        {
+          "regular": 6.49,
+          "promo": 5.49
+        }
+      ]
+    },
+    {
+      "productId": "0001111085402",
+      "brand": "Kroger",
+      "upc": "0001111085402",
+      "price": [
+        {
+          "regular": 2.69,
+          "promo": 2.5
+        }
+      ]
+    },
+    {
+      "productId": "0001111085401",
+      "brand": "Kroger",
+      "upc": "0001111085401",
+      "price": [
+        {
+          "regular": 1.79,
+          "promo": 0
+        }
+      ]
+    },
+    {
+      "productId": "0001111086116",
+      "brand": "Kroger",
+      "upc": "0001111086116",
+      "price": [
+        {
+          "regular": 2.69,
+          "promo": 2.5
+        }
+      ]
+    },
+    {
+      "productId": "0001600010710",
+      "brand": "Gold Medal",
+      "upc": "0001600010710",
+      "price": [
+        {
+          "regular": 3.29,
+          "promo": 0
+        }
+      ]
+    },
+    {
+      "productId": "0007101201050",
+      "brand": "King Arthur Flour",
+      "upc": "0007101201050",
+      "price": [
+        {
+          "regular": 5.99,
+          "promo": 4.99
+        }
+      ]
+    },
+    {
+      "productId": "0007101208104",
+      "brand": "King Arthur Flour",
+      "upc": "0007101208104",
+      "price": [
+        {
+          "regular": 9.49,
+          "promo": 7.99
+        }
+      ]
+    },
+    {
+      "productId": "0007101208006",
+      "brand": "King Arthur Flour",
+      "upc": "0007101208006",
+      "price": [
+        {
+          "regular": 9.49,
+          "promo": 7.99
+        }
+      ]
+    },
+    {
+      "productId": "0001600010610",
+      "brand": "Gold Medal",
+      "upc": "0001600010610",
+      "price": [
+        {
+          "regular": 4.49,
+          "promo": 3.99
+        }
+      ]
+    },
+    {
+      "productId": "0007101205100",
+      "brand": "King Arthur Flour",
+      "upc": "0007101205100",
+      "price": [
+        {
+          "regular": 11.99,
+          "promo": 0
+        }
+      ]
+    }
+  ]
+}

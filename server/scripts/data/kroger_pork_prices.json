@@ -1,0 +1,111 @@
+{
+  "data": [
+    {
+      "productId": "0028329950000",
+      "upc": "0028329950000",
+      "price": [
+        {
+          "regular": 5.49,
+          "promo": 3.99,
+          "regularPerUnitEstimate": 1.59,
+          "promoPerUnitEstimate": 1.16
+        }
+      ]
+    },
+    {
+      "productId": "0020347500000",
+      "upc": "0020347500000",
+      "price": [
+        {
+          "regular": 2.99,
+          "promo": 0,
+          "regularPerUnitEstimate": 2.99
+        }
+      ]
+    },
+    {
+      "productId": "0001111062642",
+      "upc": "0001111062642",
+      "price": [
+        {
+          "regular": 8.99,
+          "promo": 0
+        }
+      ]
+    },
+    {
+      "productId": "0001111097275",
+      "upc": "0001111097275",
+      "price": [
+        {
+          "regular": 4.99,
+          "promo": 0
+        }
+      ]
+    },
+    {
+      "productId": "0001111016633",
+      "upc": "0001111016633",
+      "price": [
+        {
+          "regular": 10,
+          "promo": 0
+        }
+      ]
+    },
+    {
+      "productId": "0020799300000",
+      "upc": "0020799300000",
+      "price": [
+        {
+          "regular": 2.69,
+          "promo": 0,
+          "regularPerUnitEstimate": 2.69
+        }
+      ]
+    },
+    {
+      "productId": "0001111050131",
+      "upc": "0001111050131",
+      "price": [
+        {
+          "regular": 5.49,
+          "promo": 3.99
+        }
+      ]
+    },
+    {
+      "productId": "0026329950000",
+      "upc": "0026329950000",
+      "price": [
+        {
+          "regular": 5.49,
+          "promo": 3.99,
+          "regularPerUnitEstimate": 1.59,
+          "promoPerUnitEstimate": 1.16
+        }
+      ]
+    },
+    {
+      "productId": "0001111097434",
+      "upc": "0001111097434",
+      "price": [
+        {
+          "regular": 8.99,
+          "promo": 0
+        }
+      ]
+    },
+    {
+      "productId": "0029315150000",
+      "upc": "0029315150000",
+      "price": [
+        {
+          "regular": 4.79,
+          "promo": 0,
+          "regularPerUnitEstimate": 4.79
+        }
+      ]
+    }
+  ]
+}

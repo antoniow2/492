@@ -1,0 +1,718 @@
+[
+  {
+    "recipeName": "Lamb Sausages",
+    "ingredients": [
+      {
+        "food": "olive oil",
+        "quantity": 1,
+        "measure": "tablespoon"
+      },
+      {
+        "food": "lamb sausages",
+        "quantity": 6,
+        "measure": "<unit>"
+      },
+      {
+        "food": "Lime",
+        "quantity": 1,
+        "measure": "wedge"
+      }
+    ],
+    "healthLabels": [
+      "SugarConscious",
+      "KidneyFriendly",
+      "KetoFriendly",
+      "Paleo",
+      "Mediterranean",
+      "DairyFree",
+      "GlutenFree",
+      "WheatFree",
+      "EggFree",
+      "PeanutFree",
+      "TreeNutFree",
+      "SoyFree",
+      "FishFree",
+      "ShellfishFree",
+      "PorkFree",
+      "CrustaceanFree",
+      "CeleryFree",
+      "MustardFree",
+      "SesameFree",
+      "LupineFree",
+      "MolluskFree",
+      "AlcoholFree",
+      "SulfiteFree",
+      "FODMAPFree",
+      "Kosher"
+    ],
+    "totalTime": 15,
+    "instructions": [
+      "Heat oil in a large skillet over medium heat until hot but not smoking. Cook sausages, turning, until well browned but still slightly pink in center, about 12 minutes. Cut sausages on the diagonal into thirds. Serve with lime wedges."
+    ]
+  },
+  {
+    "recipeName": "Quick Lamb Biryani",
+    "ingredients": [
+      {
+        "food": "curry paste",
+        "quantity": 1,
+        "measure": "tablespoon"
+      },
+      {
+        "food": "lamb or chicken stock",
+        "quantity": 400,
+        "measure": "milliliter"
+      },
+      {
+        "food": "basmati rice",
+        "quantity": 200,
+        "measure": "gram"
+      },
+      {
+        "food": "lamb leg",
+        "quantity": 500,
+        "measure": "gram"
+      },
+      {
+        "food": "spinach",
+        "quantity": 200,
+        "measure": "gram"
+      }
+    ],
+    "healthLabels": [
+      "SugarConscious",
+      "DairyFree",
+      "GlutenFree",
+      "WheatFree",
+      "EggFree",
+      "PeanutFree",
+      "TreeNutFree",
+      "SoyFree",
+      "FishFree",
+      "ShellfishFree",
+      "PorkFree",
+      "CrustaceanFree",
+      "CeleryFree",
+      "MustardFree",
+      "SesameFree",
+      "LupineFree",
+      "MolluskFree",
+      "AlcoholFree",
+      "SulfiteFree"
+    ],
+    "totalTime": 50,
+    "instructions": [
+      "Bring stock to a simmer. Add curry paste and rice. Add cooked lamb leg and spinach. Simmer for 40 minutes and serve."
+    ]
+  },
+  {
+    "recipeName": "Roast Rack of Lamb",
+    "ingredients": [
+      {
+        "food": "racks of lamb",
+        "quantity": 1,
+        "measure": "rack"
+      },
+      {
+        "food": "Salt",
+        "quantity": 0,
+        "measure": null
+      },
+      {
+        "food": "Pepper",
+        "quantity": 0,
+        "measure": null
+      },
+      {
+        "food": "lamb stew meat",
+        "quantity": 1,
+        "measure": "pound"
+      },
+      {
+        "food": "onion",
+        "quantity": 0.5,
+        "measure": "<unit>"
+      },
+      {
+        "food": "chicken broth",
+        "quantity": 2,
+        "measure": "cup"
+      }
+    ],
+    "healthLabels": [
+      "SugarConscious",
+      "KetoFriendly",
+      "Paleo",
+      "DairyFree",
+      "GlutenFree",
+      "WheatFree",
+      "EggFree",
+      "PeanutFree",
+      "TreeNutFree",
+      "SoyFree",
+      "FishFree",
+      "ShellfishFree",
+      "CrustaceanFree",
+      "CeleryFree",
+      "MustardFree",
+      "SesameFree",
+      "LupineFree",
+      "MolluskFree",
+      "AlcoholFree",
+      "No oil added",
+      "SulfiteFree",
+      "Kosher"
+    ],
+    "totalTime": 50,
+    "instructions": [
+      "Let the rack(s) come to room temperature and season all over with salt and pepper. Preheat the oven to 450°F.",
+      "Spread the stew meat and onion on the bottom of a roasting pan just large enough to hold the rack(s). Place the rack(s) on top. Slide the pan into the oven and roast for about 25 minutes, or until an instant-read thermometer inserted into the center of the roast without touching bone reads 125°F to 130°F or until the meat feels firm when you press both ends of the rack(s).",
+      "Transfer the rack(s) to a platter or cutting board, tent loosely with aluminum foil, and let rest for 15 minutes before carving.",
+      "While the rack(s) are resting, make the jus. Put the roasting pan on the stove top over high heat and stir around the pieces of meat until the meat is browned and any juices have caramelized on the bottom of the pan. Discard the fat and return the pan to high heat. Deglaze the pan with 1/2 cup of the broth, scraping up any brown bits on the bottom of the pan with a wooden spoon. Boil down the broth until it caramelizes into a crusty brown layer with a layer of clear fat on top. Pour off the fat, return the pan to high heat, and deglaze the pan with a second 1/2 cup broth, again boiling it down. Deglaze the pan with the remaining 1 cup broth, stirring until the crust has dissolved into the liquid, and then strain the liquid through a fine-mesh strainer into a warmed sauceboat.",
+      "Carve the rack(s), cutting between the ribs. Pass the jus at the table."
+    ]
+  },
+  {
+    "recipeName": "Rosemary Crusted Lamb Chops recipes",
+    "ingredients": [
+      {
+        "food": "lamb chops",
+        "quantity": 1,
+        "measure": "pound"
+      },
+      {
+        "food": "fresh rosemary",
+        "quantity": 2,
+        "measure": "tablespoon"
+      },
+      {
+        "food": "salt",
+        "quantity": 2,
+        "measure": "teaspoon"
+      },
+      {
+        "food": "black pepper",
+        "quantity": 1,
+        "measure": "teaspoon"
+      },
+      {
+        "food": "garlic",
+        "quantity": 1,
+        "measure": "clove"
+      },
+      {
+        "food": "olive oil",
+        "quantity": 4,
+        "measure": "tablespoon"
+      }
+    ],
+    "healthLabels": [
+      "SugarConscious",
+      "KetoFriendly",
+      "Paleo",
+      "Mediterranean",
+      "DairyFree",
+      "GlutenFree",
+      "WheatFree",
+      "EggFree",
+      "PeanutFree",
+      "TreeNutFree",
+      "SoyFree",
+      "FishFree",
+      "ShellfishFree",
+      "PorkFree",
+      "CrustaceanFree",
+      "CeleryFree",
+      "MustardFree",
+      "SesameFree",
+      "LupineFree",
+      "MolluskFree",
+      "AlcoholFree",
+      "SulfiteFree",
+      "ImmunoSupportive"
+    ],
+    "totalTime": 50,
+    "instructions": [
+      "In a small bowl, mix the rosemary, salt, pepper, garlic, and 2 tablespoons of the olive oil together. Coat the lamb chops with the mixture, massaging it into the meat with your fingers. If you are working with double rib chops, cover and let stand at room temperature for 30 to 45 minutes. If you are working with single rib chops, and you want the result to be rare, let the chops sit in the rub in the refrigerator—do not let come to room temp or the thin ribs will easily overcook when you sear them in the next step. You can also marinate the chops in the fridge for up to 24 hours. (Allow double rib chops to stand at room temperature 30 to 40 minutes before cooking.)",
+      "Heat the remaining 2 tablespoons olive oil in an oven-proof sauté pan over high heat. When the oil is shimmering hot, sear the chops. Sear double rib chops on all sides about 2 to 3 minutes per side. If you are working with single rib chops, sear only on two sides, and only a minute (or less) on each side if you want the result to be rare or medium rare.",
+      "At this point, if you want your lamb chops rare, they are likely cooked enough. If you would like your chops more cooked, you can put them in a 400°F oven for 3 to 5 minutes, or keep them in the hot pan, lower the heat to warm, and cover the pan for a few minutes. Note that rib chops are so small, and cook so quickly, checking for internal temperature with a thermometer can be impractical. For this reason I use the finger test to check the doneness of the chops. That said, if you have an instant-read thermometer and want to check thick chops, aim for 125°F for rare, 135°F medium-rare, and 140°F for medium.",
+      "When done, remove the chops from the pan, cover with foil, and let rest 3 to 5 minutes before serving."
+    ]
+  },
+  {
+    "recipeName": "Köşk Kebabý (Lamb Kebabs With Eggplant)",
+    "ingredients": [
+      {
+        "food": "leg of lamb",
+        "quantity": 0.75,
+        "measure": "pound"
+      },
+      {
+        "food": "lamb fat",
+        "quantity": 1.5,
+        "measure": "ounce"
+      },
+      {
+        "food": "olive oil",
+        "quantity": 0.25,
+        "measure": "cup"
+      },
+      {
+        "food": "coarse salt",
+        "quantity": 1,
+        "measure": "teaspoon"
+      },
+      {
+        "food": "eggplants",
+        "quantity": 1.25,
+        "measure": "pound"
+      },
+      {
+        "food": "butter",
+        "quantity": 0.25,
+        "measure": "cup"
+      },
+      {
+        "food": "green pepper",
+        "quantity": 1,
+        "measure": "<unit>"
+      },
+      {
+        "food": "tomatoes",
+        "quantity": 2,
+        "measure": "<unit>"
+      },
+      {
+        "food": "lamb stock",
+        "quantity": 0.3333333333333333,
+        "measure": "cup"
+      },
+      {
+        "food": "cilantro leaves",
+        "quantity": 0.5,
+        "measure": "cup"
+      }
+    ],
+    "healthLabels": [
+      "KetoFriendly",
+      "EggFree",
+      "PeanutFree",
+      "TreeNutFree",
+      "SoyFree",
+      "FishFree",
+      "ShellfishFree",
+      "PorkFree",
+      "CrustaceanFree",
+      "CeleryFree",
+      "MustardFree",
+      "SesameFree",
+      "LupineFree",
+      "MolluskFree",
+      "AlcoholFree",
+      "SulfiteFree"
+    ],
+    "totalTime": 70,
+    "instructions": [
+      "Toss together lamb, fat, and oil in a shallow dish. Refrigerate for 24 hours. Drain, transfer to a bowl; discard oil. Add salt; toss to combine. Thread 1 piece fat between every 4–6 pieces lamb onto six 15–20 metal skewers; set aside.",
+      "Preheat oven to 400°. Arrange eggplant on a baking sheet in a single layer. Roast until soft, about 30 minutes. Let cool slightly; remove and discard skin. Transfer flesh to a medium bowl; mash smooth with a fork.",
+      "Melt butter in a large skillet over medium heat. Add peppers and cook until softened, 8–10 minutes. Add tomatoes and cook until most of the liquid has evaporated, 8–10 minutes. Add eggplant and salt to taste; stir to combine. Transfer to a serving platter. Preheat a grill to medium. Grill kebabs, turning and basting with stock occasionally, until golden brown, about 5 minutes. Slide meat and fat off onto eggplant mixture. Garnish with cilantro."
+    ]
+  },
+  {
+    "recipeName": "Lamb Meatballs",
+    "ingredients": [
+      {
+        "food": "ground lamb",
+        "quantity": 1,
+        "measure": "pound"
+      },
+      {
+        "food": "wheat",
+        "quantity": 1,
+        "measure": "cup"
+      },
+      {
+        "food": "parsley",
+        "quantity": 2,
+        "measure": "tablespoon"
+      },
+      {
+        "food": "dill",
+        "quantity": 1,
+        "measure": "tablespoon"
+      },
+      {
+        "food": "cinnamon",
+        "quantity": 1,
+        "measure": "teaspoon"
+      },
+      {
+        "food": "cumin",
+        "quantity": 1,
+        "measure": "teaspoon"
+      },
+      {
+        "food": "coriander",
+        "quantity": 1,
+        "measure": "teaspoon"
+      },
+      {
+        "food": "pine nuts",
+        "quantity": 2,
+        "measure": "tablespoon"
+      },
+      {
+        "food": "garlic",
+        "quantity": 1,
+        "measure": "clove"
+      },
+      {
+        "food": "Salt",
+        "quantity": 0,
+        "measure": null
+      }
+    ],
+    "healthLabels": [
+      "SugarConscious",
+      "Low Potassium",
+      "KidneyFriendly",
+      "KetoFriendly",
+      "Mediterranean",
+      "DairyFree",
+      "EggFree",
+      "PeanutFree",
+      "SoyFree",
+      "FishFree",
+      "ShellfishFree",
+      "PorkFree",
+      "CrustaceanFree",
+      "CeleryFree",
+      "MustardFree",
+      "SesameFree",
+      "LupineFree",
+      "MolluskFree",
+      "AlcoholFree",
+      "No oil added",
+      "SulfiteFree",
+      "Kosher"
+    ],
+    "totalTime": 53,
+    "instructions": [
+      "Preheat oven to 400.",
+      "Combine all ingredients in medium sized bowl with hands until well blended",
+      "Take 1-2 tablespoons filling, roll with hands into balls and place on foiled baking sheets",
+      "Bake until golden brown approximately 15 minutes"
+    ]
+  },
+  {
+    "recipeName": "Poached Lamb Shanks",
+    "ingredients": [
+      {
+        "food": "lamb shanks",
+        "quantity": 4,
+        "measure": "pound"
+      },
+      {
+        "food": "Kosher salt",
+        "quantity": 0.5,
+        "measure": "teaspoon"
+      },
+      {
+        "food": "yellow onion",
+        "quantity": 1,
+        "measure": "<unit>"
+      }
+    ],
+    "healthLabels": [
+      "SugarConscious",
+      "KetoFriendly",
+      "Paleo",
+      "Mediterranean",
+      "DairyFree",
+      "GlutenFree",
+      "WheatFree",
+      "EggFree",
+      "PeanutFree",
+      "TreeNutFree",
+      "SoyFree",
+      "FishFree",
+      "ShellfishFree",
+      "PorkFree",
+      "CrustaceanFree",
+      "CeleryFree",
+      "MustardFree",
+      "SesameFree",
+      "LupineFree",
+      "MolluskFree",
+      "AlcoholFree",
+      "No oil added",
+      "SulfiteFree"
+    ],
+    "totalTime": 80,
+    "instructions": [
+      "After chopping onion, mix with seasonings in a pot. Add lamb and back on 400 for 2 hours. Let cook and serve"
+    ]
+  },
+  {
+    "recipeName": "Lamb & cheese pie",
+    "ingredients": [
+      {
+        "food": "yeast",
+        "quantity": 7,
+        "measure": "gram"
+      },
+      {
+        "food": "flour",
+        "quantity": 650,
+        "measure": "gram"
+      },
+      {
+        "food": "olive oil",
+        "quantity": 0,
+        "measure": null
+      },
+      {
+        "food": "eggs",
+        "quantity": 2,
+        "measure": "<unit>"
+      },
+      {
+        "food": "LAMB",
+        "quantity": 0,
+        "measure": null
+      },
+      {
+        "food": "CHEESE",
+        "quantity": 0,
+        "measure": null
+      },
+      {
+        "food": "onion",
+        "quantity": 1,
+        "measure": "<unit>"
+      },
+      {
+        "food": "garlic",
+        "quantity": 2,
+        "measure": "clove"
+      },
+      {
+        "food": "spring onions",
+        "quantity": 6,
+        "measure": "<unit>"
+      },
+      {
+        "food": "lamb neck",
+        "quantity": 1.399999976158142,
+        "measure": "kilogram"
+      },
+      {
+        "food": "ground cinnamon",
+        "quantity": 1,
+        "measure": "teaspoon"
+      },
+      {
+        "food": "white wine",
+        "quantity": 100,
+        "measure": "milliliter"
+      },
+      {
+        "food": "eggs",
+        "quantity": 2,
+        "measure": "<unit>"
+      },
+      {
+        "food": "hard goat's cheese",
+        "quantity": 75,
+        "measure": "gram"
+      },
+      {
+        "food": "pecorino cheese",
+        "quantity": 180,
+        "measure": "gram"
+      },
+      {
+        "food": "swiss chard",
+        "quantity": 800,
+        "measure": "gram"
+      }
+    ],
+    "healthLabels": [
+      "Mediterranean",
+      "PeanutFree",
+      "TreeNutFree",
+      "SoyFree",
+      "FishFree",
+      "ShellfishFree",
+      "PorkFree",
+      "CrustaceanFree",
+      "CeleryFree",
+      "MustardFree",
+      "SesameFree",
+      "LupineFree",
+      "MolluskFree"
+    ],
+    "totalTime": 125,
+    "instructions": [
+      "Dissolve the yeast in 225ml of warm water and set aside for 5 minutes.",
+      "Combine the flour and 1 teaspoon of sea salt and make a well in the centre. Add the yeast mix and 2 tablespoons of oil. Beat and pour in the eggs, and stir with a wooden spoon until a dough forms.",
+      "Knead the dough on a lightly flour-dusted surface for 10 minutes, adding extra flour to the dough if it’s too sticky.",
+      "Lightly grease the bowl with oil, then return the dough to the bowl. Cover with a cloth and leave in a warm place for 1 hour, or until the dough has doubled in size.",
+      "To make the lamb and cheese filling, peel and thinly slice the onion. Peel and finely chop the garlic, then trim and chop the spring onions. Cut the lamb into cubes.",
+      "Heat 2 tablespoons of oil in a large pan, add the onion, garlic and spring onions and sauté for 5 minutes, or until softened. Remove from the pan.",
+      "Season the lamb and brown in the pan over a medium heat – you may need to do this in batches.",
+      "Stir in the cinnamon, then return the onion mixture to the pan. Add the white wine and 100ml of water, and stir to pick up the crispy bits on the base. Simmer for 30 minutes, with a lid on for the first 5 minutes.",
+      "Beat 1 egg in a bowl, then grate in the cheeses. Cook the spinach or chard in a large pan of boiling water, then drain and leave to cool.",
+      "Preheat the oven to 180ºC/gas 4. Lightly grease a 23cm springform tart tin with a little oil.",
+      "Divide the dough in half. Lightly flour a work surface and roll the first piece of dough into a circle, about 35cm wide.",
+      "Carefully place it into the tin, lightly pressing into the base and sides, leaving about 3cm of pastry hanging over the rim.",
+      "Spread half the lamb mixture over the base, followed by half the cheese mixture. Chop the cooled greens, then scatter half on top. Repeat with remaining ingredients.",
+      "Roll out the second piece of dough and place over the filling.",
+      "Trim the edges, but leave about 4cm of overhang, then roll it up and crimp the edges.",
+      "Make a hole in the centre of the pastry lid. Beat the remaining egg and brush over the pie, then bake for 45 to 50 minutes, or till golden.",
+      "Remove from the oven and let cool slightly. Serve with a mixed green salad."
+    ]
+  },
+  {
+    "recipeName": "Feta And Lemon Lamb",
+    "ingredients": [
+      {
+        "food": "lamb cutlets",
+        "quantity": 300,
+        "measure": "gram"
+      },
+      {
+        "food": "lemon",
+        "quantity": 4,
+        "measure": "<unit>"
+      },
+      {
+        "food": "oregano",
+        "quantity": 4,
+        "measure": "sprig"
+      },
+      {
+        "food": "feta",
+        "quantity": 4,
+        "measure": "slice"
+      },
+      {
+        "food": "olive oil",
+        "quantity": 0,
+        "measure": null
+      }
+    ],
+    "healthLabels": [
+      "SugarConscious",
+      "KidneyFriendly",
+      "KetoFriendly",
+      "Mediterranean",
+      "GlutenFree",
+      "WheatFree",
+      "EggFree",
+      "PeanutFree",
+      "TreeNutFree",
+      "SoyFree",
+      "FishFree",
+      "ShellfishFree",
+      "PorkFree",
+      "CrustaceanFree",
+      "CeleryFree",
+      "MustardFree",
+      "SesameFree",
+      "LupineFree",
+      "MolluskFree",
+      "AlcoholFree",
+      "SulfiteFree",
+      "FODMAPFree",
+      "ImmunoSupportive"
+    ],
+    "totalTime": 70,
+    "instructions": [
+      "mix all ingredients on the lamb and cook in the oven on 400 for 60 minutes. Let cool and serve"
+    ]
+  },
+  {
+    "recipeName": "Lamb Broth",
+    "ingredients": [
+      {
+        "food": "lamb bones",
+        "quantity": 1.5,
+        "measure": "pound"
+      },
+      {
+        "food": "onion",
+        "quantity": 1,
+        "measure": "<unit>"
+      },
+      {
+        "food": "carrot",
+        "quantity": 1,
+        "measure": "<unit>"
+      },
+      {
+        "food": "celery leaves",
+        "quantity": 0.5,
+        "measure": "cup"
+      },
+      {
+        "food": "parsley",
+        "quantity": 0.5,
+        "measure": "cup"
+      },
+      {
+        "food": "garlic",
+        "quantity": 1,
+        "measure": "clove"
+      },
+      {
+        "food": "salt",
+        "quantity": 1,
+        "measure": "teaspoon"
+      },
+      {
+        "food": "black peppercorns",
+        "quantity": 0,
+        "measure": null
+      }
+    ],
+    "healthLabels": [
+      "SugarConscious",
+      "Low Potassium",
+      "KidneyFriendly",
+      "KetoFriendly",
+      "Paleo",
+      "DairyFree",
+      "GlutenFree",
+      "WheatFree",
+      "EggFree",
+      "PeanutFree",
+      "TreeNutFree",
+      "SoyFree",
+      "FishFree",
+      "ShellfishFree",
+      "PorkFree",
+      "CrustaceanFree",
+      "CeleryFree",
+      "MustardFree",
+      "SesameFree",
+      "LupineFree",
+      "MolluskFree",
+      "AlcoholFree",
+      "No oil added",
+      "SulfiteFree",
+      "Kosher"
+    ],
+    "totalTime": 150,
+    "instructions": [
+      "To prepare soup: Place chickpeas in a large bowl. Add enough cold water to cover by 3 inches and let soak for 8 to 24 hours. (Alternatively, place chickpeas in a large saucepan and cover with 3 inches cold water. Bring to a boil and cook for 2 minutes. Remove from the heat. Let stand for 1 hour.) Drain.",
+      "Heat 2 teaspoons oil in 4-quart or larger pressure cooker over medium-high heat. Add onion and carrots; cook, stirring, until softened, 3 to 5 minutes. Add garlic, cumin, coriander and cayenne; cook, stirring, until fragrant, about 20 seconds. Remove from the heat.",
+      "Sprinkle lamb shank with salt and pepper. Heat the remaining 1 teaspoon oil in a medium skillet, preferably cast-iron, over medium heat. Add the lamb shank and cook, turning from time to time, until browned all over, 3 to 7 minutes. Transfer to the pressure cooker. Add broth, tomatoes, bay leaves and the chickpeas.",
+      "Secure the pressure cooker lid. Bring to high pressure over high heat following manufacturer's directions. Reduce the heat to the lowest setting that maintains high pressure. Cook for 35 minutes.",
+      "Meanwhile, place bulgur in a medium bowl. Cover with boiling water and let stand for 15 minutes. Drain in a sieve, pressing out excess water.",
+      "Let the pressure release naturally. This will take 5 to 20 minutes.",
+      "To prepare pesto: Meanwhile, process mint, pistachios and garlic in a food processor until finely chopped. With the motor running, gradually add oil, lemon juice and yogurt through the feed tube. Process until the mixture forms a paste. If using unsalted pistachios, add salt, if desired.",
+      "When the pressure has released, discard bay leaves. Skim fat from the surface of the soup. Using tongs, transfer the lamb shank to a clean cutting board. When cool enough to handle, coarsely shred the lamb meat and return it to the soup. Add the drained bulgur. Heat through. Stir in lemon juice. Dollop some pesto onto each serving."
+    ]
+  }
+]

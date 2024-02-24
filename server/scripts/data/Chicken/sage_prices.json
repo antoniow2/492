@@ -1,0 +1,102 @@
+{
+  "data": [
+    {
+      "productId": "0008105701890",
+      "brand": "The Spice Hunter",
+      "upc": "0008105701890",
+      "price": [
+        null
+      ]
+    },
+    {
+      "productId": "0001732400284",
+      "brand": "Spice Islands",
+      "upc": "0001732400284",
+      "price": [
+        {
+          "regular": 8.49,
+          "promo": 8.49
+        }
+      ]
+    },
+    {
+      "productId": "0005210000386",
+      "brand": "McCormick",
+      "upc": "0005210000386",
+      "price": [
+        {
+          "regular": 7.49,
+          "promo": 0
+        }
+      ]
+    },
+    {
+      "productId": "0074956934554",
+      "brand": "Frontier Natural Products Co-op",
+      "upc": "0074956934554",
+      "price": [
+        null
+      ]
+    },
+    {
+      "productId": "0008983618402",
+      "brand": "Frontier Natural Products Co-op",
+      "upc": "0008983618402",
+      "price": [
+        null
+      ]
+    },
+    {
+      "productId": "0008983618611",
+      "brand": "Simply Organic",
+      "upc": "0008983618611",
+      "price": [
+        null
+      ]
+    },
+    {
+      "productId": "0001111071757",
+      "brand": "Kroger",
+      "upc": "0001111071757",
+      "price": [
+        {
+          "regular": 3.49,
+          "promo": 3.49
+        }
+      ]
+    },
+    {
+      "productId": "0001111001890",
+      "brand": "Simple Truth Organic",
+      "upc": "0001111001890",
+      "price": [
+        {
+          "regular": 2.49,
+          "promo": 0
+        }
+      ]
+    },
+    {
+      "productId": "0001111006215",
+      "brand": "Simple Truth Organic",
+      "upc": "0001111006215",
+      "price": [
+        {
+          "regular": 4.79,
+          "promo": 0
+        }
+      ]
+    },
+    {
+      "productId": "0001111068294",
+      "brand": "Kroger",
+      "upc": "0001111068294",
+      "price": [
+        {
+          "regular": 3.49,
+          "promo": 3.49
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,108 @@
+{
+  "data": [
+    {
+      "productId": "0001732400294",
+      "brand": "Spice Islands",
+      "upc": "0001732400294",
+      "price": [
+        {
+          "regular": 6.99,
+          "promo": 6.99
+        }
+      ]
+    },
+    {
+      "productId": "0890408351944",
+      "brand": "24 Mantra",
+      "upc": "0890408351944",
+      "price": [
+        {
+          "regular": 7.49,
+          "promo": 0
+        }
+      ]
+    },
+    {
+      "productId": "0001111068337",
+      "brand": "Kroger",
+      "upc": "0001111068337",
+      "price": [
+        {
+          "regular": 3.49,
+          "promo": 3.49
+        }
+      ]
+    },
+    {
+      "productId": "0008983618459",
+      "brand": "Frontier Natural Products Co-op",
+      "upc": "0008983618459",
+      "price": [
+        null
+      ]
+    },
+    {
+      "productId": "0008983618525",
+      "brand": "Simply Organic",
+      "upc": "0008983618525",
+      "price": [
+        null
+      ]
+    },
+    {
+      "productId": "0003160402754",
+      "brand": "Nature Made",
+      "upc": "0003160402754",
+      "price": [
+        {
+          "regular": 14.99,
+          "promo": 14.99
+        }
+      ]
+    },
+    {
+      "productId": "0001111002376",
+      "brand": "Simple Truth Organic",
+      "upc": "0001111002376",
+      "price": [
+        {
+          "regular": 3.49,
+          "promo": 0
+        }
+      ]
+    },
+    {
+      "productId": "0001111002367",
+      "brand": "Private Selection",
+      "upc": "0001111002367",
+      "price": [
+        {
+          "regular": 4.99,
+          "promo": 0
+        }
+      ]
+    },
+    {
+      "productId": "0008983602604",
+      "brand": "Frontier Natural Products Co-op",
+      "upc": "0008983602604",
+      "price": [
+        {
+          "regular": 15.99,
+          "promo": 0
+        }
+      ]
+    },
+    {
+      "productId": "0004126038573",
+      "brand": "Kroger",
+      "upc": "0004126038573",
+      "price": [
+        {
+          "regular": 8.99,
+          "promo": 8.99
+        }
+      ]
+    }
+  ]
+}

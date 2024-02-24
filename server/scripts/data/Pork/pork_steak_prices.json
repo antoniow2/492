@@ -1,0 +1,110 @@
+{
+  "data": [
+    {
+      "productId": "0007590000088",
+      "brand": "Bob Evans",
+      "upc": "0007590000088",
+      "price": [
+        {
+          "regular": 10.49,
+          "promo": 0
+        }
+      ]
+    },
+    {
+      "productId": "0022378000000",
+      "upc": "0022378000000",
+      "price": [
+        {
+          "regular": 3.79,
+          "promo": 3.49,
+          "regularPerUnitEstimate": 3.79,
+          "promoPerUnitEstimate": 3.49
+        }
+      ]
+    },
+    {
+      "productId": "0074615564435",
+      "brand": "EPIC",
+      "upc": "0074615564435",
+      "price": [
+        null
+      ]
+    },
+    {
+      "productId": "0079233810596",
+      "brand": "Kingsford",
+      "upc": "0079233810596",
+      "price": [
+        {
+          "regular": 9.49,
+          "promo": 0
+        }
+      ]
+    },
+    {
+      "productId": "0007080004879",
+      "brand": "Smithfield",
+      "upc": "0007080004879",
+      "price": [
+        {
+          "regular": 3.49,
+          "promo": 2.99
+        }
+      ]
+    },
+    {
+      "productId": "0001111097034",
+      "brand": "Kroger",
+      "upc": "0001111097034",
+      "price": [
+        {
+          "regular": 4.49,
+          "promo": 3.99
+        }
+      ]
+    },
+    {
+      "productId": "0074615564396",
+      "brand": "EPIC",
+      "upc": "0074615564396",
+      "price": [
+        null
+      ]
+    },
+    {
+      "productId": "0023383300000",
+      "upc": "0023383300000",
+      "price": [
+        {
+          "regular": 4.49,
+          "promo": 0,
+          "regularPerUnitEstimate": 0.1747
+        }
+      ]
+    },
+    {
+      "productId": "0002718212542",
+      "brand": "Tyson",
+      "upc": "0002718212542",
+      "price": [
+        {
+          "regular": 5,
+          "promo": 0
+        }
+      ]
+    },
+    {
+      "productId": "0025338300000",
+      "upc": "0025338300000",
+      "price": [
+        {
+          "regular": 4.49,
+          "promo": 3.99,
+          "regularPerUnitEstimate": 1.5,
+          "promoPerUnitEstimate": 1.33
+        }
+      ]
+    }
+  ]
+}

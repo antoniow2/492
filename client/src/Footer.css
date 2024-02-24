@@ -1,0 +1,53 @@
+.footer {
+  background-color: black;
+  color: white;
+  padding: 20px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.foot-title {
+  font-size: 40px;
+}
+
+.footer-section1,
+.footer-section3,
+.footer-section2 {
+  margin-top: 15px; /* Adjust margin to move the sections below the top of the footer */
+  width: 150px;
+  height: 150px;
+}
+
+.footer-section1{
+  margin-left: 100px;
+}
+
+.footer-section3{
+  width: 450px;
+}
+
+.footer-section3 {
+  font-size: medium;
+}
+
+
+
+label {
+  font-size: 35px;
+}
+
+.q-buttons {
+  display: flex;
+  flex-direction: column; /* Stack buttons vertically */
+}
+
+.ql-buttons {
+  color: white;
+  cursor: pointer;
+  text-align: left;
+  width: 120px; /* Set button width */
+  height: 40px; /* Set button height */
+  margin-bottom: -5px;
+  margin-left: 5px;
+}

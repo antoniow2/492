@@ -1,0 +1,68 @@
+{
+  "data": [
+    {
+      "productId": "0023239690000",
+      "upc": "0023239690000",
+      "price": [
+        {
+          "regular": 11.99,
+          "promo": 0,
+          "regularPerUnitEstimate": 11.99
+        }
+      ]
+    },
+    {
+      "productId": "0021239600000",
+      "brand": "Private Selection",
+      "upc": "0021239600000",
+      "price": [
+        {
+          "regular": 13.99,
+          "promo": 0,
+          "regularPerUnitEstimate": 13.99
+        }
+      ]
+    },
+    {
+      "productId": "0024161300000",
+      "upc": "0024161300000",
+      "price": [
+        {
+          "regular": 11.99,
+          "promo": 0,
+          "regularPerUnitEstimate": 0.9992
+        }
+      ]
+    },
+    {
+      "productId": "0024195900000",
+      "upc": "0024195900000",
+      "price": [
+        {
+          "regular": 14.49,
+          "promo": 0,
+          "regularPerUnitEstimate": 14.49
+        }
+      ]
+    },
+    {
+      "productId": "0007633865920",
+      "brand": "La Herencia",
+      "upc": "0007633865920",
+      "price": [
+        {
+          "regular": 13.99,
+          "promo": 0
+        }
+      ]
+    },
+    {
+      "productId": "8004490030226",
+      "brand": "Cattleman's Cut",
+      "upc": "8004490030226",
+      "price": [
+        null
+      ]
+    }
+  ]
+}

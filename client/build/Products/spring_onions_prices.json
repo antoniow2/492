@@ -1,0 +1,55 @@
+{
+  "data": [
+    {
+      "productId": "1073762804650",
+      "brand": "Thai Kitchen",
+      "upc": "1073762804650",
+      "price": [
+        null
+      ]
+    },
+    {
+      "productId": "0073762804650",
+      "brand": "Thai Kitchen",
+      "upc": "0073762804650",
+      "price": [
+        {
+          "regular": 1.69,
+          "promo": 0
+        }
+      ]
+    },
+    {
+      "productId": "0622017191748",
+      "brand": "Thai Kitchen",
+      "upc": "0622017191748",
+      "price": [
+        null
+      ]
+    },
+    {
+      "productId": "0074956930694",
+      "brand": "Thai Kitchen",
+      "upc": "0074956930694",
+      "price": [
+        null
+      ]
+    },
+    {
+      "productId": "1076733501113",
+      "brand": "Dr. McDougall's",
+      "upc": "1076733501113",
+      "price": [
+        null
+      ]
+    },
+    {
+      "productId": "3073762804650",
+      "brand": "Thai Kitchen",
+      "upc": "3073762804650",
+      "price": [
+        null
+      ]
+    }
+  ]
+}

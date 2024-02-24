@@ -1,0 +1,114 @@
+{
+  "data": [
+    {
+      "productId": "0005100021446",
+      "brand": "Swanson",
+      "upc": "0005100021446",
+      "price": [
+        {
+          "regular": 3.49,
+          "promo": 0
+        }
+      ]
+    },
+    {
+      "productId": "0061144334026",
+      "brand": "Kitchen Basics",
+      "upc": "0061144334026",
+      "price": [
+        {
+          "regular": 3.79,
+          "promo": 1.89
+        }
+      ]
+    },
+    {
+      "productId": "0001111004971",
+      "brand": "Kroger",
+      "upc": "0001111004971",
+      "price": [
+        {
+          "regular": 2.49,
+          "promo": 0
+        }
+      ]
+    },
+    {
+      "productId": "0061144334001",
+      "brand": "Kitchen Basics",
+      "upc": "0061144334001",
+      "price": [
+        {
+          "regular": 3.79,
+          "promo": 3
+        }
+      ]
+    },
+    {
+      "productId": "0001111008598",
+      "brand": "Kroger",
+      "upc": "0001111008598",
+      "price": [
+        {
+          "regular": 2.49,
+          "promo": 0
+        }
+      ]
+    },
+    {
+      "productId": "0061144334011",
+      "brand": "Kitchen Basics",
+      "upc": "0061144334011",
+      "price": [
+        {
+          "regular": 3.79,
+          "promo": 3
+        }
+      ]
+    },
+    {
+      "productId": "0001111008616",
+      "brand": "Simple Truth Organic",
+      "upc": "0001111008616",
+      "price": [
+        {
+          "regular": 2.79,
+          "promo": 0
+        }
+      ]
+    },
+    {
+      "productId": "0001111004965",
+      "brand": "Simple Truth Organic",
+      "upc": "0001111004965",
+      "price": [
+        {
+          "regular": 2.79,
+          "promo": 0
+        }
+      ]
+    },
+    {
+      "productId": "0061144334503",
+      "brand": "Kitchen Basics",
+      "upc": "0061144334503",
+      "price": [
+        {
+          "regular": 3.79,
+          "promo": 3
+        }
+      ]
+    },
+    {
+      "productId": "0001111004966",
+      "brand": "Simple Truth Organic",
+      "upc": "0001111004966",
+      "price": [
+        {
+          "regular": 2.79,
+          "promo": 0
+        }
+      ]
+    }
+  ]
+}

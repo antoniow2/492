@@ -1,0 +1,674 @@
+[
+  {
+    "recipeName": "Salmon Rillettes",
+    "ingredients": [
+      {
+        "food": "salmon",
+        "quantity": 8,
+        "measure": "ounce"
+      },
+      {
+        "food": "salt",
+        "quantity": 0,
+        "measure": null
+      },
+      {
+        "food": "unsalted butter",
+        "quantity": 75,
+        "measure": "gram"
+      },
+      {
+        "food": "olive oil",
+        "quantity": 1,
+        "measure": "tablespoon"
+      },
+      {
+        "food": "lemon juice",
+        "quantity": 1.5,
+        "measure": "tablespoon"
+      },
+      {
+        "food": "chives",
+        "quantity": 2,
+        "measure": "tablespoon"
+      },
+      {
+        "food": "smoked salmon",
+        "quantity": 4,
+        "measure": "ounce"
+      },
+      {
+        "food": "paprika",
+        "quantity": 0.25,
+        "measure": "teaspoon"
+      }
+    ],
+    "healthLabels": [
+      "SugarConscious",
+      "KidneyFriendly",
+      "KetoFriendly",
+      "Pescatarian",
+      "GlutenFree",
+      "WheatFree",
+      "EggFree",
+      "PeanutFree",
+      "TreeNutFree",
+      "SoyFree",
+      "ShellfishFree",
+      "PorkFree",
+      "RedMeatFree",
+      "CrustaceanFree",
+      "CeleryFree",
+      "MustardFree",
+      "SesameFree",
+      "LupineFree",
+      "MolluskFree",
+      "AlcoholFree",
+      "SulfiteFree"
+    ],
+    "totalTime": 80,
+    "instructions": [
+      "Season the salmon on both sides lightly with a bit of salt. Steam in a steamer basket until just cooked, about 8 minutes. Once cooked, remove from heat and let cool.",
+      "In a medium-sized bowl, mash together with a fork the butter and the olive oil until very smooth. This is important at this point. Otherwise, there’ll be big chunks of butter in the finished rillettes.",
+      "Stir in the lemon juice, then the chopped chives and smoked salmon.",
+      "Remove the skin from the salmon and flake the cooked salmon over the mixture, then fold the pieces of salmon into the rillette mixture along with the chili powder. Taste, and add more salt if desired.",
+      "Scrape into a serving dish, cover, and chill for at least two hours. Let come to room temperature before serving."
+    ]
+  },
+  {
+    "recipeName": "Salmon Benedict",
+    "ingredients": [
+      {
+        "food": "salmon",
+        "quantity": 1,
+        "measure": "pound"
+      },
+      {
+        "food": "pernod",
+        "quantity": 2,
+        "measure": "tablespoon"
+      },
+      {
+        "food": "salt",
+        "quantity": 3.5,
+        "measure": "teaspoon"
+      },
+      {
+        "food": "pepper",
+        "quantity": 1,
+        "measure": "teaspoon"
+      },
+      {
+        "food": "unsalted butter",
+        "quantity": 1,
+        "measure": "cup"
+      },
+      {
+        "food": "shallots",
+        "quantity": 0.5,
+        "measure": "cup"
+      },
+      {
+        "food": "creme fraiche",
+        "quantity": 1,
+        "measure": "tablespoon"
+      },
+      {
+        "food": "smoked salmon",
+        "quantity": 0.5,
+        "measure": "pound"
+      },
+      {
+        "food": "lemon juice",
+        "quantity": 2.5,
+        "measure": "tablespoon"
+      },
+      {
+        "food": "extra-virgin olive oil",
+        "quantity": 1,
+        "measure": "tablespoon"
+      },
+      {
+        "food": "egg yolks",
+        "quantity": 2,
+        "measure": "<unit>"
+      },
+      {
+        "food": "chives",
+        "quantity": 0.25,
+        "measure": "cup"
+      }
+    ],
+    "healthLabels": [
+      "SugarConscious",
+      "KidneyFriendly",
+      "KetoFriendly",
+      "Pescatarian",
+      "GlutenFree",
+      "WheatFree",
+      "PeanutFree",
+      "TreeNutFree",
+      "SoyFree",
+      "ShellfishFree",
+      "PorkFree",
+      "RedMeatFree",
+      "CrustaceanFree",
+      "CeleryFree",
+      "MustardFree",
+      "SesameFree",
+      "LupineFree",
+      "MolluskFree",
+      "SulfiteFree"
+    ],
+    "totalTime": 165,
+    "instructions": [
+      "In a large saucepan, combine salmon with enough cold water to cover by 1 inch. Add juice from 1 lemon, leek or onion, celery, and bay leaf (if using). Set over medium heat and bring poaching liquid to 170°F (77°C), using an instant-read thermometer if you have one; otherwise, bring liquid to just below a bare simmer. Adjusting heat to maintain water temperature, cook until salmon flakes easily when pressed, about 6 minutes. Drain, discard aromatics, and transfer salmon to a mixing bowl. Using your fingers, shred salmon roughly.",
+      "Meanwhile, in a small skillet, melt butter over medium heat, add shallot, and cook, stirring, until softened but not browned, about 3 minutes. Scrape shallots and butter into bowl with salmon. Add mayonnaise, chives, remaining 2 tablespoons (30ml) lemon juice, coriander seeds, and cayenne. Season with salt and pepper. Stir well until ingredients are thoroughly mixed and salmon is more finely shredded.",
+      "Transfer rillettes to a large ramekin, crock, or other container, pressing down with a spoon and working it into the corners and against the walls to avoid trapping any air bubbles. Press plastic against the surface and refrigerate until thoroughly chilled, at least 2 hours. Serve with toasts or crackers. Rillettes can keep refrigerated for up to 5 days with plastic pressed firmly against the surface."
+    ]
+  },
+  {
+    "recipeName": "Potted Fresh & Smoked Salmon",
+    "ingredients": [
+      {
+        "food": "salmon",
+        "quantity": 600,
+        "measure": "gram"
+      },
+      {
+        "food": "butter",
+        "quantity": 100,
+        "measure": "gram"
+      },
+      {
+        "food": "smoked salmon",
+        "quantity": 200,
+        "measure": "gram"
+      },
+      {
+        "food": "chilli paste",
+        "quantity": 0.5,
+        "measure": "teaspoon"
+      },
+      {
+        "food": "lemons",
+        "quantity": 2,
+        "measure": "<unit>"
+      }
+    ],
+    "healthLabels": [
+      "SugarConscious",
+      "KetoFriendly",
+      "Pescatarian",
+      "GlutenFree",
+      "WheatFree",
+      "EggFree",
+      "PeanutFree",
+      "TreeNutFree",
+      "ShellfishFree",
+      "PorkFree",
+      "RedMeatFree",
+      "CrustaceanFree",
+      "CeleryFree",
+      "MustardFree",
+      "SesameFree",
+      "LupineFree",
+      "MolluskFree",
+      "AlcoholFree",
+      "SulfiteFree"
+    ],
+    "totalTime": 30,
+    "instructions": [
+      "Sear salmon for 15 minutes. Mix with other ingredients and serve."
+    ]
+  },
+  {
+    "recipeName": "Salmon Tartare",
+    "ingredients": [
+      {
+        "food": "Salmon",
+        "quantity": 250,
+        "measure": "gram"
+      },
+      {
+        "food": "Shallot",
+        "quantity": 1,
+        "measure": "<unit>"
+      },
+      {
+        "food": "Lime",
+        "quantity": 1,
+        "measure": "<unit>"
+      },
+      {
+        "food": "Sea Salt",
+        "quantity": 0,
+        "measure": null
+      },
+      {
+        "food": "Black Pepper",
+        "quantity": 0,
+        "measure": null
+      }
+    ],
+    "healthLabels": [
+      "SugarConscious",
+      "KetoFriendly",
+      "Pescatarian",
+      "Paleo",
+      "Mediterranean",
+      "DairyFree",
+      "GlutenFree",
+      "WheatFree",
+      "EggFree",
+      "PeanutFree",
+      "TreeNutFree",
+      "SoyFree",
+      "ShellfishFree",
+      "PorkFree",
+      "RedMeatFree",
+      "CrustaceanFree",
+      "CeleryFree",
+      "MustardFree",
+      "SesameFree",
+      "LupineFree",
+      "MolluskFree",
+      "AlcoholFree",
+      "No oil added",
+      "SulfiteFree"
+    ],
+    "totalTime": 30,
+    "instructions": [
+      "For easier slicing, put the salmon in the freezer for 15 to 20 minutes. Cut the salmon into three evenly thick pieces (horizontally), then into thin stripes and lastly into small cubes. The more attention you pay to this step, the nicer the tartare will look in the end. Put into a larger bowl.",
+      "Drizzle generously with very good olive oil and stir until the fish is evenly covered and looks smooth and shiny, then add the diced shallot, the sea salt and the black pepper.",
+      "Wash the lime under hot water and pat dry before grating its zest over the tartare. Mix well, season to taste, cover with foil and return to the fridge. Keep the lime for later (you’ll be needing some juice).",
+      "Cut the baguette (I used a stale simit, which I think added a nice twist with its sesame seeds) into thin slices. Heat a large pan over medium heat, then distribute the slices evenly and drizzle with a little olive oil. Toast shortly from both sides until golden brown and crisp.",
+      "Top the little bread slices with the marinated salmon cubes and drizzle with some juice from the reserved lime (if you add it earlier the fish will loose its shiny color and turn opaque). Decorate with some fresh herbs, if at hand."
+    ]
+  },
+  {
+    "recipeName": "Double-Salmon Dip",
+    "ingredients": [
+      {
+        "food": "cream cheese",
+        "quantity": 16,
+        "measure": "ounce"
+      },
+      {
+        "food": "whole milk",
+        "quantity": 3,
+        "measure": "tablespoon"
+      },
+      {
+        "food": "smoked salmon",
+        "quantity": 4,
+        "measure": "ounce"
+      },
+      {
+        "food": "chives",
+        "quantity": 2,
+        "measure": "tablespoon"
+      },
+      {
+        "food": "caviar",
+        "quantity": 2,
+        "measure": "ounce"
+      }
+    ],
+    "healthLabels": [
+      "SugarConscious",
+      "KetoFriendly",
+      "Pescatarian",
+      "Mediterranean",
+      "GlutenFree",
+      "WheatFree",
+      "EggFree",
+      "PeanutFree",
+      "TreeNutFree",
+      "SoyFree",
+      "ShellfishFree",
+      "PorkFree",
+      "RedMeatFree",
+      "CrustaceanFree",
+      "CeleryFree",
+      "MustardFree",
+      "SesameFree",
+      "LupineFree",
+      "MolluskFree",
+      "AlcoholFree",
+      "No oil added",
+      "SulfiteFree"
+    ],
+    "totalTime": 15,
+    "instructions": [
+      "Mix all ingredients and serve. Chop to your liking."
+    ]
+  },
+  {
+    "recipeName": "Roasted Salmon",
+    "ingredients": [
+      {
+        "food": "olive oil",
+        "quantity": 1.5,
+        "measure": "tablespoon"
+      },
+      {
+        "food": "soy sauce",
+        "quantity": 1,
+        "measure": "tablespoon"
+      },
+      {
+        "food": "salt",
+        "quantity": 0,
+        "measure": null
+      },
+      {
+        "food": "black pepper",
+        "quantity": 0,
+        "measure": null
+      },
+      {
+        "food": "salmon",
+        "quantity": 1,
+        "measure": "pound"
+      }
+    ],
+    "healthLabels": [
+      "SugarConscious",
+      "KetoFriendly",
+      "Pescatarian",
+      "Mediterranean",
+      "DairyFree",
+      "EggFree",
+      "PeanutFree",
+      "TreeNutFree",
+      "ShellfishFree",
+      "PorkFree",
+      "RedMeatFree",
+      "CrustaceanFree",
+      "CeleryFree",
+      "MustardFree",
+      "SesameFree",
+      "LupineFree",
+      "MolluskFree",
+      "AlcoholFree"
+    ],
+    "totalTime": 42,
+    "instructions": [
+      "Preheat oven to 425 degrees.Toss chickpeas with oil andspices until evenly coated.Spread on a rimmed bakingsheet. Roast, shaking panoccasionally, until chickpeasare golden and crunchy,about 30 minutes. Let coolcompletely. Store in an airtightcontainer up to 2 weeks."
+    ]
+  },
+  {
+    "recipeName": "Salmon Ceviche",
+    "ingredients": [
+      {
+        "food": "Salmon",
+        "quantity": 1,
+        "measure": "pound"
+      },
+      {
+        "food": "limes",
+        "quantity": 10,
+        "measure": "<unit>"
+      },
+      {
+        "food": "watermelon",
+        "quantity": 1,
+        "measure": "cup"
+      },
+      {
+        "food": "cucumber",
+        "quantity": 0.5,
+        "measure": "cup"
+      },
+      {
+        "food": "pepitas",
+        "quantity": 0.25,
+        "measure": "cup"
+      }
+    ],
+    "healthLabels": [
+      "Pescatarian",
+      "Paleo",
+      "Mediterranean",
+      "DairyFree",
+      "GlutenFree",
+      "WheatFree",
+      "EggFree",
+      "PeanutFree",
+      "TreeNutFree",
+      "SoyFree",
+      "ShellfishFree",
+      "PorkFree",
+      "RedMeatFree",
+      "CrustaceanFree",
+      "CeleryFree",
+      "MustardFree",
+      "SesameFree",
+      "LupineFree",
+      "MolluskFree",
+      "AlcoholFree",
+      "No oil added",
+      "SulfiteFree"
+    ],
+    "totalTime": 0
+  },
+  {
+    "recipeName": "Quick Meal - Paprika Roasted Salmon",
+    "ingredients": [
+      {
+        "food": "salmon",
+        "quantity": 2,
+        "measure": "fillet"
+      },
+      {
+        "food": "olive oil",
+        "quantity": 1,
+        "measure": "tablespoon"
+      },
+      {
+        "food": "paprika",
+        "quantity": 1,
+        "measure": "tablespoon"
+      }
+    ],
+    "healthLabels": [
+      "SugarConscious",
+      "KetoFriendly",
+      "Pescatarian",
+      "Paleo",
+      "Mediterranean",
+      "DairyFree",
+      "GlutenFree",
+      "WheatFree",
+      "EggFree",
+      "PeanutFree",
+      "TreeNutFree",
+      "SoyFree",
+      "ShellfishFree",
+      "PorkFree",
+      "RedMeatFree",
+      "CrustaceanFree",
+      "CeleryFree",
+      "MustardFree",
+      "SesameFree",
+      "LupineFree",
+      "MolluskFree",
+      "AlcoholFree",
+      "SulfiteFree",
+      "FODMAPFree"
+    ],
+    "totalTime": 20,
+    "instructions": [
+      "Slice salmon into 1 inch strips",
+      "Mix together lime, watermelon, cucumber and pepitas",
+      "Add salmon to lime mixture and add salt and pepper to taste",
+      "Let fish stand for 5 minutes and enjoy!"
+    ]
+  },
+  {
+    "recipeName": "Salmon Spread",
+    "ingredients": [
+      {
+        "food": "salmon",
+        "quantity": 8,
+        "measure": "ounce"
+      },
+      {
+        "food": "smoked salmon",
+        "quantity": 8,
+        "measure": "ounce"
+      },
+      {
+        "food": "lemon peel",
+        "quantity": 1,
+        "measure": "teaspoon"
+      },
+      {
+        "food": "lemon juice",
+        "quantity": 2,
+        "measure": "tablespoon"
+      },
+      {
+        "food": "Dijon mustard",
+        "quantity": 1,
+        "measure": "teaspoon"
+      },
+      {
+        "food": "chives",
+        "quantity": 2,
+        "measure": "tablespoon"
+      },
+      {
+        "food": "chives",
+        "quantity": 1,
+        "measure": "teaspoon"
+      },
+      {
+        "food": "black pepper",
+        "quantity": 0.125,
+        "measure": "teaspoon"
+      },
+      {
+        "food": "capers",
+        "quantity": 1,
+        "measure": "teaspoon"
+      },
+      {
+        "food": "butter",
+        "quantity": 1,
+        "measure": "stick"
+      },
+      {
+        "food": "baguette",
+        "quantity": 1,
+        "measure": "<unit>"
+      }
+    ],
+    "healthLabels": [
+      "SugarConscious",
+      "KidneyFriendly",
+      "Pescatarian",
+      "EggFree",
+      "PeanutFree",
+      "TreeNutFree",
+      "SoyFree",
+      "ShellfishFree",
+      "PorkFree",
+      "RedMeatFree",
+      "CrustaceanFree",
+      "CeleryFree",
+      "SesameFree",
+      "LupineFree",
+      "MolluskFree",
+      "AlcoholFree",
+      "SulfiteFree"
+    ],
+    "totalTime": 20,
+    "instructions": [
+      "In a bowl of a stand mixer with the paddle attachment on medium speed, beat the cream cheese and sour cream together until very smooth. With the mixer on low, add the chives, mustard, capers, zest and juice from 1 lemon, and black pepper. Mix until blended",
+      "Remove the bowl from the stand mixer. Fold in the salmon and Aleppo or cayenne pepper, if using, by hand.",
+      "Spoon the dip into a serving bowl and sprinkle with chives. Serve immediately or refrigerate until serving time. Serve with crackers or slices of baguette. The spread will keep, covered, in the refrigerator for up to 5 days."
+    ]
+  },
+  {
+    "recipeName": "Salmon Sandwich",
+    "ingredients": [
+      {
+        "food": "baguette",
+        "quantity": 1,
+        "measure": "<unit>"
+      },
+      {
+        "food": "salmon",
+        "quantity": 1,
+        "measure": "pound"
+      },
+      {
+        "food": "olive oil",
+        "quantity": 1,
+        "measure": "tablespoon"
+      },
+      {
+        "food": "kosher salt",
+        "quantity": 0,
+        "measure": null
+      },
+      {
+        "food": "Chardonnay",
+        "quantity": 1.5,
+        "measure": "cup"
+      },
+      {
+        "food": "water",
+        "quantity": 1.5,
+        "measure": "cup"
+      },
+      {
+        "food": "creme fraiche",
+        "quantity": 0.25,
+        "measure": "cup"
+      },
+      {
+        "food": "lemon juice",
+        "quantity": 1,
+        "measure": "tablespoon"
+      },
+      {
+        "food": "smoked salmon",
+        "quantity": 6,
+        "measure": "ounce"
+      },
+      {
+        "food": "pepper",
+        "quantity": 0,
+        "measure": null
+      }
+    ],
+    "healthLabels": [
+      "SugarConscious",
+      "Pescatarian",
+      "Mediterranean",
+      "EggFree",
+      "PeanutFree",
+      "TreeNutFree",
+      "SoyFree",
+      "ShellfishFree",
+      "PorkFree",
+      "RedMeatFree",
+      "CrustaceanFree",
+      "CeleryFree",
+      "MustardFree",
+      "SesameFree",
+      "LupineFree",
+      "MolluskFree"
+    ],
+    "totalTime": 30,
+    "instructions": [
+      "Preheat the oven to 375°F. Line a glass baking dish with aluminum foil. Lay the salmon in the baking dish, skin side down. Coat with olive oil. Liberally season salmon fillet with kosher salt. Pour chardonnay and water over the fish. Cover pan with aluminum foil and bake for 20 minutes. To see if the salmon is fully cooked, cut into the fillet. If the flesh flakes and the color is opaque, then it’s done.",
+      "Transfer the salmon fillet (without the poaching liquid) to a platter. Cover and place in the refrigerator until it’s completely cooled.",
+      "When the salmon has cooled, in a separate bowl, whisk together crème fraîche, lemon juice and chopped chives. Add the poached salmon to the bowl and smash to combine. Do not overdo it, though, as you don't want the salmon to turn pasty. Mix in the smoked salmon and, if necessary, season with salt and white pepper.",
+      "Serve."
+    ]
+  }
+]

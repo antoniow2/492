@@ -1,0 +1,54 @@
+{
+  "data": [
+    {
+      "productId": "0025292250000",
+      "brand": "Simple Truth",
+      "upc": "0025292250000",
+      "price": [
+        {
+          "regular": 10.99,
+          "promo": 9.99,
+          "regularPerUnitEstimate": 10.99,
+          "promoPerUnitEstimate": 9.99
+        }
+      ]
+    },
+    {
+      "productId": "0021326200000",
+      "brand": "Simple Truth Organic",
+      "upc": "0021326200000",
+      "price": [
+        {
+          "regular": 7.49,
+          "promo": 6.99
+        }
+      ]
+    },
+    {
+      "productId": "0026301650000",
+      "brand": "Simple Truth",
+      "upc": "0026301650000",
+      "price": [
+        {
+          "regular": 12.99,
+          "promo": 9.99,
+          "regularPerUnitEstimate": 12.99,
+          "promoPerUnitEstimate": 9.99
+        }
+      ]
+    },
+    {
+      "productId": "0029295550000",
+      "brand": "Simple Truth",
+      "upc": "0029295550000",
+      "price": [
+        {
+          "regular": 19.99,
+          "promo": 16.99,
+          "regularPerUnitEstimate": 19.99,
+          "promoPerUnitEstimate": 16.99
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,111 @@
+{
+  "data": [
+    {
+      "productId": "0001111091472",
+      "brand": "Kroger",
+      "upc": "0001111091472",
+      "price": [
+        {
+          "regular": 2.29,
+          "promo": 0
+        }
+      ]
+    },
+    {
+      "productId": "0000000004070",
+      "upc": "0000000004070",
+      "price": [
+        {
+          "regular": 1.79,
+          "promo": 0
+        }
+      ]
+    },
+    {
+      "productId": "0005100001161",
+      "brand": "Campbell's",
+      "upc": "0005100001161",
+      "price": [
+        {
+          "regular": 1.89,
+          "promo": 1.67
+        }
+      ]
+    },
+    {
+      "productId": "0063912388029",
+      "brand": "Japanese Food Express Inc",
+      "upc": "0063912388029",
+      "price": [
+        {
+          "regular": 5,
+          "promo": 0
+        }
+      ]
+    },
+    {
+      "productId": "0001111060376",
+      "brand": "Private Selection",
+      "upc": "0001111060376",
+      "price": [
+        {
+          "regular": 2.99,
+          "promo": 0
+        }
+      ]
+    },
+    {
+      "productId": "0001111083712",
+      "brand": "Kroger",
+      "upc": "0001111083712",
+      "price": [
+        {
+          "regular": 1.25,
+          "promo": 0
+        }
+      ]
+    },
+    {
+      "productId": "0001111091635",
+      "upc": "0001111091635",
+      "price": [
+        {
+          "regular": 3.19,
+          "promo": 0
+        }
+      ]
+    },
+    {
+      "productId": "0063912388049",
+      "brand": "Japanese Food Express Inc",
+      "upc": "0063912388049",
+      "price": [
+        {
+          "regular": 3.99,
+          "promo": 0
+        }
+      ]
+    },
+    {
+      "productId": "0000000094070",
+      "upc": "0000000094070",
+      "price": [
+        {
+          "regular": 2.79,
+          "promo": 0
+        }
+      ]
+    },
+    {
+      "productId": "0001111091660",
+      "brand": "Simple Truth Organic",
+      "upc": "0001111091660",
+      "price": [
+        {
+          "regular": 3.99,
+          "promo": 0
+        }
+      ]
+    }
+  ]
+}

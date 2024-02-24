@@ -1,0 +1,111 @@
+{
+  "data": [
+    {
+      "productId": "0001111068442",
+      "brand": "Kroger",
+      "upc": "0001111068442",
+      "price": [
+        {
+          "regular": 3.69,
+          "promo": 3.69
+        }
+      ]
+    },
+    {
+      "productId": "0007032801041",
+      "brand": "Old Bay",
+      "upc": "0007032801041",
+      "price": [
+        {
+          "regular": 3.49,
+          "promo": 0
+        }
+      ]
+    },
+    {
+      "productId": "0007147900001",
+      "brand": "Bays",
+      "upc": "0007147900001",
+      "price": [
+        {
+          "regular": 4.29,
+          "promo": 0
+        }
+      ]
+    },
+    {
+      "productId": "0001111018157",
+      "brand": "Simple Truth Organic",
+      "upc": "0001111018157",
+      "price": [
+        {
+          "regular": 2.49,
+          "promo": 0
+        }
+      ]
+    },
+    {
+      "productId": "0008312000046",
+      "brand": "Bay Bridge",
+      "upc": "0008312000046",
+      "price": [
+        {
+          "regular": 5.88,
+          "promo": 4.49
+        }
+      ]
+    },
+    {
+      "productId": "0007147900080",
+      "brand": "Bays",
+      "upc": "0007147900080",
+      "price": [
+        {
+          "regular": 4.29,
+          "promo": 0
+        }
+      ]
+    },
+    {
+      "productId": "0007032801045",
+      "brand": "Old Bay",
+      "upc": "0007032801045",
+      "price": [
+        null
+      ]
+    },
+    {
+      "productId": "0007032800523",
+      "brand": "Old Bay",
+      "upc": "0007032800523",
+      "price": [
+        {
+          "regular": 5.79,
+          "promo": 4.99
+        }
+      ]
+    },
+    {
+      "productId": "0007147900015",
+      "brand": "Bays",
+      "upc": "0007147900015",
+      "price": [
+        {
+          "regular": 4.29,
+          "promo": 0
+        }
+      ]
+    },
+    {
+      "productId": "0001111072980",
+      "brand": "Private Selection",
+      "upc": "0001111072980",
+      "price": [
+        {
+          "regular": 4.49,
+          "promo": 0
+        }
+      ]
+    }
+  ]
+}

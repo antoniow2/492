@@ -1,0 +1,88 @@
+{
+  "data": [
+    {
+      "productId": "0025292250000",
+      "brand": "Simple Truth",
+      "upc": "0025292250000",
+      "price": [
+        {
+          "regular": 10.99,
+          "promo": 9.99,
+          "regularPerUnitEstimate": 10.99,
+          "promoPerUnitEstimate": 9.99
+        }
+      ]
+    },
+    {
+      "productId": "0029385300000",
+      "brand": "Rose",
+      "upc": "0029385300000",
+      "price": [
+        {
+          "regular": 6.99,
+          "promo": 0
+        }
+      ]
+    },
+    {
+      "productId": "0020799300000",
+      "brand": "Kroger",
+      "upc": "0020799300000",
+      "price": [
+        {
+          "regular": 2.69,
+          "promo": 2.49,
+          "regularPerUnitEstimate": 2.69,
+          "promoPerUnitEstimate": 2.49
+        }
+      ]
+    },
+    {
+      "productId": "0023383300000",
+      "upc": "0023383300000",
+      "price": [
+        {
+          "regular": 4.49,
+          "promo": 0,
+          "regularPerUnitEstimate": 0.1747
+        }
+      ]
+    },
+    {
+      "productId": "0023896500000",
+      "brand": "Kroger",
+      "upc": "0023896500000",
+      "price": [
+        {
+          "regular": 2.99,
+          "promo": 2.49,
+          "regularPerUnitEstimate": 2.99,
+          "promoPerUnitEstimate": 2.49
+        }
+      ]
+    },
+    {
+      "productId": "0029325900000",
+      "brand": "Queen City",
+      "upc": "0029325900000",
+      "price": [
+        {
+          "regular": 5.99,
+          "promo": 0
+        }
+      ]
+    },
+    {
+      "productId": "0025338300000",
+      "upc": "0025338300000",
+      "price": [
+        {
+          "regular": 4.49,
+          "promo": 3.99,
+          "regularPerUnitEstimate": 1.5,
+          "promoPerUnitEstimate": 1.33
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "data": [
+    {
+      "productId": "0089520300126",
+      "brand": "organicgirl",
+      "upc": "0089520300126",
+      "price": [
+        {
+          "regular": 3.99,
+          "promo": 0
+        }
+      ]
+    }
+  ]
+}

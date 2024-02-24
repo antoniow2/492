@@ -1,0 +1,93 @@
+{
+  "data": [
+    {
+      "productId": "0074956925820",
+      "brand": "Bob's Red Mill",
+      "upc": "0074956925820",
+      "price": [
+        null
+      ]
+    },
+    {
+      "productId": "3004161700286",
+      "brand": "Rumford",
+      "upc": "3004161700286",
+      "price": [
+        null
+      ]
+    },
+    {
+      "productId": "0004318200529",
+      "brand": "Let's Do Organic",
+      "upc": "0004318200529",
+      "price": [
+        null
+      ]
+    },
+    {
+      "productId": "0076172007104",
+      "brand": "Argo",
+      "upc": "0076172007104",
+      "price": [
+        {
+          "regular": 2.49,
+          "promo": 0
+        }
+      ]
+    },
+    {
+      "productId": "0008983602594",
+      "brand": "Frontier Natural Products Co-op",
+      "upc": "0008983602594",
+      "price": [
+        null
+      ]
+    },
+    {
+      "productId": "0001111038513",
+      "brand": "Comforts",
+      "upc": "0001111038513",
+      "price": [
+        {
+          "regular": 2.29,
+          "promo": 0
+        }
+      ]
+    },
+    {
+      "productId": "1003997801583",
+      "brand": "Bob's Red Mill",
+      "upc": "1003997801583",
+      "price": [
+        null
+      ]
+    },
+    {
+      "productId": "1003997832583",
+      "brand": "Bob's Red Mill",
+      "upc": "1003997832583",
+      "price": [
+        null
+      ]
+    },
+    {
+      "productId": "0004161700286",
+      "brand": "Rumford",
+      "upc": "0004161700286",
+      "price": [
+        {
+          "regular": 3.79,
+          "promo": 0
+        }
+      ]
+    },
+    {
+      "productId": "0076172007320",
+      "brand": "Argo",
+      "upc": "0076172007320",
+      "price": [
+        null
+      ]
+    }
+  ]
+}

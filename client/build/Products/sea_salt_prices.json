@@ -1,0 +1,105 @@
+{
+  "data": [
+    {
+      "productId": "1001878880160",
+      "brand": "Real Salt",
+      "upc": "1001878880160",
+      "price": [
+        null
+      ]
+    },
+    {
+      "productId": "0072806010008",
+      "brand": "Celtic Sea Salt",
+      "upc": "0072806010008",
+      "price": [
+        null
+      ]
+    },
+    {
+      "productId": "0072806010720",
+      "brand": "Celtic Sea Salt",
+      "upc": "0072806010720",
+      "price": [
+        null
+      ]
+    },
+    {
+      "productId": "0002460001088",
+      "brand": "Morton",
+      "upc": "0002460001088",
+      "price": [
+        {
+          "regular": 3.49,
+          "promo": 2.99
+        }
+      ]
+    },
+    {
+      "productId": "0002460001085",
+      "brand": "Morton",
+      "upc": "0002460001085",
+      "price": [
+        {
+          "regular": 3.49,
+          "promo": 2.99
+        }
+      ]
+    },
+    {
+      "productId": "0005210074602",
+      "brand": "McCormick",
+      "upc": "0005210074602",
+      "price": [
+        {
+          "regular": 3.29,
+          "promo": 2.99
+        }
+      ]
+    },
+    {
+      "productId": "0002460001097",
+      "brand": "Morton",
+      "upc": "0002460001097",
+      "price": [
+        {
+          "regular": 3.49,
+          "promo": 2.79
+        }
+      ]
+    },
+    {
+      "productId": "0002460001093",
+      "brand": "Morton",
+      "upc": "0002460001093",
+      "price": [
+        {
+          "regular": 3.49,
+          "promo": 2.79
+        }
+      ]
+    },
+    {
+      "productId": "0001111090342",
+      "brand": "Private Selection",
+      "upc": "0001111090342",
+      "price": [
+        {
+          "regular": 2.49,
+          "promo": 0
+        }
+      ]
+    },
+    {
+      "productId": "0001111090341",
+      "brand": "Private Selection",
+      "upc": "0001111090341",
+      "price": [
+        {
+          "regular": 2.49,
+          "promo": 0
+        }
+      ]
+    }
+  ]
+}

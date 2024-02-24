@@ -1,0 +1,1391 @@
+[
+  {
+    "label": "Lamb Sausages",
+    "url": "https://www.marthastewart.com/1155033/lamb-sausages",
+    "ingredients": [
+      {
+        "text": "1 tablespoon olive oil",
+        "quantity": 1,
+        "measure": "tablespoon",
+        "food": "olive oil",
+        "weight": 13.5,
+        "foodCategory": "Oils",
+        "foodId": "food_b1d1icuad3iktrbqby0hiagafaz7",
+        "image": "https://www.edamam.com/food-img/4d6/4d651eaa8a353647746290c7a9b29d84.jpg"
+      },
+      {
+        "text": "6 lamb sausages",
+        "quantity": 6,
+        "measure": "<unit>",
+        "food": "lamb sausages",
+        "weight": 840,
+        "foodCategory": "meats",
+        "foodId": "food_a6pzcv3btrdfeba3r51f7ajjzpo5",
+        "image": "https://www.edamam.com/food-img/fc1/fc1e887bb3bcd7006654506686bf4779.jpg"
+      },
+      {
+        "text": "Lime wedges, for serving",
+        "quantity": 1,
+        "measure": "wedge",
+        "food": "Lime",
+        "weight": 8.375,
+        "foodCategory": "fruit",
+        "foodId": "food_av58muyb8kg92fbk0g8g8aui5knv",
+        "image": "https://www.edamam.com/food-img/48a/48a123c9576647c4ada6a41df5eeb22a.jpg"
+      }
+    ],
+    "uri": "http://www.edamam.com/ontologies/edamam.owl#recipe_2d668f6ca2089032ce80abcd814a8936",
+    "image": "https://edamam-product-images.s3.amazonaws.com/web-img/691/69110270a357de1738dd00ceec241492.jpg?X-Amz-Security-Token=IQoJb3JpZ2luX2VjEGoaCXVzLWVhc3QtMSJHMEUCIFIil1jd5NHOSvMOKXmiga%2F7CRpL9SqT90pjzpQvMpS1AiEA9ABMxynDIYnPNFSoTb7ZMBckcrDLvv4e6dtYzK1N0iIqwgUIs%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FARAAGgwxODcwMTcxNTA5ODYiDJ0JUiSQioeZN09KpyqWBVe1sbdKBl4lqNSDGR5UVO8dIqqE5WJuXebdX3lZD4OaGW51LWKTCCXZuBKs2ISuKPh91m2%2BsZ6ktPbGE2AhkybcxwieCVK%2BK7l84Bj24ywSDZsP1yn%2FPQvPSOPdtnqKR68nmtPicbTTb2iN1fNYmLpy0S%2FnwrF8mkwdmHhvUaEbcAUyjMHohThRkgvTO7TCgSpOGWKVTQEFsLHvsgi4bWMGi1ZtCdznqWdnvOSGhPIQKiLCFUVTI1oRtogKh0lqCDL4eD4Xt5720oaytX%2FzK60NnLdU6s2vGCG9kL1rEzM1fp%2FYqaRoi9XQXp3hj79AyZsUJuPSW2wBsyauTTAprw9V0oSJ%2BkgyFsGc7Ge21I74u8u%2BUNk7NGsVmUYeMeKK6TI%2B0Rjmc6gRjNT%2FzDhfv7vJG7pMLWR%2FOUMWNa9yQUISZ8lh6vjj0kkFOzMlze5lBdHr%2FnWvNqWN3MkH70GXWEsIEh43bVc1guPIoprq%2Bu47idhxaAzP1HurGLQr7p64dzS9lpwPYzY6lcy%2FURRoDKTRQG4E%2FCEP5VCwURQtf7DgsBTBfS1SBxALeyc8mv8DNadhiSKCTJIn%2BIy5cJE6p56IH%2FPy%2BLDoFKWBjEyTq%2B485casZ1GZkBnH8U522cCwhIpNLcykX%2F4wNUr86O6r5UklISiFuq1Fd0yu9W3z6zJUJ4XVYRI9130kMvqmT%2FWXqW8YAlY3uDF32GhawMfgb7KSBBrnSCeHfWshej%2BfYfsb%2FLLReGZxgMPqGgbsfZYqxDpHj6ybFJVzSw6l8QriLDoi8oT9adjEPELXp0rV5YgcHAyQDtWXjZ99CXlSqj0bLUoeo8aQQjTT8V8rzygz0yXkostwb4FyfVN5cyxFoE1S0FloEdNSMKW24KoGOrEBFDB4UqY3hmGXzAo%2Bg1EAXCZSzy18Zg6aqXEnnaM9l2m9b6ZdoEhKpA3zaGpQeiK72d9loW2TJU%2FxVT11CkQoWJnc5vc%2BvEAEWhFcrNhGRjVyEL68aqO6lD%2FuH94JxctuAJ2UWf%2BJsGDngPUA01yn%2B8aRAjoZ6PyU1JWIWSrw9CbhMr8XDOwYorTcKjT1xK76ZXfjU6C%2FWO%2BB8Ahq6zvqxZM3%2F4GQPiRkwzYuKPC78a5%2B&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Date=20231118T030346Z&X-Amz-SignedHeaders=host&X-Amz-Expires=3600&X-Amz-Credential=ASIASXCYXIIFLO2MWB7Q%2F20231118%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Signature=44926d25f757b0a4ceebf9c43a5f9e6f32191d7359844d243268f3cb02241f82",
+    "source": "Martha Stewart",
+    "shareAs": "http://www.edamam.com/recipe/lamb-sausages-2d668f6ca2089032ce80abcd814a8936/lamb",
+    "yield": 8,
+    "dietLabels": [
+      "Low-Carb",
+      "Low-Sodium"
+    ],
+    "healthLabels": [
+      "Sugar-Conscious",
+      "Kidney-Friendly",
+      "Keto-Friendly",
+      "Paleo",
+      "Mediterranean",
+      "Dairy-Free",
+      "Gluten-Free",
+      "Wheat-Free",
+      "Egg-Free",
+      "Peanut-Free",
+      "Tree-Nut-Free",
+      "Soy-Free",
+      "Fish-Free",
+      "Shellfish-Free",
+      "Pork-Free",
+      "Crustacean-Free",
+      "Celery-Free",
+      "Mustard-Free",
+      "Sesame-Free",
+      "Lupine-Free",
+      "Mollusk-Free",
+      "Alcohol-Free",
+      "Sulfite-Free",
+      "FODMAP-Free",
+      "Kosher"
+    ],
+    "cautions": [
+      "Sulfites"
+    ],
+    "ingredientLines": [
+      "1 tablespoon olive oil",
+      "6 lamb sausages",
+      "Lime wedges, for serving"
+    ],
+    "calories": 2490.6525,
+    "totalWeight": 861.875,
+    "totalTime": 15,
+    "cuisineType": [
+      "middle eastern"
+    ],
+    "mealType": [
+      "lunch/dinner"
+    ],
+    "dishType": [
+      "starter"
+    ],
+    "instructions": [
+      "Heat oil in a large skillet over medium heat until hot but not smoking. Cook sausages, turning, until well browned but still slightly pink in center, about 12 minutes. Cut sausages on the diagonal into thirds. Serve with lime wedges."
+    ]
+  },
+  {
+    "label": "Quick Lamb Biryani",
+    "url": "http://www.bbcgoodfood.com/recipes/4815/",
+    "ingredients": [
+      {
+        "text": "1.0 tbsp balti curry paste",
+        "quantity": 1,
+        "measure": "tablespoon",
+        "food": "curry paste",
+        "weight": 16,
+        "foodCategory": "condiments and sauces",
+        "foodId": "food_aojdol2are6zg7af2nincbe87jot",
+        "image": "https://www.edamam.com/food-img/b6a/b6a9ebae5850f42eca0253827603ef9c.jpg"
+      },
+      {
+        "text": "400.0ml lamb or chicken stock",
+        "quantity": 400,
+        "measure": "milliliter",
+        "food": "lamb or chicken stock",
+        "weight": 405.768272422116,
+        "foodCategory": "canned soup",
+        "foodId": "food_bptblvzambd16nbhewqmhaw1rnh5",
+        "image": "https://www.edamam.com/food-img/26a/26a10c4cb4e07bab54d8a687ef5ac7d8.jpg"
+      },
+      {
+        "text": "200.0g basmati rice , rinsed in cold water",
+        "quantity": 200,
+        "measure": "gram",
+        "food": "basmati rice",
+        "weight": 200,
+        "foodCategory": "grains",
+        "foodId": "food_a3g7g0kb4xvknbbdl91t8a19a6ci",
+        "image": "https://www.edamam.com/food-img/e35/e35ea1529983a3db51a32a1afa7b3837.jpg"
+      },
+      {
+        "text": "500.0g lean lamb leg steak or neck fillet, cubed",
+        "quantity": 500,
+        "measure": "gram",
+        "food": "lamb leg",
+        "weight": 500,
+        "foodCategory": "meats",
+        "foodId": "food_a1egjqqbhgmxpvax5i3vmatvm66l",
+        "image": "https://www.edamam.com/food-img/dad/dad70281fdf22cdda2e2d55972190cdf.jpg"
+      },
+      {
+        "text": "200.0g spinach",
+        "quantity": 200,
+        "measure": "gram",
+        "food": "spinach",
+        "weight": 200,
+        "foodCategory": "vegetables",
+        "foodId": "food_aoceuc6bshdej1bbsdammbnj6l6o",
+        "image": "https://www.edamam.com/food-img/e6e/e6e4be375c4554ce01c8ea75232efaa6.jpg"
+      }
+    ],
+    "uri": "http://www.edamam.com/ontologies/edamam.owl#recipe_3be6a4c88b061fefd6786de12936c9f2",
+    "image": "https://edamam-product-images.s3.amazonaws.com/web-img/0b8/0b89d34ade58e86f1be851737aabcc91.jpg?X-Amz-Security-Token=IQoJb3JpZ2luX2VjEGoaCXVzLWVhc3QtMSJHMEUCIFIil1jd5NHOSvMOKXmiga%2F7CRpL9SqT90pjzpQvMpS1AiEA9ABMxynDIYnPNFSoTb7ZMBckcrDLvv4e6dtYzK1N0iIqwgUIs%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FARAAGgwxODcwMTcxNTA5ODYiDJ0JUiSQioeZN09KpyqWBVe1sbdKBl4lqNSDGR5UVO8dIqqE5WJuXebdX3lZD4OaGW51LWKTCCXZuBKs2ISuKPh91m2%2BsZ6ktPbGE2AhkybcxwieCVK%2BK7l84Bj24ywSDZsP1yn%2FPQvPSOPdtnqKR68nmtPicbTTb2iN1fNYmLpy0S%2FnwrF8mkwdmHhvUaEbcAUyjMHohThRkgvTO7TCgSpOGWKVTQEFsLHvsgi4bWMGi1ZtCdznqWdnvOSGhPIQKiLCFUVTI1oRtogKh0lqCDL4eD4Xt5720oaytX%2FzK60NnLdU6s2vGCG9kL1rEzM1fp%2FYqaRoi9XQXp3hj79AyZsUJuPSW2wBsyauTTAprw9V0oSJ%2BkgyFsGc7Ge21I74u8u%2BUNk7NGsVmUYeMeKK6TI%2B0Rjmc6gRjNT%2FzDhfv7vJG7pMLWR%2FOUMWNa9yQUISZ8lh6vjj0kkFOzMlze5lBdHr%2FnWvNqWN3MkH70GXWEsIEh43bVc1guPIoprq%2Bu47idhxaAzP1HurGLQr7p64dzS9lpwPYzY6lcy%2FURRoDKTRQG4E%2FCEP5VCwURQtf7DgsBTBfS1SBxALeyc8mv8DNadhiSKCTJIn%2BIy5cJE6p56IH%2FPy%2BLDoFKWBjEyTq%2B485casZ1GZkBnH8U522cCwhIpNLcykX%2F4wNUr86O6r5UklISiFuq1Fd0yu9W3z6zJUJ4XVYRI9130kMvqmT%2FWXqW8YAlY3uDF32GhawMfgb7KSBBrnSCeHfWshej%2BfYfsb%2FLLReGZxgMPqGgbsfZYqxDpHj6ybFJVzSw6l8QriLDoi8oT9adjEPELXp0rV5YgcHAyQDtWXjZ99CXlSqj0bLUoeo8aQQjTT8V8rzygz0yXkostwb4FyfVN5cyxFoE1S0FloEdNSMKW24KoGOrEBFDB4UqY3hmGXzAo%2Bg1EAXCZSzy18Zg6aqXEnnaM9l2m9b6ZdoEhKpA3zaGpQeiK72d9loW2TJU%2FxVT11CkQoWJnc5vc%2BvEAEWhFcrNhGRjVyEL68aqO6lD%2FuH94JxctuAJ2UWf%2BJsGDngPUA01yn%2B8aRAjoZ6PyU1JWIWSrw9CbhMr8XDOwYorTcKjT1xK76ZXfjU6C%2FWO%2BB8Ahq6zvqxZM3%2F4GQPiRkwzYuKPC78a5%2B&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Date=20231118T030346Z&X-Amz-SignedHeaders=host&X-Amz-Expires=3600&X-Amz-Credential=ASIASXCYXIIFLO2MWB7Q%2F20231118%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Signature=6cb371cf6b8600506ad46f635772305019ba5f73dbdd6e702630b2e3e5773c7d",
+    "source": "BBC Good Food",
+    "shareAs": "http://www.edamam.com/recipe/quick-lamb-biryani-3be6a4c88b061fefd6786de12936c9f2/lamb",
+    "yield": 4,
+    "dietLabels": [],
+    "healthLabels": [
+      "Sugar-Conscious",
+      "Dairy-Free",
+      "Gluten-Free",
+      "Wheat-Free",
+      "Egg-Free",
+      "Peanut-Free",
+      "Tree-Nut-Free",
+      "Soy-Free",
+      "Fish-Free",
+      "Shellfish-Free",
+      "Pork-Free",
+      "Crustacean-Free",
+      "Celery-Free",
+      "Mustard-Free",
+      "Sesame-Free",
+      "Lupine-Free",
+      "Mollusk-Free",
+      "Alcohol-Free",
+      "Sulfite-Free"
+    ],
+    "cautions": [
+      "Sulfites",
+      "FODMAP"
+    ],
+    "ingredientLines": [
+      "1.0 tbsp balti curry paste",
+      "400.0ml lamb or chicken stock",
+      "200.0g basmati rice , rinsed in cold water",
+      "500.0g lean lamb leg steak or neck fillet, cubed",
+      "200.0g spinach"
+    ],
+    "calories": 1986.2214906319618,
+    "totalWeight": 1321.768272422116,
+    "totalTime": 50,
+    "cuisineType": [
+      "indian"
+    ],
+    "mealType": [
+      "lunch/dinner"
+    ],
+    "dishType": [
+      "main course"
+    ],
+    "instructions":[
+      "Bring stock to a simmer. Add curry paste and rice. Add cooked lamb leg and spinach. Simmer for 40 minutes and serve."
+    ]
+  },
+  {
+    "label": "Roast Rack of Lamb",
+    "url": "https://www.epicurious.com/recipes/food/views/roast-rack-of-lamb-51119040",
+    "ingredients": [
+      {
+        "text": "1 American rack of lamb (8 chops) or 2 New Zealand racks of lamb (16 chops total), about 1 1/2 pounds, ribs frenched",
+        "quantity": 1,
+        "measure": "rack",
+        "food": "racks of lamb",
+        "weight": 1585,
+        "foodCategory": "meats",
+        "foodId": "food_angq554ak5jmcyasmt9xca4h2d3p",
+        "image": "https://www.edamam.com/food-img/a90/a90c6b8376ae5feeaeeb3b81505a2089.jpg"
+      },
+      {
+        "text": "Salt",
+        "quantity": 0,
+        "measure": null,
+        "food": "Salt",
+        "weight": 15.486554220000002,
+        "foodCategory": "Condiments and sauces",
+        "foodId": "food_btxz81db72hwbra2pncvebzzzum9",
+        "image": "https://www.edamam.com/food-img/694/6943ea510918c6025795e8dc6e6eaaeb.jpg"
+      },
+      {
+        "text": "Pepper",
+        "quantity": 0,
+        "measure": null,
+        "food": "Pepper",
+        "weight": 7.743277110000001,
+        "foodCategory": "Condiments and sauces",
+        "foodId": "food_b6ywzluaaxv02wad7s1r9ag4py89",
+        "image": "https://www.edamam.com/food-img/c6e/c6e5c3bd8d3bc15175d9766971a4d1b2.jpg"
+      },
+      {
+        "text": "1 pound lamb stew meat or trimmings, cut into 1/2-inch strips",
+        "quantity": 1,
+        "measure": "pound",
+        "food": "lamb stew meat",
+        "weight": 453.59237,
+        "foodCategory": "meats",
+        "foodId": "food_a6pzcv3btrdfeba3r51f7ajjzpo5",
+        "image": "https://www.edamam.com/food-img/fc1/fc1e887bb3bcd7006654506686bf4779.jpg"
+      },
+      {
+        "text": "1/2 onion, coarsely chopped",
+        "quantity": 0.5,
+        "measure": "<unit>",
+        "food": "onion",
+        "weight": 62.5,
+        "foodCategory": "vegetables",
+        "foodId": "food_bmrvi4ob4binw9a5m7l07amlfcoy",
+        "image": "https://www.edamam.com/food-img/205/205e6bf2399b85d34741892ef91cc603.jpg"
+      },
+      {
+        "text": "2 cups chicken broth",
+        "quantity": 2,
+        "measure": "cup",
+        "food": "chicken broth",
+        "weight": 480,
+        "foodCategory": "canned soup",
+        "foodId": "food_bptblvzambd16nbhewqmhaw1rnh5",
+        "image": "https://www.edamam.com/food-img/26a/26a10c4cb4e07bab54d8a687ef5ac7d8.jpg"
+      }
+    ],
+    "uri": "http://www.edamam.com/ontologies/edamam.owl#recipe_eb145fffe724c189c517eb33717d097d",
+    "image": "https://edamam-product-images.s3.amazonaws.com/web-img/9c4/9c44fff63e124f938e8fee5206e70064.jpg?X-Amz-Security-Token=IQoJb3JpZ2luX2VjEGoaCXVzLWVhc3QtMSJHMEUCIFIil1jd5NHOSvMOKXmiga%2F7CRpL9SqT90pjzpQvMpS1AiEA9ABMxynDIYnPNFSoTb7ZMBckcrDLvv4e6dtYzK1N0iIqwgUIs%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FARAAGgwxODcwMTcxNTA5ODYiDJ0JUiSQioeZN09KpyqWBVe1sbdKBl4lqNSDGR5UVO8dIqqE5WJuXebdX3lZD4OaGW51LWKTCCXZuBKs2ISuKPh91m2%2BsZ6ktPbGE2AhkybcxwieCVK%2BK7l84Bj24ywSDZsP1yn%2FPQvPSOPdtnqKR68nmtPicbTTb2iN1fNYmLpy0S%2FnwrF8mkwdmHhvUaEbcAUyjMHohThRkgvTO7TCgSpOGWKVTQEFsLHvsgi4bWMGi1ZtCdznqWdnvOSGhPIQKiLCFUVTI1oRtogKh0lqCDL4eD4Xt5720oaytX%2FzK60NnLdU6s2vGCG9kL1rEzM1fp%2FYqaRoi9XQXp3hj79AyZsUJuPSW2wBsyauTTAprw9V0oSJ%2BkgyFsGc7Ge21I74u8u%2BUNk7NGsVmUYeMeKK6TI%2B0Rjmc6gRjNT%2FzDhfv7vJG7pMLWR%2FOUMWNa9yQUISZ8lh6vjj0kkFOzMlze5lBdHr%2FnWvNqWN3MkH70GXWEsIEh43bVc1guPIoprq%2Bu47idhxaAzP1HurGLQr7p64dzS9lpwPYzY6lcy%2FURRoDKTRQG4E%2FCEP5VCwURQtf7DgsBTBfS1SBxALeyc8mv8DNadhiSKCTJIn%2BIy5cJE6p56IH%2FPy%2BLDoFKWBjEyTq%2B485casZ1GZkBnH8U522cCwhIpNLcykX%2F4wNUr86O6r5UklISiFuq1Fd0yu9W3z6zJUJ4XVYRI9130kMvqmT%2FWXqW8YAlY3uDF32GhawMfgb7KSBBrnSCeHfWshej%2BfYfsb%2FLLReGZxgMPqGgbsfZYqxDpHj6ybFJVzSw6l8QriLDoi8oT9adjEPELXp0rV5YgcHAyQDtWXjZ99CXlSqj0bLUoeo8aQQjTT8V8rzygz0yXkostwb4FyfVN5cyxFoE1S0FloEdNSMKW24KoGOrEBFDB4UqY3hmGXzAo%2Bg1EAXCZSzy18Zg6aqXEnnaM9l2m9b6ZdoEhKpA3zaGpQeiK72d9loW2TJU%2FxVT11CkQoWJnc5vc%2BvEAEWhFcrNhGRjVyEL68aqO6lD%2FuH94JxctuAJ2UWf%2BJsGDngPUA01yn%2B8aRAjoZ6PyU1JWIWSrw9CbhMr8XDOwYorTcKjT1xK76ZXfjU6C%2FWO%2BB8Ahq6zvqxZM3%2F4GQPiRkwzYuKPC78a5%2B&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Date=20231118T030346Z&X-Amz-SignedHeaders=host&X-Amz-Expires=3600&X-Amz-Credential=ASIASXCYXIIFLO2MWB7Q%2F20231118%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Signature=e05759a95923a341b86fc9b8054bdf76899bf7bc1aa2bfb0d33bd516d9ba29cf",
+    "source": "Epicurious",
+    "shareAs": "http://www.edamam.com/recipe/roast-rack-of-lamb-eb145fffe724c189c517eb33717d097d/lamb",
+    "yield": 4,
+    "dietLabels": [
+      "Low-Carb"
+    ],
+    "healthLabels": [
+      "Sugar-Conscious",
+      "Keto-Friendly",
+      "Paleo",
+      "Dairy-Free",
+      "Gluten-Free",
+      "Wheat-Free",
+      "Egg-Free",
+      "Peanut-Free",
+      "Tree-Nut-Free",
+      "Soy-Free",
+      "Fish-Free",
+      "Shellfish-Free",
+      "Crustacean-Free",
+      "Celery-Free",
+      "Mustard-Free",
+      "Sesame-Free",
+      "Lupine-Free",
+      "Mollusk-Free",
+      "Alcohol-Free",
+      "No oil added",
+      "Sulfite-Free",
+      "Kosher"
+    ],
+    "cautions": [
+      "Sulfites"
+    ],
+    "ingredientLines": [
+      "1 American rack of lamb (8 chops) or 2 New Zealand racks of lamb (16 chops total), about 1 1/2 pounds, ribs frenched",
+      "Salt",
+      "Pepper",
+      "1 pound lamb stew meat or trimmings, cut into 1/2-inch strips",
+      "1/2 onion, coarsely chopped",
+      "2 cups chicken broth"
+    ],
+    "calories": 7392.5661089461,
+    "totalWeight": 2599.5949702206167,
+    "totalTime": 50,
+    "cuisineType": [
+      "american"
+    ],
+    "mealType": [
+      "lunch/dinner"
+    ],
+    "dishType": [
+      "main course"
+    ],
+    "instructions":[
+      "Let the rack(s) come to room temperature and season all over with salt and pepper. Preheat the oven to 450°F.",
+      "Spread the stew meat and onion on the bottom of a roasting pan just large enough to hold the rack(s). Place the rack(s) on top. Slide the pan into the oven and roast for about 25 minutes, or until an instant-read thermometer inserted into the center of the roast without touching bone reads 125°F to 130°F or until the meat feels firm when you press both ends of the rack(s).",
+      "Transfer the rack(s) to a platter or cutting board, tent loosely with aluminum foil, and let rest for 15 minutes before carving.",
+      "While the rack(s) are resting, make the jus. Put the roasting pan on the stove top over high heat and stir around the pieces of meat until the meat is browned and any juices have caramelized on the bottom of the pan. Discard the fat and return the pan to high heat. Deglaze the pan with 1/2 cup of the broth, scraping up any brown bits on the bottom of the pan with a wooden spoon. Boil down the broth until it caramelizes into a crusty brown layer with a layer of clear fat on top. Pour off the fat, return the pan to high heat, and deglaze the pan with a second 1/2 cup broth, again boiling it down. Deglaze the pan with the remaining 1 cup broth, stirring until the crust has dissolved into the liquid, and then strain the liquid through a fine-mesh strainer into a warmed sauceboat.",
+      "Carve the rack(s), cutting between the ribs. Pass the jus at the table."
+    ]
+  },
+  {
+    "label": "Rosemary Crusted Lamb Chops recipes",
+    "url": "http://www.simplyrecipes.com/recipes/rosemary_crusted_lamb_chops/",
+    "ingredients": [
+      {
+        "text": "1 pound lamb chops (lamb rib chops are what are pictured here)",
+        "quantity": 1,
+        "measure": "pound",
+        "food": "lamb chops",
+        "weight": 453.59237,
+        "foodCategory": "meats",
+        "foodId": "food_blyft3rav1gpd5b18cv31a5dvx4f",
+        "image": "https://www.edamam.com/food-img/edb/edb623c31169b072a82eb8da8bab6230.jpg"
+      },
+      {
+        "text": "2 Tbsp minced fresh rosemary",
+        "quantity": 2,
+        "measure": "tablespoon",
+        "food": "fresh rosemary",
+        "weight": 3.4,
+        "foodCategory": "Condiments and sauces",
+        "foodId": "food_b6tm2t2blxi7okaeiv91wb8bmygq",
+        "image": "https://www.edamam.com/food-img/0ac/0ac8f7cf6f2d0ad7b1a2f9900fae44f3.jpg"
+      },
+      {
+        "text": "2 teaspoons salt",
+        "quantity": 2,
+        "measure": "teaspoon",
+        "food": "salt",
+        "weight": 12,
+        "foodCategory": "Condiments and sauces",
+        "foodId": "food_btxz81db72hwbra2pncvebzzzum9",
+        "image": "https://www.edamam.com/food-img/694/6943ea510918c6025795e8dc6e6eaaeb.jpg"
+      },
+      {
+        "text": "1 teaspoon freshly ground black pepper",
+        "quantity": 1,
+        "measure": "teaspoon",
+        "food": "black pepper",
+        "weight": 2.3,
+        "foodCategory": "Condiments and sauces",
+        "foodId": "food_b6ywzluaaxv02wad7s1r9ag4py89",
+        "image": "https://www.edamam.com/food-img/c6e/c6e5c3bd8d3bc15175d9766971a4d1b2.jpg"
+      },
+      {
+        "text": "1 garlic clove, minced",
+        "quantity": 1,
+        "measure": "clove",
+        "food": "garlic",
+        "weight": 3,
+        "foodCategory": "vegetables",
+        "foodId": "food_avtcmx6bgjv1jvay6s6stan8dnyp",
+        "image": "https://www.edamam.com/food-img/6ee/6ee142951f48aaf94f4312409f8d133d.jpg"
+      },
+      {
+        "text": "4 Tbsp olive oil, divided",
+        "quantity": 4,
+        "measure": "tablespoon",
+        "food": "olive oil",
+        "weight": 54,
+        "foodCategory": "Oils",
+        "foodId": "food_b1d1icuad3iktrbqby0hiagafaz7",
+        "image": "https://www.edamam.com/food-img/4d6/4d651eaa8a353647746290c7a9b29d84.jpg"
+      }
+    ],
+    "uri": "http://www.edamam.com/ontologies/edamam.owl#recipe_a541aa42720557b611d7f2c6fad12f17",
+    "image": "https://edamam-product-images.s3.amazonaws.com/web-img/f3a/f3aa27943410a85ae0cc824077604492?X-Amz-Security-Token=IQoJb3JpZ2luX2VjEGoaCXVzLWVhc3QtMSJHMEUCIFIil1jd5NHOSvMOKXmiga%2F7CRpL9SqT90pjzpQvMpS1AiEA9ABMxynDIYnPNFSoTb7ZMBckcrDLvv4e6dtYzK1N0iIqwgUIs%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FARAAGgwxODcwMTcxNTA5ODYiDJ0JUiSQioeZN09KpyqWBVe1sbdKBl4lqNSDGR5UVO8dIqqE5WJuXebdX3lZD4OaGW51LWKTCCXZuBKs2ISuKPh91m2%2BsZ6ktPbGE2AhkybcxwieCVK%2BK7l84Bj24ywSDZsP1yn%2FPQvPSOPdtnqKR68nmtPicbTTb2iN1fNYmLpy0S%2FnwrF8mkwdmHhvUaEbcAUyjMHohThRkgvTO7TCgSpOGWKVTQEFsLHvsgi4bWMGi1ZtCdznqWdnvOSGhPIQKiLCFUVTI1oRtogKh0lqCDL4eD4Xt5720oaytX%2FzK60NnLdU6s2vGCG9kL1rEzM1fp%2FYqaRoi9XQXp3hj79AyZsUJuPSW2wBsyauTTAprw9V0oSJ%2BkgyFsGc7Ge21I74u8u%2BUNk7NGsVmUYeMeKK6TI%2B0Rjmc6gRjNT%2FzDhfv7vJG7pMLWR%2FOUMWNa9yQUISZ8lh6vjj0kkFOzMlze5lBdHr%2FnWvNqWN3MkH70GXWEsIEh43bVc1guPIoprq%2Bu47idhxaAzP1HurGLQr7p64dzS9lpwPYzY6lcy%2FURRoDKTRQG4E%2FCEP5VCwURQtf7DgsBTBfS1SBxALeyc8mv8DNadhiSKCTJIn%2BIy5cJE6p56IH%2FPy%2BLDoFKWBjEyTq%2B485casZ1GZkBnH8U522cCwhIpNLcykX%2F4wNUr86O6r5UklISiFuq1Fd0yu9W3z6zJUJ4XVYRI9130kMvqmT%2FWXqW8YAlY3uDF32GhawMfgb7KSBBrnSCeHfWshej%2BfYfsb%2FLLReGZxgMPqGgbsfZYqxDpHj6ybFJVzSw6l8QriLDoi8oT9adjEPELXp0rV5YgcHAyQDtWXjZ99CXlSqj0bLUoeo8aQQjTT8V8rzygz0yXkostwb4FyfVN5cyxFoE1S0FloEdNSMKW24KoGOrEBFDB4UqY3hmGXzAo%2Bg1EAXCZSzy18Zg6aqXEnnaM9l2m9b6ZdoEhKpA3zaGpQeiK72d9loW2TJU%2FxVT11CkQoWJnc5vc%2BvEAEWhFcrNhGRjVyEL68aqO6lD%2FuH94JxctuAJ2UWf%2BJsGDngPUA01yn%2B8aRAjoZ6PyU1JWIWSrw9CbhMr8XDOwYorTcKjT1xK76ZXfjU6C%2FWO%2BB8Ahq6zvqxZM3%2F4GQPiRkwzYuKPC78a5%2B&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Date=20231118T030346Z&X-Amz-SignedHeaders=host&X-Amz-Expires=3600&X-Amz-Credential=ASIASXCYXIIFLO2MWB7Q%2F20231118%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Signature=028b58f0fe4233a8e8f6dd53c3013a821aabd078d65a5b827fb0e4878baa0bc5",
+    "source": "Simply Recipes",
+    "shareAs": "http://www.edamam.com/recipe/rosemary-crusted-lamb-chops-recipes-a541aa42720557b611d7f2c6fad12f17/lamb",
+    "yield": 2,
+    "dietLabels": [
+      "Low-Carb"
+    ],
+    "healthLabels": [
+      "Sugar-Conscious",
+      "Keto-Friendly",
+      "Paleo",
+      "Mediterranean",
+      "Dairy-Free",
+      "Gluten-Free",
+      "Wheat-Free",
+      "Egg-Free",
+      "Peanut-Free",
+      "Tree-Nut-Free",
+      "Soy-Free",
+      "Fish-Free",
+      "Shellfish-Free",
+      "Pork-Free",
+      "Crustacean-Free",
+      "Celery-Free",
+      "Mustard-Free",
+      "Sesame-Free",
+      "Lupine-Free",
+      "Mollusk-Free",
+      "Alcohol-Free",
+      "Sulfite-Free",
+      "Immuno-Supportive"
+    ],
+    "cautions": [],
+    "ingredientLines": [
+      "1 pound lamb chops (lamb rib chops are what are pictured here)",
+      "2 Tbsp minced fresh rosemary",
+      "2 teaspoons salt",
+      "1 teaspoon freshly ground black pepper",
+      "1 garlic clove, minced",
+      "4 Tbsp olive oil, divided"
+    ],
+    "calories": 1898.193347,
+    "totalWeight": 518.7245397252258,
+    "totalTime": 50,
+    "cuisineType": [
+      "middle eastern"
+    ],
+    "mealType": [
+      "lunch/dinner"
+    ],
+    "dishType": [
+      "main course"
+    ],
+    "instructions":[
+      "In a small bowl, mix the rosemary, salt, pepper, garlic, and 2 tablespoons of the olive oil together. Coat the lamb chops with the mixture, massaging it into the meat with your fingers. If you are working with double rib chops, cover and let stand at room temperature for 30 to 45 minutes. If you are working with single rib chops, and you want the result to be rare, let the chops sit in the rub in the refrigerator—do not let come to room temp or the thin ribs will easily overcook when you sear them in the next step. You can also marinate the chops in the fridge for up to 24 hours. (Allow double rib chops to stand at room temperature 30 to 40 minutes before cooking.)",
+      "Heat the remaining 2 tablespoons olive oil in an oven-proof sauté pan over high heat. When the oil is shimmering hot, sear the chops. Sear double rib chops on all sides about 2 to 3 minutes per side. If you are working with single rib chops, sear only on two sides, and only a minute (or less) on each side if you want the result to be rare or medium rare.",
+      "At this point, if you want your lamb chops rare, they are likely cooked enough. If you would like your chops more cooked, you can put them in a 400°F oven for 3 to 5 minutes, or keep them in the hot pan, lower the heat to warm, and cover the pan for a few minutes. Note that rib chops are so small, and cook so quickly, checking for internal temperature with a thermometer can be impractical. For this reason I use the finger test to check the doneness of the chops. That said, if you have an instant-read thermometer and want to check thick chops, aim for 125°F for rare, 135°F medium-rare, and 140°F for medium.",
+      "When done, remove the chops from the pan, cover with foil, and let rest 3 to 5 minutes before serving."
+    ]
+  },
+  {
+    "label": "Köşk Kebabý (Lamb Kebabs With Eggplant)",
+    "url": "http://www.saveur.com/article/Recipes/Lamb-Kebabs-with-Eggplant",
+    "ingredients": [
+      {
+        "text": "¾ lb. boneless leg of lamb, cut into ⅔\" cubes",
+        "quantity": 0.75,
+        "measure": "pound",
+        "food": "leg of lamb",
+        "weight": 340.1942775,
+        "foodCategory": "meats",
+        "foodId": "food_a1egjqqbhgmxpvax5i3vmatvm66l",
+        "image": "https://www.edamam.com/food-img/dad/dad70281fdf22cdda2e2d55972190cdf.jpg"
+      },
+      {
+        "text": "1½ oz. lamb fat, preferably tail fat, cut into ⅔\" cubes",
+        "quantity": 1.5,
+        "measure": "ounce",
+        "food": "lamb fat",
+        "weight": 42.5242846875,
+        "foodCategory": "Oils",
+        "foodId": "food_a1vldbzbep2trkb7ia1qgav0tmjj",
+        "image": null
+      },
+      {
+        "text": "¼ cup olive oil",
+        "quantity": 0.25,
+        "measure": "cup",
+        "food": "olive oil",
+        "weight": 54,
+        "foodCategory": "Oils",
+        "foodId": "food_b1d1icuad3iktrbqby0hiagafaz7",
+        "image": "https://www.edamam.com/food-img/4d6/4d651eaa8a353647746290c7a9b29d84.jpg"
+      },
+      {
+        "text": "1 tsp. coarse salt, plus more to taste",
+        "quantity": 1,
+        "measure": "teaspoon",
+        "food": "coarse salt",
+        "weight": 4.854166666912875,
+        "foodCategory": "Condiments and sauces",
+        "foodId": "food_a1vgrj1bs8rd1majvmd9ubz8ttkg",
+        "image": "https://www.edamam.com/food-img/694/6943ea510918c6025795e8dc6e6eaaeb.jpg"
+      },
+      {
+        "text": "5 slender, pale purple eggplants (about 1 ¼ lbs.)",
+        "quantity": 1.25,
+        "measure": "pound",
+        "food": "eggplants",
+        "weight": 566.9904625,
+        "foodCategory": "vegetables",
+        "foodId": "food_ac9n68caswlpggbp7727varlyjk5",
+        "image": "https://www.edamam.com/food-img/da5/da5978d61b89a363147a6d13c36e3b54.jpg"
+      },
+      {
+        "text": "¼ cup butter",
+        "quantity": 0.25,
+        "measure": "cup",
+        "food": "butter",
+        "weight": 56.75,
+        "foodCategory": "Dairy",
+        "foodId": "food_awz3iefajbk1fwahq9logahmgltj",
+        "image": "https://www.edamam.com/food-img/713/71397239b670d88c04faa8d05035cab4.jpg"
+      },
+      {
+        "text": "1 large green pepper, cored, seeded, and finely chopped",
+        "quantity": 1,
+        "measure": "<unit>",
+        "food": "green pepper",
+        "weight": 164,
+        "foodCategory": "vegetables",
+        "foodId": "food_bz8rcwobbzm7zhb3wh2n7aznivou",
+        "image": "https://www.edamam.com/food-img/629/629dc9fddc1f8aec27fa337dd6ce2b7c.jpg"
+      },
+      {
+        "text": "2 medium tomatoes, cored, peeled, and finely chopped",
+        "quantity": 2,
+        "measure": "<unit>",
+        "food": "tomatoes",
+        "weight": 246,
+        "foodCategory": "vegetables",
+        "foodId": "food_a6k79rrahp8fe2b26zussa3wtkqh",
+        "image": "https://www.edamam.com/food-img/23e/23e727a14f1035bdc2733bb0477efbd2.jpg"
+      },
+      {
+        "text": "⅓ cup lamb stock (see Panfried Lamb Kebabs with Bulgar Pilav, step 1)",
+        "quantity": 0.3333333333333333,
+        "measure": "cup",
+        "food": "lamb stock",
+        "weight": 80,
+        "foodCategory": "canned soup",
+        "foodId": "food_bwj73prb0kz0qoaqcqik2a5nkqua",
+        "image": "https://www.edamam.com/food-img/428/4284513ddbf46e51f0f33566c0d61715.jpg"
+      },
+      {
+        "text": "½ cup cilantro leaves",
+        "quantity": 0.5,
+        "measure": "cup",
+        "food": "cilantro leaves",
+        "weight": 8,
+        "foodCategory": "vegetables",
+        "foodId": "food_alhzhuwb4lc7jnb5s6f02by60bzp",
+        "image": "https://www.edamam.com/food-img/d57/d57e375b6ff99a90c7ee2b1990a1af36.jpg"
+      }
+    ],
+    "uri": "http://www.edamam.com/ontologies/edamam.owl#recipe_f16b0d5506bdbfc3211ec78076877bca",
+    "image": "https://edamam-product-images.s3.amazonaws.com/web-img/3da/3da3b9953010d35720b932baec1fc456.jpg?X-Amz-Security-Token=IQoJb3JpZ2luX2VjEGoaCXVzLWVhc3QtMSJHMEUCIFIil1jd5NHOSvMOKXmiga%2F7CRpL9SqT90pjzpQvMpS1AiEA9ABMxynDIYnPNFSoTb7ZMBckcrDLvv4e6dtYzK1N0iIqwgUIs%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FARAAGgwxODcwMTcxNTA5ODYiDJ0JUiSQioeZN09KpyqWBVe1sbdKBl4lqNSDGR5UVO8dIqqE5WJuXebdX3lZD4OaGW51LWKTCCXZuBKs2ISuKPh91m2%2BsZ6ktPbGE2AhkybcxwieCVK%2BK7l84Bj24ywSDZsP1yn%2FPQvPSOPdtnqKR68nmtPicbTTb2iN1fNYmLpy0S%2FnwrF8mkwdmHhvUaEbcAUyjMHohThRkgvTO7TCgSpOGWKVTQEFsLHvsgi4bWMGi1ZtCdznqWdnvOSGhPIQKiLCFUVTI1oRtogKh0lqCDL4eD4Xt5720oaytX%2FzK60NnLdU6s2vGCG9kL1rEzM1fp%2FYqaRoi9XQXp3hj79AyZsUJuPSW2wBsyauTTAprw9V0oSJ%2BkgyFsGc7Ge21I74u8u%2BUNk7NGsVmUYeMeKK6TI%2B0Rjmc6gRjNT%2FzDhfv7vJG7pMLWR%2FOUMWNa9yQUISZ8lh6vjj0kkFOzMlze5lBdHr%2FnWvNqWN3MkH70GXWEsIEh43bVc1guPIoprq%2Bu47idhxaAzP1HurGLQr7p64dzS9lpwPYzY6lcy%2FURRoDKTRQG4E%2FCEP5VCwURQtf7DgsBTBfS1SBxALeyc8mv8DNadhiSKCTJIn%2BIy5cJE6p56IH%2FPy%2BLDoFKWBjEyTq%2B485casZ1GZkBnH8U522cCwhIpNLcykX%2F4wNUr86O6r5UklISiFuq1Fd0yu9W3z6zJUJ4XVYRI9130kMvqmT%2FWXqW8YAlY3uDF32GhawMfgb7KSBBrnSCeHfWshej%2BfYfsb%2FLLReGZxgMPqGgbsfZYqxDpHj6ybFJVzSw6l8QriLDoi8oT9adjEPELXp0rV5YgcHAyQDtWXjZ99CXlSqj0bLUoeo8aQQjTT8V8rzygz0yXkostwb4FyfVN5cyxFoE1S0FloEdNSMKW24KoGOrEBFDB4UqY3hmGXzAo%2Bg1EAXCZSzy18Zg6aqXEnnaM9l2m9b6ZdoEhKpA3zaGpQeiK72d9loW2TJU%2FxVT11CkQoWJnc5vc%2BvEAEWhFcrNhGRjVyEL68aqO6lD%2FuH94JxctuAJ2UWf%2BJsGDngPUA01yn%2B8aRAjoZ6PyU1JWIWSrw9CbhMr8XDOwYorTcKjT1xK76ZXfjU6C%2FWO%2BB8Ahq6zvqxZM3%2F4GQPiRkwzYuKPC78a5%2B&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Date=20231118T030346Z&X-Amz-SignedHeaders=host&X-Amz-Expires=3600&X-Amz-Credential=ASIASXCYXIIFLO2MWB7Q%2F20231118%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Signature=fd7812c30b3e9bcc67d3fe3154d07efbd84c152a6945344fc12a53d66d367ed2",
+    "source": "Saveur",
+    "shareAs": "http://www.edamam.com/recipe/k%C3%B6%C5%9Fk-kebab%C3%BD-lamb-kebabs-with-eggplant-f16b0d5506bdbfc3211ec78076877bca/lamb",
+    "yield": 4,
+    "dietLabels": [
+      "Low-Carb"
+    ],
+    "healthLabels": [
+      "Keto-Friendly",
+      "Egg-Free",
+      "Peanut-Free",
+      "Tree-Nut-Free",
+      "Soy-Free",
+      "Fish-Free",
+      "Shellfish-Free",
+      "Pork-Free",
+      "Crustacean-Free",
+      "Celery-Free",
+      "Mustard-Free",
+      "Sesame-Free",
+      "Lupine-Free",
+      "Mollusk-Free",
+      "Alcohol-Free",
+      "Sulfite-Free"
+    ],
+    "cautions": [
+      "Sulfites"
+    ],
+    "ingredientLines": [
+      "¾ lb. boneless leg of lamb, cut into ⅔\" cubes",
+      "1½ oz. lamb fat, preferably tail fat, cut into ⅔\" cubes",
+      "¼ cup olive oil",
+      "1 tsp. coarse salt, plus more to taste",
+      "5 slender, pale purple eggplants (about 1 ¼ lbs.)",
+      "¼ cup butter",
+      "1 large green pepper, cored, seeded, and finely chopped",
+      "2 medium tomatoes, cored, peeled, and finely chopped",
+      "⅓ cup lamb stock (see Panfried Lamb Kebabs with Bulgar Pilav, step 1)",
+      "½ cup cilantro leaves"
+    ],
+    "calories": 2182.9681565125006,
+    "totalWeight": 1563.313191354413,
+    "totalTime": 70,
+    "cuisineType": [
+      "middle eastern"
+    ],
+    "mealType": [
+      "lunch/dinner"
+    ],
+    "dishType": [
+      "main course"
+    ],
+    "instructions":[
+      "Toss together lamb, fat, and oil in a shallow dish. Refrigerate for 24 hours. Drain, transfer to a bowl; discard oil. Add salt; toss to combine. Thread 1 piece fat between every 4–6 pieces lamb onto six 15–20 metal skewers; set aside.",
+      "Preheat oven to 400°. Arrange eggplant on a baking sheet in a single layer. Roast until soft, about 30 minutes. Let cool slightly; remove and discard skin. Transfer flesh to a medium bowl; mash smooth with a fork.",
+      "Melt butter in a large skillet over medium heat. Add peppers and cook until softened, 8–10 minutes. Add tomatoes and cook until most of the liquid has evaporated, 8–10 minutes. Add eggplant and salt to taste; stir to combine. Transfer to a serving platter. Preheat a grill to medium. Grill kebabs, turning and basting with stock occasionally, until golden brown, about 5 minutes. Slide meat and fat off onto eggplant mixture. Garnish with cilantro."
+    ]
+  },
+  {
+    "label": "Lamb Meatballs",
+    "url": "https://food52.com/recipes/11140-lamb-meatballs",
+    "ingredients": [
+      {
+        "text": "1 pound ground lamb",
+        "quantity": 1,
+        "measure": "pound",
+        "food": "ground lamb",
+        "weight": 453.59237,
+        "foodCategory": "meats",
+        "foodId": "food_a6pzcv3btrdfeba3r51f7ajjzpo5",
+        "image": "https://www.edamam.com/food-img/fc1/fc1e887bb3bcd7006654506686bf4779.jpg"
+      },
+      {
+        "text": "1 cup cooked bulgar wheat",
+        "quantity": 1,
+        "measure": "cup",
+        "food": "wheat",
+        "weight": 168,
+        "foodCategory": "grains",
+        "foodId": "food_aqnpgrcaonutqvb3cd7jmaysai3q",
+        "image": "https://www.edamam.com/food-img/a7c/a7c2e43c57873e2f60795e3bb560ffcd.png"
+      },
+      {
+        "text": "2 tablespoons chopped parsley",
+        "quantity": 2,
+        "measure": "tablespoon",
+        "food": "parsley",
+        "weight": 7.6,
+        "foodCategory": "vegetables",
+        "foodId": "food_b244pqdazw24zobr5vqu2bf0uid8",
+        "image": "https://www.edamam.com/food-img/46a/46a132e96626d7989b4d6ed8c91f4da0.jpg"
+      },
+      {
+        "text": "1 tablespoon chopped dill",
+        "quantity": 1,
+        "measure": "tablespoon",
+        "food": "dill",
+        "weight": 0.556249999990595,
+        "foodCategory": "Condiments and sauces",
+        "foodId": "food_avhhd2padkkzx8a9swnmlb1km3qb",
+        "image": "https://www.edamam.com/food-img/874/8740aacb8e1a348cd5eead1f0bb552d4.jpg"
+      },
+      {
+        "text": "1 teaspoon cinnamon",
+        "quantity": 1,
+        "measure": "teaspoon",
+        "food": "cinnamon",
+        "weight": 2.6,
+        "foodCategory": "Condiments and sauces",
+        "foodId": "food_atjxtznauw5zabaixm24xa787onz",
+        "image": "https://www.edamam.com/food-img/d4d/d4daa18b92c596a1c99c08537c38e65b.jpg"
+      },
+      {
+        "text": "1 teaspoon ground cumin",
+        "quantity": 1,
+        "measure": "teaspoon",
+        "food": "cumin",
+        "weight": 2.1,
+        "foodCategory": "Condiments and sauces",
+        "foodId": "food_a8jjbx4biqndasapojdb5by3e92e",
+        "image": "https://www.edamam.com/food-img/07e/07e2a4eb77ce46591033846504817d35.jpg"
+      },
+      {
+        "text": "1 teaspoon ground coriander",
+        "quantity": 1,
+        "measure": "teaspoon",
+        "food": "coriander",
+        "weight": 1.8,
+        "foodCategory": "Condiments and sauces",
+        "foodId": "food_afpcy6rb44nx6gbfff63ga2cqksw",
+        "image": "https://www.edamam.com/food-img/a90/a901cee0b9028841d258f5d07b5924e7.jpg"
+      },
+      {
+        "text": "2 tablespoons chopped pine nuts",
+        "quantity": 2,
+        "measure": "tablespoon",
+        "food": "pine nuts",
+        "weight": 16.8749999997147,
+        "foodCategory": "plant-based protein",
+        "foodId": "food_b5d59t6bhqudbqalw7k4fb6ncio8",
+        "image": "https://www.edamam.com/food-img/52f/52fa29cb9d1ab6502f137a98c8a63f09.jpg"
+      },
+      {
+        "text": "1 clove garlic finely chopped",
+        "quantity": 1,
+        "measure": "clove",
+        "food": "garlic",
+        "weight": 3,
+        "foodCategory": "vegetables",
+        "foodId": "food_avtcmx6bgjv1jvay6s6stan8dnyp",
+        "image": "https://www.edamam.com/food-img/6ee/6ee142951f48aaf94f4312409f8d133d.jpg"
+      },
+      {
+        "text": "Salt to taste",
+        "quantity": 0,
+        "measure": null,
+        "food": "Salt",
+        "weight": 3.9367417199982317,
+        "foodCategory": "Condiments and sauces",
+        "foodId": "food_btxz81db72hwbra2pncvebzzzum9",
+        "image": "https://www.edamam.com/food-img/694/6943ea510918c6025795e8dc6e6eaaeb.jpg"
+      }
+    ],
+    "uri": "http://www.edamam.com/ontologies/edamam.owl#recipe_ddabbf003164c745680910e28dc14164",
+    "image": "https://edamam-product-images.s3.amazonaws.com/web-img/258/258a059fc2293fc49270a7963de4f6fc.jpg?X-Amz-Security-Token=IQoJb3JpZ2luX2VjEGoaCXVzLWVhc3QtMSJHMEUCIFIil1jd5NHOSvMOKXmiga%2F7CRpL9SqT90pjzpQvMpS1AiEA9ABMxynDIYnPNFSoTb7ZMBckcrDLvv4e6dtYzK1N0iIqwgUIs%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FARAAGgwxODcwMTcxNTA5ODYiDJ0JUiSQioeZN09KpyqWBVe1sbdKBl4lqNSDGR5UVO8dIqqE5WJuXebdX3lZD4OaGW51LWKTCCXZuBKs2ISuKPh91m2%2BsZ6ktPbGE2AhkybcxwieCVK%2BK7l84Bj24ywSDZsP1yn%2FPQvPSOPdtnqKR68nmtPicbTTb2iN1fNYmLpy0S%2FnwrF8mkwdmHhvUaEbcAUyjMHohThRkgvTO7TCgSpOGWKVTQEFsLHvsgi4bWMGi1ZtCdznqWdnvOSGhPIQKiLCFUVTI1oRtogKh0lqCDL4eD4Xt5720oaytX%2FzK60NnLdU6s2vGCG9kL1rEzM1fp%2FYqaRoi9XQXp3hj79AyZsUJuPSW2wBsyauTTAprw9V0oSJ%2BkgyFsGc7Ge21I74u8u%2BUNk7NGsVmUYeMeKK6TI%2B0Rjmc6gRjNT%2FzDhfv7vJG7pMLWR%2FOUMWNa9yQUISZ8lh6vjj0kkFOzMlze5lBdHr%2FnWvNqWN3MkH70GXWEsIEh43bVc1guPIoprq%2Bu47idhxaAzP1HurGLQr7p64dzS9lpwPYzY6lcy%2FURRoDKTRQG4E%2FCEP5VCwURQtf7DgsBTBfS1SBxALeyc8mv8DNadhiSKCTJIn%2BIy5cJE6p56IH%2FPy%2BLDoFKWBjEyTq%2B485casZ1GZkBnH8U522cCwhIpNLcykX%2F4wNUr86O6r5UklISiFuq1Fd0yu9W3z6zJUJ4XVYRI9130kMvqmT%2FWXqW8YAlY3uDF32GhawMfgb7KSBBrnSCeHfWshej%2BfYfsb%2FLLReGZxgMPqGgbsfZYqxDpHj6ybFJVzSw6l8QriLDoi8oT9adjEPELXp0rV5YgcHAyQDtWXjZ99CXlSqj0bLUoeo8aQQjTT8V8rzygz0yXkostwb4FyfVN5cyxFoE1S0FloEdNSMKW24KoGOrEBFDB4UqY3hmGXzAo%2Bg1EAXCZSzy18Zg6aqXEnnaM9l2m9b6ZdoEhKpA3zaGpQeiK72d9loW2TJU%2FxVT11CkQoWJnc5vc%2BvEAEWhFcrNhGRjVyEL68aqO6lD%2FuH94JxctuAJ2UWf%2BJsGDngPUA01yn%2B8aRAjoZ6PyU1JWIWSrw9CbhMr8XDOwYorTcKjT1xK76ZXfjU6C%2FWO%2BB8Ahq6zvqxZM3%2F4GQPiRkwzYuKPC78a5%2B&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Date=20231118T030346Z&X-Amz-SignedHeaders=host&X-Amz-Expires=3600&X-Amz-Credential=ASIASXCYXIIFLO2MWB7Q%2F20231118%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Signature=2d91c186ee382d9da4109b98ee4075e910e842e3cc364cf7b7243515ddbe96f1",
+    "source": "Food52",
+    "shareAs": "http://www.edamam.com/recipe/lamb-meatballs-ddabbf003164c745680910e28dc14164/lamb",
+    "yield": 44,
+    "dietLabels": [
+      "Low-Sodium"
+    ],
+    "healthLabels": [
+      "Sugar-Conscious",
+      "Low Potassium",
+      "Kidney-Friendly",
+      "Keto-Friendly",
+      "Mediterranean",
+      "Dairy-Free",
+      "Egg-Free",
+      "Peanut-Free",
+      "Soy-Free",
+      "Fish-Free",
+      "Shellfish-Free",
+      "Pork-Free",
+      "Crustacean-Free",
+      "Celery-Free",
+      "Mustard-Free",
+      "Sesame-Free",
+      "Lupine-Free",
+      "Mollusk-Free",
+      "Alcohol-Free",
+      "No oil added",
+      "Sulfite-Free",
+      "Kosher"
+    ],
+    "cautions": [],
+    "ingredientLines": [
+      "1 pound ground lamb",
+      "1 cup cooked bulgar wheat",
+      "2 tablespoons chopped parsley",
+      "1 tablespoon chopped dill",
+      "1 teaspoon cinnamon",
+      "1 teaspoon ground cumin",
+      "1 teaspoon ground coriander",
+      "2 tablespoons chopped pine nuts",
+      "1 clove garlic finely chopped",
+      "Salt to taste"
+    ],
+    "calories": 1975.8854208980763,
+    "totalWeight": 659.3322850642335,
+    "totalTime": 53,
+    "cuisineType": [
+      "middle eastern"
+    ],
+    "mealType": [
+      "lunch/dinner"
+    ],
+    "dishType": [
+      "main course"
+    ],
+    "instructions":[
+      "Preheat oven to 400.",
+      "Combine all ingredients in medium sized bowl with hands until well blended",
+      "Take 1-2 tablespoons filling, roll with hands into balls and place on foiled baking sheets",
+      "Bake until golden brown approximately 15 minutes"
+    ]
+  },
+  {
+    "label": "Poached Lamb Shanks",
+    "url": "http://www.sfgate.com/food/recipes/detail.html?rid=17611&sorig=qs",
+    "ingredients": [
+      {
+        "text": "4 pounds bone-in lamb shanks",
+        "quantity": 4,
+        "measure": "pound",
+        "food": "lamb shanks",
+        "weight": 1814.36948,
+        "foodCategory": "meats",
+        "foodId": "food_ai1zuazbhdt1cgbp57he3b0emm7d",
+        "image": null
+      },
+      {
+        "text": "-- Kosher salt 1/2 teaspoon turmeric",
+        "quantity": 0.5,
+        "measure": "teaspoon",
+        "food": "Kosher salt",
+        "weight": 2.4270833334564377,
+        "foodCategory": "Condiments and sauces",
+        "foodId": "food_a1vgrj1bs8rd1majvmd9ubz8ttkg",
+        "image": "https://www.edamam.com/food-img/694/6943ea510918c6025795e8dc6e6eaaeb.jpg"
+      },
+      {
+        "text": "1 medium yellow onion, peeled and halved",
+        "quantity": 1,
+        "measure": "<unit>",
+        "food": "yellow onion",
+        "weight": 110,
+        "foodCategory": "vegetables",
+        "foodId": "food_bmrvi4ob4binw9a5m7l07amlfcoy",
+        "image": "https://www.edamam.com/food-img/205/205e6bf2399b85d34741892ef91cc603.jpg"
+      }
+    ],
+    "uri": "http://www.edamam.com/ontologies/edamam.owl#recipe_563ce44aee71bd2ffdbc986bebf2ba93",
+    "image": "https://edamam-product-images.s3.amazonaws.com/web-img/a8d/a8d645a52f41169c1048ff22f149c293.jpg?X-Amz-Security-Token=IQoJb3JpZ2luX2VjEGoaCXVzLWVhc3QtMSJHMEUCIFIil1jd5NHOSvMOKXmiga%2F7CRpL9SqT90pjzpQvMpS1AiEA9ABMxynDIYnPNFSoTb7ZMBckcrDLvv4e6dtYzK1N0iIqwgUIs%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FARAAGgwxODcwMTcxNTA5ODYiDJ0JUiSQioeZN09KpyqWBVe1sbdKBl4lqNSDGR5UVO8dIqqE5WJuXebdX3lZD4OaGW51LWKTCCXZuBKs2ISuKPh91m2%2BsZ6ktPbGE2AhkybcxwieCVK%2BK7l84Bj24ywSDZsP1yn%2FPQvPSOPdtnqKR68nmtPicbTTb2iN1fNYmLpy0S%2FnwrF8mkwdmHhvUaEbcAUyjMHohThRkgvTO7TCgSpOGWKVTQEFsLHvsgi4bWMGi1ZtCdznqWdnvOSGhPIQKiLCFUVTI1oRtogKh0lqCDL4eD4Xt5720oaytX%2FzK60NnLdU6s2vGCG9kL1rEzM1fp%2FYqaRoi9XQXp3hj79AyZsUJuPSW2wBsyauTTAprw9V0oSJ%2BkgyFsGc7Ge21I74u8u%2BUNk7NGsVmUYeMeKK6TI%2B0Rjmc6gRjNT%2FzDhfv7vJG7pMLWR%2FOUMWNa9yQUISZ8lh6vjj0kkFOzMlze5lBdHr%2FnWvNqWN3MkH70GXWEsIEh43bVc1guPIoprq%2Bu47idhxaAzP1HurGLQr7p64dzS9lpwPYzY6lcy%2FURRoDKTRQG4E%2FCEP5VCwURQtf7DgsBTBfS1SBxALeyc8mv8DNadhiSKCTJIn%2BIy5cJE6p56IH%2FPy%2BLDoFKWBjEyTq%2B485casZ1GZkBnH8U522cCwhIpNLcykX%2F4wNUr86O6r5UklISiFuq1Fd0yu9W3z6zJUJ4XVYRI9130kMvqmT%2FWXqW8YAlY3uDF32GhawMfgb7KSBBrnSCeHfWshej%2BfYfsb%2FLLReGZxgMPqGgbsfZYqxDpHj6ybFJVzSw6l8QriLDoi8oT9adjEPELXp0rV5YgcHAyQDtWXjZ99CXlSqj0bLUoeo8aQQjTT8V8rzygz0yXkostwb4FyfVN5cyxFoE1S0FloEdNSMKW24KoGOrEBFDB4UqY3hmGXzAo%2Bg1EAXCZSzy18Zg6aqXEnnaM9l2m9b6ZdoEhKpA3zaGpQeiK72d9loW2TJU%2FxVT11CkQoWJnc5vc%2BvEAEWhFcrNhGRjVyEL68aqO6lD%2FuH94JxctuAJ2UWf%2BJsGDngPUA01yn%2B8aRAjoZ6PyU1JWIWSrw9CbhMr8XDOwYorTcKjT1xK76ZXfjU6C%2FWO%2BB8Ahq6zvqxZM3%2F4GQPiRkwzYuKPC78a5%2B&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Date=20231118T030346Z&X-Amz-SignedHeaders=host&X-Amz-Expires=3600&X-Amz-Credential=ASIASXCYXIIFLO2MWB7Q%2F20231118%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Signature=27e347c45d24104d5cb5858bb1f5e7a8a5f9e105fbdb61a1882f13be8db8095d",
+    "source": "San Francisco Gate",
+    "shareAs": "http://www.edamam.com/recipe/poached-lamb-shanks-563ce44aee71bd2ffdbc986bebf2ba93/lamb",
+    "yield": 12,
+    "dietLabels": [
+      "Low-Carb"
+    ],
+    "healthLabels": [
+      "Sugar-Conscious",
+      "Keto-Friendly",
+      "Paleo",
+      "Mediterranean",
+      "Dairy-Free",
+      "Gluten-Free",
+      "Wheat-Free",
+      "Egg-Free",
+      "Peanut-Free",
+      "Tree-Nut-Free",
+      "Soy-Free",
+      "Fish-Free",
+      "Shellfish-Free",
+      "Pork-Free",
+      "Crustacean-Free",
+      "Celery-Free",
+      "Mustard-Free",
+      "Sesame-Free",
+      "Lupine-Free",
+      "Mollusk-Free",
+      "Alcohol-Free",
+      "No oil added",
+      "Sulfite-Free"
+    ],
+    "cautions": [],
+    "ingredientLines": [
+      "4 pounds bone-in lamb shanks",
+      "-- Kosher salt 1/2 teaspoon turmeric",
+      "1 medium yellow onion, peeled and halved"
+    ],
+    "calories": 3690.8826548000006,
+    "totalWeight": 1926.7965633334566,
+    "totalTime": 80,
+    "cuisineType": [
+      "middle eastern"
+    ],
+    "mealType": [
+      "lunch/dinner"
+    ],
+    "dishType": [
+      "main course"
+    ],
+    "instructions":[
+      "After chopping onion, mix with seasonings in a pot. Add lamb and back on 400 for 2 hours. Let cook and serve"
+    ]
+  },
+  {
+    "label": "Lamb & cheese pie",
+    "url": "http://www.jamieoliver.com/recipes/lamb-recipes/lamb-cheese-pie/",
+    "ingredients": [
+      {
+        "text": "7 g dried yeast",
+        "quantity": 7,
+        "measure": "gram",
+        "food": "yeast",
+        "weight": 7,
+        "foodCategory": "condiments and sauces",
+        "foodId": "food_a2xisx4br72i19btvvxgzayoelqj",
+        "image": "https://www.edamam.com/food-img/433/433749733fd8a22560cdb451b1317be1.jpg"
+      },
+      {
+        "text": "650 g plain flour , plus extra for dusting",
+        "quantity": 650,
+        "measure": "gram",
+        "food": "flour",
+        "weight": 650,
+        "foodCategory": "grains",
+        "foodId": "food_ahebfs0a985an4aubqaebbipra58",
+        "image": "https://www.edamam.com/food-img/b4c/b4c739e76a6f2172b7ad49d0aa41d5aa.jpg"
+      },
+      {
+        "text": "olive oil",
+        "quantity": 0,
+        "measure": null,
+        "food": "olive oil",
+        "weight": 49.685512892794556,
+        "foodCategory": "Oils",
+        "foodId": "food_b1d1icuad3iktrbqby0hiagafaz7",
+        "image": "https://www.edamam.com/food-img/4d6/4d651eaa8a353647746290c7a9b29d84.jpg"
+      },
+      {
+        "text": "2 large free-range eggs",
+        "quantity": 2,
+        "measure": "<unit>",
+        "food": "eggs",
+        "weight": 100,
+        "foodCategory": "Eggs",
+        "foodId": "food_bhpradua77pk16aipcvzeayg732r",
+        "image": "https://www.edamam.com/food-img/a7e/a7ec7c337cb47c6550b3b118e357f077.jpg"
+      },
+      {
+        "text": "LAMB & CHEESE FILLING",
+        "quantity": 0,
+        "measure": null,
+        "food": "LAMB",
+        "weight": 0,
+        "foodCategory": "meats",
+        "foodId": "food_bx8qx9map5nzuwbwhyi7fbtmcf3m",
+        "image": "https://www.edamam.com/food-img/212/21293e4eb386543620627f7df3078200.jpg"
+      },
+      {
+        "text": "LAMB & CHEESE FILLING",
+        "quantity": 0,
+        "measure": null,
+        "food": "CHEESE",
+        "weight": 0,
+        "foodCategory": "Cheese",
+        "foodId": "food_bhppgmha1u27voagb8eptbp9g376",
+        "image": "https://www.edamam.com/food-img/bcd/bcd94dde1fcde1475b5bf0540f821c5d.jpg"
+      },
+      {
+        "text": "1 large onion",
+        "quantity": 1,
+        "measure": "<unit>",
+        "food": "onion",
+        "weight": 150,
+        "foodCategory": "vegetables",
+        "foodId": "food_bmrvi4ob4binw9a5m7l07amlfcoy",
+        "image": "https://www.edamam.com/food-img/205/205e6bf2399b85d34741892ef91cc603.jpg"
+      },
+      {
+        "text": "2 cloves of garlic",
+        "quantity": 2,
+        "measure": "clove",
+        "food": "garlic",
+        "weight": 6,
+        "foodCategory": "vegetables",
+        "foodId": "food_avtcmx6bgjv1jvay6s6stan8dnyp",
+        "image": "https://www.edamam.com/food-img/6ee/6ee142951f48aaf94f4312409f8d133d.jpg"
+      },
+      {
+        "text": "6 spring onions",
+        "quantity": 6,
+        "measure": "<unit>",
+        "food": "spring onions",
+        "weight": 83.33333333333334,
+        "foodCategory": "vegetables",
+        "foodId": "food_bknlkyzbuzo27pb11whr4bttkuy6",
+        "image": "https://www.edamam.com/food-img/b89/b89986ed6aa466285bdd99bac34b3c46.jpg"
+      },
+      {
+        "text": "1.4 kg boneless lamb neck",
+        "quantity": 1.399999976158142,
+        "measure": "kilogram",
+        "food": "lamb neck",
+        "weight": 1399.999976158142,
+        "foodCategory": "meats",
+        "foodId": "food_akvsg14bb9tkmparmfx0ebpf96q9",
+        "image": null
+      },
+      {
+        "text": "1 teaspoon ground cinnamon",
+        "quantity": 1,
+        "measure": "teaspoon",
+        "food": "ground cinnamon",
+        "weight": 2.6,
+        "foodCategory": "Condiments and sauces",
+        "foodId": "food_atjxtznauw5zabaixm24xa787onz",
+        "image": "https://www.edamam.com/food-img/d4d/d4daa18b92c596a1c99c08537c38e65b.jpg"
+      },
+      {
+        "text": "100 ml white wine",
+        "quantity": 100,
+        "measure": "milliliter",
+        "food": "white wine",
+        "weight": 99.41322674341842,
+        "foodCategory": "wines",
+        "foodId": "food_bn44h7baron9ufaoxinmya8l0yye",
+        "image": "https://www.edamam.com/food-img/a71/a718cf3c52add522128929f1f324d2ab.jpg"
+      },
+      {
+        "text": "2 large free-range eggs",
+        "quantity": 2,
+        "measure": "<unit>",
+        "food": "eggs",
+        "weight": 100,
+        "foodCategory": "Eggs",
+        "foodId": "food_bhpradua77pk16aipcvzeayg732r",
+        "image": "https://www.edamam.com/food-img/a7e/a7ec7c337cb47c6550b3b118e357f077.jpg"
+      },
+      {
+        "text": "75 g hard goat's cheese",
+        "quantity": 75,
+        "measure": "gram",
+        "food": "hard goat's cheese",
+        "weight": 75,
+        "foodCategory": "Cheese",
+        "foodId": "food_ap2un9mah4s55lbgbeoteaczn5sh",
+        "image": "https://www.edamam.com/food-img/c09/c09d540c846fde2b7606ea821a658a9d.jpg"
+      },
+      {
+        "text": "180 g pecorino cheese",
+        "quantity": 180,
+        "measure": "gram",
+        "food": "pecorino cheese",
+        "weight": 180,
+        "foodCategory": "Cheese",
+        "foodId": "food_bmxguz9abbdnfvbuklp2mbsrpt6b",
+        "image": "https://www.edamam.com/food-img/71a/71a53d043eded9a8914415178a07f879.jpg"
+      },
+      {
+        "text": "800 g spinach or swiss chard",
+        "quantity": 800,
+        "measure": "gram",
+        "food": "swiss chard",
+        "weight": 800,
+        "foodCategory": "vegetables",
+        "foodId": "food_azr1j9qaytjnqnb56cgrha91nplt",
+        "image": "https://www.edamam.com/food-img/80c/80ced8c49f8aa2fa87384353f481c902.jpg"
+      }
+    ],
+    "uri": "http://www.edamam.com/ontologies/edamam.owl#recipe_8f4adaef02c3fffd1606c61bb8653952",
+    "image": "https://edamam-product-images.s3.amazonaws.com/web-img/8ef/8ef0387cde5a78c68dd05f5a5c8f57fd.jpg?X-Amz-Security-Token=IQoJb3JpZ2luX2VjEGoaCXVzLWVhc3QtMSJHMEUCIFIil1jd5NHOSvMOKXmiga%2F7CRpL9SqT90pjzpQvMpS1AiEA9ABMxynDIYnPNFSoTb7ZMBckcrDLvv4e6dtYzK1N0iIqwgUIs%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FARAAGgwxODcwMTcxNTA5ODYiDJ0JUiSQioeZN09KpyqWBVe1sbdKBl4lqNSDGR5UVO8dIqqE5WJuXebdX3lZD4OaGW51LWKTCCXZuBKs2ISuKPh91m2%2BsZ6ktPbGE2AhkybcxwieCVK%2BK7l84Bj24ywSDZsP1yn%2FPQvPSOPdtnqKR68nmtPicbTTb2iN1fNYmLpy0S%2FnwrF8mkwdmHhvUaEbcAUyjMHohThRkgvTO7TCgSpOGWKVTQEFsLHvsgi4bWMGi1ZtCdznqWdnvOSGhPIQKiLCFUVTI1oRtogKh0lqCDL4eD4Xt5720oaytX%2FzK60NnLdU6s2vGCG9kL1rEzM1fp%2FYqaRoi9XQXp3hj79AyZsUJuPSW2wBsyauTTAprw9V0oSJ%2BkgyFsGc7Ge21I74u8u%2BUNk7NGsVmUYeMeKK6TI%2B0Rjmc6gRjNT%2FzDhfv7vJG7pMLWR%2FOUMWNa9yQUISZ8lh6vjj0kkFOzMlze5lBdHr%2FnWvNqWN3MkH70GXWEsIEh43bVc1guPIoprq%2Bu47idhxaAzP1HurGLQr7p64dzS9lpwPYzY6lcy%2FURRoDKTRQG4E%2FCEP5VCwURQtf7DgsBTBfS1SBxALeyc8mv8DNadhiSKCTJIn%2BIy5cJE6p56IH%2FPy%2BLDoFKWBjEyTq%2B485casZ1GZkBnH8U522cCwhIpNLcykX%2F4wNUr86O6r5UklISiFuq1Fd0yu9W3z6zJUJ4XVYRI9130kMvqmT%2FWXqW8YAlY3uDF32GhawMfgb7KSBBrnSCeHfWshej%2BfYfsb%2FLLReGZxgMPqGgbsfZYqxDpHj6ybFJVzSw6l8QriLDoi8oT9adjEPELXp0rV5YgcHAyQDtWXjZ99CXlSqj0bLUoeo8aQQjTT8V8rzygz0yXkostwb4FyfVN5cyxFoE1S0FloEdNSMKW24KoGOrEBFDB4UqY3hmGXzAo%2Bg1EAXCZSzy18Zg6aqXEnnaM9l2m9b6ZdoEhKpA3zaGpQeiK72d9loW2TJU%2FxVT11CkQoWJnc5vc%2BvEAEWhFcrNhGRjVyEL68aqO6lD%2FuH94JxctuAJ2UWf%2BJsGDngPUA01yn%2B8aRAjoZ6PyU1JWIWSrw9CbhMr8XDOwYorTcKjT1xK76ZXfjU6C%2FWO%2BB8Ahq6zvqxZM3%2F4GQPiRkwzYuKPC78a5%2B&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Date=20231118T030346Z&X-Amz-SignedHeaders=host&X-Amz-Expires=3600&X-Amz-Credential=ASIASXCYXIIFLO2MWB7Q%2F20231118%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Signature=e319d32c779d4721289926d2e9f29067f7fb5b813e2c7589f59381e6ac1e25dc",
+    "source": "Jamie Oliver",
+    "shareAs": "http://www.edamam.com/recipe/lamb-cheese-pie-8f4adaef02c3fffd1606c61bb8653952/lamb",
+    "yield": 12,
+    "dietLabels": [],
+    "healthLabels": [
+      "Mediterranean",
+      "Peanut-Free",
+      "Tree-Nut-Free",
+      "Soy-Free",
+      "Fish-Free",
+      "Shellfish-Free",
+      "Pork-Free",
+      "Crustacean-Free",
+      "Celery-Free",
+      "Mustard-Free",
+      "Sesame-Free",
+      "Lupine-Free",
+      "Mollusk-Free"
+    ],
+    "cautions": [
+      "Sulfites"
+    ],
+    "ingredientLines": [
+      "7 g dried yeast",
+      "650 g plain flour , plus extra for dusting",
+      "olive oil",
+      "2 large free-range eggs",
+      "LAMB & CHEESE FILLING",
+      "1 large onion",
+      "2 cloves of garlic",
+      "6 spring onions",
+      "1.4 kg boneless lamb neck",
+      "1 teaspoon ground cinnamon",
+      "100 ml white wine",
+      "2 large free-range eggs",
+      "75 g hard goat's cheese",
+      "180 g pecorino cheese",
+      "800 g spinach or swiss chard"
+    ],
+    "calories": 7719.117391493882,
+    "totalWeight": 3703.032049127688,
+    "totalTime": 125,
+    "cuisineType": [
+      "american"
+    ],
+    "mealType": [
+      "lunch/dinner"
+    ],
+    "dishType": [
+      "desserts"
+    ],
+    "instructions":[
+      "Dissolve the yeast in 225ml of warm water and set aside for 5 minutes.",
+      "Combine the flour and 1 teaspoon of sea salt and make a well in the centre. Add the yeast mix and 2 tablespoons of oil. Beat and pour in the eggs, and stir with a wooden spoon until a dough forms.",
+      "Knead the dough on a lightly flour-dusted surface for 10 minutes, adding extra flour to the dough if it’s too sticky.",
+      "Lightly grease the bowl with oil, then return the dough to the bowl. Cover with a cloth and leave in a warm place for 1 hour, or until the dough has doubled in size.",
+      "To make the lamb and cheese filling, peel and thinly slice the onion. Peel and finely chop the garlic, then trim and chop the spring onions. Cut the lamb into cubes.",
+      "Heat 2 tablespoons of oil in a large pan, add the onion, garlic and spring onions and sauté for 5 minutes, or until softened. Remove from the pan.",
+      "Season the lamb and brown in the pan over a medium heat – you may need to do this in batches.",
+      "Stir in the cinnamon, then return the onion mixture to the pan. Add the white wine and 100ml of water, and stir to pick up the crispy bits on the base. Simmer for 30 minutes, with a lid on for the first 5 minutes.",
+      "Beat 1 egg in a bowl, then grate in the cheeses. Cook the spinach or chard in a large pan of boiling water, then drain and leave to cool.",
+      "Preheat the oven to 180ºC/gas 4. Lightly grease a 23cm springform tart tin with a little oil.",
+      "Divide the dough in half. Lightly flour a work surface and roll the first piece of dough into a circle, about 35cm wide.",
+      "Carefully place it into the tin, lightly pressing into the base and sides, leaving about 3cm of pastry hanging over the rim.",
+      "Spread half the lamb mixture over the base, followed by half the cheese mixture. Chop the cooled greens, then scatter half on top. Repeat with remaining ingredients.",
+      "Roll out the second piece of dough and place over the filling.",
+      "Trim the edges, but leave about 4cm of overhang, then roll it up and crimp the edges.",
+      "Make a hole in the centre of the pastry lid. Beat the remaining egg and brush over the pie, then bake for 45 to 50 minutes, or till golden.",
+      "Remove from the oven and let cool slightly. Serve with a mixed green salad."
+    ]
+  },
+  {
+    "label": "Feta And Lemon Lamb",
+    "url": "http://www.donnahay.com.au/recipes/mains/meat/feta-and-lemon-lamb",
+    "ingredients": [
+      {
+        "text": "4 x 75g lamb cutlets",
+        "quantity": 300,
+        "measure": "gram",
+        "food": "lamb cutlets",
+        "weight": 300,
+        "foodCategory": "meats",
+        "foodId": "food_blyft3rav1gpd5b18cv31a5dvx4f",
+        "image": "https://www.edamam.com/food-img/edb/edb623c31169b072a82eb8da8bab6230.jpg"
+      },
+      {
+        "text": "4 slices lemon",
+        "quantity": 4,
+        "measure": "<unit>",
+        "food": "lemon",
+        "weight": 336,
+        "foodCategory": "fruit",
+        "foodId": "food_a6uzc62astrxcgbtzyq59b6fncrr",
+        "image": "https://www.edamam.com/food-img/70a/70acba3d4c734d7c70ef4efeed85dc8f.jpg"
+      },
+      {
+        "text": "4 sprigs oregano",
+        "quantity": 4,
+        "measure": "sprig",
+        "food": "oregano",
+        "weight": 8,
+        "foodCategory": "Condiments and sauces",
+        "foodId": "food_bkkw6v3bdf0sqiazmzyuiax7i8jr",
+        "image": "https://www.edamam.com/food-img/1b0/1b0eaffb1c261606e0d82fed8e9747a7.jpg"
+      },
+      {
+        "text": "4 slices feta",
+        "quantity": 4,
+        "measure": "slice",
+        "food": "feta",
+        "weight": 113.4,
+        "foodCategory": "Cheese",
+        "foodId": "food_biry7gubtkpad3a7qkz6uba5acn9",
+        "image": "https://www.edamam.com/food-img/37e/37ef3e404b1c02bf4707cb82010732b8.jpg"
+      },
+      {
+        "text": "olive oil, for drizzling",
+        "quantity": 0,
+        "measure": null,
+        "food": "olive oil",
+        "weight": 10.30064,
+        "foodCategory": "Oils",
+        "foodId": "food_b1d1icuad3iktrbqby0hiagafaz7",
+        "image": "https://www.edamam.com/food-img/4d6/4d651eaa8a353647746290c7a9b29d84.jpg"
+      }
+    ],
+    "uri": "http://www.edamam.com/ontologies/edamam.owl#recipe_cdfcdc92371a9e7fe7152367cc5ea7ca",
+    "image": "https://edamam-product-images.s3.amazonaws.com/web-img/125/125abfaea916f9cd52a47d7b6581ee2f.jpg?X-Amz-Security-Token=IQoJb3JpZ2luX2VjEGoaCXVzLWVhc3QtMSJHMEUCIFIil1jd5NHOSvMOKXmiga%2F7CRpL9SqT90pjzpQvMpS1AiEA9ABMxynDIYnPNFSoTb7ZMBckcrDLvv4e6dtYzK1N0iIqwgUIs%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FARAAGgwxODcwMTcxNTA5ODYiDJ0JUiSQioeZN09KpyqWBVe1sbdKBl4lqNSDGR5UVO8dIqqE5WJuXebdX3lZD4OaGW51LWKTCCXZuBKs2ISuKPh91m2%2BsZ6ktPbGE2AhkybcxwieCVK%2BK7l84Bj24ywSDZsP1yn%2FPQvPSOPdtnqKR68nmtPicbTTb2iN1fNYmLpy0S%2FnwrF8mkwdmHhvUaEbcAUyjMHohThRkgvTO7TCgSpOGWKVTQEFsLHvsgi4bWMGi1ZtCdznqWdnvOSGhPIQKiLCFUVTI1oRtogKh0lqCDL4eD4Xt5720oaytX%2FzK60NnLdU6s2vGCG9kL1rEzM1fp%2FYqaRoi9XQXp3hj79AyZsUJuPSW2wBsyauTTAprw9V0oSJ%2BkgyFsGc7Ge21I74u8u%2BUNk7NGsVmUYeMeKK6TI%2B0Rjmc6gRjNT%2FzDhfv7vJG7pMLWR%2FOUMWNa9yQUISZ8lh6vjj0kkFOzMlze5lBdHr%2FnWvNqWN3MkH70GXWEsIEh43bVc1guPIoprq%2Bu47idhxaAzP1HurGLQr7p64dzS9lpwPYzY6lcy%2FURRoDKTRQG4E%2FCEP5VCwURQtf7DgsBTBfS1SBxALeyc8mv8DNadhiSKCTJIn%2BIy5cJE6p56IH%2FPy%2BLDoFKWBjEyTq%2B485casZ1GZkBnH8U522cCwhIpNLcykX%2F4wNUr86O6r5UklISiFuq1Fd0yu9W3z6zJUJ4XVYRI9130kMvqmT%2FWXqW8YAlY3uDF32GhawMfgb7KSBBrnSCeHfWshej%2BfYfsb%2FLLReGZxgMPqGgbsfZYqxDpHj6ybFJVzSw6l8QriLDoi8oT9adjEPELXp0rV5YgcHAyQDtWXjZ99CXlSqj0bLUoeo8aQQjTT8V8rzygz0yXkostwb4FyfVN5cyxFoE1S0FloEdNSMKW24KoGOrEBFDB4UqY3hmGXzAo%2Bg1EAXCZSzy18Zg6aqXEnnaM9l2m9b6ZdoEhKpA3zaGpQeiK72d9loW2TJU%2FxVT11CkQoWJnc5vc%2BvEAEWhFcrNhGRjVyEL68aqO6lD%2FuH94JxctuAJ2UWf%2BJsGDngPUA01yn%2B8aRAjoZ6PyU1JWIWSrw9CbhMr8XDOwYorTcKjT1xK76ZXfjU6C%2FWO%2BB8Ahq6zvqxZM3%2F4GQPiRkwzYuKPC78a5%2B&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Date=20231118T030346Z&X-Amz-SignedHeaders=host&X-Amz-Expires=3600&X-Amz-Credential=ASIASXCYXIIFLO2MWB7Q%2F20231118%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Signature=eef6c0a90bdd8c2d3fc2b1664a18a1ce8adaa569e8b1b3e90c4b8a463a9bb644",
+    "source": "Donna Hay",
+    "shareAs": "http://www.edamam.com/recipe/feta-and-lemon-lamb-cdfcdc92371a9e7fe7152367cc5ea7ca/lamb",
+    "yield": 6,
+    "dietLabels": [
+      "Low-Carb"
+    ],
+    "healthLabels": [
+      "Sugar-Conscious",
+      "Kidney-Friendly",
+      "Keto-Friendly",
+      "Mediterranean",
+      "Gluten-Free",
+      "Wheat-Free",
+      "Egg-Free",
+      "Peanut-Free",
+      "Tree-Nut-Free",
+      "Soy-Free",
+      "Fish-Free",
+      "Shellfish-Free",
+      "Pork-Free",
+      "Crustacean-Free",
+      "Celery-Free",
+      "Mustard-Free",
+      "Sesame-Free",
+      "Lupine-Free",
+      "Mollusk-Free",
+      "Alcohol-Free",
+      "Sulfite-Free",
+      "FODMAP-Free",
+      "Immuno-Supportive"
+    ],
+    "cautions": [
+      "Sulfites"
+    ],
+    "ingredientLines": [
+      "4 x 75g lamb cutlets",
+      "4 slices lemon",
+      "4 sprigs oregano",
+      "4 slices feta",
+      "olive oil, for drizzling"
+    ],
+    "calories": 1244.9076576000002,
+    "totalWeight": 767.70064,
+    "totalTime": 70,
+    "cuisineType": [
+      "mediterranean",
+      "greek"
+    ],
+    "mealType": [
+      "lunch/dinner"
+    ],
+    "dishType": [
+      "main course"
+    ],
+    "instructions":[
+      "mix all ingredients on the lamb and cook in the oven on 400 for 60 minutes. Let cool and serve"
+    ]
+  },
+  {
+    "label": "Lamb Broth",
+    "url": "http://www.eatingwell.com/recipe/251492/lamb-broth/",
+    "ingredients": [
+      {
+        "text": "1½ pounds lamb bones",
+        "quantity": 1.5,
+        "measure": "pound",
+        "food": "lamb bones",
+        "weight": 680.388555,
+        "foodCategory": "meats",
+        "foodId": "food_butr1d5bxad2ecaxxnwv6alwqbau",
+        "image": "https://www.edamam.com/food-img/fe9/fe9a9e49cc93092c033926d327ca50b4.jpg"
+      },
+      {
+        "text": "1 onion, peeled and studded with 1 whole clove",
+        "quantity": 1,
+        "measure": "<unit>",
+        "food": "onion",
+        "weight": 125,
+        "foodCategory": "vegetables",
+        "foodId": "food_bmrvi4ob4binw9a5m7l07amlfcoy",
+        "image": "https://www.edamam.com/food-img/205/205e6bf2399b85d34741892ef91cc603.jpg"
+      },
+      {
+        "text": "1 carrot, peeled",
+        "quantity": 1,
+        "measure": "<unit>",
+        "food": "carrot",
+        "weight": 61,
+        "foodCategory": "vegetables",
+        "foodId": "food_ai215e5b85pdh5ajd4aafa3w2zm8",
+        "image": "https://www.edamam.com/food-img/121/121e33fce0bb9546ed7d060b6c114e29.jpg"
+      },
+      {
+        "text": "½ cup celery leaves",
+        "quantity": 0.5,
+        "measure": "cup",
+        "food": "celery leaves",
+        "weight": 30,
+        "foodCategory": "vegetables",
+        "foodId": "food_bcqxq37ak6yj5eaqeu092bpcvhgk",
+        "image": "https://www.edamam.com/food-img/46a/46a132e96626d7989b4d6ed8c91f4da0.jpg"
+      },
+      {
+        "text": "½ cup parsley stems",
+        "quantity": 0.5,
+        "measure": "cup",
+        "food": "parsley",
+        "weight": 30,
+        "foodCategory": "vegetables",
+        "foodId": "food_b244pqdazw24zobr5vqu2bf0uid8",
+        "image": "https://www.edamam.com/food-img/46a/46a132e96626d7989b4d6ed8c91f4da0.jpg"
+      },
+      {
+        "text": "1 clove garlic, peeled",
+        "quantity": 1,
+        "measure": "clove",
+        "food": "garlic",
+        "weight": 3,
+        "foodCategory": "vegetables",
+        "foodId": "food_avtcmx6bgjv1jvay6s6stan8dnyp",
+        "image": "https://www.edamam.com/food-img/6ee/6ee142951f48aaf94f4312409f8d133d.jpg"
+      },
+      {
+        "text": "1 teaspoon salt",
+        "quantity": 1,
+        "measure": "teaspoon",
+        "food": "salt",
+        "weight": 6,
+        "foodCategory": "Condiments and sauces",
+        "foodId": "food_btxz81db72hwbra2pncvebzzzum9",
+        "image": "https://www.edamam.com/food-img/694/6943ea510918c6025795e8dc6e6eaaeb.jpg"
+      },
+      {
+        "text": "8 whole black peppercorns",
+        "quantity": 0,
+        "measure": null,
+        "food": "black peppercorns",
+        "weight": 2.806165665,
+        "foodCategory": "Condiments and sauces",
+        "foodId": "food_b6ywzluaaxv02wad7s1r9ag4py89",
+        "image": "https://www.edamam.com/food-img/c6e/c6e5c3bd8d3bc15175d9766971a4d1b2.jpg"
+      }
+    ],
+    "uri": "http://www.edamam.com/ontologies/edamam.owl#recipe_74376fcf592b48ea630cf8baa244ea6b",
+    "image": "https://edamam-product-images.s3.amazonaws.com/web-img/4eb/4eb6605a116f1ff98bd8cf22237e24e0.jpg?X-Amz-Security-Token=IQoJb3JpZ2luX2VjEGoaCXVzLWVhc3QtMSJHMEUCIFIil1jd5NHOSvMOKXmiga%2F7CRpL9SqT90pjzpQvMpS1AiEA9ABMxynDIYnPNFSoTb7ZMBckcrDLvv4e6dtYzK1N0iIqwgUIs%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FARAAGgwxODcwMTcxNTA5ODYiDJ0JUiSQioeZN09KpyqWBVe1sbdKBl4lqNSDGR5UVO8dIqqE5WJuXebdX3lZD4OaGW51LWKTCCXZuBKs2ISuKPh91m2%2BsZ6ktPbGE2AhkybcxwieCVK%2BK7l84Bj24ywSDZsP1yn%2FPQvPSOPdtnqKR68nmtPicbTTb2iN1fNYmLpy0S%2FnwrF8mkwdmHhvUaEbcAUyjMHohThRkgvTO7TCgSpOGWKVTQEFsLHvsgi4bWMGi1ZtCdznqWdnvOSGhPIQKiLCFUVTI1oRtogKh0lqCDL4eD4Xt5720oaytX%2FzK60NnLdU6s2vGCG9kL1rEzM1fp%2FYqaRoi9XQXp3hj79AyZsUJuPSW2wBsyauTTAprw9V0oSJ%2BkgyFsGc7Ge21I74u8u%2BUNk7NGsVmUYeMeKK6TI%2B0Rjmc6gRjNT%2FzDhfv7vJG7pMLWR%2FOUMWNa9yQUISZ8lh6vjj0kkFOzMlze5lBdHr%2FnWvNqWN3MkH70GXWEsIEh43bVc1guPIoprq%2Bu47idhxaAzP1HurGLQr7p64dzS9lpwPYzY6lcy%2FURRoDKTRQG4E%2FCEP5VCwURQtf7DgsBTBfS1SBxALeyc8mv8DNadhiSKCTJIn%2BIy5cJE6p56IH%2FPy%2BLDoFKWBjEyTq%2B485casZ1GZkBnH8U522cCwhIpNLcykX%2F4wNUr86O6r5UklISiFuq1Fd0yu9W3z6zJUJ4XVYRI9130kMvqmT%2FWXqW8YAlY3uDF32GhawMfgb7KSBBrnSCeHfWshej%2BfYfsb%2FLLReGZxgMPqGgbsfZYqxDpHj6ybFJVzSw6l8QriLDoi8oT9adjEPELXp0rV5YgcHAyQDtWXjZ99CXlSqj0bLUoeo8aQQjTT8V8rzygz0yXkostwb4FyfVN5cyxFoE1S0FloEdNSMKW24KoGOrEBFDB4UqY3hmGXzAo%2Bg1EAXCZSzy18Zg6aqXEnnaM9l2m9b6ZdoEhKpA3zaGpQeiK72d9loW2TJU%2FxVT11CkQoWJnc5vc%2BvEAEWhFcrNhGRjVyEL68aqO6lD%2FuH94JxctuAJ2UWf%2BJsGDngPUA01yn%2B8aRAjoZ6PyU1JWIWSrw9CbhMr8XDOwYorTcKjT1xK76ZXfjU6C%2FWO%2BB8Ahq6zvqxZM3%2F4GQPiRkwzYuKPC78a5%2B&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Date=20231118T030346Z&X-Amz-SignedHeaders=host&X-Amz-Expires=3600&X-Amz-Credential=ASIASXCYXIIFLO2MWB7Q%2F20231118%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Signature=0fdd622cdcf98466dd5c00b74db86b3376d7d8606d0f22f9a70fbe36bdd42717",
+    "source": "EatingWell",
+    "shareAs": "http://www.edamam.com/recipe/lamb-broth-74376fcf592b48ea630cf8baa244ea6b/lamb",
+    "yield": 4,
+    "dietLabels": [
+      "Low-Carb",
+      "Low-Sodium"
+    ],
+    "healthLabels": [
+      "Sugar-Conscious",
+      "Low Potassium",
+      "Kidney-Friendly",
+      "Keto-Friendly",
+      "Paleo",
+      "Dairy-Free",
+      "Gluten-Free",
+      "Wheat-Free",
+      "Egg-Free",
+      "Peanut-Free",
+      "Tree-Nut-Free",
+      "Soy-Free",
+      "Fish-Free",
+      "Shellfish-Free",
+      "Pork-Free",
+      "Crustacean-Free",
+      "Celery-Free",
+      "Mustard-Free",
+      "Sesame-Free",
+      "Lupine-Free",
+      "Mollusk-Free",
+      "Alcohol-Free",
+      "No oil added",
+      "Sulfite-Free",
+      "Kosher"
+    ],
+    "cautions": [],
+    "ingredientLines": [
+      "1½ pounds lamb bones",
+      "1 onion, peeled and studded with 1 whole clove",
+      "1 carrot, peeled",
+      "½ cup celery leaves",
+      "½ cup parsley stems",
+      "1 clove garlic, peeled",
+      "1 teaspoon salt",
+      "8 whole black peppercorns"
+    ],
+    "calories": 35.894967984766005,
+    "totalWeight": 37.40113682053083,
+    "totalTime": 150,
+    "cuisineType": [
+      "american"
+    ],
+    "mealType": [
+      "lunch/dinner"
+    ],
+    "dishType": [
+      "soup"
+    ],
+    "instructions":[
+      "To prepare soup: Place chickpeas in a large bowl. Add enough cold water to cover by 3 inches and let soak for 8 to 24 hours. (Alternatively, place chickpeas in a large saucepan and cover with 3 inches cold water. Bring to a boil and cook for 2 minutes. Remove from the heat. Let stand for 1 hour.) Drain.",
+      "Heat 2 teaspoons oil in 4-quart or larger pressure cooker over medium-high heat. Add onion and carrots; cook, stirring, until softened, 3 to 5 minutes. Add garlic, cumin, coriander and cayenne; cook, stirring, until fragrant, about 20 seconds. Remove from the heat.",
+      "Sprinkle lamb shank with salt and pepper. Heat the remaining 1 teaspoon oil in a medium skillet, preferably cast-iron, over medium heat. Add the lamb shank and cook, turning from time to time, until browned all over, 3 to 7 minutes. Transfer to the pressure cooker. Add broth, tomatoes, bay leaves and the chickpeas.",
+      "Secure the pressure cooker lid. Bring to high pressure over high heat following manufacturer's directions. Reduce the heat to the lowest setting that maintains high pressure. Cook for 35 minutes.",
+      "Meanwhile, place bulgur in a medium bowl. Cover with boiling water and let stand for 15 minutes. Drain in a sieve, pressing out excess water.",
+      "Let the pressure release naturally. This will take 5 to 20 minutes.",
+      "To prepare pesto: Meanwhile, process mint, pistachios and garlic in a food processor until finely chopped. With the motor running, gradually add oil, lemon juice and yogurt through the feed tube. Process until the mixture forms a paste. If using unsalted pistachios, add salt, if desired.",
+      "When the pressure has released, discard bay leaves. Skim fat from the surface of the soup. Using tongs, transfer the lamb shank to a clean cutting board. When cool enough to handle, coarsely shred the lamb meat and return it to the soup. Add the drained bulgur. Heat through. Stir in lemon juice. Dollop some pesto onto each serving."
+    ]
+  }
+]

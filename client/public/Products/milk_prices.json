@@ -1,0 +1,114 @@
+{
+  "data": [
+    {
+      "productId": "0001111041660",
+      "brand": "Kroger",
+      "upc": "0001111041660",
+      "price": [
+        {
+          "regular": 2.69,
+          "promo": 0
+        }
+      ]
+    },
+    {
+      "productId": "0085631200277",
+      "brand": "Fairlife",
+      "upc": "0085631200277",
+      "price": [
+        {
+          "regular": 4.69,
+          "promo": 0
+        }
+      ]
+    },
+    {
+      "productId": "0001111042850",
+      "brand": "Simple Truth Organic",
+      "upc": "0001111042850",
+      "price": [
+        {
+          "regular": 3.99,
+          "promo": 0
+        }
+      ]
+    },
+    {
+      "productId": "0001111040101",
+      "brand": "Kroger",
+      "upc": "0001111040101",
+      "price": [
+        {
+          "regular": 2.69,
+          "promo": 0
+        }
+      ]
+    },
+    {
+      "productId": "0001111047602",
+      "brand": "Kroger",
+      "upc": "0001111047602",
+      "price": [
+        {
+          "regular": 4.79,
+          "promo": 3.99
+        }
+      ]
+    },
+    {
+      "productId": "0001111042852",
+      "brand": "Simple Truth Organic",
+      "upc": "0001111042852",
+      "price": [
+        {
+          "regular": 3.99,
+          "promo": 0
+        }
+      ]
+    },
+    {
+      "productId": "0001111050323",
+      "brand": "Kroger",
+      "upc": "0001111050323",
+      "price": [
+        {
+          "regular": 2.19,
+          "promo": 0
+        }
+      ]
+    },
+    {
+      "productId": "0001111041600",
+      "brand": "Kroger",
+      "upc": "0001111041600",
+      "price": [
+        {
+          "regular": 1.89,
+          "promo": 0
+        }
+      ]
+    },
+    {
+      "productId": "0001111040601",
+      "brand": "Kroger",
+      "upc": "0001111040601",
+      "price": [
+        {
+          "regular": 1.89,
+          "promo": 0
+        }
+      ]
+    },
+    {
+      "productId": "0001111041700",
+      "brand": "Kroger",
+      "upc": "0001111041700",
+      "price": [
+        {
+          "regular": 2.69,
+          "promo": 0
+        }
+      ]
+    }
+  ]
+}

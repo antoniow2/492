@@ -1,0 +1,106 @@
+{
+  "data": [
+    {
+      "productId": "0028227900000",
+      "upc": "0028227900000",
+      "price": [
+        {
+          "regular": 7.99,
+          "promo": 0,
+          "regularPerUnitEstimate": 7.99
+        }
+      ]
+    },
+    {
+      "productId": "0028155350000",
+      "brand": "Kroger",
+      "upc": "0028155350000",
+      "price": [
+        {
+          "regular": 8.99,
+          "promo": 0,
+          "regularPerUnitEstimate": 7.82
+        }
+      ]
+    },
+    {
+      "productId": "0028889050000",
+      "brand": "Kroger Mercado",
+      "upc": "0028889050000",
+      "price": [
+        {
+          "regular": 9.99,
+          "promo": 0,
+          "regularPerUnitEstimate": 9.99
+        }
+      ]
+    },
+    {
+      "productId": "0024234100000",
+      "upc": "0024234100000",
+      "price": [
+        {
+          "regular": 7.99,
+          "promo": 0,
+          "regularPerUnitEstimate": 3.2
+        }
+      ]
+    },
+    {
+      "productId": "0027130800000",
+      "upc": "0027130800000",
+      "price": [
+        {
+          "regular": 9.99,
+          "promo": 8.99
+        }
+      ]
+    },
+    {
+      "productId": "0028885800000",
+      "brand": "Kroger Mercado",
+      "upc": "0028885800000",
+      "price": [
+        {
+          "regular": 9.99,
+          "promo": 0,
+          "regularPerUnitEstimate": 9.99
+        }
+      ]
+    },
+    {
+      "productId": "0028885700000",
+      "brand": "Kroger Mercado",
+      "upc": "0028885700000",
+      "price": [
+        {
+          "regular": 9.99,
+          "promo": 0,
+          "regularPerUnitEstimate": 9.99
+        }
+      ]
+    },
+    {
+      "productId": "0024258200000",
+      "upc": "0024258200000",
+      "price": [
+        {
+          "regular": 9.99,
+          "promo": 0,
+          "regularPerUnitEstimate": 7.99
+        }
+      ]
+    },
+    {
+      "productId": "0024153500000",
+      "upc": "0024153500000",
+      "price": [
+        {
+          "regular": 8.99,
+          "promo": 0,
+          "regularPerUnitEstimate": 8.99
+        }
+      ]
+    }
+  ]
+}

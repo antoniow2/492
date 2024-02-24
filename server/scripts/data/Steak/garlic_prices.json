@@ -1,0 +1,112 @@
+{
+  "data": [
+    {
+      "productId": "0000000094608",
+      "upc": "0000000094608",
+      "price": [
+        {
+          "regular": 0.99,
+          "promo": 0
+        }
+      ]
+    },
+    {
+      "productId": "0001111002824",
+      "brand": "Kroger",
+      "upc": "0001111002824",
+      "price": [
+        {
+          "regular": 1.99,
+          "promo": 0
+        }
+      ]
+    },
+    {
+      "productId": "0007096900017",
+      "brand": "Spice World",
+      "upc": "0007096900017",
+      "price": [
+        {
+          "regular": 3.79,
+          "promo": 0
+        }
+      ]
+    },
+    {
+      "productId": "0001111002719",
+      "brand": "Simple Truth Organic",
+      "upc": "0001111002719",
+      "price": [
+        {
+          "regular": 3.49,
+          "promo": 0
+        }
+      ]
+    },
+    {
+      "productId": "0001111012981",
+      "brand": "Simple Truth",
+      "upc": "0001111012981",
+      "price": [
+        {
+          "regular": 3.29,
+          "promo": 0
+        }
+      ]
+    },
+    {
+      "productId": "0001111082902",
+      "brand": "Kroger",
+      "upc": "0001111082902",
+      "price": [
+        {
+          "regular": 2.29,
+          "promo": 0
+        }
+      ]
+    },
+    {
+      "productId": "0001111002882",
+      "brand": "Simple Truth Organic",
+      "upc": "0001111002882",
+      "price": [
+        {
+          "regular": 1.99,
+          "promo": 0
+        }
+      ]
+    },
+    {
+      "productId": "0001111002721",
+      "brand": "Simple Truth Organic",
+      "upc": "0001111002721",
+      "price": [
+        {
+          "regular": 9.49,
+          "promo": 0
+        }
+      ]
+    },
+    {
+      "productId": "0000000004608",
+      "upc": "0000000004608",
+      "price": [
+        {
+          "regular": 0.59,
+          "promo": 0
+        }
+      ]
+    },
+    {
+      "productId": "0001111001679",
+      "brand": "Kroger",
+      "upc": "0001111001679",
+      "price": [
+        {
+          "regular": 2.49,
+          "promo": 0
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,49 @@
+{
+  "data": [
+    {
+      "productId": "0000000094629",
+      "upc": "0000000094629",
+      "price": [
+        {
+          "regular": 3.49,
+          "promo": 0
+        }
+      ]
+    },
+    {
+      "productId": "0074956927876",
+      "brand": "Knorr",
+      "upc": "0074956927876",
+      "price": [
+        null
+      ]
+    },
+    {
+      "productId": "0008425324046",
+      "brand": "Imagine",
+      "upc": "0008425324046",
+      "price": [
+        {
+          "regular": 4.29,
+          "promo": 3.5
+        }
+      ]
+    },
+    {
+      "productId": "3008425324046",
+      "brand": "Imagine",
+      "upc": "3008425324046",
+      "price": [
+        null
+      ]
+    },
+    {
+      "productId": "0065420431817",
+      "brand": "KitchenCrusader",
+      "upc": "0065420431817",
+      "price": [
+        null
+      ]
+    }
+  ]
+}

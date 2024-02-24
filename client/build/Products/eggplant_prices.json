@@ -1,0 +1,101 @@
+{
+  "data": [
+    {
+      "productId": "0062657061672",
+      "brand": "Baby K'tan",
+      "upc": "0062657061672",
+      "price": [
+        null
+      ]
+    },
+    {
+      "productId": "0000000004081",
+      "upc": "0000000004081",
+      "price": [
+        {
+          "regular": 1.49,
+          "promo": 0
+        }
+      ]
+    },
+    {
+      "productId": "0061587296482",
+      "brand": "Caroline's Treasures",
+      "upc": "0061587296482",
+      "price": [
+        null
+      ]
+    },
+    {
+      "productId": "0001111004352",
+      "brand": "Private Selection",
+      "upc": "0001111004352",
+      "price": [
+        {
+          "regular": 4.99,
+          "promo": 0
+        }
+      ]
+    },
+    {
+      "productId": "0000000094065",
+      "upc": "0000000094065",
+      "price": [
+        {
+          "regular": 1.39,
+          "promo": 0
+        }
+      ]
+    },
+    {
+      "productId": "0001380046340",
+      "brand": "Lean Cuisine",
+      "upc": "0001380046340",
+      "price": [
+        {
+          "regular": 4.59,
+          "promo": 0
+        }
+      ]
+    },
+    {
+      "productId": "0000000003089",
+      "upc": "0000000003089",
+      "price": [
+        {
+          "regular": 4.29,
+          "promo": 0
+        }
+      ]
+    },
+    {
+      "productId": "0003736300912",
+      "brand": "Michael Angelo's",
+      "upc": "0003736300912",
+      "price": [
+        {
+          "regular": 4.99,
+          "promo": 0
+        }
+      ]
+    },
+    {
+      "productId": "0000000094081",
+      "upc": "0000000094081",
+      "price": [
+        null
+      ]
+    },
+    {
+      "productId": "0019101100060",
+      "brand": "JUST Egg",
+      "upc": "0019101100060",
+      "price": [
+        {
+          "regular": 5.49,
+          "promo": 0
+        }
+      ]
+    }
+  ]
+}

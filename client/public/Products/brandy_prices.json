@@ -1,0 +1,87 @@
+{
+  "data": [
+    {
+      "productId": "0085944122015",
+      "brand": "Primeware",
+      "upc": "0085944122015",
+      "price": [
+        null
+      ]
+    },
+    {
+      "productId": "0008500000920",
+      "brand": "E&J",
+      "upc": "0008500000920",
+      "price": [
+        {
+          "regular": 6.99,
+          "promo": 0
+        }
+      ]
+    },
+    {
+      "productId": "0087166100120",
+      "brand": "Ravenscroft Crystal",
+      "upc": "0087166100120",
+      "price": [
+        null
+      ]
+    },
+    {
+      "productId": "0088904866836",
+      "brand": "Safavieh",
+      "upc": "0088904866836",
+      "price": [
+        null
+      ]
+    },
+    {
+      "productId": "0063812620896",
+      "brand": "Armen Living",
+      "upc": "0063812620896",
+      "price": [
+        null
+      ]
+    },
+    {
+      "productId": "0063812620895",
+      "brand": "Armen Living",
+      "upc": "0063812620895",
+      "price": [
+        null
+      ]
+    },
+    {
+      "productId": "0007780200666",
+      "brand": "Wet n Wild",
+      "upc": "0007780200666",
+      "price": [
+        null
+      ]
+    },
+    {
+      "productId": "0063812620894",
+      "brand": "Armen Living",
+      "upc": "0063812620894",
+      "price": [
+        null
+      ]
+    },
+    {
+      "productId": "0063812620893",
+      "brand": "Armen Living",
+      "upc": "0063812620893",
+      "price": [
+        null
+      ]
+    },
+    {
+      "productId": "0005321252602",
+      "brand": "Northern Lights Candles",
+      "upc": "0005321252602",
+      "price": [
+        null
+      ]
+    }
+  ]
+}

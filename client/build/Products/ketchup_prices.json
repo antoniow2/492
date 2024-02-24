@@ -1,0 +1,114 @@
+{
+  "data": [
+    {
+      "productId": "0001111085853",
+      "brand": "Simple Truth Organic",
+      "upc": "0001111085853",
+      "price": [
+        {
+          "regular": 2.59,
+          "promo": 0
+        }
+      ]
+    },
+    {
+      "productId": "0002700038143",
+      "brand": "Hunt's",
+      "upc": "0002700038143",
+      "price": [
+        {
+          "regular": 1.99,
+          "promo": 1.79
+        }
+      ]
+    },
+    {
+      "productId": "0001111084467",
+      "brand": "Kroger",
+      "upc": "0001111084467",
+      "price": [
+        {
+          "regular": 1.29,
+          "promo": 0
+        }
+      ]
+    },
+    {
+      "productId": "0001300000605",
+      "brand": "Heinz",
+      "upc": "0001300000605",
+      "price": [
+        {
+          "regular": 4.99,
+          "promo": 0
+        }
+      ]
+    },
+    {
+      "productId": "0001111089232",
+      "brand": "Kroger",
+      "upc": "0001111089232",
+      "price": [
+        {
+          "regular": 3.29,
+          "promo": 0
+        }
+      ]
+    },
+    {
+      "productId": "0001300000124",
+      "brand": "Heinz",
+      "upc": "0001300000124",
+      "price": [
+        {
+          "regular": 3.29,
+          "promo": 0
+        }
+      ]
+    },
+    {
+      "productId": "0001111080580",
+      "brand": "Kroger",
+      "upc": "0001111080580",
+      "price": [
+        {
+          "regular": 1.99,
+          "promo": 0
+        }
+      ]
+    },
+    {
+      "productId": "0001300000640",
+      "brand": "Heinz",
+      "upc": "0001300000640",
+      "price": [
+        {
+          "regular": 4.29,
+          "promo": 0
+        }
+      ]
+    },
+    {
+      "productId": "0001111002955",
+      "brand": "Simple Truth Organic",
+      "upc": "0001111002955",
+      "price": [
+        {
+          "regular": 3.79,
+          "promo": 0
+        }
+      ]
+    },
+    {
+      "productId": "0001300000466",
+      "brand": "Heinz",
+      "upc": "0001300000466",
+      "price": [
+        {
+          "regular": 5.29,
+          "promo": 0
+        }
+      ]
+    }
+  ]
+}

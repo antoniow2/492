@@ -1,0 +1,111 @@
+{
+  "data": [
+    {
+      "productId": "0000000094959",
+      "upc": "0000000094959",
+      "price": [
+        {
+          "regular": 2.99,
+          "promo": 0
+        }
+      ]
+    },
+    {
+      "productId": "0002400055043",
+      "brand": "Del Monte",
+      "upc": "0002400055043",
+      "price": [
+        {
+          "regular": 2.49,
+          "promo": 2
+        }
+      ]
+    },
+    {
+      "productId": "0063912389470",
+      "brand": "Japanese Food Express Inc",
+      "upc": "0063912389470",
+      "price": [
+        {
+          "regular": 7.99,
+          "promo": 0
+        }
+      ]
+    },
+    {
+      "productId": "0003022311466",
+      "upc": "0003022311466",
+      "price": [
+        {
+          "regular": 4.99,
+          "promo": 0
+        }
+      ]
+    },
+    {
+      "productId": "0001111012275",
+      "brand": "Simple Truth Organic",
+      "upc": "0001111012275",
+      "price": [
+        {
+          "regular": 11.99,
+          "promo": 0
+        }
+      ]
+    },
+    {
+      "productId": "0001111087412",
+      "brand": "Private Selection",
+      "upc": "0001111087412",
+      "price": [
+        {
+          "regular": 4.19,
+          "promo": 0
+        }
+      ]
+    },
+    {
+      "productId": "0001111091236",
+      "brand": "Simple Truth Organic",
+      "upc": "0001111091236",
+      "price": [
+        {
+          "regular": 2.79,
+          "promo": 0
+        }
+      ]
+    },
+    {
+      "productId": "0000000004959",
+      "upc": "0000000004959",
+      "price": [
+        {
+          "regular": 2,
+          "promo": 1.5
+        }
+      ]
+    },
+    {
+      "productId": "0001111084663",
+      "brand": "Private Selection",
+      "upc": "0001111084663",
+      "price": [
+        {
+          "regular": 9.99,
+          "promo": 0
+        }
+      ]
+    },
+    {
+      "productId": "0007120210523",
+      "brand": "Dole",
+      "upc": "0007120210523",
+      "price": [
+        {
+          "regular": 13.49,
+          "promo": 0
+        }
+      ]
+    }
+  ]
+}

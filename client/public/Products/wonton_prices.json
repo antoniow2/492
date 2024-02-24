@@ -1,0 +1,102 @@
+{
+  "data": [
+    {
+      "productId": "0007218069856",
+      "brand": "PAGODA",
+      "upc": "0007218069856",
+      "price": [
+        {
+          "regular": 4.79,
+          "promo": 4.49
+        }
+      ]
+    },
+    {
+      "productId": "0078052661216",
+      "brand": "Authentic Asia",
+      "upc": "0078052661216",
+      "price": [
+        {
+          "regular": 8.49,
+          "promo": 0
+        }
+      ]
+    },
+    {
+      "productId": "0060195783750",
+      "brand": "Fresh Gourmet",
+      "upc": "0060195783750",
+      "price": [
+        null
+      ]
+    },
+    {
+      "productId": "0080717671171",
+      "brand": "CJ Bibigo",
+      "upc": "0080717671171",
+      "price": [
+        {
+          "regular": 9.99,
+          "promo": 7.99
+        }
+      ]
+    },
+    {
+      "productId": "0060195783751",
+      "brand": "Fresh Gourmet",
+      "upc": "0060195783751",
+      "price": [
+        null
+      ]
+    },
+    {
+      "productId": "0078735917507",
+      "brand": "Fresh Gourmet",
+      "upc": "0078735917507",
+      "price": [
+        {
+          "regular": 3.19,
+          "promo": 2.5
+        }
+      ]
+    },
+    {
+      "productId": "0060195783755",
+      "brand": "Fresh Gourmet",
+      "upc": "0060195783755",
+      "price": [
+        null
+      ]
+    },
+    {
+      "productId": "0080717671170",
+      "brand": "CJ Bibigo",
+      "upc": "0080717671170",
+      "price": [
+        {
+          "regular": 9.99,
+          "promo": 7.99
+        }
+      ]
+    },
+    {
+      "productId": "0060195783748",
+      "brand": "Fresh Gourmet",
+      "upc": "0060195783748",
+      "price": [
+        null
+      ]
+    },
+    {
+      "productId": "0002548400734",
+      "brand": "Nasoya",
+      "upc": "0002548400734",
+      "price": [
+        {
+          "regular": 2.69,
+          "promo": 0
+        }
+      ]
+    }
+  ]
+}

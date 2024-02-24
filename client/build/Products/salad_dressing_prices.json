@@ -1,0 +1,114 @@
+{
+  "data": [
+    {
+      "productId": "0007110000551",
+      "brand": "Hidden Valley",
+      "upc": "0007110000551",
+      "price": [
+        {
+          "regular": 4.39,
+          "promo": 0
+        }
+      ]
+    },
+    {
+      "productId": "0004132100645",
+      "brand": "Wish-Bone",
+      "upc": "0004132100645",
+      "price": [
+        {
+          "regular": 3.19,
+          "promo": 0
+        }
+      ]
+    },
+    {
+      "productId": "0004132100626",
+      "brand": "Wish-Bone",
+      "upc": "0004132100626",
+      "price": [
+        {
+          "regular": 3.19,
+          "promo": 0
+        }
+      ]
+    },
+    {
+      "productId": "0001111087899",
+      "brand": "Private Selection",
+      "upc": "0001111087899",
+      "price": [
+        {
+          "regular": 3.49,
+          "promo": 3.19
+        }
+      ]
+    },
+    {
+      "productId": "0001111066912",
+      "brand": "Kroger",
+      "upc": "0001111066912",
+      "price": [
+        {
+          "regular": 2.39,
+          "promo": 0
+        }
+      ]
+    },
+    {
+      "productId": "0001111012046",
+      "brand": "Private Selection",
+      "upc": "0001111012046",
+      "price": [
+        {
+          "regular": 3.49,
+          "promo": 3.19
+        }
+      ]
+    },
+    {
+      "productId": "0002100064469",
+      "brand": "Kraft",
+      "upc": "0002100064469",
+      "price": [
+        {
+          "regular": 3.49,
+          "promo": 0
+        }
+      ]
+    },
+    {
+      "productId": "0002100064425",
+      "brand": "Kraft",
+      "upc": "0002100064425",
+      "price": [
+        {
+          "regular": 3.49,
+          "promo": 0
+        }
+      ]
+    },
+    {
+      "productId": "0004133536381",
+      "brand": "Ken's Steak House",
+      "upc": "0004133536381",
+      "price": [
+        {
+          "regular": 3.99,
+          "promo": 0
+        }
+      ]
+    },
+    {
+      "productId": "0007020083812",
+      "brand": "Olive Garden",
+      "upc": "0007020083812",
+      "price": [
+        {
+          "regular": 4.99,
+          "promo": 0
+        }
+      ]
+    }
+  ]
+}

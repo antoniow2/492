@@ -1,0 +1,117 @@
+{
+  "data": [
+    {
+      "productId": "0001111019267",
+      "brand": "Simple Truth Organic",
+      "upc": "0001111019267",
+      "price": [
+        {
+          "regular": 9.49,
+          "promo": 8.99
+        }
+      ]
+    },
+    {
+      "productId": "0020212900000",
+      "upc": "0020212900000",
+      "price": [
+        {
+          "regular": 6.99,
+          "promo": 5.99,
+          "regularPerUnitEstimate": 6.99,
+          "promoPerUnitEstimate": 5.99
+        }
+      ]
+    },
+    {
+      "productId": "0021210750000",
+      "upc": "0021210750000",
+      "price": [
+        {
+          "regular": 12.99,
+          "promo": 11.99,
+          "regularPerUnitEstimate": 3.82,
+          "promoPerUnitEstimate": 3.53
+        }
+      ]
+    },
+    {
+      "productId": "0020218200000",
+      "upc": "0020218200000",
+      "price": [
+        {
+          "regular": 6.99,
+          "promo": 0,
+          "regularPerUnitEstimate": 6.99
+        }
+      ]
+    },
+    {
+      "productId": "0020211500000",
+      "upc": "0020211500000",
+      "price": [
+        {
+          "regular": 12.99,
+          "promo": 11.99,
+          "regularPerUnitEstimate": 12.99,
+          "promoPerUnitEstimate": 11.99
+        }
+      ]
+    },
+    {
+      "productId": "0020216150000",
+      "brand": "Private Selection",
+      "upc": "0020216150000",
+      "price": [
+        {
+          "regular": 12.99,
+          "promo": 0,
+          "regularPerUnitEstimate": 12.99
+        }
+      ]
+    },
+    {
+      "productId": "0027130800000",
+      "upc": "0027130800000",
+      "price": [
+        {
+          "regular": 9.99,
+          "promo": 8.99
+        }
+      ]
+    },
+    {
+      "productId": "0004531095035",
+      "brand": "AdapTable Meals",
+      "upc": "0004531095035",
+      "price": [
+        {
+          "regular": 9.99,
+          "promo": 0
+        }
+      ]
+    },
+    {
+      "productId": "0024153500000",
+      "upc": "0024153500000",
+      "price": [
+        {
+          "regular": 8.99,
+          "promo": 0,
+          "regularPerUnitEstimate": 8.99
+        }
+      ]
+    },
+    {
+      "productId": "0004531095025",
+      "brand": "AdapTable Meals",
+      "upc": "0004531095025",
+      "price": [
+        {
+          "regular": 9.99,
+          "promo": 0
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,112 @@
+{
+  "data": [
+    {
+      "productId": "0001111091193",
+      "brand": "Private Selection",
+      "upc": "0001111091193",
+      "price": [
+        {
+          "regular": 3.49,
+          "promo": 0
+        }
+      ]
+    },
+    {
+      "productId": "0000000004664",
+      "upc": "0000000004664",
+      "price": [
+        {
+          "regular": 2.19,
+          "promo": 1.99,
+          "regularPerUnitEstimate": 2.19,
+          "promoPerUnitEstimate": 1.99
+        }
+      ]
+    },
+    {
+      "productId": "0001111091192",
+      "brand": "Private Selection",
+      "upc": "0001111091192",
+      "price": [
+        {
+          "regular": 3.49,
+          "promo": 0
+        }
+      ]
+    },
+    {
+      "productId": "0000000004799",
+      "upc": "0000000004799",
+      "price": [
+        {
+          "regular": 2.29,
+          "promo": 0
+        }
+      ]
+    },
+    {
+      "productId": "0075166677155",
+      "brand": "Nature Sweet",
+      "upc": "0075166677155",
+      "price": [
+        {
+          "regular": 3.99,
+          "promo": 0
+        }
+      ]
+    },
+    {
+      "productId": "0001111091688",
+      "brand": "Kroger",
+      "upc": "0001111091688",
+      "price": [
+        {
+          "regular": 1.99,
+          "promo": 0
+        }
+      ]
+    },
+    {
+      "productId": "0001111091687",
+      "brand": "Private Selection",
+      "upc": "0001111091687",
+      "price": [
+        {
+          "regular": 3.49,
+          "promo": 0
+        }
+      ]
+    },
+    {
+      "productId": "0001111091686",
+      "upc": "0001111091686",
+      "price": [
+        {
+          "regular": 2.49,
+          "promo": 0
+        }
+      ]
+    },
+    {
+      "productId": "0000000003151",
+      "upc": "0000000003151",
+      "price": [
+        {
+          "regular": 2.49,
+          "promo": 0,
+          "regularPerUnitEstimate": 0.09960000000000001
+        }
+      ]
+    },
+    {
+      "productId": "0000000004087",
+      "upc": "0000000004087",
+      "price": [
+        {
+          "regular": 1.39,
+          "promo": 0
+        }
+      ]
+    }
+  ]
+}

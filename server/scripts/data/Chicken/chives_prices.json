@@ -1,0 +1,107 @@
+{
+  "data": [
+    {
+      "productId": "0007766133595",
+      "brand": "Litehouse",
+      "upc": "0007766133595",
+      "price": [
+        {
+          "regular": 6.99,
+          "promo": 0
+        }
+      ]
+    },
+    {
+      "productId": "0001111001813",
+      "brand": "Simple Truth Organic",
+      "upc": "0001111001813",
+      "price": [
+        {
+          "regular": 2.49,
+          "promo": 0
+        }
+      ]
+    },
+    {
+      "productId": "0008983618322",
+      "brand": "Frontier Natural Products Co-op",
+      "upc": "0008983618322",
+      "price": [
+        null
+      ]
+    },
+    {
+      "productId": "0005210000381",
+      "brand": "McCormick",
+      "upc": "0005210000381",
+      "price": [
+        {
+          "regular": 6.49,
+          "promo": 6.49
+        }
+      ]
+    },
+    {
+      "productId": "0005210000707",
+      "brand": "McCormick",
+      "upc": "0005210000707",
+      "price": [
+        {
+          "regular": 7.49,
+          "promo": 6.49
+        }
+      ]
+    },
+    {
+      "productId": "0001111046237",
+      "brand": "Kroger",
+      "upc": "0001111046237",
+      "price": [
+        {
+          "regular": 2.19,
+          "promo": 0
+        }
+      ]
+    },
+    {
+      "productId": "0001732400224",
+      "brand": "Spice Islands",
+      "upc": "0001732400224",
+      "price": [
+        {
+          "regular": 6.49,
+          "promo": 6.49
+        }
+      ]
+    },
+    {
+      "productId": "0371194412238",
+      "upc": "0371194412238",
+      "price": [
+        null
+      ]
+    },
+    {
+      "productId": "0001111000302",
+      "brand": "Kroger",
+      "upc": "0001111000302",
+      "price": [
+        {
+          "regular": 3.49,
+          "promo": 3.49
+        }
+      ]
+    },
+    {
+      "productId": "0087520800182",
+      "brand": "Gourmet Garden",
+      "upc": "0087520800182",
+      "price": [
+        {
+          "regular": 4.99,
+          "promo": 4.79
+        }
+      ]
+    }
+  ]
+}

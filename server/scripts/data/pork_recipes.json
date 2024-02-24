@@ -1,0 +1,1335 @@
+[
+  {
+    "label": "Pandan Wrapped Roast Pork",
+    "url": "http://norecipes.com/blog/2009/02/23/pandan-wrapped-roast-pork/",
+    "ingredients": [
+      {
+        "text": "14 pandan (screw pine) leaves",
+        "quantity": 14,
+        "measure": "<unit>",
+        "food": "pandan",
+        "weight": 8.4,
+        "foodCategory": "Condiments and sauces",
+        "foodId": "food_b2uws0abbx2wi3bog0a70a088xiw",
+        "image": "https://www.edamam.com/food-img/0f9/0f9f5f95df173e9ffaaff2977bef88f3.jpg"
+      },
+      {
+        "text": "4 lbs pork butt or other well marbled cut of pork cut into large chunks",
+        "quantity": 4,
+        "measure": "pound",
+        "food": "pork",
+        "weight": 1814.36948,
+        "foodCategory": "meats",
+        "foodId": "food_aisetlvawqaqp8a2uc28uaf46l5m",
+        "image": "https://www.edamam.com/food-img/d55/d553f23d42b9c8fb314416ccd5cde3d2.jpg"
+      },
+      {
+        "text": "smoked sea salt",
+        "quantity": 0,
+        "measure": null,
+        "food": "sea salt",
+        "weight": 10.93661688,
+        "foodCategory": "Condiments and sauces",
+        "foodId": "food_a1vgrj1bs8rd1majvmd9ubz8ttkg",
+        "image": "https://www.edamam.com/food-img/694/6943ea510918c6025795e8dc6e6eaaeb.jpg"
+      }
+    ],
+    "uri": "http://www.edamam.com/ontologies/edamam.owl#recipe_5e0a0380fcefe4cd472edb02cadd4dd7",
+    "image": "https://edamam-product-images.s3.amazonaws.com/web-img/c5e/c5ef5dccb2c83f31d1d77de0c9e2d937.jpg?X-Amz-Security-Token=IQoJb3JpZ2luX2VjEGoaCXVzLWVhc3QtMSJHMEUCIFIil1jd5NHOSvMOKXmiga%2F7CRpL9SqT90pjzpQvMpS1AiEA9ABMxynDIYnPNFSoTb7ZMBckcrDLvv4e6dtYzK1N0iIqwgUIs%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FARAAGgwxODcwMTcxNTA5ODYiDJ0JUiSQioeZN09KpyqWBVe1sbdKBl4lqNSDGR5UVO8dIqqE5WJuXebdX3lZD4OaGW51LWKTCCXZuBKs2ISuKPh91m2%2BsZ6ktPbGE2AhkybcxwieCVK%2BK7l84Bj24ywSDZsP1yn%2FPQvPSOPdtnqKR68nmtPicbTTb2iN1fNYmLpy0S%2FnwrF8mkwdmHhvUaEbcAUyjMHohThRkgvTO7TCgSpOGWKVTQEFsLHvsgi4bWMGi1ZtCdznqWdnvOSGhPIQKiLCFUVTI1oRtogKh0lqCDL4eD4Xt5720oaytX%2FzK60NnLdU6s2vGCG9kL1rEzM1fp%2FYqaRoi9XQXp3hj79AyZsUJuPSW2wBsyauTTAprw9V0oSJ%2BkgyFsGc7Ge21I74u8u%2BUNk7NGsVmUYeMeKK6TI%2B0Rjmc6gRjNT%2FzDhfv7vJG7pMLWR%2FOUMWNa9yQUISZ8lh6vjj0kkFOzMlze5lBdHr%2FnWvNqWN3MkH70GXWEsIEh43bVc1guPIoprq%2Bu47idhxaAzP1HurGLQr7p64dzS9lpwPYzY6lcy%2FURRoDKTRQG4E%2FCEP5VCwURQtf7DgsBTBfS1SBxALeyc8mv8DNadhiSKCTJIn%2BIy5cJE6p56IH%2FPy%2BLDoFKWBjEyTq%2B485casZ1GZkBnH8U522cCwhIpNLcykX%2F4wNUr86O6r5UklISiFuq1Fd0yu9W3z6zJUJ4XVYRI9130kMvqmT%2FWXqW8YAlY3uDF32GhawMfgb7KSBBrnSCeHfWshej%2BfYfsb%2FLLReGZxgMPqGgbsfZYqxDpHj6ybFJVzSw6l8QriLDoi8oT9adjEPELXp0rV5YgcHAyQDtWXjZ99CXlSqj0bLUoeo8aQQjTT8V8rzygz0yXkostwb4FyfVN5cyxFoE1S0FloEdNSMKW24KoGOrEBFDB4UqY3hmGXzAo%2Bg1EAXCZSzy18Zg6aqXEnnaM9l2m9b6ZdoEhKpA3zaGpQeiK72d9loW2TJU%2FxVT11CkQoWJnc5vc%2BvEAEWhFcrNhGRjVyEL68aqO6lD%2FuH94JxctuAJ2UWf%2BJsGDngPUA01yn%2B8aRAjoZ6PyU1JWIWSrw9CbhMr8XDOwYorTcKjT1xK76ZXfjU6C%2FWO%2BB8Ahq6zvqxZM3%2F4GQPiRkwzYuKPC78a5%2B&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Date=20231118T030353Z&X-Amz-SignedHeaders=host&X-Amz-Expires=3600&X-Amz-Credential=ASIASXCYXIIFLO2MWB7Q%2F20231118%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Signature=a07c7630da02bcb16e23c2b6af5baf736f1ba1c832b32fbdcfaec5b994e57a82",
+    "source": "No Recipes",
+    "shareAs": "http://www.edamam.com/recipe/pandan-wrapped-roast-pork-5e0a0380fcefe4cd472edb02cadd4dd7/pork",
+    "yield": 12,
+    "dietLabels": [
+      "Low-Carb"
+    ],
+    "healthLabels": [
+      "Sugar-Conscious",
+      "Low Sugar",
+      "Keto-Friendly",
+      "Paleo",
+      "Dairy-Free",
+      "Gluten-Free",
+      "Wheat-Free",
+      "Egg-Free",
+      "Peanut-Free",
+      "Tree-Nut-Free",
+      "Soy-Free",
+      "Fish-Free",
+      "Shellfish-Free",
+      "Crustacean-Free",
+      "Celery-Free",
+      "Mustard-Free",
+      "Sesame-Free",
+      "Lupine-Free",
+      "Mollusk-Free",
+      "Alcohol-Free",
+      "No oil added",
+      "Sulfite-Free",
+      "FODMAP-Free"
+    ],
+    "cautions": [],
+    "ingredientLines": [
+      "14 pandan (screw pine) leaves",
+      "4 lbs pork butt or other well marbled cut of pork cut into large chunks",
+      "smoked sea salt"
+    ],
+    "calories": 3618.7435704000004,
+    "totalWeight": 1831.3511738926559,
+    "totalTime": 0,
+    "cuisineType": [
+      "american"
+    ],
+    "mealType": [
+      "lunch/dinner"
+    ],
+    "dishType": [
+      "main course"
+    ]
+  },
+  {
+    "label": "Pork Quesadillas",
+    "url": "http://www.marthastewart.com/862754/pork-quesadillas",
+    "ingredients": [
+      {
+        "text": "1 cup reserved roasted vegetables (from pork chops with fennel and carrots), coarsely chopped",
+        "quantity": 1,
+        "measure": "<unit>",
+        "food": "pork chops",
+        "weight": 199,
+        "foodCategory": "meats",
+        "foodId": "food_a6yuw2wan806yxaem8uqza91rjmb",
+        "image": "https://www.edamam.com/food-img/499/49977aabc381bd3889ad9100978e1bb6.jpg"
+      },
+      {
+        "text": "1 tablespoon chopped pickled jalapenos",
+        "quantity": 1,
+        "measure": "tablespoon",
+        "food": "jalapenos",
+        "weight": 5.624999999904898,
+        "foodCategory": "vegetables",
+        "foodId": "food_b7txsnbadj6plsbq27zvwah80r6y",
+        "image": "https://www.edamam.com/food-img/0df/0df9aa459870a6d477b0925c1fdb6d4c.jpg"
+      },
+      {
+        "text": "4 large flour tortillas",
+        "quantity": 4,
+        "measure": "<unit>",
+        "food": "flour tortillas",
+        "weight": 245,
+        "foodCategory": "bread, rolls and tortillas",
+        "foodId": "food_a9ql6pdb639bs5b2nlvbob3w0mlj",
+        "image": "https://www.edamam.com/food-img/357/357e415685787e6d6844e8d08c1b1586.jpg"
+      },
+      {
+        "text": "2 reserved cooked pork chops (from pork chops with fennel and carrots)",
+        "quantity": 2,
+        "measure": "<unit>",
+        "food": "pork chops",
+        "weight": 398,
+        "foodCategory": "meats",
+        "foodId": "food_a6yuw2wan806yxaem8uqza91rjmb",
+        "image": "https://www.edamam.com/food-img/499/49977aabc381bd3889ad9100978e1bb6.jpg"
+      },
+      {
+        "text": "3 1/2 ounces monterey jack cheese, grated (1 cup)",
+        "quantity": 1,
+        "measure": "cup",
+        "food": "monterey jack",
+        "weight": 132,
+        "foodCategory": "Cheese",
+        "foodId": "food_atp17pta7d5it2a80ct13ard6aj3",
+        "image": "https://www.edamam.com/food-img/590/59062b9f8d57ebc7d831b7b7c231f726.jpg"
+      }
+    ],
+    "uri": "http://www.edamam.com/ontologies/edamam.owl#recipe_5bf9c79042a2ed9c90403d2f6c963272",
+    "image": "https://edamam-product-images.s3.amazonaws.com/web-img/310/3109aa67eaebff453982004a29ae61f5.jpg?X-Amz-Security-Token=IQoJb3JpZ2luX2VjEGoaCXVzLWVhc3QtMSJHMEUCIFIil1jd5NHOSvMOKXmiga%2F7CRpL9SqT90pjzpQvMpS1AiEA9ABMxynDIYnPNFSoTb7ZMBckcrDLvv4e6dtYzK1N0iIqwgUIs%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FARAAGgwxODcwMTcxNTA5ODYiDJ0JUiSQioeZN09KpyqWBVe1sbdKBl4lqNSDGR5UVO8dIqqE5WJuXebdX3lZD4OaGW51LWKTCCXZuBKs2ISuKPh91m2%2BsZ6ktPbGE2AhkybcxwieCVK%2BK7l84Bj24ywSDZsP1yn%2FPQvPSOPdtnqKR68nmtPicbTTb2iN1fNYmLpy0S%2FnwrF8mkwdmHhvUaEbcAUyjMHohThRkgvTO7TCgSpOGWKVTQEFsLHvsgi4bWMGi1ZtCdznqWdnvOSGhPIQKiLCFUVTI1oRtogKh0lqCDL4eD4Xt5720oaytX%2FzK60NnLdU6s2vGCG9kL1rEzM1fp%2FYqaRoi9XQXp3hj79AyZsUJuPSW2wBsyauTTAprw9V0oSJ%2BkgyFsGc7Ge21I74u8u%2BUNk7NGsVmUYeMeKK6TI%2B0Rjmc6gRjNT%2FzDhfv7vJG7pMLWR%2FOUMWNa9yQUISZ8lh6vjj0kkFOzMlze5lBdHr%2FnWvNqWN3MkH70GXWEsIEh43bVc1guPIoprq%2Bu47idhxaAzP1HurGLQr7p64dzS9lpwPYzY6lcy%2FURRoDKTRQG4E%2FCEP5VCwURQtf7DgsBTBfS1SBxALeyc8mv8DNadhiSKCTJIn%2BIy5cJE6p56IH%2FPy%2BLDoFKWBjEyTq%2B485casZ1GZkBnH8U522cCwhIpNLcykX%2F4wNUr86O6r5UklISiFuq1Fd0yu9W3z6zJUJ4XVYRI9130kMvqmT%2FWXqW8YAlY3uDF32GhawMfgb7KSBBrnSCeHfWshej%2BfYfsb%2FLLReGZxgMPqGgbsfZYqxDpHj6ybFJVzSw6l8QriLDoi8oT9adjEPELXp0rV5YgcHAyQDtWXjZ99CXlSqj0bLUoeo8aQQjTT8V8rzygz0yXkostwb4FyfVN5cyxFoE1S0FloEdNSMKW24KoGOrEBFDB4UqY3hmGXzAo%2Bg1EAXCZSzy18Zg6aqXEnnaM9l2m9b6ZdoEhKpA3zaGpQeiK72d9loW2TJU%2FxVT11CkQoWJnc5vc%2BvEAEWhFcrNhGRjVyEL68aqO6lD%2FuH94JxctuAJ2UWf%2BJsGDngPUA01yn%2B8aRAjoZ6PyU1JWIWSrw9CbhMr8XDOwYorTcKjT1xK76ZXfjU6C%2FWO%2BB8Ahq6zvqxZM3%2F4GQPiRkwzYuKPC78a5%2B&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Date=20231118T030353Z&X-Amz-SignedHeaders=host&X-Amz-Expires=3600&X-Amz-Credential=ASIASXCYXIIFLO2MWB7Q%2F20231118%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Signature=340ff460821d39fc5bdded1ccab57baf075350123e5fb74c6f46cadb607e4fa6",
+    "source": "Martha Stewart",
+    "shareAs": "http://www.edamam.com/recipe/pork-quesadillas-5bf9c79042a2ed9c90403d2f6c963272/pork",
+    "yield": 4,
+    "dietLabels": [],
+    "healthLabels": [
+      "Sugar-Conscious",
+      "Egg-Free",
+      "Peanut-Free",
+      "Tree-Nut-Free",
+      "Soy-Free",
+      "Fish-Free",
+      "Shellfish-Free",
+      "Crustacean-Free",
+      "Celery-Free",
+      "Mustard-Free",
+      "Sesame-Free",
+      "Lupine-Free",
+      "Mollusk-Free",
+      "Alcohol-Free",
+      "Sulfite-Free"
+    ],
+    "cautions": [
+      "Sulfites"
+    ],
+    "ingredientLines": [
+      "1 cup reserved roasted vegetables (from pork chops with fennel and carrots), coarsely chopped",
+      "1 tablespoon chopped pickled jalapenos",
+      "4 large flour tortillas",
+      "2 reserved cooked pork chops (from pork chops with fennel and carrots)",
+      "3 1/2 ounces monterey jack cheese, grated (1 cup)"
+    ],
+    "calories": 2236.5412499999725,
+    "totalWeight": 979.624999999905,
+    "totalTime": 93,
+    "cuisineType": [
+      "mexican"
+    ],
+    "mealType": [
+      "lunch/dinner"
+    ],
+    "dishType": [
+      "main course"
+    ]
+  },
+  {
+    "label": "Pork Sorpotel (Goan Pork Offal Stew) Recipe",
+    "url": "http://www.seriouseats.com/recipes/2014/01/pork-sorpotel-recipe.html",
+    "ingredients": [
+      {
+        "text": "1 pound pork shoulder",
+        "quantity": 1,
+        "measure": "pound",
+        "food": "pork shoulder",
+        "weight": 453.59237,
+        "foodCategory": "meats",
+        "foodId": "food_a299wq8bece4vtb3ku5edb5gnjhc",
+        "image": "https://www.edamam.com/food-img/f7b/f7be68b0bf0b29937281c1cf8758e4e5.jpg"
+      },
+      {
+        "text": "1 pound pork liver",
+        "quantity": 1,
+        "measure": "pound",
+        "food": "pork liver",
+        "weight": 453.59237,
+        "foodCategory": "meats",
+        "foodId": "food_atq9bqybz0f9mrb2kq0mnaqp8fug",
+        "image": "https://www.edamam.com/food-img/628/6282a31a2b443079220c17544a91a408.jpg"
+      },
+      {
+        "text": "1/2 pound pork heart/kidney/tongue (any offal of your choice or all—totally optional)",
+        "quantity": 0.5,
+        "measure": "pound",
+        "food": "pork",
+        "weight": 226.796185,
+        "foodCategory": "meats",
+        "foodId": "food_aisetlvawqaqp8a2uc28uaf46l5m",
+        "image": "https://www.edamam.com/food-img/d55/d553f23d42b9c8fb314416ccd5cde3d2.jpg"
+      },
+      {
+        "text": "1 teaspoon turmeric powder (divided)",
+        "quantity": 1,
+        "measure": "teaspoon",
+        "food": "turmeric",
+        "weight": 3,
+        "foodCategory": "Condiments and sauces",
+        "foodId": "food_bc3ig84amucgmwba3vixyatnyd9b",
+        "image": "https://www.edamam.com/food-img/03e/03eb469286b3caf1ae9c13e4eba13587.jpg"
+      },
+      {
+        "text": "Kosher salt",
+        "quantity": 0,
+        "measure": null,
+        "food": "Kosher salt",
+        "weight": 11.637485550000001,
+        "foodCategory": "Condiments and sauces",
+        "foodId": "food_a1vgrj1bs8rd1majvmd9ubz8ttkg",
+        "image": "https://www.edamam.com/food-img/694/6943ea510918c6025795e8dc6e6eaaeb.jpg"
+      },
+      {
+        "text": "2 tablespoons vegetable oil",
+        "quantity": 2,
+        "measure": "tablespoon",
+        "food": "vegetable oil",
+        "weight": 28,
+        "foodCategory": "Oils",
+        "foodId": "food_bt1mzi2ah2sfg8bv7no1qai83w8s",
+        "image": "https://www.edamam.com/food-img/6e5/6e51a63a6300a8ea1b4c4cc68dfaba33.jpg"
+      },
+      {
+        "text": "10 cloves garlic chopped fine (about 3 tablespoons, divided)",
+        "quantity": 10,
+        "measure": "clove",
+        "food": "garlic",
+        "weight": 30,
+        "foodCategory": "vegetables",
+        "foodId": "food_avtcmx6bgjv1jvay6s6stan8dnyp",
+        "image": "https://www.edamam.com/food-img/6ee/6ee142951f48aaf94f4312409f8d133d.jpg"
+      },
+      {
+        "text": "1 inch piece ginger chopped fine (divided)",
+        "quantity": 1,
+        "measure": "inch",
+        "food": "piece ginger",
+        "weight": 15,
+        "foodCategory": "vegetables",
+        "foodId": "food_bi2ki2xb5zmmvbaiwf7ztbgktzp6",
+        "image": "https://www.edamam.com/food-img/b9c/b9c06ef451ef29513880af0a53ebbaa6.jpg"
+      },
+      {
+        "text": "4 green chilies slit lengthwise (divided)",
+        "quantity": 4,
+        "measure": "<unit>",
+        "food": "green chilies",
+        "weight": 180,
+        "foodCategory": "vegetables",
+        "foodId": "food_bv2gevdbd1orbiarnp1vfaez1r85",
+        "image": "https://www.edamam.com/food-img/73f/73ff2eeb21372fe15b0ec51f9ecf368d.jpeg"
+      },
+      {
+        "text": "2 bay leaves",
+        "quantity": 2,
+        "measure": "<unit>",
+        "food": "bay leaves",
+        "weight": 1.2,
+        "foodCategory": "Condiments and sauces",
+        "foodId": "food_asx39x4ayja4jab6ivj6zayvkblo",
+        "image": "https://www.edamam.com/food-img/0f9/0f9f5f95df173e9ffaaff2977bef88f3.jpg"
+      },
+      {
+        "text": "1/4 cup pork blood",
+        "quantity": 0.25,
+        "measure": "cup",
+        "food": "pork",
+        "weight": 33.75,
+        "foodCategory": "meats",
+        "foodId": "food_aisetlvawqaqp8a2uc28uaf46l5m",
+        "image": "https://www.edamam.com/food-img/d55/d553f23d42b9c8fb314416ccd5cde3d2.jpg"
+      },
+      {
+        "text": "10 peppercorns",
+        "quantity": 0,
+        "measure": null,
+        "food": "peppercorns",
+        "weight": 5.8187427750000005,
+        "foodCategory": "Condiments and sauces",
+        "foodId": "food_b6ywzluaaxv02wad7s1r9ag4py89",
+        "image": "https://www.edamam.com/food-img/c6e/c6e5c3bd8d3bc15175d9766971a4d1b2.jpg"
+      },
+      {
+        "text": "10 dry red chilies (reduce according to your spice tolerance)",
+        "quantity": 10,
+        "measure": "<unit>",
+        "food": "red chilies",
+        "weight": 450,
+        "foodCategory": "vegetables",
+        "foodId": "food_a6g98mqatzj7vca6ms3bnbzqxf3s",
+        "image": "https://www.edamam.com/food-img/469/469213672957a242638e20c27e3e8acd.jpeg"
+      },
+      {
+        "text": "2 inch piece cinnamon",
+        "quantity": 1,
+        "measure": "piece",
+        "food": "cinnamon",
+        "weight": 2.6,
+        "foodCategory": "Condiments and sauces",
+        "foodId": "food_atjxtznauw5zabaixm24xa787onz",
+        "image": "https://www.edamam.com/food-img/d4d/d4daa18b92c596a1c99c08537c38e65b.jpg"
+      },
+      {
+        "text": "3 cloves",
+        "quantity": 3,
+        "measure": "<unit>",
+        "food": "cloves",
+        "weight": 0.44999999999999996,
+        "foodCategory": "Condiments and sauces",
+        "foodId": "food_abb00nxbw761ggavcuto7b3mw1s0",
+        "image": "https://www.edamam.com/food-img/8bc/8bc63f9742815a245d37e5f346674ca4.jpg"
+      },
+      {
+        "text": "1 teaspoon cumin seeds (or 2 teaspoons cumin powder)",
+        "quantity": 1,
+        "measure": "teaspoon",
+        "food": "cumin seeds",
+        "weight": 2.1,
+        "foodCategory": "Condiments and sauces",
+        "foodId": "food_a8jjbx4biqndasapojdb5by3e92e",
+        "image": "https://www.edamam.com/food-img/07e/07e2a4eb77ce46591033846504817d35.jpg"
+      },
+      {
+        "text": "1/4 cup coconut vinegar or any other vinegar (divided)",
+        "quantity": 0.25,
+        "measure": "cup",
+        "food": "vinegar",
+        "weight": 59.5,
+        "foodCategory": "Condiments and sauces",
+        "foodId": "food_am3vwadag9arxtadrwyfcau2w3b2",
+        "image": "https://www.edamam.com/food-img/5f6/5f69b84c399d778c4728e9ab4f8065a2.jpg"
+      }
+    ],
+    "uri": "http://www.edamam.com/ontologies/edamam.owl#recipe_755f13d5a3eeadf9ca3c3d144cf0d376",
+    "image": "https://edamam-product-images.s3.amazonaws.com/web-img/080/080794dec2aaba36885daabb16bcc82a.jpg?X-Amz-Security-Token=IQoJb3JpZ2luX2VjEGoaCXVzLWVhc3QtMSJHMEUCIFIil1jd5NHOSvMOKXmiga%2F7CRpL9SqT90pjzpQvMpS1AiEA9ABMxynDIYnPNFSoTb7ZMBckcrDLvv4e6dtYzK1N0iIqwgUIs%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FARAAGgwxODcwMTcxNTA5ODYiDJ0JUiSQioeZN09KpyqWBVe1sbdKBl4lqNSDGR5UVO8dIqqE5WJuXebdX3lZD4OaGW51LWKTCCXZuBKs2ISuKPh91m2%2BsZ6ktPbGE2AhkybcxwieCVK%2BK7l84Bj24ywSDZsP1yn%2FPQvPSOPdtnqKR68nmtPicbTTb2iN1fNYmLpy0S%2FnwrF8mkwdmHhvUaEbcAUyjMHohThRkgvTO7TCgSpOGWKVTQEFsLHvsgi4bWMGi1ZtCdznqWdnvOSGhPIQKiLCFUVTI1oRtogKh0lqCDL4eD4Xt5720oaytX%2FzK60NnLdU6s2vGCG9kL1rEzM1fp%2FYqaRoi9XQXp3hj79AyZsUJuPSW2wBsyauTTAprw9V0oSJ%2BkgyFsGc7Ge21I74u8u%2BUNk7NGsVmUYeMeKK6TI%2B0Rjmc6gRjNT%2FzDhfv7vJG7pMLWR%2FOUMWNa9yQUISZ8lh6vjj0kkFOzMlze5lBdHr%2FnWvNqWN3MkH70GXWEsIEh43bVc1guPIoprq%2Bu47idhxaAzP1HurGLQr7p64dzS9lpwPYzY6lcy%2FURRoDKTRQG4E%2FCEP5VCwURQtf7DgsBTBfS1SBxALeyc8mv8DNadhiSKCTJIn%2BIy5cJE6p56IH%2FPy%2BLDoFKWBjEyTq%2B485casZ1GZkBnH8U522cCwhIpNLcykX%2F4wNUr86O6r5UklISiFuq1Fd0yu9W3z6zJUJ4XVYRI9130kMvqmT%2FWXqW8YAlY3uDF32GhawMfgb7KSBBrnSCeHfWshej%2BfYfsb%2FLLReGZxgMPqGgbsfZYqxDpHj6ybFJVzSw6l8QriLDoi8oT9adjEPELXp0rV5YgcHAyQDtWXjZ99CXlSqj0bLUoeo8aQQjTT8V8rzygz0yXkostwb4FyfVN5cyxFoE1S0FloEdNSMKW24KoGOrEBFDB4UqY3hmGXzAo%2Bg1EAXCZSzy18Zg6aqXEnnaM9l2m9b6ZdoEhKpA3zaGpQeiK72d9loW2TJU%2FxVT11CkQoWJnc5vc%2BvEAEWhFcrNhGRjVyEL68aqO6lD%2FuH94JxctuAJ2UWf%2BJsGDngPUA01yn%2B8aRAjoZ6PyU1JWIWSrw9CbhMr8XDOwYorTcKjT1xK76ZXfjU6C%2FWO%2BB8Ahq6zvqxZM3%2F4GQPiRkwzYuKPC78a5%2B&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Date=20231118T030353Z&X-Amz-SignedHeaders=host&X-Amz-Expires=3600&X-Amz-Credential=ASIASXCYXIIFLO2MWB7Q%2F20231118%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Signature=a6d3346bb6a59f1b36348845be879191e84787f2489a7213660772cd47215411",
+    "source": "Serious Eats",
+    "shareAs": "http://www.edamam.com/recipe/pork-sorpotel-goan-pork-offal-stew-recipe-755f13d5a3eeadf9ca3c3d144cf0d376/pork",
+    "yield": 4,
+    "dietLabels": [
+      "Low-Carb"
+    ],
+    "healthLabels": [
+      "Dairy-Free",
+      "Gluten-Free",
+      "Wheat-Free",
+      "Egg-Free",
+      "Peanut-Free",
+      "Tree-Nut-Free",
+      "Soy-Free",
+      "Fish-Free",
+      "Shellfish-Free",
+      "Crustacean-Free",
+      "Celery-Free",
+      "Mustard-Free",
+      "Sesame-Free",
+      "Lupine-Free",
+      "Mollusk-Free",
+      "Alcohol-Free",
+      "Sulfite-Free"
+    ],
+    "cautions": [],
+    "ingredientLines": [
+      "1 pound pork shoulder",
+      "1 pound pork liver",
+      "1/2 pound pork heart/kidney/tongue (any offal of your choice or all—totally optional)",
+      "1 teaspoon turmeric powder (divided)",
+      "Kosher salt",
+      "2 tablespoons vegetable oil",
+      "10 cloves garlic chopped fine (about 3 tablespoons, divided)",
+      "1 inch piece ginger chopped fine (divided)",
+      "4 green chilies slit lengthwise (divided)",
+      "2 bay leaves",
+      "1/4 cup pork blood",
+      "For the Spice Paste:",
+      "10 peppercorns",
+      "10 dry red chilies (reduce according to your spice tolerance)",
+      "2 inch piece cinnamon",
+      "3 cloves",
+      "1 teaspoon cumin seeds (or 2 teaspoons cumin powder)",
+      "1/4 cup coconut vinegar or any other vinegar (divided)"
+    ],
+    "calories": 2804.35425966525,
+    "totalWeight": 1954.7698488986143,
+    "totalTime": 90,
+    "cuisineType": [
+      "american",
+      "indian"
+    ],
+    "mealType": [
+      "lunch/dinner"
+    ],
+    "dishType": [
+      "main course"
+    ]
+  },
+  {
+    "label": "Rarebit Pork Chops",
+    "url": "http://www.bbcgoodfood.com/recipes/2215/",
+    "ingredients": [
+      {
+        "text": "4 pork chops",
+        "quantity": 4,
+        "measure": "<unit>",
+        "food": "pork chops",
+        "weight": 796,
+        "foodCategory": "meats",
+        "foodId": "food_a6yuw2wan806yxaem8uqza91rjmb",
+        "image": "https://www.edamam.com/food-img/499/49977aabc381bd3889ad9100978e1bb6.jpg"
+      },
+      {
+        "text": "50.0g cheddar",
+        "quantity": 50,
+        "measure": "gram",
+        "food": "cheddar",
+        "weight": 50,
+        "foodCategory": "Cheese",
+        "foodId": "food_bhppgmha1u27voagb8eptbp9g376",
+        "image": "https://www.edamam.com/food-img/bcd/bcd94dde1fcde1475b5bf0540f821c5d.jpg"
+      },
+      {
+        "text": "2.0 tsp wholegrain mustard",
+        "quantity": 2,
+        "measure": "teaspoon",
+        "food": "mustard",
+        "weight": 10,
+        "foodCategory": "Condiments and sauces",
+        "foodId": "food_a34cdj5b0kyuhfbov30xcb50u4dv",
+        "image": "https://www.edamam.com/food-img/e23/e238f2e4cfa6aa1a30f46dc73e7344eb.jpg"
+      },
+      {
+        "text": "1.0 tsp crème fraîche or cream",
+        "quantity": 1,
+        "measure": "teaspoon",
+        "food": "crème fraîche",
+        "weight": 4.666666666903365,
+        "foodCategory": "Dairy",
+        "foodId": "food_ayjzu0oak0shbnaeroxs8b6t9uyy",
+        "image": "https://www.edamam.com/food-img/f9d/f9d6183267b041b0aff9a10b89c9c15f.jpg"
+      }
+    ],
+    "uri": "http://www.edamam.com/ontologies/edamam.owl#recipe_ef31a2191212cc12d6119030908409cd",
+    "image": "https://edamam-product-images.s3.amazonaws.com/web-img/8ea/8eada5e78df7cb6502b1290481388e61.jpg?X-Amz-Security-Token=IQoJb3JpZ2luX2VjEGoaCXVzLWVhc3QtMSJHMEUCIFIil1jd5NHOSvMOKXmiga%2F7CRpL9SqT90pjzpQvMpS1AiEA9ABMxynDIYnPNFSoTb7ZMBckcrDLvv4e6dtYzK1N0iIqwgUIs%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FARAAGgwxODcwMTcxNTA5ODYiDJ0JUiSQioeZN09KpyqWBVe1sbdKBl4lqNSDGR5UVO8dIqqE5WJuXebdX3lZD4OaGW51LWKTCCXZuBKs2ISuKPh91m2%2BsZ6ktPbGE2AhkybcxwieCVK%2BK7l84Bj24ywSDZsP1yn%2FPQvPSOPdtnqKR68nmtPicbTTb2iN1fNYmLpy0S%2FnwrF8mkwdmHhvUaEbcAUyjMHohThRkgvTO7TCgSpOGWKVTQEFsLHvsgi4bWMGi1ZtCdznqWdnvOSGhPIQKiLCFUVTI1oRtogKh0lqCDL4eD4Xt5720oaytX%2FzK60NnLdU6s2vGCG9kL1rEzM1fp%2FYqaRoi9XQXp3hj79AyZsUJuPSW2wBsyauTTAprw9V0oSJ%2BkgyFsGc7Ge21I74u8u%2BUNk7NGsVmUYeMeKK6TI%2B0Rjmc6gRjNT%2FzDhfv7vJG7pMLWR%2FOUMWNa9yQUISZ8lh6vjj0kkFOzMlze5lBdHr%2FnWvNqWN3MkH70GXWEsIEh43bVc1guPIoprq%2Bu47idhxaAzP1HurGLQr7p64dzS9lpwPYzY6lcy%2FURRoDKTRQG4E%2FCEP5VCwURQtf7DgsBTBfS1SBxALeyc8mv8DNadhiSKCTJIn%2BIy5cJE6p56IH%2FPy%2BLDoFKWBjEyTq%2B485casZ1GZkBnH8U522cCwhIpNLcykX%2F4wNUr86O6r5UklISiFuq1Fd0yu9W3z6zJUJ4XVYRI9130kMvqmT%2FWXqW8YAlY3uDF32GhawMfgb7KSBBrnSCeHfWshej%2BfYfsb%2FLLReGZxgMPqGgbsfZYqxDpHj6ybFJVzSw6l8QriLDoi8oT9adjEPELXp0rV5YgcHAyQDtWXjZ99CXlSqj0bLUoeo8aQQjTT8V8rzygz0yXkostwb4FyfVN5cyxFoE1S0FloEdNSMKW24KoGOrEBFDB4UqY3hmGXzAo%2Bg1EAXCZSzy18Zg6aqXEnnaM9l2m9b6ZdoEhKpA3zaGpQeiK72d9loW2TJU%2FxVT11CkQoWJnc5vc%2BvEAEWhFcrNhGRjVyEL68aqO6lD%2FuH94JxctuAJ2UWf%2BJsGDngPUA01yn%2B8aRAjoZ6PyU1JWIWSrw9CbhMr8XDOwYorTcKjT1xK76ZXfjU6C%2FWO%2BB8Ahq6zvqxZM3%2F4GQPiRkwzYuKPC78a5%2B&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Date=20231118T030353Z&X-Amz-SignedHeaders=host&X-Amz-Expires=3600&X-Amz-Credential=ASIASXCYXIIFLO2MWB7Q%2F20231118%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Signature=f882001c78e81dc98a293a0bdc583b18af2f4c3e3fe9dc6e21ba4b20cd06d0ff",
+    "source": "BBC Good Food",
+    "shareAs": "http://www.edamam.com/recipe/rarebit-pork-chops-ef31a2191212cc12d6119030908409cd/pork",
+    "yield": 6,
+    "dietLabels": [
+      "Low-Carb"
+    ],
+    "healthLabels": [
+      "Sugar-Conscious",
+      "Keto-Friendly",
+      "Gluten-Free",
+      "Wheat-Free",
+      "Egg-Free",
+      "Peanut-Free",
+      "Tree-Nut-Free",
+      "Soy-Free",
+      "Fish-Free",
+      "Shellfish-Free",
+      "Crustacean-Free",
+      "Celery-Free",
+      "Sesame-Free",
+      "Lupine-Free",
+      "Mollusk-Free",
+      "Alcohol-Free",
+      "No oil added",
+      "Sulfite-Free"
+    ],
+    "cautions": [
+      "Sulfites"
+    ],
+    "ingredientLines": [
+      "4 pork chops",
+      "50.0g cheddar",
+      "2.0 tsp wholegrain mustard",
+      "1.0 tsp crème fraîche or cream"
+    ],
+    "calories": 1569.9400000004687,
+    "totalWeight": 860.6666666669033,
+    "totalTime": 0,
+    "cuisineType": [
+      "american"
+    ],
+    "mealType": [
+      "lunch/dinner"
+    ],
+    "dishType": [
+      "main course"
+    ]
+  },
+  {
+    "label": "Barbecued Pork",
+    "url": "http://www.cookstr.com/recipes/barbecued-pork-nina-simonds",
+    "ingredients": [
+      {
+        "text": "1½ pounds center cut pork loin, pork tenderloin, or pork steak",
+        "quantity": 1.5,
+        "measure": "pound",
+        "food": "pork loin",
+        "weight": 680.388555,
+        "foodCategory": "meats",
+        "foodId": "food_aisetlvawqaqp8a2uc28uaf46l5m",
+        "image": "https://www.edamam.com/food-img/d55/d553f23d42b9c8fb314416ccd5cde3d2.jpg"
+      },
+      {
+        "text": "½ cup hoisin sauce",
+        "quantity": 0.5,
+        "measure": "cup",
+        "food": "hoisin sauce",
+        "weight": 128.0000000021641,
+        "foodCategory": "canned soup",
+        "foodId": "food_a50yq9jao6jvt5a4oxygsbmfbeuy",
+        "image": "https://www.edamam.com/food-img/c52/c529c507459e9133ad8689cec193f713.jpg"
+      },
+      {
+        "text": "2 tablespoons soy sauce",
+        "quantity": 2,
+        "measure": "tablespoon",
+        "food": "soy sauce",
+        "weight": 32,
+        "foodCategory": "plant-based protein",
+        "foodId": "food_a5g9yevb1iactoaiimbvjbkrxueh",
+        "image": "https://www.edamam.com/food-img/f56/f562e461eb0618f367f538b836c17b82.jpg"
+      },
+      {
+        "text": "1½ tablespoons ketchup",
+        "quantity": 1.5,
+        "measure": "tablespoon",
+        "food": "ketchup",
+        "weight": 25.5,
+        "foodCategory": "condiments and sauces",
+        "foodId": "food_au7jthtab0n3era9uue8pauakroe",
+        "image": "https://www.edamam.com/food-img/257/257207c446011b849001ae596390341c.jpeg"
+      },
+      {
+        "text": "1 tablespoon minced garlic",
+        "quantity": 1,
+        "measure": "tablespoon",
+        "food": "garlic",
+        "weight": 8.499999999856291,
+        "foodCategory": "vegetables",
+        "foodId": "food_avtcmx6bgjv1jvay6s6stan8dnyp",
+        "image": "https://www.edamam.com/food-img/6ee/6ee142951f48aaf94f4312409f8d133d.jpg"
+      },
+      {
+        "text": "3 tablespoons water",
+        "quantity": 3,
+        "measure": "tablespoon",
+        "food": "water",
+        "weight": 44.360294343,
+        "foodCategory": "water",
+        "foodId": "food_a99vzubbk1ayrsad318rvbzr3dh0",
+        "image": "https://www.edamam.com/food-img/5dd/5dd9d1361847b2ca53c4b19a8f92627e.jpg"
+      }
+    ],
+    "uri": "http://www.edamam.com/ontologies/edamam.owl#recipe_905c8af211cb4c143c9d665692fc1c86",
+    "image": "https://edamam-product-images.s3.amazonaws.com/web-img/4b2/4b234f17846dabd0b06ee5c4b18043ba.jpg?X-Amz-Security-Token=IQoJb3JpZ2luX2VjEGoaCXVzLWVhc3QtMSJHMEUCIFIil1jd5NHOSvMOKXmiga%2F7CRpL9SqT90pjzpQvMpS1AiEA9ABMxynDIYnPNFSoTb7ZMBckcrDLvv4e6dtYzK1N0iIqwgUIs%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FARAAGgwxODcwMTcxNTA5ODYiDJ0JUiSQioeZN09KpyqWBVe1sbdKBl4lqNSDGR5UVO8dIqqE5WJuXebdX3lZD4OaGW51LWKTCCXZuBKs2ISuKPh91m2%2BsZ6ktPbGE2AhkybcxwieCVK%2BK7l84Bj24ywSDZsP1yn%2FPQvPSOPdtnqKR68nmtPicbTTb2iN1fNYmLpy0S%2FnwrF8mkwdmHhvUaEbcAUyjMHohThRkgvTO7TCgSpOGWKVTQEFsLHvsgi4bWMGi1ZtCdznqWdnvOSGhPIQKiLCFUVTI1oRtogKh0lqCDL4eD4Xt5720oaytX%2FzK60NnLdU6s2vGCG9kL1rEzM1fp%2FYqaRoi9XQXp3hj79AyZsUJuPSW2wBsyauTTAprw9V0oSJ%2BkgyFsGc7Ge21I74u8u%2BUNk7NGsVmUYeMeKK6TI%2B0Rjmc6gRjNT%2FzDhfv7vJG7pMLWR%2FOUMWNa9yQUISZ8lh6vjj0kkFOzMlze5lBdHr%2FnWvNqWN3MkH70GXWEsIEh43bVc1guPIoprq%2Bu47idhxaAzP1HurGLQr7p64dzS9lpwPYzY6lcy%2FURRoDKTRQG4E%2FCEP5VCwURQtf7DgsBTBfS1SBxALeyc8mv8DNadhiSKCTJIn%2BIy5cJE6p56IH%2FPy%2BLDoFKWBjEyTq%2B485casZ1GZkBnH8U522cCwhIpNLcykX%2F4wNUr86O6r5UklISiFuq1Fd0yu9W3z6zJUJ4XVYRI9130kMvqmT%2FWXqW8YAlY3uDF32GhawMfgb7KSBBrnSCeHfWshej%2BfYfsb%2FLLReGZxgMPqGgbsfZYqxDpHj6ybFJVzSw6l8QriLDoi8oT9adjEPELXp0rV5YgcHAyQDtWXjZ99CXlSqj0bLUoeo8aQQjTT8V8rzygz0yXkostwb4FyfVN5cyxFoE1S0FloEdNSMKW24KoGOrEBFDB4UqY3hmGXzAo%2Bg1EAXCZSzy18Zg6aqXEnnaM9l2m9b6ZdoEhKpA3zaGpQeiK72d9loW2TJU%2FxVT11CkQoWJnc5vc%2BvEAEWhFcrNhGRjVyEL68aqO6lD%2FuH94JxctuAJ2UWf%2BJsGDngPUA01yn%2B8aRAjoZ6PyU1JWIWSrw9CbhMr8XDOwYorTcKjT1xK76ZXfjU6C%2FWO%2BB8Ahq6zvqxZM3%2F4GQPiRkwzYuKPC78a5%2B&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Date=20231118T030353Z&X-Amz-SignedHeaders=host&X-Amz-Expires=3600&X-Amz-Credential=ASIASXCYXIIFLO2MWB7Q%2F20231118%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Signature=b90abb7749972fcee85298857cdbde76c781df5c8f874d8665dccfea1f22a4b4",
+    "source": "Cookstr",
+    "shareAs": "http://www.edamam.com/recipe/barbecued-pork-905c8af211cb4c143c9d665692fc1c86/pork",
+    "yield": 8,
+    "dietLabels": [
+      "Low-Carb"
+    ],
+    "healthLabels": [
+      "Dairy-Free",
+      "Egg-Free",
+      "Peanut-Free",
+      "Tree-Nut-Free",
+      "Fish-Free",
+      "Shellfish-Free",
+      "Crustacean-Free",
+      "Celery-Free",
+      "Mustard-Free",
+      "Sesame-Free",
+      "Lupine-Free",
+      "Mollusk-Free",
+      "Alcohol-Free",
+      "No oil added"
+    ],
+    "cautions": [
+      "Sulfites"
+    ],
+    "ingredientLines": [
+      "1½ pounds center cut pork loin, pork tenderloin, or pork steak",
+      "½ cup hoisin sauce",
+      "2 tablespoons soy sauce",
+      "1½ tablespoons ketchup",
+      "1 tablespoon minced garlic",
+      "3 tablespoons water"
+    ],
+    "calories": 1684.1493389045472,
+    "totalWeight": 918.7488493450204,
+    "totalTime": 60,
+    "cuisineType": [
+      "mediterranean"
+    ],
+    "mealType": [
+      "lunch/dinner"
+    ],
+    "dishType": [
+      "main course"
+    ]
+  },
+  {
+    "label": "Pork Chops",
+    "url": "http://simplyrecipes.com/recipes/pork_chops/",
+    "ingredients": [
+      {
+        "text": "4 pork chops",
+        "quantity": 4,
+        "measure": "<unit>",
+        "food": "pork chops",
+        "weight": 796,
+        "foodCategory": "meats",
+        "foodId": "food_a6yuw2wan806yxaem8uqza91rjmb",
+        "image": "https://www.edamam.com/food-img/499/49977aabc381bd3889ad9100978e1bb6.jpg"
+      },
+      {
+        "text": "Salt",
+        "quantity": 0,
+        "measure": null,
+        "food": "Salt",
+        "weight": 6.281250000013074,
+        "foodCategory": "Condiments and sauces",
+        "foodId": "food_btxz81db72hwbra2pncvebzzzum9",
+        "image": "https://www.edamam.com/food-img/694/6943ea510918c6025795e8dc6e6eaaeb.jpg"
+      },
+      {
+        "text": "Pepper",
+        "quantity": 0,
+        "measure": null,
+        "food": "Pepper",
+        "weight": 3.140625000006537,
+        "foodCategory": "Condiments and sauces",
+        "foodId": "food_b6ywzluaaxv02wad7s1r9ag4py89",
+        "image": "https://www.edamam.com/food-img/c6e/c6e5c3bd8d3bc15175d9766971a4d1b2.jpg"
+      },
+      {
+        "text": "1/2 cup of red currant jelly (or any red berry jelly, not jam)",
+        "quantity": 0.5,
+        "measure": "cup",
+        "food": "jelly",
+        "weight": 160.00000000270512,
+        "foodCategory": "sugar syrups",
+        "foodId": "food_bzsx4atbph30cebveok2ebmgwrq8",
+        "image": "https://www.edamam.com/food-img/42b/42ba8bb2c0e13f6e69b3af18f0f641ae.jpg"
+      },
+      {
+        "text": "2 tablespoons of Dijon mustard",
+        "quantity": 2,
+        "measure": "tablespoon",
+        "food": "Dijon mustard",
+        "weight": 31.1249999994738,
+        "foodCategory": "Condiments and sauces",
+        "foodId": "food_a34cdj5b0kyuhfbov30xcb50u4dv",
+        "image": "https://www.edamam.com/food-img/e23/e238f2e4cfa6aa1a30f46dc73e7344eb.jpg"
+      },
+      {
+        "text": "1/4 cup cider vinegar or white vinegar",
+        "quantity": 0.25,
+        "measure": "cup",
+        "food": "cider vinegar",
+        "weight": 59.75,
+        "foodCategory": "Condiments and sauces",
+        "foodId": "food_ar8m7esapmfvf8bnhfzdlabndh6v",
+        "image": "https://www.edamam.com/food-img/c7d/c7dbd1846c5d08e9739930d70a404d50.jpg"
+      }
+    ],
+    "uri": "http://www.edamam.com/ontologies/edamam.owl#recipe_56aa34e672ea3c4e0a5429e388dc62f4",
+    "image": "https://edamam-product-images.s3.amazonaws.com/web-img/9de/9dec7f2e6757acb9f09677d7421e6d68.jpg?X-Amz-Security-Token=IQoJb3JpZ2luX2VjEGoaCXVzLWVhc3QtMSJHMEUCIFIil1jd5NHOSvMOKXmiga%2F7CRpL9SqT90pjzpQvMpS1AiEA9ABMxynDIYnPNFSoTb7ZMBckcrDLvv4e6dtYzK1N0iIqwgUIs%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FARAAGgwxODcwMTcxNTA5ODYiDJ0JUiSQioeZN09KpyqWBVe1sbdKBl4lqNSDGR5UVO8dIqqE5WJuXebdX3lZD4OaGW51LWKTCCXZuBKs2ISuKPh91m2%2BsZ6ktPbGE2AhkybcxwieCVK%2BK7l84Bj24ywSDZsP1yn%2FPQvPSOPdtnqKR68nmtPicbTTb2iN1fNYmLpy0S%2FnwrF8mkwdmHhvUaEbcAUyjMHohThRkgvTO7TCgSpOGWKVTQEFsLHvsgi4bWMGi1ZtCdznqWdnvOSGhPIQKiLCFUVTI1oRtogKh0lqCDL4eD4Xt5720oaytX%2FzK60NnLdU6s2vGCG9kL1rEzM1fp%2FYqaRoi9XQXp3hj79AyZsUJuPSW2wBsyauTTAprw9V0oSJ%2BkgyFsGc7Ge21I74u8u%2BUNk7NGsVmUYeMeKK6TI%2B0Rjmc6gRjNT%2FzDhfv7vJG7pMLWR%2FOUMWNa9yQUISZ8lh6vjj0kkFOzMlze5lBdHr%2FnWvNqWN3MkH70GXWEsIEh43bVc1guPIoprq%2Bu47idhxaAzP1HurGLQr7p64dzS9lpwPYzY6lcy%2FURRoDKTRQG4E%2FCEP5VCwURQtf7DgsBTBfS1SBxALeyc8mv8DNadhiSKCTJIn%2BIy5cJE6p56IH%2FPy%2BLDoFKWBjEyTq%2B485casZ1GZkBnH8U522cCwhIpNLcykX%2F4wNUr86O6r5UklISiFuq1Fd0yu9W3z6zJUJ4XVYRI9130kMvqmT%2FWXqW8YAlY3uDF32GhawMfgb7KSBBrnSCeHfWshej%2BfYfsb%2FLLReGZxgMPqGgbsfZYqxDpHj6ybFJVzSw6l8QriLDoi8oT9adjEPELXp0rV5YgcHAyQDtWXjZ99CXlSqj0bLUoeo8aQQjTT8V8rzygz0yXkostwb4FyfVN5cyxFoE1S0FloEdNSMKW24KoGOrEBFDB4UqY3hmGXzAo%2Bg1EAXCZSzy18Zg6aqXEnnaM9l2m9b6ZdoEhKpA3zaGpQeiK72d9loW2TJU%2FxVT11CkQoWJnc5vc%2BvEAEWhFcrNhGRjVyEL68aqO6lD%2FuH94JxctuAJ2UWf%2BJsGDngPUA01yn%2B8aRAjoZ6PyU1JWIWSrw9CbhMr8XDOwYorTcKjT1xK76ZXfjU6C%2FWO%2BB8Ahq6zvqxZM3%2F4GQPiRkwzYuKPC78a5%2B&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Date=20231118T030353Z&X-Amz-SignedHeaders=host&X-Amz-Expires=3600&X-Amz-Credential=ASIASXCYXIIFLO2MWB7Q%2F20231118%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Signature=1787cba68bbab5678213d3adcb7a7979697751c629fa12b8c8e8ed8660598a54",
+    "source": "Simply Recipes",
+    "shareAs": "http://www.edamam.com/recipe/pork-chops-56aa34e672ea3c4e0a5429e388dc62f4/pork",
+    "yield": 4,
+    "dietLabels": [],
+    "healthLabels": [
+      "Dairy-Free",
+      "Gluten-Free",
+      "Wheat-Free",
+      "Egg-Free",
+      "Peanut-Free",
+      "Tree-Nut-Free",
+      "Soy-Free",
+      "Fish-Free",
+      "Shellfish-Free",
+      "Crustacean-Free",
+      "Celery-Free",
+      "Sesame-Free",
+      "Lupine-Free",
+      "Mollusk-Free",
+      "Alcohol-Free",
+      "No oil added"
+    ],
+    "cautions": [],
+    "ingredientLines": [
+      "4 pork chops",
+      "Salt",
+      "Pepper",
+      "1/2 cup of red currant jelly (or any red berry jelly, not jam)",
+      "2 tablespoons of Dijon mustard",
+      "1/4 cup cider vinegar or white vinegar"
+    ],
+    "calories": 1837.1054687572212,
+    "totalWeight": 1054.1568613698014,
+    "totalTime": 0,
+    "cuisineType": [
+      "american"
+    ],
+    "mealType": [
+      "lunch/dinner"
+    ],
+    "dishType": [
+      "main course"
+    ]
+  },
+  {
+    "label": "Pork rillons",
+    "url": "http://www.jamieoliver.com/recipes/pork-recipes/pork-rillons/",
+    "ingredients": [
+      {
+        "text": "1 kg pork belly (the thick end) , skin on and deboned",
+        "quantity": 1,
+        "measure": "kilogram",
+        "food": "pork belly",
+        "weight": 1000,
+        "foodCategory": "meats",
+        "foodId": "food_apsk2crak8lyaebtrwv35afch7y8",
+        "image": "https://www.edamam.com/food-img/fb4/fb445aa0a648d1cf83eca55a05c7ce77.jpg"
+      },
+      {
+        "text": "250 g lard",
+        "quantity": 250,
+        "measure": "gram",
+        "food": "lard",
+        "weight": 250,
+        "foodCategory": "Oils",
+        "foodId": "food_bq8ww91a79r6zrbzro0naaor0fa3",
+        "image": "https://www.edamam.com/food-img/bc2/bc208be87a2eb48178d8a55ee5fd8e7d.jpg"
+      },
+      {
+        "text": "250 ml dry white wine",
+        "quantity": 250,
+        "measure": "milliliter",
+        "food": "dry white wine",
+        "weight": 248.53306685854605,
+        "foodCategory": "wines",
+        "foodId": "food_a656mk2a5dmqb2adiamu6beihduu",
+        "image": "https://www.edamam.com/food-img/a71/a718cf3c52add522128929f1f324d2ab.jpg"
+      },
+      {
+        "text": "3 fresh bay leaves",
+        "quantity": 3,
+        "measure": "<unit>",
+        "food": "bay leaves",
+        "weight": 1.7999999999999998,
+        "foodCategory": "Condiments and sauces",
+        "foodId": "food_asx39x4ayja4jab6ivj6zayvkblo",
+        "image": "https://www.edamam.com/food-img/0f9/0f9f5f95df173e9ffaaff2977bef88f3.jpg"
+      },
+      {
+        "text": "1 large sprig of thyme",
+        "quantity": 1,
+        "measure": "sprig",
+        "food": "thyme",
+        "weight": 3.75,
+        "foodCategory": "Condiments and sauces",
+        "foodId": "food_b3o3cj7a5gskecb0ufphtadnbfqb",
+        "image": "https://www.edamam.com/food-img/3e7/3e7cf3c8d767a90b906447f5e74059f7.jpg"
+      },
+      {
+        "text": "10 black peppercorns",
+        "quantity": 0,
+        "measure": null,
+        "food": "black peppercorns",
+        "weight": 4.548249200575638,
+        "foodCategory": "Condiments and sauces",
+        "foodId": "food_b6ywzluaaxv02wad7s1r9ag4py89",
+        "image": "https://www.edamam.com/food-img/c6e/c6e5c3bd8d3bc15175d9766971a4d1b2.jpg"
+      },
+      {
+        "text": "4 cloves of garlic",
+        "quantity": 4,
+        "measure": "clove",
+        "food": "garlic",
+        "weight": 12,
+        "foodCategory": "vegetables",
+        "foodId": "food_avtcmx6bgjv1jvay6s6stan8dnyp",
+        "image": "https://www.edamam.com/food-img/6ee/6ee142951f48aaf94f4312409f8d133d.jpg"
+      }
+    ],
+    "uri": "http://www.edamam.com/ontologies/edamam.owl#recipe_40c549e442c4be862d21ef454d15d6c0",
+    "image": "https://edamam-product-images.s3.amazonaws.com/web-img/325/325bae35a945193e81f766f954ed1487.jpg?X-Amz-Security-Token=IQoJb3JpZ2luX2VjEGoaCXVzLWVhc3QtMSJHMEUCIFIil1jd5NHOSvMOKXmiga%2F7CRpL9SqT90pjzpQvMpS1AiEA9ABMxynDIYnPNFSoTb7ZMBckcrDLvv4e6dtYzK1N0iIqwgUIs%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FARAAGgwxODcwMTcxNTA5ODYiDJ0JUiSQioeZN09KpyqWBVe1sbdKBl4lqNSDGR5UVO8dIqqE5WJuXebdX3lZD4OaGW51LWKTCCXZuBKs2ISuKPh91m2%2BsZ6ktPbGE2AhkybcxwieCVK%2BK7l84Bj24ywSDZsP1yn%2FPQvPSOPdtnqKR68nmtPicbTTb2iN1fNYmLpy0S%2FnwrF8mkwdmHhvUaEbcAUyjMHohThRkgvTO7TCgSpOGWKVTQEFsLHvsgi4bWMGi1ZtCdznqWdnvOSGhPIQKiLCFUVTI1oRtogKh0lqCDL4eD4Xt5720oaytX%2FzK60NnLdU6s2vGCG9kL1rEzM1fp%2FYqaRoi9XQXp3hj79AyZsUJuPSW2wBsyauTTAprw9V0oSJ%2BkgyFsGc7Ge21I74u8u%2BUNk7NGsVmUYeMeKK6TI%2B0Rjmc6gRjNT%2FzDhfv7vJG7pMLWR%2FOUMWNa9yQUISZ8lh6vjj0kkFOzMlze5lBdHr%2FnWvNqWN3MkH70GXWEsIEh43bVc1guPIoprq%2Bu47idhxaAzP1HurGLQr7p64dzS9lpwPYzY6lcy%2FURRoDKTRQG4E%2FCEP5VCwURQtf7DgsBTBfS1SBxALeyc8mv8DNadhiSKCTJIn%2BIy5cJE6p56IH%2FPy%2BLDoFKWBjEyTq%2B485casZ1GZkBnH8U522cCwhIpNLcykX%2F4wNUr86O6r5UklISiFuq1Fd0yu9W3z6zJUJ4XVYRI9130kMvqmT%2FWXqW8YAlY3uDF32GhawMfgb7KSBBrnSCeHfWshej%2BfYfsb%2FLLReGZxgMPqGgbsfZYqxDpHj6ybFJVzSw6l8QriLDoi8oT9adjEPELXp0rV5YgcHAyQDtWXjZ99CXlSqj0bLUoeo8aQQjTT8V8rzygz0yXkostwb4FyfVN5cyxFoE1S0FloEdNSMKW24KoGOrEBFDB4UqY3hmGXzAo%2Bg1EAXCZSzy18Zg6aqXEnnaM9l2m9b6ZdoEhKpA3zaGpQeiK72d9loW2TJU%2FxVT11CkQoWJnc5vc%2BvEAEWhFcrNhGRjVyEL68aqO6lD%2FuH94JxctuAJ2UWf%2BJsGDngPUA01yn%2B8aRAjoZ6PyU1JWIWSrw9CbhMr8XDOwYorTcKjT1xK76ZXfjU6C%2FWO%2BB8Ahq6zvqxZM3%2F4GQPiRkwzYuKPC78a5%2B&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Date=20231118T030353Z&X-Amz-SignedHeaders=host&X-Amz-Expires=3600&X-Amz-Credential=ASIASXCYXIIFLO2MWB7Q%2F20231118%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Signature=e41a4895d09439f71ec4eaa1c0f1d8106e10782425d08dd871db1fb50f7f005a",
+    "source": "Jamie Oliver",
+    "shareAs": "http://www.edamam.com/recipe/pork-rillons-40c549e442c4be862d21ef454d15d6c0/pork",
+    "yield": 10,
+    "dietLabels": [
+      "Low-Carb",
+      "Low-Sodium"
+    ],
+    "healthLabels": [
+      "Sugar-Conscious",
+      "Kidney-Friendly",
+      "Keto-Friendly",
+      "Paleo",
+      "Dairy-Free",
+      "Gluten-Free",
+      "Wheat-Free",
+      "Egg-Free",
+      "Peanut-Free",
+      "Tree-Nut-Free",
+      "Soy-Free",
+      "Fish-Free",
+      "Shellfish-Free",
+      "Crustacean-Free",
+      "Celery-Free",
+      "Mustard-Free",
+      "Sesame-Free",
+      "Lupine-Free",
+      "Mollusk-Free"
+    ],
+    "cautions": [],
+    "ingredientLines": [
+      "1 kg pork belly (the thick end) , skin on and deboned",
+      "250 g lard",
+      "250 ml dry white wine",
+      "3 fresh bay leaves",
+      "1 large sprig of thyme",
+      "10 black peppercorns",
+      "4 cloves of garlic"
+    ],
+    "calories": 7677.514720317453,
+    "totalWeight": 1520.6313160591217,
+    "totalTime": 115,
+    "cuisineType": [
+      "american"
+    ],
+    "mealType": [
+      "lunch/dinner"
+    ],
+    "dishType": [
+      "main course"
+    ]
+  },
+  {
+    "label": "Pork Lomitos",
+    "url": "https://www.rickbayless.com/recipe/pork-lomitos/",
+    "ingredients": [
+      {
+        "text": "2pounds pork shoulder, cut into 1-inch pieces",
+        "quantity": 2,
+        "measure": "pound",
+        "food": "pork shoulder",
+        "weight": 907.18474,
+        "foodCategory": "meats",
+        "foodId": "food_a299wq8bece4vtb3ku5edb5gnjhc",
+        "image": "https://www.edamam.com/food-img/f7b/f7be68b0bf0b29937281c1cf8758e4e5.jpg"
+      },
+      {
+        "text": "Salt",
+        "quantity": 0,
+        "measure": null,
+        "food": "Salt",
+        "weight": 12.359828325000002,
+        "foodCategory": "Condiments and sauces",
+        "foodId": "food_btxz81db72hwbra2pncvebzzzum9",
+        "image": "https://www.edamam.com/food-img/694/6943ea510918c6025795e8dc6e6eaaeb.jpg"
+      },
+      {
+        "text": "2tablespoons pork lard or vegetable oil",
+        "quantity": 2,
+        "measure": "tablespoon",
+        "food": "vegetable oil",
+        "weight": 28,
+        "foodCategory": "Oils",
+        "foodId": "food_bt1mzi2ah2sfg8bv7no1qai83w8s",
+        "image": "https://www.edamam.com/food-img/6e5/6e51a63a6300a8ea1b4c4cc68dfaba33.jpg"
+      },
+      {
+        "text": "1 medium white onion, sliced 1/2-inch thick",
+        "quantity": 1,
+        "measure": "<unit>",
+        "food": "white onion",
+        "weight": 110,
+        "foodCategory": "vegetables",
+        "foodId": "food_bmrvi4ob4binw9a5m7l07amlfcoy",
+        "image": "https://www.edamam.com/food-img/205/205e6bf2399b85d34741892ef91cc603.jpg"
+      },
+      {
+        "text": "5garlic cloves, minced",
+        "quantity": 5,
+        "measure": "clove",
+        "food": "garlic",
+        "weight": 15,
+        "foodCategory": "vegetables",
+        "foodId": "food_avtcmx6bgjv1jvay6s6stan8dnyp",
+        "image": "https://www.edamam.com/food-img/6ee/6ee142951f48aaf94f4312409f8d133d.jpg"
+      },
+      {
+        "text": "1 28ounce can fire-roasted diced tomatoes (I like Hunt's)",
+        "quantity": 28,
+        "measure": "ounce",
+        "food": "diced tomatoes",
+        "weight": 793.7866475000001,
+        "foodCategory": "canned vegetables",
+        "foodId": "food_bnmkkwqa9h2p87bz171eoby0bsey",
+        "image": "https://www.edamam.com/food-img/d4e/d4e8110d51db4311bc894167a8f77816.jpg"
+      },
+      {
+        "text": "3-5 chiles de arbol, seeds removed",
+        "quantity": 4,
+        "measure": "<unit>",
+        "food": "chiles",
+        "weight": 180,
+        "foodCategory": "vegetables",
+        "foodId": "food_a6g98mqatzj7vca6ms3bnbzqxf3s",
+        "image": "https://www.edamam.com/food-img/469/469213672957a242638e20c27e3e8acd.jpeg"
+      },
+      {
+        "text": "1sprig epazote or cilantro",
+        "quantity": 1,
+        "measure": "sprig",
+        "food": "epazote",
+        "weight": 2,
+        "foodCategory": "vegetables",
+        "foodId": "food_byprvzka485mvyb7etqnqa8vhgg3",
+        "image": "https://www.edamam.com/food-img/353/3539d32f897d660bc7bee452c207c4a4.jpg"
+      },
+      {
+        "text": "12warm corn tortillas for serving",
+        "quantity": 1,
+        "measure": "serving",
+        "food": "corn tortillas",
+        "weight": 24,
+        "foodCategory": "quick breads and pastries",
+        "foodId": "food_bhw0b95agm97s0abfignnb8fsvb3",
+        "image": "https://www.edamam.com/food-img/b8a/b8ad23dcc06f2324f944e47eb579d644.jpg"
+      },
+      {
+        "text": "Pickled Red Onions for garnish",
+        "quantity": 0,
+        "measure": null,
+        "food": "Red Onions",
+        "weight": 0,
+        "foodCategory": "vegetables",
+        "foodId": "food_bmrvi4ob4binw9a5m7l07amlfcoy",
+        "image": "https://www.edamam.com/food-img/205/205e6bf2399b85d34741892ef91cc603.jpg"
+      }
+    ],
+    "uri": "http://www.edamam.com/ontologies/edamam.owl#recipe_e8b7521dfdae94857cc680341959aff3",
+    "image": "https://edamam-product-images.s3.amazonaws.com/web-img/b9a/b9a6040b2fd78faf0229d6126cb79fda.jpg?X-Amz-Security-Token=IQoJb3JpZ2luX2VjEGoaCXVzLWVhc3QtMSJHMEUCIFIil1jd5NHOSvMOKXmiga%2F7CRpL9SqT90pjzpQvMpS1AiEA9ABMxynDIYnPNFSoTb7ZMBckcrDLvv4e6dtYzK1N0iIqwgUIs%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FARAAGgwxODcwMTcxNTA5ODYiDJ0JUiSQioeZN09KpyqWBVe1sbdKBl4lqNSDGR5UVO8dIqqE5WJuXebdX3lZD4OaGW51LWKTCCXZuBKs2ISuKPh91m2%2BsZ6ktPbGE2AhkybcxwieCVK%2BK7l84Bj24ywSDZsP1yn%2FPQvPSOPdtnqKR68nmtPicbTTb2iN1fNYmLpy0S%2FnwrF8mkwdmHhvUaEbcAUyjMHohThRkgvTO7TCgSpOGWKVTQEFsLHvsgi4bWMGi1ZtCdznqWdnvOSGhPIQKiLCFUVTI1oRtogKh0lqCDL4eD4Xt5720oaytX%2FzK60NnLdU6s2vGCG9kL1rEzM1fp%2FYqaRoi9XQXp3hj79AyZsUJuPSW2wBsyauTTAprw9V0oSJ%2BkgyFsGc7Ge21I74u8u%2BUNk7NGsVmUYeMeKK6TI%2B0Rjmc6gRjNT%2FzDhfv7vJG7pMLWR%2FOUMWNa9yQUISZ8lh6vjj0kkFOzMlze5lBdHr%2FnWvNqWN3MkH70GXWEsIEh43bVc1guPIoprq%2Bu47idhxaAzP1HurGLQr7p64dzS9lpwPYzY6lcy%2FURRoDKTRQG4E%2FCEP5VCwURQtf7DgsBTBfS1SBxALeyc8mv8DNadhiSKCTJIn%2BIy5cJE6p56IH%2FPy%2BLDoFKWBjEyTq%2B485casZ1GZkBnH8U522cCwhIpNLcykX%2F4wNUr86O6r5UklISiFuq1Fd0yu9W3z6zJUJ4XVYRI9130kMvqmT%2FWXqW8YAlY3uDF32GhawMfgb7KSBBrnSCeHfWshej%2BfYfsb%2FLLReGZxgMPqGgbsfZYqxDpHj6ybFJVzSw6l8QriLDoi8oT9adjEPELXp0rV5YgcHAyQDtWXjZ99CXlSqj0bLUoeo8aQQjTT8V8rzygz0yXkostwb4FyfVN5cyxFoE1S0FloEdNSMKW24KoGOrEBFDB4UqY3hmGXzAo%2Bg1EAXCZSzy18Zg6aqXEnnaM9l2m9b6ZdoEhKpA3zaGpQeiK72d9loW2TJU%2FxVT11CkQoWJnc5vc%2BvEAEWhFcrNhGRjVyEL68aqO6lD%2FuH94JxctuAJ2UWf%2BJsGDngPUA01yn%2B8aRAjoZ6PyU1JWIWSrw9CbhMr8XDOwYorTcKjT1xK76ZXfjU6C%2FWO%2BB8Ahq6zvqxZM3%2F4GQPiRkwzYuKPC78a5%2B&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Date=20231118T030353Z&X-Amz-SignedHeaders=host&X-Amz-Expires=3600&X-Amz-Credential=ASIASXCYXIIFLO2MWB7Q%2F20231118%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Signature=f42769f3b49805d450fc8c44d3ac1ffdd9de7f8a6db94f94c48e81ee661eba67",
+    "source": "Rick Bayless",
+    "shareAs": "http://www.edamam.com/recipe/pork-lomitos-e8b7521dfdae94857cc680341959aff3/pork",
+    "yield": 5,
+    "dietLabels": [],
+    "healthLabels": [
+      "Dairy-Free",
+      "Gluten-Free",
+      "Wheat-Free",
+      "Egg-Free",
+      "Peanut-Free",
+      "Tree-Nut-Free",
+      "Soy-Free",
+      "Fish-Free",
+      "Shellfish-Free",
+      "Crustacean-Free",
+      "Celery-Free",
+      "Mustard-Free",
+      "Sesame-Free",
+      "Lupine-Free",
+      "Mollusk-Free",
+      "Alcohol-Free",
+      "Sulfite-Free"
+    ],
+    "cautions": [
+      "Eggs",
+      "Milk"
+    ],
+    "ingredientLines": [
+      "2pounds pork shoulder, cut into 1-inch pieces",
+      "Salt",
+      "2tablespoons pork lard or vegetable oil",
+      "1 medium white onion, sliced 1/2-inch thick",
+      "5garlic cloves, minced",
+      "1 28ounce can fire-roasted diced tomatoes (I like Hunt's)",
+      "3-5 chiles de arbol, seeds removed",
+      "1sprig epazote or cilantro",
+      "12warm corn tortillas for serving",
+      "Pickled Red Onions for garnish"
+    ],
+    "calories": 2706.79185,
+    "totalWeight": 2068.3556337282953,
+    "totalTime": 0,
+    "cuisineType": [
+      "mexican"
+    ],
+    "mealType": [
+      "lunch/dinner"
+    ],
+    "dishType": [
+      "main course"
+    ]
+  },
+  {
+    "label": "Double-Pork Carnitas",
+    "url": "https://www.epicurious.com/recipes/food/views/pork-carnitas-tacos",
+    "ingredients": [
+      {
+        "text": "3 pounds boneless pork shoulder (Boston butt), cut into 1 1/2-inch pieces",
+        "quantity": 3,
+        "measure": "pound",
+        "food": "pork shoulder",
+        "weight": 1360.77711,
+        "foodCategory": "meats",
+        "foodId": "food_a299wq8bece4vtb3ku5edb5gnjhc",
+        "image": "https://www.edamam.com/food-img/f7b/f7be68b0bf0b29937281c1cf8758e4e5.jpg"
+      },
+      {
+        "text": "1 pound pork belly, cut into 1-inch pieces",
+        "quantity": 1,
+        "measure": "pound",
+        "food": "pork belly",
+        "weight": 453.59237,
+        "foodCategory": "meats",
+        "foodId": "food_apsk2crak8lyaebtrwv35afch7y8",
+        "image": "https://www.edamam.com/food-img/fb4/fb445aa0a648d1cf83eca55a05c7ce77.jpg"
+      },
+      {
+        "text": "1 cup homemade chicken stock or low-sodium chicken broth",
+        "quantity": 1,
+        "measure": "cup",
+        "food": "chicken stock",
+        "weight": 240,
+        "foodCategory": "canned soup",
+        "foodId": "food_bptblvzambd16nbhewqmhaw1rnh5",
+        "image": "https://www.edamam.com/food-img/26a/26a10c4cb4e07bab54d8a687ef5ac7d8.jpg"
+      },
+      {
+        "text": "1 tablespoon (heaping) kosher salt",
+        "quantity": 1,
+        "measure": "tablespoon",
+        "food": "kosher salt",
+        "weight": 14.562499999753793,
+        "foodCategory": "Condiments and sauces",
+        "foodId": "food_a1vgrj1bs8rd1majvmd9ubz8ttkg",
+        "image": "https://www.edamam.com/food-img/694/6943ea510918c6025795e8dc6e6eaaeb.jpg"
+      },
+      {
+        "text": "1 teaspoon freshly ground black pepper",
+        "quantity": 1,
+        "measure": "teaspoon",
+        "food": "black pepper",
+        "weight": 2.3,
+        "foodCategory": "Condiments and sauces",
+        "foodId": "food_b6ywzluaaxv02wad7s1r9ag4py89",
+        "image": "https://www.edamam.com/food-img/c6e/c6e5c3bd8d3bc15175d9766971a4d1b2.jpg"
+      },
+      {
+        "text": "Warm corn tortillas, chopped white onion, lime wedges, sliced avocado, dried oregano, chopped cilantro, and shredded cabbage (for serving)",
+        "quantity": 0,
+        "measure": null,
+        "food": "corn tortillas",
+        "weight": 0,
+        "foodCategory": "quick breads and pastries",
+        "foodId": "food_bhw0b95agm97s0abfignnb8fsvb3",
+        "image": "https://www.edamam.com/food-img/b8a/b8ad23dcc06f2324f944e47eb579d644.jpg"
+      },
+      {
+        "text": "Warm corn tortillas, chopped white onion, lime wedges, sliced avocado, dried oregano, chopped cilantro, and shredded cabbage (for serving)",
+        "quantity": 0,
+        "measure": null,
+        "food": "white onion",
+        "weight": 0,
+        "foodCategory": "vegetables",
+        "foodId": "food_bmrvi4ob4binw9a5m7l07amlfcoy",
+        "image": "https://www.edamam.com/food-img/205/205e6bf2399b85d34741892ef91cc603.jpg"
+      },
+      {
+        "text": "Warm corn tortillas, chopped white onion, lime wedges, sliced avocado, dried oregano, chopped cilantro, and shredded cabbage (for serving)",
+        "quantity": 0,
+        "measure": null,
+        "food": "lime",
+        "weight": 0,
+        "foodCategory": "fruit",
+        "foodId": "food_av58muyb8kg92fbk0g8g8aui5knv",
+        "image": "https://www.edamam.com/food-img/48a/48a123c9576647c4ada6a41df5eeb22a.jpg"
+      },
+      {
+        "text": "Warm corn tortillas, chopped white onion, lime wedges, sliced avocado, dried oregano, chopped cilantro, and shredded cabbage (for serving)",
+        "quantity": 0,
+        "measure": null,
+        "food": "avocado",
+        "weight": 0,
+        "foodCategory": "fruit",
+        "foodId": "food_b0yuze4b1g3afpanijno5abtiu28",
+        "image": "https://www.edamam.com/food-img/984/984a707ea8e9c6bf5f6498970a9e6d9d.jpg"
+      },
+      {
+        "text": "Warm corn tortillas, chopped white onion, lime wedges, sliced avocado, dried oregano, chopped cilantro, and shredded cabbage (for serving)",
+        "quantity": 0,
+        "measure": null,
+        "food": "dried oregano",
+        "weight": 0,
+        "foodCategory": "Condiments and sauces",
+        "foodId": "food_bkkw6v3bdf0sqiazmzyuiax7i8jr",
+        "image": "https://www.edamam.com/food-img/1b0/1b0eaffb1c261606e0d82fed8e9747a7.jpg"
+      },
+      {
+        "text": "Warm corn tortillas, chopped white onion, lime wedges, sliced avocado, dried oregano, chopped cilantro, and shredded cabbage (for serving)",
+        "quantity": 0,
+        "measure": null,
+        "food": "cilantro",
+        "weight": 0,
+        "foodCategory": "vegetables",
+        "foodId": "food_alhzhuwb4lc7jnb5s6f02by60bzp",
+        "image": "https://www.edamam.com/food-img/d57/d57e375b6ff99a90c7ee2b1990a1af36.jpg"
+      },
+      {
+        "text": "Warm corn tortillas, chopped white onion, lime wedges, sliced avocado, dried oregano, chopped cilantro, and shredded cabbage (for serving)",
+        "quantity": 0,
+        "measure": null,
+        "food": "cabbage",
+        "weight": 0,
+        "foodCategory": "vegetables",
+        "foodId": "food_afb4o8kb767k0iapchxupaifxk1z",
+        "image": "https://www.edamam.com/food-img/cb1/cb1411c925c19de26620e63cb90d0e14.jpg"
+      }
+    ],
+    "uri": "http://www.edamam.com/ontologies/edamam.owl#recipe_537aa1763eeccc06934ad6cb352a9061",
+    "image": "https://edamam-product-images.s3.amazonaws.com/web-img/402/402c9eaeaa486495af64e4b9e0912ede.jpg?X-Amz-Security-Token=IQoJb3JpZ2luX2VjEGoaCXVzLWVhc3QtMSJHMEUCIFIil1jd5NHOSvMOKXmiga%2F7CRpL9SqT90pjzpQvMpS1AiEA9ABMxynDIYnPNFSoTb7ZMBckcrDLvv4e6dtYzK1N0iIqwgUIs%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FARAAGgwxODcwMTcxNTA5ODYiDJ0JUiSQioeZN09KpyqWBVe1sbdKBl4lqNSDGR5UVO8dIqqE5WJuXebdX3lZD4OaGW51LWKTCCXZuBKs2ISuKPh91m2%2BsZ6ktPbGE2AhkybcxwieCVK%2BK7l84Bj24ywSDZsP1yn%2FPQvPSOPdtnqKR68nmtPicbTTb2iN1fNYmLpy0S%2FnwrF8mkwdmHhvUaEbcAUyjMHohThRkgvTO7TCgSpOGWKVTQEFsLHvsgi4bWMGi1ZtCdznqWdnvOSGhPIQKiLCFUVTI1oRtogKh0lqCDL4eD4Xt5720oaytX%2FzK60NnLdU6s2vGCG9kL1rEzM1fp%2FYqaRoi9XQXp3hj79AyZsUJuPSW2wBsyauTTAprw9V0oSJ%2BkgyFsGc7Ge21I74u8u%2BUNk7NGsVmUYeMeKK6TI%2B0Rjmc6gRjNT%2FzDhfv7vJG7pMLWR%2FOUMWNa9yQUISZ8lh6vjj0kkFOzMlze5lBdHr%2FnWvNqWN3MkH70GXWEsIEh43bVc1guPIoprq%2Bu47idhxaAzP1HurGLQr7p64dzS9lpwPYzY6lcy%2FURRoDKTRQG4E%2FCEP5VCwURQtf7DgsBTBfS1SBxALeyc8mv8DNadhiSKCTJIn%2BIy5cJE6p56IH%2FPy%2BLDoFKWBjEyTq%2B485casZ1GZkBnH8U522cCwhIpNLcykX%2F4wNUr86O6r5UklISiFuq1Fd0yu9W3z6zJUJ4XVYRI9130kMvqmT%2FWXqW8YAlY3uDF32GhawMfgb7KSBBrnSCeHfWshej%2BfYfsb%2FLLReGZxgMPqGgbsfZYqxDpHj6ybFJVzSw6l8QriLDoi8oT9adjEPELXp0rV5YgcHAyQDtWXjZ99CXlSqj0bLUoeo8aQQjTT8V8rzygz0yXkostwb4FyfVN5cyxFoE1S0FloEdNSMKW24KoGOrEBFDB4UqY3hmGXzAo%2Bg1EAXCZSzy18Zg6aqXEnnaM9l2m9b6ZdoEhKpA3zaGpQeiK72d9loW2TJU%2FxVT11CkQoWJnc5vc%2BvEAEWhFcrNhGRjVyEL68aqO6lD%2FuH94JxctuAJ2UWf%2BJsGDngPUA01yn%2B8aRAjoZ6PyU1JWIWSrw9CbhMr8XDOwYorTcKjT1xK76ZXfjU6C%2FWO%2BB8Ahq6zvqxZM3%2F4GQPiRkwzYuKPC78a5%2B&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Date=20231118T030353Z&X-Amz-SignedHeaders=host&X-Amz-Expires=3600&X-Amz-Credential=ASIASXCYXIIFLO2MWB7Q%2F20231118%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Signature=5c5103232913d1f9a017e79b35adf49ebfa110dc34afb4bfb2ff2fc768ae3466",
+    "source": "Epicurious",
+    "shareAs": "http://www.edamam.com/recipe/double-pork-carnitas-537aa1763eeccc06934ad6cb352a9061/pork",
+    "yield": 8,
+    "dietLabels": [],
+    "healthLabels": [
+      "Dairy-Free",
+      "Gluten-Free",
+      "Wheat-Free",
+      "Egg-Free",
+      "Peanut-Free",
+      "Tree-Nut-Free",
+      "Soy-Free",
+      "Fish-Free",
+      "Shellfish-Free",
+      "Crustacean-Free",
+      "Celery-Free",
+      "Mustard-Free",
+      "Sesame-Free",
+      "Lupine-Free",
+      "Mollusk-Free",
+      "Alcohol-Free",
+      "Sulfite-Free"
+    ],
+    "cautions": [
+      "Eggs",
+      "Milk",
+      "Sulfites"
+    ],
+    "ingredientLines": [
+      "3 pounds boneless pork shoulder (Boston butt), cut into 1 1/2-inch pieces",
+      "1 pound pork belly, cut into 1-inch pieces",
+      "1 cup homemade chicken stock or low-sodium chicken broth",
+      "1 tablespoon (heaping) kosher salt",
+      "1 teaspoon freshly ground black pepper",
+      "Warm corn tortillas, chopped white onion, lime wedges, sliced avocado, dried oregano, chopped cilantro, and shredded cabbage (for serving)"
+    ],
+    "calories": 5653.2154562000005,
+    "totalWeight": 2065.456668305285,
+    "totalTime": 0,
+    "cuisineType": [
+      "mexican"
+    ],
+    "mealType": [
+      "lunch/dinner"
+    ],
+    "dishType": [
+      "main course"
+    ]
+  },
+  {
+    "label": "Spicy Dr. Pepper Shredded Pork",
+    "url": "http://thepioneerwoman.com/cooking/2011/03/spicy-dr-pepper-shredded-pork/",
+    "ingredients": [
+      {
+        "text": "1 whole Large Onion",
+        "quantity": 1,
+        "measure": "<unit>",
+        "food": "Onion",
+        "weight": 156.25,
+        "foodCategory": "vegetables",
+        "foodId": "food_bmrvi4ob4binw9a5m7l07amlfcoy",
+        "image": "https://www.edamam.com/food-img/205/205e6bf2399b85d34741892ef91cc603.jpg"
+      },
+      {
+        "text": "1 whole Pork Shoulder (\"pork Butt\") - 5 To 7 Pounds",
+        "quantity": 1,
+        "measure": "<unit>",
+        "food": "Pork Shoulder",
+        "weight": 3000,
+        "foodCategory": "meats",
+        "foodId": "food_a299wq8bece4vtb3ku5edb5gnjhc",
+        "image": "https://www.edamam.com/food-img/f7b/f7be68b0bf0b29937281c1cf8758e4e5.jpg"
+      },
+      {
+        "text": "Salt And Freshly Ground Black Pepper",
+        "quantity": 0,
+        "measure": null,
+        "food": "Salt",
+        "weight": 19.21651963874838,
+        "foodCategory": "Condiments and sauces",
+        "foodId": "food_btxz81db72hwbra2pncvebzzzum9",
+        "image": "https://www.edamam.com/food-img/694/6943ea510918c6025795e8dc6e6eaaeb.jpg"
+      },
+      {
+        "text": "Salt And Freshly Ground Black Pepper",
+        "quantity": 0,
+        "measure": null,
+        "food": "Black Pepper",
+        "weight": 9.60825981937419,
+        "foodCategory": "Condiments and sauces",
+        "foodId": "food_b6ywzluaaxv02wad7s1r9ag4py89",
+        "image": "https://www.edamam.com/food-img/c6e/c6e5c3bd8d3bc15175d9766971a4d1b2.jpg"
+      },
+      {
+        "text": "1 can 11 Ounce Chipotle Peppers In Adobo Sauce",
+        "quantity": 1,
+        "measure": "ounce",
+        "food": "Chipotle Peppers In Adobo",
+        "weight": 28.349523125,
+        "foodCategory": "canned vegetables",
+        "foodId": "food_bumzpysb5k05cibmscqp2a0fwgpa",
+        "image": "https://www.edamam.com/food-img/c34/c343c40fbfe50bd72bbb3890c83a4315.jpeg"
+      },
+      {
+        "text": "2 cans Dr Pepper",
+        "quantity": 1,
+        "measure": "drop",
+        "food": "Pepper",
+        "weight": 0.028750000036941822,
+        "foodCategory": "Condiments and sauces",
+        "foodId": "food_b6ywzluaaxv02wad7s1r9ag4py89",
+        "image": "https://www.edamam.com/food-img/c6e/c6e5c3bd8d3bc15175d9766971a4d1b2.jpg"
+      },
+      {
+        "text": "2 tbsp Brown Sugar",
+        "quantity": 2,
+        "measure": "tablespoon",
+        "food": "Brown Sugar",
+        "weight": 18.12499999969356,
+        "foodCategory": "sugars",
+        "foodId": "food_aodgtqwbmeu5f6bxeffn0art3bga",
+        "image": "https://www.edamam.com/food-img/8c6/8c6662bd73900645c6385b51a95d9b03.jpg"
+      }
+    ],
+    "uri": "http://www.edamam.com/ontologies/edamam.owl#recipe_f42de7d1235468b3a791ce3d76900135",
+    "image": "https://edamam-product-images.s3.amazonaws.com/web-img/4ee/4ee74585f47e1c91ef248d253c7bdd00.jpg?X-Amz-Security-Token=IQoJb3JpZ2luX2VjEGoaCXVzLWVhc3QtMSJHMEUCIFIil1jd5NHOSvMOKXmiga%2F7CRpL9SqT90pjzpQvMpS1AiEA9ABMxynDIYnPNFSoTb7ZMBckcrDLvv4e6dtYzK1N0iIqwgUIs%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FARAAGgwxODcwMTcxNTA5ODYiDJ0JUiSQioeZN09KpyqWBVe1sbdKBl4lqNSDGR5UVO8dIqqE5WJuXebdX3lZD4OaGW51LWKTCCXZuBKs2ISuKPh91m2%2BsZ6ktPbGE2AhkybcxwieCVK%2BK7l84Bj24ywSDZsP1yn%2FPQvPSOPdtnqKR68nmtPicbTTb2iN1fNYmLpy0S%2FnwrF8mkwdmHhvUaEbcAUyjMHohThRkgvTO7TCgSpOGWKVTQEFsLHvsgi4bWMGi1ZtCdznqWdnvOSGhPIQKiLCFUVTI1oRtogKh0lqCDL4eD4Xt5720oaytX%2FzK60NnLdU6s2vGCG9kL1rEzM1fp%2FYqaRoi9XQXp3hj79AyZsUJuPSW2wBsyauTTAprw9V0oSJ%2BkgyFsGc7Ge21I74u8u%2BUNk7NGsVmUYeMeKK6TI%2B0Rjmc6gRjNT%2FzDhfv7vJG7pMLWR%2FOUMWNa9yQUISZ8lh6vjj0kkFOzMlze5lBdHr%2FnWvNqWN3MkH70GXWEsIEh43bVc1guPIoprq%2Bu47idhxaAzP1HurGLQr7p64dzS9lpwPYzY6lcy%2FURRoDKTRQG4E%2FCEP5VCwURQtf7DgsBTBfS1SBxALeyc8mv8DNadhiSKCTJIn%2BIy5cJE6p56IH%2FPy%2BLDoFKWBjEyTq%2B485casZ1GZkBnH8U522cCwhIpNLcykX%2F4wNUr86O6r5UklISiFuq1Fd0yu9W3z6zJUJ4XVYRI9130kMvqmT%2FWXqW8YAlY3uDF32GhawMfgb7KSBBrnSCeHfWshej%2BfYfsb%2FLLReGZxgMPqGgbsfZYqxDpHj6ybFJVzSw6l8QriLDoi8oT9adjEPELXp0rV5YgcHAyQDtWXjZ99CXlSqj0bLUoeo8aQQjTT8V8rzygz0yXkostwb4FyfVN5cyxFoE1S0FloEdNSMKW24KoGOrEBFDB4UqY3hmGXzAo%2Bg1EAXCZSzy18Zg6aqXEnnaM9l2m9b6ZdoEhKpA3zaGpQeiK72d9loW2TJU%2FxVT11CkQoWJnc5vc%2BvEAEWhFcrNhGRjVyEL68aqO6lD%2FuH94JxctuAJ2UWf%2BJsGDngPUA01yn%2B8aRAjoZ6PyU1JWIWSrw9CbhMr8XDOwYorTcKjT1xK76ZXfjU6C%2FWO%2BB8Ahq6zvqxZM3%2F4GQPiRkwzYuKPC78a5%2B&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Date=20231118T030353Z&X-Amz-SignedHeaders=host&X-Amz-Expires=3600&X-Amz-Credential=ASIASXCYXIIFLO2MWB7Q%2F20231118%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Signature=80fa5797604ea3e469fe83de539033a536c95da4e79fbf3a029716db3c2c5dbc",
+    "source": "Pioneer Woman",
+    "shareAs": "http://www.edamam.com/recipe/spicy-dr-pepper-shredded-pork-f42de7d1235468b3a791ce3d76900135/pork",
+    "yield": 18,
+    "dietLabels": [
+      "Low-Carb"
+    ],
+    "healthLabels": [
+      "Sugar-Conscious",
+      "Keto-Friendly",
+      "Dairy-Free",
+      "Gluten-Free",
+      "Wheat-Free",
+      "Egg-Free",
+      "Peanut-Free",
+      "Tree-Nut-Free",
+      "Soy-Free",
+      "Fish-Free",
+      "Shellfish-Free",
+      "Crustacean-Free",
+      "Celery-Free",
+      "Mustard-Free",
+      "Sesame-Free",
+      "Lupine-Free",
+      "Mollusk-Free",
+      "Alcohol-Free",
+      "No oil added"
+    ],
+    "cautions": [],
+    "ingredientLines": [
+      "1 whole Large Onion",
+      "1 whole Pork Shoulder (\"pork Butt\") - 5 To 7 Pounds",
+      "Salt And Freshly Ground Black Pepper",
+      "1 can 11 Ounce Chipotle Peppers In Adobo Sauce",
+      "2 cans Dr Pepper",
+      "2 tbsp Brown Sugar"
+    ],
+    "calories": 7241.517294501808,
+    "totalWeight": 3225.700039838704,
+    "totalTime": 0,
+    "cuisineType": [
+      "american"
+    ],
+    "mealType": [
+      "lunch/dinner"
+    ],
+    "dishType": [
+      "condiments and sauces"
+    ]
+  }
+]

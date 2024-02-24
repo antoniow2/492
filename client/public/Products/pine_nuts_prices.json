@@ -1,0 +1,88 @@
+{
+  "data": [
+    {
+      "productId": "0004256300739",
+      "brand": "Woodstock",
+      "upc": "0004256300739",
+      "price": [
+        null
+      ]
+    },
+    {
+      "productId": "0001111010685",
+      "brand": "Kroger",
+      "upc": "0001111010685",
+      "price": [
+        {
+          "regular": 8.49,
+          "promo": 0
+        }
+      ]
+    },
+    {
+      "productId": "0074956931287",
+      "brand": "Woodstock",
+      "upc": "0074956931287",
+      "price": [
+        null
+      ]
+    },
+    {
+      "productId": "0078735917937",
+      "brand": "Fresh Gourmet",
+      "upc": "0078735917937",
+      "price": [
+        {
+          "regular": 6.39,
+          "promo": 0
+        }
+      ]
+    },
+    {
+      "productId": "0371193413226",
+      "brand": "Food to Live",
+      "upc": "0371193413226",
+      "price": [
+        null
+      ]
+    },
+    {
+      "productId": "0074956931289",
+      "brand": "Woodstock",
+      "upc": "0074956931289",
+      "price": [
+        null
+      ]
+    },
+    {
+      "productId": "0004759328275",
+      "brand": "Shiloh Farms",
+      "upc": "0004759328275",
+      "price": [
+        null
+      ]
+    },
+    {
+      "productId": "0371193413225",
+      "brand": "Food to Live",
+      "upc": "0371193413225",
+      "price": [
+        null
+      ]
+    },
+    {
+      "productId": "0371193412298",
+      "upc": "0371193412298",
+      "price": [
+        null
+      ]
+    },
+    {
+      "productId": "0371193412297",
+      "upc": "0371193412297",
+      "price": [
+        null
+      ]
+    }
+  ]
+}

@@ -1,0 +1,87 @@
+{
+  "data": [
+    {
+      "productId": "0087166100120",
+      "brand": "Ravenscroft Crystal",
+      "upc": "0087166100120",
+      "price": [
+        null
+      ]
+    },
+    {
+      "productId": "0008500000920",
+      "brand": "E&J",
+      "upc": "0008500000920",
+      "price": [
+        {
+          "regular": 6.99,
+          "promo": 0
+        }
+      ]
+    },
+    {
+      "productId": "0019488403835",
+      "brand": "GDFStudio",
+      "upc": "0019488403835",
+      "price": [
+        null
+      ]
+    },
+    {
+      "productId": "0086000600032",
+      "brand": "Frik & Frak",
+      "upc": "0086000600032",
+      "price": [
+        null
+      ]
+    },
+    {
+      "productId": "0065724825517",
+      "brand": "CoolCookware",
+      "upc": "0065724825517",
+      "price": [
+        null
+      ]
+    },
+    {
+      "productId": "0019488403816",
+      "brand": "GDFStudio",
+      "upc": "0019488403816",
+      "price": [
+        null
+      ]
+    },
+    {
+      "productId": "0074792539321",
+      "brand": "Ravenscroft Crystal",
+      "upc": "0074792539321",
+      "price": [
+        null
+      ]
+    },
+    {
+      "productId": "0019488403828",
+      "brand": "GDFStudio",
+      "upc": "0019488403828",
+      "price": [
+        null
+      ]
+    },
+    {
+      "productId": "0004475970696",
+      "brand": "Preferred Nation",
+      "upc": "0004475970696",
+      "price": [
+        null
+      ]
+    },
+    {
+      "productId": "0024850049590",
+      "brand": "Aronia Essentials",
+      "upc": "0024850049590",
+      "price": [
+        null
+      ]
+    }
+  ]
+}

@@ -1,0 +1,104 @@
+{
+  "data": [
+    {
+      "productId": "0007321400129",
+      "brand": "Mezzetta",
+      "upc": "0007321400129",
+      "price": [
+        {
+          "regular": 3.49,
+          "promo": 0
+        }
+      ]
+    },
+    {
+      "productId": "3007715381004",
+      "brand": "Rio Luna",
+      "upc": "3007715381004",
+      "price": [
+        null
+      ]
+    },
+    {
+      "productId": "0000930000016",
+      "brand": "Mt. Olive",
+      "upc": "0000930000016",
+      "price": [
+        {
+          "regular": 2.39,
+          "promo": 0
+        }
+      ]
+    },
+    {
+      "productId": "0001111012784",
+      "brand": "Private Selection",
+      "upc": "0001111012784",
+      "price": [
+        {
+          "regular": 2.49,
+          "promo": 0
+        }
+      ]
+    },
+    {
+      "productId": "0000000004693",
+      "upc": "0000000004693",
+      "price": [
+        {
+          "regular": 1.79,
+          "promo": 0
+        }
+      ]
+    },
+    {
+      "productId": "0007639700128",
+      "brand": "La Costena",
+      "upc": "0007639700128",
+      "price": [
+        {
+          "regular": 1.59,
+          "promo": 0
+        }
+      ]
+    },
+    {
+      "productId": "0007639700107",
+      "brand": "La Costena",
+      "upc": "0007639700107",
+      "price": [
+        {
+          "regular": 1.19,
+          "promo": 0
+        }
+      ]
+    },
+    {
+      "productId": "0002818900007",
+      "brand": "Hatch",
+      "upc": "0002818900007",
+      "price": [
+        null
+      ]
+    },
+    {
+      "productId": "0007639700112",
+      "brand": "La Costena",
+      "upc": "0007639700112",
+      "price": [
+        {
+          "regular": 1.69,
+          "promo": 0
+        }
+      ]
+    },
+    {
+      "productId": "0007538604975",
+      "brand": "Embasa",
+      "upc": "0007538604975",
+      "price": [
+        null
+      ]
+    }
+  ]
+}

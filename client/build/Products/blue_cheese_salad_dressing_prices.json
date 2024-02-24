@@ -1,0 +1,102 @@
+{
+  "data": [
+    {
+      "productId": "0072365108631",
+      "brand": "Kraft",
+      "upc": "0072365108631",
+      "price": [
+        null
+      ]
+    },
+    {
+      "productId": "0002100004268",
+      "brand": "Kraft",
+      "upc": "0002100004268",
+      "price": [
+        {
+          "regular": 3.49,
+          "promo": 0
+        }
+      ]
+    },
+    {
+      "productId": "0001111012104",
+      "brand": "Private Selection",
+      "upc": "0001111012104",
+      "price": [
+        {
+          "regular": 3.49,
+          "promo": 3.19
+        }
+      ]
+    },
+    {
+      "productId": "0004133533291",
+      "brand": "Ken's Steak House",
+      "upc": "0004133533291",
+      "price": [
+        {
+          "regular": 5.49,
+          "promo": 0
+        }
+      ]
+    },
+    {
+      "productId": "0072365108636",
+      "brand": "Kraft",
+      "upc": "0072365108636",
+      "price": [
+        null
+      ]
+    },
+    {
+      "productId": "0004133500125",
+      "brand": "Ken's Steak House",
+      "upc": "0004133500125",
+      "price": [
+        {
+          "regular": 3.99,
+          "promo": 0
+        }
+      ]
+    },
+    {
+      "productId": "1087145900902",
+      "brand": "Daiya",
+      "upc": "1087145900902",
+      "price": [
+        null
+      ]
+    },
+    {
+      "productId": "0004133500169",
+      "brand": "Ken's Steak House",
+      "upc": "0004133500169",
+      "price": [
+        {
+          "regular": 3.99,
+          "promo": 0
+        }
+      ]
+    },
+    {
+      "productId": "0085002178286",
+      "brand": "Tribeca Curations",
+      "upc": "0085002178286",
+      "price": [
+        null
+      ]
+    },
+    {
+      "productId": "0001111003634",
+      "brand": "Kroger",
+      "upc": "0001111003634",
+      "price": [
+        {
+          "regular": 2.39,
+          "promo": 0
+        }
+      ]
+    }
+  ]
+}

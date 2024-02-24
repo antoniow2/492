@@ -1,0 +1,105 @@
+{
+  "data": [
+    {
+      "productId": "0008983618420",
+      "brand": "Frontier Natural Products Co-op",
+      "upc": "0008983618420",
+      "price": [
+        null
+      ]
+    },
+    {
+      "productId": "0001111071366",
+      "brand": "Private Selection",
+      "upc": "0001111071366",
+      "price": [
+        {
+          "regular": 4.29,
+          "promo": 0
+        }
+      ]
+    },
+    {
+      "productId": "0007766133630",
+      "brand": "Litehouse",
+      "upc": "0007766133630",
+      "price": [
+        {
+          "regular": 6.99,
+          "promo": 6.49
+        }
+      ]
+    },
+    {
+      "productId": "0001111001816",
+      "brand": "Simple Truth Organic",
+      "upc": "0001111001816",
+      "price": [
+        {
+          "regular": 2.49,
+          "promo": 0
+        }
+      ]
+    },
+    {
+      "productId": "0001111062303",
+      "brand": "Kroger",
+      "upc": "0001111062303",
+      "price": [
+        {
+          "regular": 4.99,
+          "promo": 4.99
+        }
+      ]
+    },
+    {
+      "productId": "0001732400236",
+      "brand": "Spice Islands",
+      "upc": "0001732400236",
+      "price": [
+        {
+          "regular": 9.49,
+          "promo": 9.49
+        }
+      ]
+    },
+    {
+      "productId": "0008983618604",
+      "brand": "Simply Organic",
+      "upc": "0008983618604",
+      "price": [
+        null
+      ]
+    },
+    {
+      "productId": "0001111011939",
+      "brand": "Private Selection",
+      "upc": "0001111011939",
+      "price": [
+        {
+          "regular": 9.99,
+          "promo": 0
+        }
+      ]
+    },
+    {
+      "productId": "0008983602699",
+      "brand": "Frontier Natural Products Co-op",
+      "upc": "0008983602699",
+      "price": [
+        null
+      ]
+    },
+    {
+      "productId": "0008983600362",
+      "brand": "Frontier Natural Products Co-op",
+      "upc": "0008983600362",
+      "price": [
+        {
+          "regular": 36.99,
+          "promo": 0
+        }
+      ]
+    }
+  ]
+}

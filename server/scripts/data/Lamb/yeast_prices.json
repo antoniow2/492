@@ -1,0 +1,108 @@
+{
+  "data": [
+    {
+      "productId": "0001111085502",
+      "brand": "Kroger",
+      "upc": "0001111085502",
+      "price": [
+        {
+          "regular": 1.39,
+          "promo": 0
+        }
+      ]
+    },
+    {
+      "productId": "0004010000781",
+      "brand": "Fleischmann's",
+      "upc": "0004010000781",
+      "price": [
+        {
+          "regular": 2.59,
+          "promo": 2.09
+        }
+      ]
+    },
+    {
+      "productId": "0004010000929",
+      "brand": "Fleischmann's",
+      "upc": "0004010000929",
+      "price": [
+        {
+          "regular": 2.59,
+          "promo": 2.09
+        }
+      ]
+    },
+    {
+      "productId": "0004010000928",
+      "brand": "Fleischmann's",
+      "upc": "0004010000928",
+      "price": [
+        {
+          "regular": 2.59,
+          "promo": 2.09
+        }
+      ]
+    },
+    {
+      "productId": "0004010000721",
+      "brand": "Fleischmann's",
+      "upc": "0004010000721",
+      "price": [
+        {
+          "regular": 7.99,
+          "promo": 6.99
+        }
+      ]
+    },
+    {
+      "productId": "0089155100047",
+      "brand": "Foods Alive",
+      "upc": "0089155100047",
+      "price": [
+        null
+      ]
+    },
+    {
+      "productId": "0004010001787",
+      "brand": "Fleischmann's",
+      "upc": "0004010001787",
+      "price": [
+        {
+          "regular": 7.99,
+          "promo": 6.99
+        }
+      ]
+    },
+    {
+      "productId": "0008983602326",
+      "brand": "Frontier Natural Products Co-op",
+      "upc": "0008983602326",
+      "price": [
+        null
+      ]
+    },
+    {
+      "productId": "0001111009081",
+      "brand": "Simple Truth",
+      "upc": "0001111009081",
+      "price": [
+        {
+          "regular": 5.99,
+          "promo": 0
+        }
+      ]
+    },
+    {
+      "productId": "0007430506605",
+      "brand": "Bragg",
+      "upc": "0007430506605",
+      "price": [
+        {
+          "regular": 7.99,
+          "promo": 0
+        }
+      ]
+    }
+  ]
+}

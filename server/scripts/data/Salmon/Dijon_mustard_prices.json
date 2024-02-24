@@ -1,0 +1,108 @@
+{
+  "data": [
+    {
+      "productId": "0001111088739",
+      "brand": "Simple Truth Organic",
+      "upc": "0001111088739",
+      "price": [
+        {
+          "regular": 2.49,
+          "promo": 0
+        }
+      ]
+    },
+    {
+      "productId": "0005440000024",
+      "brand": "Grey Poupon",
+      "upc": "0005440000024",
+      "price": [
+        {
+          "regular": 4.29,
+          "promo": 3.49
+        }
+      ]
+    },
+    {
+      "productId": "0004150099292",
+      "brand": "French's",
+      "upc": "0004150099292",
+      "price": [
+        {
+          "regular": 3.49,
+          "promo": 0
+        }
+      ]
+    },
+    {
+      "productId": "0089685900064",
+      "brand": "Organicville",
+      "upc": "0089685900064",
+      "price": [
+        null
+      ]
+    },
+    {
+      "productId": "0005440001503",
+      "brand": "Grey Poupon",
+      "upc": "0005440001503",
+      "price": [
+        {
+          "regular": 4.29,
+          "promo": 3.49
+        }
+      ]
+    },
+    {
+      "productId": "0004256300769",
+      "brand": "Woodstock",
+      "upc": "0004256300769",
+      "price": [
+        null
+      ]
+    },
+    {
+      "productId": "0001111078353",
+      "brand": "Private Selection",
+      "upc": "0001111078353",
+      "price": [
+        {
+          "regular": 2.69,
+          "promo": 0
+        }
+      ]
+    },
+    {
+      "productId": "0001111081088",
+      "brand": "Kroger",
+      "upc": "0001111081088",
+      "price": [
+        {
+          "regular": 1.69,
+          "promo": 0
+        }
+      ]
+    },
+    {
+      "productId": "0005440000040",
+      "brand": "Grey Poupon",
+      "upc": "0005440000040",
+      "price": [
+        {
+          "regular": 4.29,
+          "promo": 3.49
+        }
+      ]
+    },
+    {
+      "productId": "0004364620128",
+      "brand": "Maille",
+      "upc": "0004364620128",
+      "price": [
+        {
+          "regular": 5.49,
+          "promo": 0
+        }
+      ]
+    }
+  ]
+}

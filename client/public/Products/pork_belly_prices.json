@@ -1,0 +1,59 @@
+{
+  "data": [
+    {
+      "productId": "0004470006662",
+      "brand": "Oscar Mayer",
+      "upc": "0004470006662",
+      "price": [
+        {
+          "regular": 7.49,
+          "promo": 4
+        }
+      ]
+    },
+    {
+      "productId": "0003760016095",
+      "brand": "Hormel",
+      "upc": "0003760016095",
+      "price": [
+        {
+          "regular": 5.49,
+          "promo": 0
+        }
+      ]
+    },
+    {
+      "productId": "0001111097210",
+      "brand": "Kroger",
+      "upc": "0001111097210",
+      "price": [
+        {
+          "regular": 8.99,
+          "promo": 0
+        }
+      ]
+    },
+    {
+      "productId": "0004470001990",
+      "brand": "Oscar Mayer",
+      "upc": "0004470001990",
+      "price": [
+        {
+          "regular": 8.49,
+          "promo": 0
+        }
+      ]
+    },
+    {
+      "productId": "0004531047260",
+      "brand": "AdapTable Meals",
+      "upc": "0004531047260",
+      "price": [
+        {
+          "regular": 8.99,
+          "promo": 0
+        }
+      ]
+    }
+  ]
+}

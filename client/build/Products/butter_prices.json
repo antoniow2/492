@@ -1,0 +1,114 @@
+{
+  "data": [
+    {
+      "productId": "0076770700106",
+      "brand": "Kerrygold",
+      "upc": "0076770700106",
+      "price": [
+        {
+          "regular": 5.49,
+          "promo": 3.5
+        }
+      ]
+    },
+    {
+      "productId": "0003450015181",
+      "brand": "Land O' Lakes",
+      "upc": "0003450015181",
+      "price": [
+        {
+          "regular": 6.79,
+          "promo": 0
+        }
+      ]
+    },
+    {
+      "productId": "0004720015264",
+      "brand": "Challenge",
+      "upc": "0004720015264",
+      "price": [
+        {
+          "regular": 5.79,
+          "promo": 3.99
+        }
+      ]
+    },
+    {
+      "productId": "0076770700214",
+      "brand": "Kerrygold",
+      "upc": "0076770700214",
+      "price": [
+        {
+          "regular": 5.49,
+          "promo": 3.5
+        }
+      ]
+    },
+    {
+      "productId": "0001111089305",
+      "brand": "Kroger",
+      "upc": "0001111089305",
+      "price": [
+        {
+          "regular": 4.29,
+          "promo": 0
+        }
+      ]
+    },
+    {
+      "productId": "0003450015136",
+      "brand": "Land O' Lakes",
+      "upc": "0003450015136",
+      "price": [
+        {
+          "regular": 6.79,
+          "promo": 0
+        }
+      ]
+    },
+    {
+      "productId": "0001111010081",
+      "brand": "Kroger",
+      "upc": "0001111010081",
+      "price": [
+        {
+          "regular": 6.99,
+          "promo": 0
+        }
+      ]
+    },
+    {
+      "productId": "0086174500007",
+      "brand": "Vital Farms",
+      "upc": "0086174500007",
+      "price": [
+        {
+          "regular": 4.99,
+          "promo": 0
+        }
+      ]
+    },
+    {
+      "productId": "0001111089301",
+      "brand": "Kroger",
+      "upc": "0001111089301",
+      "price": [
+        {
+          "regular": 4.29,
+          "promo": 0
+        }
+      ]
+    },
+    {
+      "productId": "0001111010080",
+      "brand": "Kroger",
+      "upc": "0001111010080",
+      "price": [
+        {
+          "regular": 6.99,
+          "promo": 0
+        }
+      ]
+    }
+  ]
+}

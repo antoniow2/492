@@ -1,0 +1,108 @@
+{
+  "data": [
+    {
+      "productId": "0480602197340",
+      "brand": "Hansa",
+      "upc": "0480602197340",
+      "price": [
+        null
+      ]
+    },
+    {
+      "productId": "0025292250000",
+      "brand": "Simple Truth",
+      "upc": "0025292250000",
+      "price": [
+        {
+          "regular": 10.99,
+          "promo": 9.99,
+          "regularPerUnitEstimate": 10.99,
+          "promoPerUnitEstimate": 9.99
+        }
+      ]
+    },
+    {
+      "productId": "0075687310534",
+      "brand": "MansBestFriend",
+      "upc": "0075687310534",
+      "price": [
+        null
+      ]
+    },
+    {
+      "productId": "0078436920775",
+      "brand": "Multipet",
+      "upc": "0078436920775",
+      "price": [
+        {
+          "regular": 5.49,
+          "promo": 0
+        }
+      ]
+    },
+    {
+      "productId": "0029295550000",
+      "brand": "Simple Truth",
+      "upc": "0029295550000",
+      "price": [
+        {
+          "regular": 19.99,
+          "promo": 16.99,
+          "regularPerUnitEstimate": 19.99,
+          "promoPerUnitEstimate": 16.99
+        }
+      ]
+    },
+    {
+      "productId": "0078436948371",
+      "brand": "Multipet",
+      "upc": "0078436948371",
+      "price": [
+        {
+          "regular": 4.49,
+          "promo": 0
+        }
+      ]
+    },
+    {
+      "productId": "0001780015498",
+      "brand": "Beneful",
+      "upc": "0001780015498",
+      "price": [
+        {
+          "regular": 2.79,
+          "promo": 2.5
+        }
+      ]
+    },
+    {
+      "productId": "0001111010806",
+      "brand": "Luvsome",
+      "upc": "0001111010806",
+      "price": [
+        {
+          "regular": 6.49,
+          "promo": 0
+        }
+      ]
+    },
+    {
+      "productId": "0019588402056",
+      "upc": "0019588402056",
+      "price": [
+        null
+      ]
+    },
+    {
+      "productId": "0078436948375",
+      "brand": "Multipet",
+      "upc": "0078436948375",
+      "price": [
+        {
+          "regular": 9.49,
+          "promo": 0
+        }
+      ]
+    }
+  ]
+}

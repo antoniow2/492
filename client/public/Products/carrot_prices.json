@@ -1,0 +1,109 @@
+{
+  "data": [
+    {
+      "productId": "0000000094094",
+      "upc": "0000000094094",
+      "price": [
+        {
+          "regular": 1.99,
+          "promo": 0
+        }
+      ]
+    },
+    {
+      "productId": "0001111091659",
+      "brand": "Simple Truth Organic",
+      "upc": "0001111091659",
+      "price": [
+        {
+          "regular": 1.99,
+          "promo": 0
+        }
+      ]
+    },
+    {
+      "productId": "0001111091636",
+      "brand": "Kroger",
+      "upc": "0001111091636",
+      "price": [
+        {
+          "regular": 4.99,
+          "promo": 0
+        }
+      ]
+    },
+    {
+      "productId": "0001111091657",
+      "brand": "Simple Truth Organic",
+      "upc": "0001111091657",
+      "price": [
+        {
+          "regular": 2.99,
+          "promo": 0
+        }
+      ]
+    },
+    {
+      "productId": "0001111091622",
+      "upc": "0001111091622",
+      "price": [
+        {
+          "regular": 2.39,
+          "promo": 0
+        }
+      ]
+    },
+    {
+      "productId": "0000000004562",
+      "upc": "0000000004562",
+      "price": [
+        {
+          "regular": 0.99,
+          "promo": 0
+        }
+      ]
+    },
+    {
+      "productId": "0001111091621",
+      "upc": "0001111091621",
+      "price": [
+        {
+          "regular": 2.59,
+          "promo": 0
+        }
+      ]
+    },
+    {
+      "productId": "0001111091620",
+      "upc": "0001111091620",
+      "price": [
+        {
+          "regular": 1.33,
+          "promo": 0
+        }
+      ]
+    },
+    {
+      "productId": "0001111091651",
+      "brand": "Kroger",
+      "upc": "0001111091651",
+      "price": [
+        {
+          "regular": 1.79,
+          "promo": 0
+        }
+      ]
+    },
+    {
+      "productId": "0001111091650",
+      "brand": "Kroger",
+      "upc": "0001111091650",
+      "price": [
+        {
+          "regular": 1.79,
+          "promo": 0
+        }
+      ]
+    }
+  ]
+}

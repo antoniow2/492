@@ -1,0 +1,111 @@
+{
+  "data": [
+    {
+      "productId": "0001111011743",
+      "brand": "Smart Way",
+      "upc": "0001111011743",
+      "price": [
+        {
+          "regular": 1.25,
+          "promo": 0
+        }
+      ]
+    },
+    {
+      "productId": "0001111068421",
+      "brand": "Kroger",
+      "upc": "0001111068421",
+      "price": [
+        {
+          "regular": 3.29,
+          "promo": 3.29
+        }
+      ]
+    },
+    {
+      "productId": "0001111072983",
+      "brand": "Private Selection",
+      "upc": "0001111072983",
+      "price": [
+        {
+          "regular": 4.49,
+          "promo": 0
+        }
+      ]
+    },
+    {
+      "productId": "0005210000448",
+      "brand": "McCormick",
+      "upc": "0005210000448",
+      "price": [
+        {
+          "regular": 3.99,
+          "promo": 3.49
+        }
+      ]
+    },
+    {
+      "productId": "0005210000657",
+      "brand": "McCormick",
+      "upc": "0005210000657",
+      "price": [
+        null
+      ]
+    },
+    {
+      "productId": "0001111068309",
+      "brand": "Kroger",
+      "upc": "0001111068309",
+      "price": [
+        {
+          "regular": 3.99,
+          "promo": 3.99
+        }
+      ]
+    },
+    {
+      "productId": "0007175820128",
+      "brand": "Fiesta",
+      "upc": "0007175820128",
+      "price": [
+        {
+          "regular": 3.29,
+          "promo": 0
+        }
+      ]
+    },
+    {
+      "productId": "0003384400011",
+      "brand": "Badia",
+      "upc": "0003384400011",
+      "price": [
+        {
+          "regular": 1.79,
+          "promo": 0
+        }
+      ]
+    },
+    {
+      "productId": "0001111002566",
+      "brand": "Simple Truth Organic",
+      "upc": "0001111002566",
+      "price": [
+        {
+          "regular": 3.99,
+          "promo": 0
+        }
+      ]
+    },
+    {
+      "productId": "0001732400296",
+      "brand": "Spice Islands",
+      "upc": "0001732400296",
+      "price": [
+        {
+          "regular": 7.99,
+          "promo": 7.99
+        }
+      ]
+    }
+  ]
+}

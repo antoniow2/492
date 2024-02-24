@@ -1,0 +1,113 @@
+{
+  "data": [
+    {
+      "productId": "0007423495114",
+      "brand": "San Marcos",
+      "upc": "0007423495114",
+      "price": [
+        {
+          "regular": 1.49,
+          "promo": 0
+        }
+      ]
+    },
+    {
+      "productId": "0007639700407",
+      "brand": "La Costena",
+      "upc": "0007639700407",
+      "price": [
+        {
+          "regular": 1.49,
+          "promo": 0
+        }
+      ]
+    },
+    {
+      "productId": "0072745200270",
+      "brand": "La Morena",
+      "upc": "0072745200270",
+      "price": [
+        null
+      ]
+    },
+    {
+      "productId": "0004133102874",
+      "brand": "GOYA",
+      "upc": "0004133102874",
+      "price": [
+        {
+          "regular": 2.29,
+          "promo": 0
+        }
+      ]
+    },
+    {
+      "productId": "0005210084007",
+      "brand": "McCormick",
+      "upc": "0005210084007",
+      "price": [
+        {
+          "regular": 7.99,
+          "promo": 7.99
+        }
+      ]
+    },
+    {
+      "productId": "0026329950000",
+      "brand": "Kroger",
+      "upc": "0026329950000",
+      "price": [
+        {
+          "regular": 5.49,
+          "promo": 3.99,
+          "regularPerUnitEstimate": 1.59,
+          "promoPerUnitEstimate": 1.16
+        }
+      ]
+    },
+    {
+      "productId": "0007538604868",
+      "brand": "Embasa",
+      "upc": "0007538604868",
+      "price": [
+        {
+          "regular": 4.19,
+          "promo": 0
+        }
+      ]
+    },
+    {
+      "productId": "0007639703016",
+      "brand": "La Costena",
+      "upc": "0007639703016",
+      "price": [
+        {
+          "regular": 2.99,
+          "promo": 0
+        }
+      ]
+    },
+    {
+      "productId": "0007639700412",
+      "brand": "La Costena",
+      "upc": "0007639700412",
+      "price": [
+        {
+          "regular": 4.49,
+          "promo": 0
+        }
+      ]
+    },
+    {
+      "productId": "0001111088003",
+      "brand": "Kroger",
+      "upc": "0001111088003",
+      "price": [
+        {
+          "regular": 1.69,
+          "promo": 0
+        }
+      ]
+    }
+  ]
+}

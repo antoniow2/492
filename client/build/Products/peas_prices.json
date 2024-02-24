@@ -1,0 +1,114 @@
+{
+  "data": [
+    {
+      "productId": "0001111081211",
+      "brand": "Kroger",
+      "upc": "0001111081211",
+      "price": [
+        {
+          "regular": 0.89,
+          "promo": 0
+        }
+      ]
+    },
+    {
+      "productId": "0002400016308",
+      "brand": "Del Monte",
+      "upc": "0002400016308",
+      "price": [
+        {
+          "regular": 1.59,
+          "promo": 1
+        }
+      ]
+    },
+    {
+      "productId": "0001111089736",
+      "brand": "Kroger",
+      "upc": "0001111089736",
+      "price": [
+        {
+          "regular": 1.25,
+          "promo": 0
+        }
+      ]
+    },
+    {
+      "productId": "0001111002452",
+      "brand": "Kroger",
+      "upc": "0001111002452",
+      "price": [
+        {
+          "regular": 2.99,
+          "promo": 0
+        }
+      ]
+    },
+    {
+      "productId": "0001111001098",
+      "brand": "Simple Truth Organic",
+      "upc": "0001111001098",
+      "price": [
+        {
+          "regular": 2.29,
+          "promo": 0
+        }
+      ]
+    },
+    {
+      "productId": "0001111089737",
+      "brand": "Kroger",
+      "upc": "0001111089737",
+      "price": [
+        {
+          "regular": 1.79,
+          "promo": 1.49
+        }
+      ]
+    },
+    {
+      "productId": "0001450002253",
+      "brand": "Birds Eye",
+      "upc": "0001450002253",
+      "price": [
+        {
+          "regular": 2.99,
+          "promo": 2.79
+        }
+      ]
+    },
+    {
+      "productId": "0001450002100",
+      "brand": "Birds Eye",
+      "upc": "0001450002100",
+      "price": [
+        {
+          "regular": 1.69,
+          "promo": 1.59
+        }
+      ]
+    },
+    {
+      "productId": "0002000010165",
+      "brand": "Le Sueur",
+      "upc": "0002000010165",
+      "price": [
+        {
+          "regular": 2.79,
+          "promo": 0
+        }
+      ]
+    },
+    {
+      "productId": "0001111081918",
+      "brand": "Kroger",
+      "upc": "0001111081918",
+      "price": [
+        {
+          "regular": 2.79,
+          "promo": 0
+        }
+      ]
+    }
+  ]
+}

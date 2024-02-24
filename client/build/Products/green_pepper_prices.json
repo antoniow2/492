@@ -1,0 +1,105 @@
+{
+  "data": [
+    {
+      "productId": "0001111084543",
+      "brand": "Kroger",
+      "upc": "0001111084543",
+      "price": [
+        {
+          "regular": 1.29,
+          "promo": 0
+        }
+      ]
+    },
+    {
+      "productId": "0001111001450",
+      "brand": "Kroger",
+      "upc": "0001111001450",
+      "price": [
+        {
+          "regular": 1.99,
+          "promo": 1.79
+        }
+      ]
+    },
+    {
+      "productId": "0000000094065",
+      "upc": "0000000094065",
+      "price": [
+        {
+          "regular": 1.39,
+          "promo": 0
+        }
+      ]
+    },
+    {
+      "productId": "0001111084009",
+      "brand": "Kroger",
+      "upc": "0001111084009",
+      "price": [
+        {
+          "regular": 0.89,
+          "promo": 0
+        }
+      ]
+    },
+    {
+      "productId": "0000000004709",
+      "upc": "0000000004709",
+      "price": [
+        {
+          "regular": 2.99,
+          "promo": 0
+        }
+      ]
+    },
+    {
+      "productId": "0074615574131",
+      "brand": "Desert Pepper Trading",
+      "upc": "0074615574131",
+      "price": [
+        null
+      ]
+    },
+    {
+      "productId": "0065251328345",
+      "brand": "CoolCookware",
+      "upc": "0065251328345",
+      "price": [
+        null
+      ]
+    },
+    {
+      "productId": "0001121000930",
+      "brand": "Tabasco",
+      "upc": "0001121000930",
+      "price": [
+        {
+          "regular": 4.29,
+          "promo": 0
+        }
+      ]
+    },
+    {
+      "productId": "0001111087220",
+      "brand": "Kroger",
+      "upc": "0001111087220",
+      "price": [
+        {
+          "regular": 1.79,
+          "promo": 1.49
+        }
+      ]
+    },
+    {
+      "productId": "0000000004065",
+      "upc": "0000000004065",
+      "price": [
+        {
+          "regular": 0.89,
+          "promo": 0
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,111 @@
+{
+  "data": [
+    {
+      "productId": "0005210000651",
+      "brand": "McCormick",
+      "upc": "0005210000651",
+      "price": [
+        {
+          "regular": 3.99,
+          "promo": 2.99
+        }
+      ]
+    },
+    {
+      "productId": "0001111068304",
+      "brand": "Kroger",
+      "upc": "0001111068304",
+      "price": [
+        {
+          "regular": 3.49,
+          "promo": 3.49
+        }
+      ]
+    },
+    {
+      "productId": "0001111010563",
+      "brand": "Private Selection",
+      "upc": "0001111010563",
+      "price": [
+        {
+          "regular": 9.99,
+          "promo": 0
+        }
+      ]
+    },
+    {
+      "productId": "0001111002397",
+      "brand": "Simple Truth Organic",
+      "upc": "0001111002397",
+      "price": [
+        {
+          "regular": 3.79,
+          "promo": 0
+        }
+      ]
+    },
+    {
+      "productId": "0008983618514",
+      "brand": "Simply Organic",
+      "upc": "0008983618514",
+      "price": [
+        null
+      ]
+    },
+    {
+      "productId": "0001111072969",
+      "brand": "Private Selection",
+      "upc": "0001111072969",
+      "price": [
+        {
+          "regular": 4.99,
+          "promo": 0
+        }
+      ]
+    },
+    {
+      "productId": "0003384400007",
+      "brand": "Badia",
+      "upc": "0003384400007",
+      "price": [
+        {
+          "regular": 1.69,
+          "promo": 0
+        }
+      ]
+    },
+    {
+      "productId": "0001732400233",
+      "brand": "Spice Islands",
+      "upc": "0001732400233",
+      "price": [
+        {
+          "regular": 8.49,
+          "promo": 8.49
+        }
+      ]
+    },
+    {
+      "productId": "0890408351939",
+      "brand": "24 Mantra",
+      "upc": "0890408351939",
+      "price": [
+        {
+          "regular": 10.99,
+          "promo": 0
+        }
+      ]
+    },
+    {
+      "productId": "0002150001457",
+      "brand": "Lawry's",
+      "upc": "0002150001457",
+      "price": [
+        {
+          "regular": 2.99,
+          "promo": 0
+        }
+      ]
+    }
+  ]
+}

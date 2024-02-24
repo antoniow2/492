@@ -1,0 +1,99 @@
+{
+  "data": [
+    {
+      "productId": "0002217910535",
+      "brand": "Monterey",
+      "upc": "0002217910535",
+      "price": [
+        null
+      ]
+    },
+    {
+      "productId": "0001111011882",
+      "brand": "Kroger",
+      "upc": "0001111011882",
+      "price": [
+        {
+          "regular": 4.29,
+          "promo": 0
+        }
+      ]
+    },
+    {
+      "productId": "0002217910258",
+      "brand": "Monterey",
+      "upc": "0002217910258",
+      "price": [
+        null
+      ]
+    },
+    {
+      "productId": "0002217910434",
+      "brand": "Monterey",
+      "upc": "0002217910434",
+      "price": [
+        null
+      ]
+    },
+    {
+      "productId": "0002217910489",
+      "brand": "Monterey",
+      "upc": "0002217910489",
+      "price": [
+        null
+      ]
+    },
+    {
+      "productId": "0007100714690",
+      "brand": "El Monterey",
+      "upc": "0007100714690",
+      "price": [
+        {
+          "regular": 1.33,
+          "promo": 1
+        }
+      ]
+    },
+    {
+      "productId": "0001111058624",
+      "brand": "Kroger",
+      "upc": "0001111058624",
+      "price": [
+        {
+          "regular": 2.49,
+          "promo": 2.33
+        }
+      ]
+    },
+    {
+      "productId": "0001111050202",
+      "brand": "Kroger",
+      "upc": "0001111050202",
+      "price": [
+        {
+          "regular": 2.49,
+          "promo": 2.33
+        }
+      ]
+    },
+    {
+      "productId": "0075859012748",
+      "brand": "Maple Leaf",
+      "upc": "0075859012748",
+      "price": [
+        {
+          "regular": 5.49,
+          "promo": 0
+        }
+      ]
+    },
+    {
+      "productId": "0002217910527",
+      "brand": "Monterey",
+      "upc": "0002217910527",
+      "price": [
+        null
+      ]
+    }
+  ]
+}

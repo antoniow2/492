@@ -1,0 +1,603 @@
+[
+  {
+    "recipeName": "Steak & Chips Salad",
+    "ingredients": [
+      {
+        "food": "potato",
+        "quantity": 750,
+        "measure": "gram"
+      },
+      {
+        "food": "olive oil",
+        "quantity": 1,
+        "measure": "tablespoon"
+      },
+      {
+        "food": "sirloin steak",
+        "quantity": 2,
+        "measure": "<unit>"
+      },
+      {
+        "food": "herb",
+        "quantity": 120,
+        "measure": "gram"
+      },
+      {
+        "food": "honey",
+        "quantity": 6,
+        "measure": "tablespoon"
+      },
+      {
+        "food": "mustard",
+        "quantity": 6,
+        "measure": "tablespoon"
+      }
+    ],
+    "healthLabels": [
+      "DairyFree",
+      "GlutenFree",
+      "WheatFree",
+      "EggFree",
+      "PeanutFree",
+      "TreeNutFree",
+      "SoyFree",
+      "FishFree",
+      "ShellfishFree",
+      "PorkFree",
+      "CrustaceanFree",
+      "CeleryFree",
+      "SesameFree",
+      "LupineFree",
+      "MolluskFree",
+      "AlcoholFree"
+    ],
+    "totalTime": 30,
+    "instructions": [
+      "Thaw wedges and sear steak to desired temp. Mix all ingredients once ready and serve."
+    ]
+  },
+  {
+    "recipeName": "Zuni-Inspired Grilled Chicken Salad",
+    "ingredients": [
+      {
+        "food": "boneless, skinless chicken breasts",
+        "quantity": 1,
+        "measure": "pound"
+      },
+      {
+        "food": "kosher salt",
+        "quantity": 0.75,
+        "measure": "teaspoon"
+      },
+      {
+        "food": "olive oil",
+        "quantity": 1,
+        "measure": "tablespoon"
+      },
+      {
+        "food": "aioli",
+        "quantity": 0.25,
+        "measure": "cup"
+      },
+      {
+        "food": "lemon",
+        "quantity": 1,
+        "measure": "<unit>"
+      },
+      {
+        "food": "fresh herbs",
+        "quantity": 0,
+        "measure": null
+      }
+    ],
+    "healthLabels": [
+      "SugarConscious",
+      "KetoFriendly",
+      "Paleo",
+      "DairyFree",
+      "GlutenFree",
+      "WheatFree",
+      "PeanutFree",
+      "TreeNutFree",
+      "SoyFree",
+      "FishFree",
+      "ShellfishFree",
+      "PorkFree",
+      "RedMeatFree",
+      "CrustaceanFree",
+      "CeleryFree",
+      "SesameFree",
+      "LupineFree",
+      "MolluskFree",
+      "AlcoholFree",
+      "SulfiteFree",
+      "Kosher"
+    ],
+    "totalTime": 20,
+    "instructions": [
+      "Pat chicken breasts dry; toss with 1/4 teaspoon salt and enough olive oil to give it a slick coat (about 1 tablespoon).",
+      "Preheat grill to medium-high (or set a grill pan over medium-high heat on the stove). Oil the grill grates (or the pan). Grill chicken, turning once, until cooked through and darkly burnished with grill marks, 4 to 5 minutes per side. Rest 5 minutes.",
+      "While the chicken is resting, add aioli (if using) or garlicky mayo to a large bowl; mix in remaining 1/2 teaspoon salt and the zest and juice of the lemon.",
+      "Cut chicken into slices about 3/4-inch thick; using the tines of two forks, pull each piece into two or three coarse hunks. Add chicken and any accumulated juices to aioli dressing. Toss to coat. Pile over greens tossed with lemon, olive oil, and salt.",
+      "Alternate serving options: If not having in a salad, layer chicken between slices of toasted bread or a soft, seeded bun. Or enjoy as is, with or without chopped fresh herbs scattered on top."
+    ]
+  },
+  {
+    "recipeName": "Shrimp Salad",
+    "ingredients": [
+      {
+        "food": "salad greens",
+        "quantity": 1,
+        "measure": "cup"
+      },
+      {
+        "food": "sweet peppers",
+        "quantity": 0.5,
+        "measure": "cup"
+      },
+      {
+        "food": "cooked shrimp",
+        "quantity": 3,
+        "measure": "ounce"
+      },
+      {
+        "food": "garbanzo beans",
+        "quantity": 0.5,
+        "measure": "cup"
+      },
+      {
+        "food": "salad dressing",
+        "quantity": 2,
+        "measure": "tablespoon"
+      },
+      {
+        "food": "strawberries",
+        "quantity": 1.25,
+        "measure": "cup"
+      },
+      {
+        "food": "fat-free yogurt",
+        "quantity": 0.6666666666666666,
+        "measure": "cup"
+      }
+    ],
+    "healthLabels": [
+      "Pescatarian",
+      "GlutenFree",
+      "WheatFree",
+      "EggFree",
+      "PeanutFree",
+      "TreeNutFree",
+      "SoyFree",
+      "FishFree",
+      "PorkFree",
+      "RedMeatFree",
+      "CeleryFree",
+      "MustardFree",
+      "SesameFree",
+      "LupineFree",
+      "MolluskFree",
+      "AlcoholFree"
+    ],
+    "totalTime": 25,
+    "instructions": [
+      "Place oil, vinegar, shallot, mustard, pepper and salt in a lidded jar. Shake until combined.",
+      "Mound salad greens on a platter. Drizzle with half the dressing and toss to coat. Decoratively arrange shrimp, tomatoes, cucumber, egg halves, avocado, bacon and blue cheese on top. Drizzle with the remaining dressing."
+    ]
+  },
+  {
+    "recipeName": "Buffalo Chicken Salad",
+    "ingredients": [
+      {
+        "food": "salad mix",
+        "quantity": 2,
+        "measure": "bag"
+      },
+      {
+        "food": "Carrot",
+        "quantity": 1,
+        "measure": "container"
+      },
+      {
+        "food": "celery",
+        "quantity": 1,
+        "measure": "stick"
+      },
+      {
+        "food": "chicken",
+        "quantity": 1,
+        "measure": "<unit>"
+      },
+      {
+        "food": "pepper sauce",
+        "quantity": 2,
+        "measure": "tablespoon"
+      },
+      {
+        "food": "blue cheese salad dressing",
+        "quantity": 0.5,
+        "measure": "cup"
+      }
+    ],
+    "healthLabels": [
+      "GlutenFree",
+      "WheatFree",
+      "EggFree",
+      "PeanutFree",
+      "TreeNutFree",
+      "SoyFree",
+      "FishFree",
+      "ShellfishFree",
+      "PorkFree",
+      "RedMeatFree",
+      "CrustaceanFree",
+      "MustardFree",
+      "SesameFree",
+      "LupineFree",
+      "MolluskFree",
+      "AlcoholFree",
+      "SulfiteFree"
+    ],
+    "totalTime": 60,
+    "instructions": [
+      "Make chicken: In a large bowl, combine buffalo sauce, honey, lime juice, garlic powder, and onion powder. Season with salt and pepper. Reserve ⅓ cup marinade. Add chicken to remaining marinade and toss to coat. Let marinate 30 minutes at room temperature. Or cover and refrigerate for up to 2 hours. ",
+      "In a large skillet over medium heat, heat oil. Remove chicken from marinade, letting as much marinade drip off as possible, and add to skillet. Cook until golden, 6 minutes, then flip and brush chicken with reserved marinade. Continue cooking until no longer pink, 6 to 8 minutes more. Place on a cutting board and let rest 5 minutes, then slice into strips. ",
+      "Meanwhile, make dressing: In a medium bowl, whisk together mayonnaise, sour cream, and buttermilk. Add remaining ingrdients and stir until combined. Refrigreate until ready to use",
+      "Assemble salad and serve"
+    ]
+  },
+  {
+    "recipeName": "Bland Shrimp Salad",
+    "ingredients": [
+      {
+        "food": "shrimp",
+        "quantity": 1,
+        "measure": "pound"
+      },
+      {
+        "food": "onion",
+        "quantity": 1,
+        "measure": "tablespoon"
+      },
+      {
+        "food": "parsley",
+        "quantity": 1,
+        "measure": "tablespoon"
+      },
+      {
+        "food": "Salt",
+        "quantity": 0,
+        "measure": null
+      },
+      {
+        "food": "pepper",
+        "quantity": 0,
+        "measure": null
+      },
+      {
+        "food": "lemon juice",
+        "quantity": 1,
+        "measure": "tablespoon"
+      },
+      {
+        "food": "mayonnaise",
+        "quantity": 0.5,
+        "measure": "cup"
+      },
+      {
+        "food": "oil",
+        "quantity": 1.5,
+        "measure": "tablespoon"
+      }
+    ],
+    "healthLabels": [
+      "SugarConscious",
+      "KidneyFriendly",
+      "KetoFriendly",
+      "Pescatarian",
+      "DairyFree",
+      "GlutenFree",
+      "WheatFree",
+      "PeanutFree",
+      "TreeNutFree",
+      "SoyFree",
+      "PorkFree",
+      "RedMeatFree",
+      "CeleryFree",
+      "SesameFree",
+      "LupineFree",
+      "MolluskFree",
+      "AlcoholFree",
+      "SulfiteFree"
+    ],
+    "totalTime": 60,
+    "instructions": [
+      "Sear all ingredients and assemble salad. Serve"
+    ]
+  },
+  {
+    "recipeName": "Strawberry Hazelnut Salad",
+    "ingredients": [
+      {
+        "food": "salad greens",
+        "quantity": 8,
+        "measure": "ounce"
+      },
+      {
+        "food": "strawberries",
+        "quantity": 8,
+        "measure": "ounce"
+      },
+      {
+        "food": "Hazelnuts",
+        "quantity": 2,
+        "measure": "ounce"
+      },
+      {
+        "food": "Balsamic Vinegar",
+        "quantity": 3,
+        "measure": "ounce"
+      },
+      {
+        "food": "Sugar",
+        "quantity": 1,
+        "measure": "teaspoon"
+      },
+      {
+        "food": "Extra Virgin Olive Oil",
+        "quantity": 4,
+        "measure": "ounce"
+      },
+      {
+        "food": "pepper",
+        "quantity": 4,
+        "measure": "<unit>"
+      }
+    ],
+    "healthLabels": [
+      "Vegan",
+      "Vegetarian",
+      "Pescatarian",
+      "DairyFree",
+      "GlutenFree",
+      "WheatFree",
+      "EggFree",
+      "PeanutFree",
+      "SoyFree",
+      "FishFree",
+      "ShellfishFree",
+      "PorkFree",
+      "RedMeatFree",
+      "CrustaceanFree",
+      "CeleryFree",
+      "MustardFree",
+      "SesameFree",
+      "LupineFree",
+      "MolluskFree",
+      "AlcoholFree",
+      "FODMAPFree",
+      "Kosher"
+    ],
+    "totalTime": 30,
+    "instructions": [
+      "Toast the hazelnuts for 5 minutes in a 350°F oven. When the nuts have cooled, place them in a plastic bag and whack them with the flat side of a broad knife (please don’t smack them with a ceramic knife – you will be sad) or under a rolling pin or cutting board. In a medium bowl, whisk together the sugar and the balsamic vinegar until the sugar is dissolved. While whisking continuously, slowly drizzle the oil into the vinegar-sugar mixture in a steady and thin stream. You should have an emulsified dressing. Place strawberries and greens in a large mixing bowl. Pour the dressing over the salad and season with salt and pepper. Toss. Sprinkle the crushed hazelnuts over the salad and serve. Enough for four to six side salads."
+    ]
+  },
+  {
+    "recipeName": "Grilled Tofu Salad With Miso Dressing",
+    "ingredients": [
+      {
+        "food": "firm tofu",
+        "quantity": 14,
+        "measure": "ounce"
+      },
+      {
+        "food": "cooking oil",
+        "quantity": 2,
+        "measure": "teaspoon"
+      },
+      {
+        "food": "miso paste",
+        "quantity": 2,
+        "measure": "tablespoon"
+      },
+      {
+        "food": "soy sauce",
+        "quantity": 1,
+        "measure": "teaspoon"
+      },
+      {
+        "food": "fresh ginger",
+        "quantity": 0.5,
+        "measure": "teaspoon"
+      },
+      {
+        "food": "water",
+        "quantity": 1,
+        "measure": "tablespoon"
+      },
+      {
+        "food": "sesame oil",
+        "quantity": 0.5,
+        "measure": "teaspoon"
+      },
+      {
+        "food": "sugar",
+        "quantity": 0.5,
+        "measure": "teaspoon"
+      },
+      {
+        "food": "oil",
+        "quantity": 1,
+        "measure": "tablespoon"
+      },
+      {
+        "food": "salad greens",
+        "quantity": 4,
+        "measure": "handful"
+      }
+    ],
+    "healthLabels": [
+      "SugarConscious",
+      "KetoFriendly",
+      "Vegan",
+      "Vegetarian",
+      "Pescatarian",
+      "DairyFree",
+      "EggFree",
+      "PeanutFree",
+      "TreeNutFree",
+      "FishFree",
+      "ShellfishFree",
+      "PorkFree",
+      "RedMeatFree",
+      "CrustaceanFree",
+      "CeleryFree",
+      "MustardFree",
+      "LupineFree",
+      "MolluskFree",
+      "AlcoholFree",
+      "Kosher"
+    ],
+    "totalTime": 20,
+    "instructions": [
+      "Cut the tofu block into 1/2 thick slices and with towel, pat each slice tofu dry on both sides.",
+      "In a small bowl, add just 1/2 of the miso (we'll use the other half in the dressing). Brush the tofu on one side with some of the miso.",
+      "Heat a frying pan over medium-high heat. When hot, drizzle in the cooking oil and add the tofu, miso side down. Cook for 2-3 minutes until browned. Brush the top of the tofu with more miso. Carefully flip the tofu and cook for 2-3 minutes.",
+      "Whisk together the remaining miso, soy sauce, ginger, water, sesame oil and sugar. Slowly drizzle in the oil while whisking to finish the dressing.",
+      "Assemble the salad greens and vegetables, serve with grilled tofu slice and miso salad dressing."
+    ]
+  },
+  {
+    "recipeName": "Buffalo Chicken Salad recipes",
+    "ingredients": [
+      {
+        "food": "salad mix",
+        "quantity": 2,
+        "measure": "bag"
+      },
+      {
+        "food": "Carrot",
+        "quantity": 1,
+        "measure": "container"
+      },
+      {
+        "food": "celery",
+        "quantity": 1,
+        "measure": "stick"
+      },
+      {
+        "food": "chicken",
+        "quantity": 1,
+        "measure": "<unit>"
+      },
+      {
+        "food": "pepper sauce",
+        "quantity": 2,
+        "measure": "tablespoon"
+      },
+      {
+        "food": "blue cheese salad dressing",
+        "quantity": 0.5,
+        "measure": "cup"
+      }
+    ],
+    "healthLabels": [
+      "GlutenFree",
+      "WheatFree",
+      "EggFree",
+      "PeanutFree",
+      "TreeNutFree",
+      "SoyFree",
+      "FishFree",
+      "ShellfishFree",
+      "PorkFree",
+      "RedMeatFree",
+      "CrustaceanFree",
+      "MustardFree",
+      "SesameFree",
+      "LupineFree",
+      "MolluskFree",
+      "AlcoholFree",
+      "SulfiteFree"
+    ],
+    "totalTime": 10
+  },
+  {
+    "recipeName": "Chicken Salad With Mango & Basil",
+    "ingredients": [
+      {
+        "food": "chicken",
+        "quantity": 1.5,
+        "measure": "pound"
+      },
+      {
+        "food": "red wine",
+        "quantity": 3,
+        "measure": "tablespoon"
+      },
+      {
+        "food": "fresh basil",
+        "quantity": 3,
+        "measure": "tablespoon"
+      },
+      {
+        "food": "sugar",
+        "quantity": 1,
+        "measure": "pinch"
+      },
+      {
+        "food": "vegetable oil",
+        "quantity": 3,
+        "measure": "tablespoon"
+      },
+      {
+        "food": "Salt",
+        "quantity": 0,
+        "measure": null
+      },
+      {
+        "food": "pepper",
+        "quantity": 0,
+        "measure": null
+      },
+      {
+        "food": "mango",
+        "quantity": 1,
+        "measure": "<unit>"
+      },
+      {
+        "food": "salad mix",
+        "quantity": 10,
+        "measure": "ounce"
+      },
+      {
+        "food": "garlic croutons",
+        "quantity": 1.5,
+        "measure": "cup"
+      }
+    ],
+    "healthLabels": [
+      "DairyFree",
+      "EggFree",
+      "PeanutFree",
+      "TreeNutFree",
+      "SoyFree",
+      "FishFree",
+      "ShellfishFree",
+      "PorkFree",
+      "RedMeatFree",
+      "CrustaceanFree",
+      "CeleryFree",
+      "MustardFree",
+      "SesameFree",
+      "LupineFree",
+      "MolluskFree",
+      "Kosher"
+    ],
+    "totalTime": 30,
+    "instructions": [
+      "Dice and mix all ingrdients. Refrigerate for 24 hours and serve cold."
+    ]
+  }
+]

@@ -1,0 +1,118 @@
+{
+  "data": [
+    {
+      "productId": "0029319000000",
+      "upc": "0029319000000",
+      "price": [
+        {
+          "regular": 6.29,
+          "promo": 0,
+          "regularPerUnitEstimate": 6.29
+        }
+      ]
+    },
+    {
+      "productId": "0027322650000",
+      "upc": "0027322650000",
+      "price": [
+        {
+          "regular": 5.99,
+          "promo": 3.49,
+          "regularPerUnitEstimate": 5.99,
+          "promoPerUnitEstimate": 3.49
+        }
+      ]
+    },
+    {
+      "productId": "0023328200000",
+      "upc": "0023328200000",
+      "price": [
+        {
+          "regular": 5.79,
+          "promo": 5.29,
+          "regularPerUnitEstimate": 5.79,
+          "promoPerUnitEstimate": 5.29
+        }
+      ]
+    },
+    {
+      "productId": "0020324450000",
+      "upc": "0020324450000",
+      "price": [
+        {
+          "regular": 3.99,
+          "promo": 0,
+          "regularPerUnitEstimate": 3.99
+        }
+      ]
+    },
+    {
+      "productId": "0001111016633",
+      "brand": "Kroger",
+      "upc": "0001111016633",
+      "price": [
+        {
+          "regular": 10,
+          "promo": 0
+        }
+      ]
+    },
+    {
+      "productId": "0001111064148",
+      "brand": "National Beef",
+      "upc": "0001111064148",
+      "price": [
+        {
+          "regular": 5,
+          "promo": 0
+        }
+      ]
+    },
+    {
+      "productId": "0029315900000",
+      "upc": "0029315900000",
+      "price": [
+        {
+          "regular": 4.79,
+          "promo": 4.29,
+          "regularPerUnitEstimate": 1.2,
+          "promoPerUnitEstimate": 1.07
+        }
+      ]
+    },
+    {
+      "productId": "0029315150000",
+      "brand": "Kroger",
+      "upc": "0029315150000",
+      "price": [
+        {
+          "regular": 4.79,
+          "promo": 0,
+          "regularPerUnitEstimate": 4.79
+        }
+      ]
+    },
+    {
+      "productId": "0020324250000",
+      "brand": "Tyson",
+      "upc": "0020324250000",
+      "price": [
+        {
+          "regular": 5.29,
+          "promo": 0
+        }
+      ]
+    },
+    {
+      "productId": "0025331400000",
+      "upc": "0025331400000",
+      "price": [
+        {
+          "regular": 5.99,
+          "promo": 0,
+          "regularPerUnitEstimate": 5.99
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,90 @@
+{
+  "data": [
+    {
+      "productId": "1065920110203",
+      "brand": "Food Merchants",
+      "upc": "1065920110203",
+      "price": [
+        null
+      ]
+    },
+    {
+      "productId": "0065920110201",
+      "brand": "Ancient Harvest",
+      "upc": "0065920110201",
+      "price": [
+        {
+          "regular": 2.89,
+          "promo": 0
+        }
+      ]
+    },
+    {
+      "productId": "0003997811125",
+      "brand": "Bob's Red Mill",
+      "upc": "0003997811125",
+      "price": [
+        {
+          "regular": 4.49,
+          "promo": 0
+        }
+      ]
+    },
+    {
+      "productId": "0074956925872",
+      "brand": "Bob's Red Mill",
+      "upc": "0074956925872",
+      "price": [
+        null
+      ]
+    },
+    {
+      "productId": "1065920110201",
+      "brand": "Food Merchants",
+      "upc": "1065920110201",
+      "price": [
+        null
+      ]
+    },
+    {
+      "productId": "1003997811125",
+      "brand": "Bob's Red Mill",
+      "upc": "1003997811125",
+      "price": [
+        null
+      ]
+    },
+    {
+      "productId": "0065920110203",
+      "brand": "Ancient Harvest",
+      "upc": "0065920110203",
+      "price": [
+        null
+      ]
+    },
+    {
+      "productId": "0622017186599",
+      "brand": "Bob's Red Mill",
+      "upc": "0622017186599",
+      "price": [
+        null
+      ]
+    },
+    {
+      "productId": "0003997811470",
+      "brand": "Bob's Red Mill",
+      "upc": "0003997811470",
+      "price": [
+        null
+      ]
+    },
+    {
+      "productId": "0003997811919",
+      "brand": "Bob's Red Mill",
+      "upc": "0003997811919",
+      "price": [
+        null
+      ]
+    }
+  ]
+}

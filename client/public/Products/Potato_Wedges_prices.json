@@ -1,0 +1,15 @@
+{
+  "data": [
+    {
+      "productId": "0001450001780",
+      "brand": "Birds Eye",
+      "upc": "0001450001780",
+      "price": [
+        {
+          "regular": 3.99,
+          "promo": 3.49
+        }
+      ]
+    }
+  ]
+}

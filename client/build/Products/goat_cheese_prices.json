@@ -1,0 +1,105 @@
+{
+  "data": [
+    {
+      "productId": "1082058167855",
+      "brand": "La Bonne Vie",
+      "upc": "1082058167855",
+      "price": [
+        null
+      ]
+    },
+    {
+      "productId": "0001182610022",
+      "brand": "Vermont Creamery",
+      "upc": "0001182610022",
+      "price": [
+        {
+          "regular": 6.49,
+          "promo": 0
+        }
+      ]
+    },
+    {
+      "productId": "0001182610010",
+      "brand": "Vermont Creamery",
+      "upc": "0001182610010",
+      "price": [
+        {
+          "regular": 6.49,
+          "promo": 0
+        }
+      ]
+    },
+    {
+      "productId": "0001182610200",
+      "brand": "Vermont Creamery",
+      "upc": "0001182610200",
+      "price": [
+        {
+          "regular": 6.49,
+          "promo": 0
+        }
+      ]
+    },
+    {
+      "productId": "1082058194240",
+      "brand": "La Bonne Vie",
+      "upc": "1082058194240",
+      "price": [
+        null
+      ]
+    },
+    {
+      "productId": "0001111083316",
+      "brand": "Private Selection",
+      "upc": "0001111083316",
+      "price": [
+        {
+          "regular": 3.49,
+          "promo": 0
+        }
+      ]
+    },
+    {
+      "productId": "0001182610012",
+      "brand": "Vermont Creamery",
+      "upc": "0001182610012",
+      "price": [
+        {
+          "regular": 6.49,
+          "promo": 0
+        }
+      ]
+    },
+    {
+      "productId": "0001182610036",
+      "brand": "Vermont Creamery",
+      "upc": "0001182610036",
+      "price": [
+        {
+          "regular": 6.49,
+          "promo": 0
+        }
+      ]
+    },
+    {
+      "productId": "1082058185428",
+      "brand": "La Bonne Vie",
+      "upc": "1082058185428",
+      "price": [
+        null
+      ]
+    },
+    {
+      "productId": "0001182610029",
+      "brand": "Vermont Creamery",
+      "upc": "0001182610029",
+      "price": [
+        {
+          "regular": 6.49,
+          "promo": 0
+        }
+      ]
+    }
+  ]
+}

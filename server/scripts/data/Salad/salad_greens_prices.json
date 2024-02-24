@@ -1,0 +1,98 @@
+{
+  "data": [
+    {
+      "productId": "0089520300126",
+      "brand": "organicgirl",
+      "upc": "0089520300126",
+      "price": [
+        {
+          "regular": 3.99,
+          "promo": 0
+        }
+      ]
+    },
+    {
+      "productId": "0001111091042",
+      "brand": "Kroger",
+      "upc": "0001111091042",
+      "price": [
+        {
+          "regular": 3.19,
+          "promo": 2.99
+        }
+      ]
+    },
+    {
+      "productId": "0085392700348",
+      "brand": "Gotham Greens",
+      "upc": "0085392700348",
+      "price": [
+        {
+          "regular": 6.99,
+          "promo": 0
+        }
+      ]
+    },
+    {
+      "productId": "0001111091649",
+      "brand": "Kroger",
+      "upc": "0001111091649",
+      "price": [
+        {
+          "regular": 2.29,
+          "promo": 0
+        }
+      ]
+    },
+    {
+      "productId": "0001111091733",
+      "brand": "Simple Truth Organic",
+      "upc": "0001111091733",
+      "price": [
+        {
+          "regular": 3.49,
+          "promo": 0
+        }
+      ]
+    },
+    {
+      "productId": "0001111004777",
+      "brand": "Simple Truth Organic",
+      "upc": "0001111004777",
+      "price": [
+        {
+          "regular": 5.99,
+          "promo": 0
+        }
+      ]
+    },
+    {
+      "productId": "0068687867547",
+      "brand": "Old World Christmas",
+      "upc": "0068687867547",
+      "price": [
+        null
+      ]
+    },
+    {
+      "productId": "0001111018170",
+      "upc": "0001111018170",
+      "price": [
+        {
+          "regular": 3.09,
+          "promo": 0
+        }
+      ]
+    },
+    {
+      "productId": "0001111018171",
+      "upc": "0001111018171",
+      "price": [
+        {
+          "regular": 3.09,
+          "promo": 0
+        }
+      ]
+    }
+  ]
+}

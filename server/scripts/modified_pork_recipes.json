@@ -1,0 +1,688 @@
+[
+  {
+    "recipeName": "Pandan Wrapped Roast Pork",
+    "ingredients": [
+      {
+        "food": "pandan",
+        "quantity": 14,
+        "measure": "<unit>"
+      },
+      {
+        "food": "pork",
+        "quantity": 4,
+        "measure": "pound"
+      },
+      {
+        "food": "sea salt",
+        "quantity": 0,
+        "measure": null
+      }
+    ],
+    "healthLabels": [
+      "SugarConscious",
+      "Low Sugar",
+      "KetoFriendly",
+      "Paleo",
+      "DairyFree",
+      "GlutenFree",
+      "WheatFree",
+      "EggFree",
+      "PeanutFree",
+      "TreeNutFree",
+      "SoyFree",
+      "FishFree",
+      "ShellfishFree",
+      "CrustaceanFree",
+      "CeleryFree",
+      "MustardFree",
+      "SesameFree",
+      "LupineFree",
+      "MolluskFree",
+      "AlcoholFree",
+      "No oil added",
+      "SulfiteFree",
+      "FODMAPFree"
+    ],
+    "totalTime": 20,
+    "instructions": [
+      "wrap everything around the pork and season. deep fry for 5 minutes (if the pork is pre cooked). Serve."
+    ]
+  },
+  {
+    "recipeName": "Pork Quesadillas",
+    "ingredients": [
+      {
+        "food": "pork chops",
+        "quantity": 1,
+        "measure": "<unit>"
+      },
+      {
+        "food": "jalapenos",
+        "quantity": 1,
+        "measure": "tablespoon"
+      },
+      {
+        "food": "flour tortillas",
+        "quantity": 4,
+        "measure": "<unit>"
+      },
+      {
+        "food": "pork chops",
+        "quantity": 2,
+        "measure": "<unit>"
+      },
+      {
+        "food": "monterey jack",
+        "quantity": 1,
+        "measure": "cup"
+      }
+    ],
+    "healthLabels": [
+      "SugarConscious",
+      "EggFree",
+      "PeanutFree",
+      "TreeNutFree",
+      "SoyFree",
+      "FishFree",
+      "ShellfishFree",
+      "CrustaceanFree",
+      "CeleryFree",
+      "MustardFree",
+      "SesameFree",
+      "LupineFree",
+      "MolluskFree",
+      "AlcoholFree",
+      "SulfiteFree"
+    ],
+    "totalTime": 93,
+    "instructions": [
+      "In a medium bowl, combine roasted vegetables and jalapenos. Spread mixture on half of each of 4 tortillas. Thinly slice pork chops, discarding bones. Top vegetable mixture with pork and cheese; fold tortillas over filling.",
+      "Heat a large heavy skillet over medium-high. In two batches, cook quesadillas until cheese is melted, 2 minutes per side. Cut into wedges and serve."
+    ]
+  },
+  {
+    "recipeName": "Pork Sorpotel (Goan Pork Offal Stew) Recipe",
+    "ingredients": [
+      {
+        "food": "pork shoulder",
+        "quantity": 1,
+        "measure": "pound"
+      },
+      {
+        "food": "pork liver",
+        "quantity": 1,
+        "measure": "pound"
+      },
+      {
+        "food": "pork",
+        "quantity": 0.5,
+        "measure": "pound"
+      },
+      {
+        "food": "turmeric",
+        "quantity": 1,
+        "measure": "teaspoon"
+      },
+      {
+        "food": "Kosher salt",
+        "quantity": 0,
+        "measure": null
+      },
+      {
+        "food": "vegetable oil",
+        "quantity": 2,
+        "measure": "tablespoon"
+      },
+      {
+        "food": "garlic",
+        "quantity": 10,
+        "measure": "clove"
+      },
+      {
+        "food": "piece ginger",
+        "quantity": 1,
+        "measure": "inch"
+      },
+      {
+        "food": "green chilies",
+        "quantity": 4,
+        "measure": "<unit>"
+      },
+      {
+        "food": "bay leaves",
+        "quantity": 2,
+        "measure": "<unit>"
+      },
+      {
+        "food": "pork",
+        "quantity": 0.25,
+        "measure": "cup"
+      },
+      {
+        "food": "peppercorns",
+        "quantity": 0,
+        "measure": null
+      },
+      {
+        "food": "red chilies",
+        "quantity": 10,
+        "measure": "<unit>"
+      },
+      {
+        "food": "cinnamon",
+        "quantity": 1,
+        "measure": "piece"
+      },
+      {
+        "food": "cloves",
+        "quantity": 3,
+        "measure": "<unit>"
+      },
+      {
+        "food": "cumin seeds",
+        "quantity": 1,
+        "measure": "teaspoon"
+      },
+      {
+        "food": "vinegar",
+        "quantity": 0.25,
+        "measure": "cup"
+      }
+    ],
+    "healthLabels": [
+      "DairyFree",
+      "GlutenFree",
+      "WheatFree",
+      "EggFree",
+      "PeanutFree",
+      "TreeNutFree",
+      "SoyFree",
+      "FishFree",
+      "ShellfishFree",
+      "CrustaceanFree",
+      "CeleryFree",
+      "MustardFree",
+      "SesameFree",
+      "LupineFree",
+      "MolluskFree",
+      "AlcoholFree",
+      "SulfiteFree"
+    ],
+    "totalTime": 90,
+    "instructions": [
+      "Make the Spice Paste: Combine the peppercorns, red chile, cinnamon, cloves, cumin seeds (or powder), and half of the vinegar in a blender. Blend on high speed, scraping down sides as necessary, until a smooth red paste is formed. Set aside.",
+      "Combine pork, liver, and other offal in a large saucepan. Cover with three cups of water. Add turmeric and 1 tablespoon salt. Cover and bring to a boil over medium-high heat. Stir once, reduce to a simmer, cover, and cook for 30 minutes. Skim liquid. Strain, reserving meat and broth separately. Trim pork of any rind or fat and cut into 1-inch chunks. Set aside.",
+      "Heat half of the oil in a large saucepan over medium-high heat until shimmering. Add the drained pork and cook, turning occasionally, until lightly browned, about 4 minutes. Add the garlic, ginger, green chilies, and bay leaf. Cook, stirring, until fragrant, about 4 minutes. Add the spice paste and cook, stirring, until fragrant and raw aroma disappears, about 10 minutes. Add the remaining vinegar, reserved broth, and blood, and stir till the mixture is reddened with the spice paste. Bring to a simmer, cover, and cook for 30 minutes. Season to taste with salt"
+    ]
+  },
+  {
+    "recipeName": "Rarebit Pork Chops",
+    "ingredients": [
+      {
+        "food": "pork chops",
+        "quantity": 4,
+        "measure": "<unit>"
+      },
+      {
+        "food": "cheddar",
+        "quantity": 50,
+        "measure": "gram"
+      },
+      {
+        "food": "mustard",
+        "quantity": 2,
+        "measure": "teaspoon"
+      },
+      {
+        "food": "crème fraîche",
+        "quantity": 1,
+        "measure": "teaspoon"
+      }
+    ],
+    "healthLabels": [
+      "SugarConscious",
+      "KetoFriendly",
+      "GlutenFree",
+      "WheatFree",
+      "EggFree",
+      "PeanutFree",
+      "TreeNutFree",
+      "SoyFree",
+      "FishFree",
+      "ShellfishFree",
+      "CrustaceanFree",
+      "CeleryFree",
+      "SesameFree",
+      "LupineFree",
+      "MolluskFree",
+      "AlcoholFree",
+      "No oil added",
+      "SulfiteFree"
+    ],
+    "totalTime": 0,
+    "instructions": [
+      "pan fry the porkchops for 15 minutes or until done.",
+      "After mix remaining dishes in a bowl and spread on the meat.",
+      "serve."
+    ]
+  },
+  {
+    "recipeName": "Barbecued Pork",
+    "ingredients": [
+      {
+        "food": "pork loin",
+        "quantity": 1.5,
+        "measure": "pound"
+      },
+      {
+        "food": "hoisin sauce",
+        "quantity": 0.5,
+        "measure": "cup"
+      },
+      {
+        "food": "soy sauce",
+        "quantity": 2,
+        "measure": "tablespoon"
+      },
+      {
+        "food": "ketchup",
+        "quantity": 1.5,
+        "measure": "tablespoon"
+      },
+      {
+        "food": "garlic",
+        "quantity": 1,
+        "measure": "tablespoon"
+      },
+      {
+        "food": "water",
+        "quantity": 3,
+        "measure": "tablespoon"
+      }
+    ],
+    "healthLabels": [
+      "DairyFree",
+      "EggFree",
+      "PeanutFree",
+      "TreeNutFree",
+      "FishFree",
+      "ShellfishFree",
+      "CrustaceanFree",
+      "CeleryFree",
+      "MustardFree",
+      "SesameFree",
+      "LupineFree",
+      "MolluskFree",
+      "AlcoholFree",
+      "No oil added"
+    ],
+    "totalTime": 60,
+    "instructions": [
+      "Pan sear pork chops for color and put in oven on 400 for 40 minutes",
+      "Once finished, mix ingrdients and layer on meat and serve"
+    ]
+  },
+  {
+    "recipeName": "Pork Chops",
+    "ingredients": [
+      {
+        "food": "pork chops",
+        "quantity": 4,
+        "measure": "<unit>"
+      },
+      {
+        "food": "Salt",
+        "quantity": 0,
+        "measure": null
+      },
+      {
+        "food": "Pepper",
+        "quantity": 0,
+        "measure": null
+      },
+      {
+        "food": "jelly",
+        "quantity": 0.5,
+        "measure": "cup"
+      },
+      {
+        "food": "Dijon mustard",
+        "quantity": 2,
+        "measure": "tablespoon"
+      },
+      {
+        "food": "cider vinegar",
+        "quantity": 0.25,
+        "measure": "cup"
+      }
+    ],
+    "healthLabels": [
+      "DairyFree",
+      "GlutenFree",
+      "WheatFree",
+      "EggFree",
+      "PeanutFree",
+      "TreeNutFree",
+      "SoyFree",
+      "FishFree",
+      "ShellfishFree",
+      "CrustaceanFree",
+      "CeleryFree",
+      "SesameFree",
+      "LupineFree",
+      "MolluskFree",
+      "AlcoholFree",
+      "No oil added"
+    ],
+    "totalTime": 25,
+    "instructions": [
+      "Pat chops dry with a paper towel, they'll brown better. Sprinkle with salt and pepper.",
+      "Heat a large, stick-free skillet on medium high heat. Lightly brown the pork chops on both sides, for a minute or two each.",
+      "While the chops are browning, mix the red jelly with the mustard.",
+      "Once the chops are browned, reduce the heat of the pan to low. Dollop the sauce over the chops. Cover the pan. Cook for 5-10 minutes or until the pork is just cooked through (thick cuts may take longer).",
+      "Remove the pork chops from the pan. Add vinegar to the pan. Increase the heat to high and boil down the sauce, scraping up any browned bits from the bottom of the pan. Add any juices that have come out of the chops while they've been sitting back to the pan.",
+      "Serve the pork chops with the sauce spooned over them."
+    ]
+  },
+  {
+    "recipeName": "Pork rillons",
+    "ingredients": [
+      {
+        "food": "pork belly",
+        "quantity": 1,
+        "measure": "kilogram"
+      },
+      {
+        "food": "lard",
+        "quantity": 250,
+        "measure": "gram"
+      },
+      {
+        "food": "dry white wine",
+        "quantity": 250,
+        "measure": "milliliter"
+      },
+      {
+        "food": "bay leaves",
+        "quantity": 3,
+        "measure": "<unit>"
+      },
+      {
+        "food": "thyme",
+        "quantity": 1,
+        "measure": "sprig"
+      },
+      {
+        "food": "black peppercorns",
+        "quantity": 0,
+        "measure": null
+      },
+      {
+        "food": "garlic",
+        "quantity": 4,
+        "measure": "clove"
+      }
+    ],
+    "healthLabels": [
+      "SugarConscious",
+      "KidneyFriendly",
+      "KetoFriendly",
+      "Paleo",
+      "DairyFree",
+      "GlutenFree",
+      "WheatFree",
+      "EggFree",
+      "PeanutFree",
+      "TreeNutFree",
+      "SoyFree",
+      "FishFree",
+      "ShellfishFree",
+      "CrustaceanFree",
+      "CeleryFree",
+      "MustardFree",
+      "SesameFree",
+      "LupineFree",
+      "MolluskFree"
+    ],
+    "totalTime": 115,
+    "instructions": [
+      "sear pork belly. After mix ingredients and cook in a medium saucepan. Let come to a simmer then put pork in. Cook for 90 minutes and serve"
+    ]
+  },
+  {
+    "recipeName": "Pork Lomitos",
+    "ingredients": [
+      {
+        "food": "pork shoulder",
+        "quantity": 2,
+        "measure": "pound"
+      },
+      {
+        "food": "Salt",
+        "quantity": 0,
+        "measure": null
+      },
+      {
+        "food": "vegetable oil",
+        "quantity": 2,
+        "measure": "tablespoon"
+      },
+      {
+        "food": "white onion",
+        "quantity": 1,
+        "measure": "<unit>"
+      },
+      {
+        "food": "garlic",
+        "quantity": 5,
+        "measure": "clove"
+      },
+      {
+        "food": "diced tomatoes",
+        "quantity": 28,
+        "measure": "ounce"
+      },
+      {
+        "food": "chiles",
+        "quantity": 4,
+        "measure": "<unit>"
+      },
+      {
+        "food": "epazote",
+        "quantity": 1,
+        "measure": "sprig"
+      },
+      {
+        "food": "corn tortillas",
+        "quantity": 1,
+        "measure": "serving"
+      },
+      {
+        "food": "Red Onions",
+        "quantity": 0,
+        "measure": null
+      }
+    ],
+    "healthLabels": [
+      "DairyFree",
+      "GlutenFree",
+      "WheatFree",
+      "EggFree",
+      "PeanutFree",
+      "TreeNutFree",
+      "SoyFree",
+      "FishFree",
+      "ShellfishFree",
+      "CrustaceanFree",
+      "CeleryFree",
+      "MustardFree",
+      "SesameFree",
+      "LupineFree",
+      "MolluskFree",
+      "AlcoholFree",
+      "SulfiteFree"
+    ],
+    "totalTime": 280,
+    "instructions": [
+      "Pat the pork dry with a paper towel and sprinkle with salt. In a large (14-inch) skillet or the removable stovetop safe insert of your slow cooker, heat 2 tablespoons of lard or oil over medium high heat. Working in batches, brown the pork and transfer to a plate when finished, leaving behind as much fat as possible.",
+      "In the same pan, add the onion and cook until golden brown, about 8 minutes. Add the garlic and stir until fragrant, then return pork to the pan. In a blender, combine chiles, tomatoes and a little salt and pulse a few times, blending to a coarse puree. Add the tomato mixture to the pan, stir and transfer to slow cooker. Nestle in the epazote or cilantro. Cook on high for 4 hours. Taste and season with salt, usually about 2 teaspoons",
+      "Scoop into warm tortillas and garnish with pickled red onions."
+    ]
+  },
+  {
+    "recipeName": "Double-Pork Carnitas",
+    "ingredients": [
+      {
+        "food": "pork shoulder",
+        "quantity": 3,
+        "measure": "pound"
+      },
+      {
+        "food": "pork belly",
+        "quantity": 1,
+        "measure": "pound"
+      },
+      {
+        "food": "chicken stock",
+        "quantity": 1,
+        "measure": "cup"
+      },
+      {
+        "food": "kosher salt",
+        "quantity": 1,
+        "measure": "tablespoon"
+      },
+      {
+        "food": "black pepper",
+        "quantity": 1,
+        "measure": "teaspoon"
+      },
+      {
+        "food": "corn tortillas",
+        "quantity": 0,
+        "measure": null
+      },
+      {
+        "food": "white onion",
+        "quantity": 0,
+        "measure": null
+      },
+      {
+        "food": "lime",
+        "quantity": 0,
+        "measure": null
+      },
+      {
+        "food": "avocado",
+        "quantity": 0,
+        "measure": null
+      },
+      {
+        "food": "dried oregano",
+        "quantity": 0,
+        "measure": null
+      },
+      {
+        "food": "cilantro",
+        "quantity": 0,
+        "measure": null
+      },
+      {
+        "food": "cabbage",
+        "quantity": 0,
+        "measure": null
+      }
+    ],
+    "healthLabels": [
+      "DairyFree",
+      "GlutenFree",
+      "WheatFree",
+      "EggFree",
+      "PeanutFree",
+      "TreeNutFree",
+      "SoyFree",
+      "FishFree",
+      "ShellfishFree",
+      "CrustaceanFree",
+      "CeleryFree",
+      "MustardFree",
+      "SesameFree",
+      "LupineFree",
+      "MolluskFree",
+      "AlcoholFree",
+      "SulfiteFree"
+    ],
+    "totalTime": 60,
+    "instructions": [
+      "Put meat in oven on 400 and sear after for a total of 55 minutes",
+      "add to tortillas and serve"
+    ]
+  },
+  {
+    "recipeName": "Spicy Dr. Pepper Shredded Pork",
+    "ingredients": [
+      {
+        "food": "Onion",
+        "quantity": 1,
+        "measure": "<unit>"
+      },
+      {
+        "food": "Pork Shoulder",
+        "quantity": 1,
+        "measure": "<unit>"
+      },
+      {
+        "food": "Salt",
+        "quantity": 0,
+        "measure": null
+      },
+      {
+        "food": "Black Pepper",
+        "quantity": 0,
+        "measure": null
+      },
+      {
+        "food": "Chipotle Peppers In Adobo",
+        "quantity": 1,
+        "measure": "ounce"
+      },
+      {
+        "food": "Pepper",
+        "quantity": 1,
+        "measure": "drop"
+      },
+      {
+        "food": "Brown Sugar",
+        "quantity": 2,
+        "measure": "tablespoon"
+      }
+    ],
+    "healthLabels": [
+      "SugarConscious",
+      "KetoFriendly",
+      "DairyFree",
+      "GlutenFree",
+      "WheatFree",
+      "EggFree",
+      "PeanutFree",
+      "TreeNutFree",
+      "SoyFree",
+      "FishFree",
+      "ShellfishFree",
+      "CrustaceanFree",
+      "CeleryFree",
+      "MustardFree",
+      "SesameFree",
+      "LupineFree",
+      "MolluskFree",
+      "AlcoholFree",
+      "No oil added"
+    ],
+    "totalTime": 365,
+    "instructions": [
+      "Preheat the oven to 300 degrees. Peel the onion and cut it into wedges. Lay them in the bottom of a large dutch oven. Generously salt and pepper the pork roast, then set it on top of the onions in the pan. Pour the can of chipotle peppers over the pork (include the sauce.) Pour in both cans of Dr Pepper. Add brown sugar to the juice and stir in. ",
+      "Place lid tightly on pot, then set pot in the oven. Cook for at least six hours, turning roast two or three times during the cooking process. Check meat after six hours; it should be absolutely falling apart (use two forks to test.) If it's not falling apart, return to the oven for another hour. ",
+      "Remove meat from pot and place on a cutting board or other work surface. Use two forks to shred meat, discarding large pieces of fat. Strain as much of the fat off the top of the cooking liquid as you can and discard it. Return the shredded meat to the cooking liquid, and keep warm until ready to serve. (You can also refrigerate the meat and liquid separately, then remove hardened fat once it's cold. Then heat up the liquid on the stovetop and return the meat to the liquid to warm up. Serve on warm flour tortillas or hamburger buns. Top with shredded lettuce, diced tomatoes, grated cheese, avocado slices, salsa, and whatever else you'd like."
+    ]
+  }
+]

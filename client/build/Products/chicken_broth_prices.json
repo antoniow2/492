@@ -1,0 +1,114 @@
+{
+  "data": [
+    {
+      "productId": "0001111004969",
+      "brand": "Kroger",
+      "upc": "0001111004969",
+      "price": [
+        {
+          "regular": 1.49,
+          "promo": 1.25
+        }
+      ]
+    },
+    {
+      "productId": "0001111004970",
+      "brand": "Kroger",
+      "upc": "0001111004970",
+      "price": [
+        {
+          "regular": 1.49,
+          "promo": 1.25
+        }
+      ]
+    },
+    {
+      "productId": "0005260305425",
+      "brand": "Pacific Foods",
+      "upc": "0005260305425",
+      "price": [
+        {
+          "regular": 3.49,
+          "promo": 2.99
+        }
+      ]
+    },
+    {
+      "productId": "0001111073842",
+      "brand": "Kroger",
+      "upc": "0001111073842",
+      "price": [
+        {
+          "regular": 0.79,
+          "promo": 0.69
+        }
+      ]
+    },
+    {
+      "productId": "0001111004963",
+      "brand": "Simple Truth Organic",
+      "upc": "0001111004963",
+      "price": [
+        {
+          "regular": 2.19,
+          "promo": 1.67
+        }
+      ]
+    },
+    {
+      "productId": "0005100012114",
+      "brand": "Swanson",
+      "upc": "0005100012114",
+      "price": [
+        {
+          "regular": 2.99,
+          "promo": 2
+        }
+      ]
+    },
+    {
+      "productId": "0005100002431",
+      "brand": "Swanson",
+      "upc": "0005100002431",
+      "price": [
+        {
+          "regular": 1.33,
+          "promo": 1
+        }
+      ]
+    },
+    {
+      "productId": "0005100013279",
+      "brand": "Swanson",
+      "upc": "0005100013279",
+      "price": [
+        {
+          "regular": 2.99,
+          "promo": 2
+        }
+      ]
+    },
+    {
+      "productId": "0001111004962",
+      "brand": "Simple Truth Organic",
+      "upc": "0001111004962",
+      "price": [
+        {
+          "regular": 2.19,
+          "promo": 1.67
+        }
+      ]
+    },
+    {
+      "productId": "0001111008617",
+      "brand": "Simple Truth Organic",
+      "upc": "0001111008617",
+      "price": [
+        {
+          "regular": 3.99,
+          "promo": 0
+        }
+      ]
+    }
+  ]
+}

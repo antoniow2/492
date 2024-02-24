@@ -1,0 +1,15 @@
+{
+  "data": [
+    {
+      "productId": "0081794401132",
+      "brand": "Murray's",
+      "upc": "0081794401132",
+      "price": [
+        {
+          "regular": 6.99,
+          "promo": 0
+        }
+      ]
+    }
+  ]
+}

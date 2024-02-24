@@ -1,0 +1,570 @@
+[
+  {
+    "recipeName": "Skirt Steak and Hanger Steak",
+    "ingredients": [
+      {
+        "food": "skirt steak",
+        "quantity": 5.5,
+        "measure": "ounce"
+      },
+      {
+        "food": "Salt",
+        "quantity": 0,
+        "measure": null
+      },
+      {
+        "food": "olive oil",
+        "quantity": 0,
+        "measure": null
+      }
+    ],
+    "healthLabels": [
+      "SugarConscious",
+      "Low Sugar",
+      "KidneyFriendly",
+      "KetoFriendly",
+      "Paleo",
+      "DairyFree",
+      "GlutenFree",
+      "WheatFree",
+      "EggFree",
+      "PeanutFree",
+      "TreeNutFree",
+      "SoyFree",
+      "FishFree",
+      "ShellfishFree",
+      "PorkFree",
+      "CrustaceanFree",
+      "CeleryFree",
+      "MustardFree",
+      "SesameFree",
+      "LupineFree",
+      "MolluskFree",
+      "AlcoholFree",
+      "SulfiteFree",
+      "FODMAPFree",
+      "Kosher"
+    ],
+    "totalTime": 30,
+    "instructions": [
+      "Mix ingredients and back in oven on 400 for 30 minutes. Serve"
+    ]
+  },
+  {
+    "recipeName": "Salt-And-Pepper Steak",
+    "ingredients": [
+      {
+        "food": "skirt steak",
+        "quantity": 1.5,
+        "measure": "pound"
+      },
+      {
+        "food": "Salt",
+        "quantity": 0,
+        "measure": null
+      },
+      {
+        "food": "Pepper",
+        "quantity": 0,
+        "measure": null
+      }
+    ],
+    "healthLabels": [
+      "SugarConscious",
+      "KetoFriendly",
+      "Paleo",
+      "DairyFree",
+      "GlutenFree",
+      "WheatFree",
+      "EggFree",
+      "PeanutFree",
+      "TreeNutFree",
+      "SoyFree",
+      "FishFree",
+      "ShellfishFree",
+      "PorkFree",
+      "CrustaceanFree",
+      "CeleryFree",
+      "MustardFree",
+      "SesameFree",
+      "LupineFree",
+      "MolluskFree",
+      "AlcoholFree",
+      "No oil added",
+      "SulfiteFree",
+      "FODMAPFree",
+      "Kosher"
+    ],
+    "totalTime": 0
+  },
+  {
+    "recipeName": "Pan-Fried Steak",
+    "ingredients": [
+      {
+        "food": "shell steak",
+        "quantity": 1,
+        "measure": "<unit>"
+      },
+      {
+        "food": "Olive oil",
+        "quantity": 0,
+        "measure": null
+      },
+      {
+        "food": "Coarse salt",
+        "quantity": 0,
+        "measure": null
+      },
+      {
+        "food": "pepper",
+        "quantity": 0,
+        "measure": null
+      }
+    ],
+    "healthLabels": [
+      "SugarConscious",
+      "KidneyFriendly",
+      "KetoFriendly",
+      "Paleo",
+      "DairyFree",
+      "GlutenFree",
+      "WheatFree",
+      "EggFree",
+      "PeanutFree",
+      "TreeNutFree",
+      "SoyFree",
+      "FishFree",
+      "ShellfishFree",
+      "PorkFree",
+      "CrustaceanFree",
+      "CeleryFree",
+      "MustardFree",
+      "SesameFree",
+      "LupineFree",
+      "MolluskFree",
+      "AlcoholFree",
+      "SulfiteFree",
+      "FODMAPFree"
+    ],
+    "totalTime": 40,
+    "instructions": [
+      "Mix ingredients and sear on the stove for 20 minutes. Serve while hot."
+    ]
+  },
+  {
+    "recipeName": "Steak Bites",
+    "ingredients": [
+      {
+        "food": "Beef Tips",
+        "quantity": 1,
+        "measure": "pound"
+      },
+      {
+        "food": "Kosher Salt",
+        "quantity": 0,
+        "measure": null
+      },
+      {
+        "food": "Black Pepper",
+        "quantity": 0,
+        "measure": null
+      },
+      {
+        "food": "Butter",
+        "quantity": 2,
+        "measure": "tablespoon"
+      }
+    ],
+    "healthLabels": [
+      "SugarConscious",
+      "KetoFriendly",
+      "GlutenFree",
+      "WheatFree",
+      "EggFree",
+      "PeanutFree",
+      "TreeNutFree",
+      "SoyFree",
+      "FishFree",
+      "ShellfishFree",
+      "PorkFree",
+      "CrustaceanFree",
+      "CeleryFree",
+      "MustardFree",
+      "SesameFree",
+      "LupineFree",
+      "MolluskFree",
+      "AlcoholFree",
+      "SulfiteFree",
+      "FODMAPFree"
+    ],
+    "totalTime": 15,
+    "instructions": [
+      "Trim off the large obvious piece of fat that runs along the side of the meat. Next, cut strips less than 1-inch wide. Rotate the meat and cut into small bite-sized pieces. If you see any more large chunks of fat, gristle or long silvery membrane, cut them off.",
+      "Sprinkle generously with kosher salt and freshly ground pepper. Toss the meat around a bit to thoroughly coat with the seasonings.",
+      "Next, turn on your ventilation fan overhead. Heat the skillet over medium high to high heat. As the pan heats, add about 2 tablespoons butter to the skillet. Allow the butter to melt, then brown, before you add the meat",
+      "Place some of the meat in the pan in a single layer. It should sizzle loudly when it hits the pan – if it doesn’t, the pan isn’t hot enough. Don’t stir or disrupt the meat for 30-45 seconds. You want it to sizzle and brown on one side. Scoop as many steak bites as you can with your spatula and flip them over. Repeat until all the meat is turned. Cook for an additional 30 to 45 seconds—just long enough to sear the outside of the meat but NOT cook the inside.",
+      "Remove the meat to a clean plate. Add a little more butter to the pan and repeat the cooking process with the next batch just as before. Lastly, when all the meat is nicely browned and removed to the plate, pour all that browned/blackened butter all over the meat. And enjoy"
+    ]
+  },
+  {
+    "recipeName": "Rump steak",
+    "ingredients": [
+      {
+        "food": "rump steak",
+        "quantity": 400,
+        "measure": "gram"
+      },
+      {
+        "food": "sunflower oil",
+        "quantity": 1,
+        "measure": "tablespoon"
+      },
+      {
+        "food": "unsalted butter",
+        "quantity": 1,
+        "measure": "tablespoon"
+      },
+      {
+        "food": "garlic",
+        "quantity": 1,
+        "measure": "clove"
+      },
+      {
+        "food": "thyme",
+        "quantity": 1,
+        "measure": "sprig"
+      }
+    ],
+    "healthLabels": [
+      "SugarConscious",
+      "KetoFriendly",
+      "GlutenFree",
+      "WheatFree",
+      "EggFree",
+      "PeanutFree",
+      "TreeNutFree",
+      "SoyFree",
+      "FishFree",
+      "ShellfishFree",
+      "PorkFree",
+      "CrustaceanFree",
+      "CeleryFree",
+      "MustardFree",
+      "SesameFree",
+      "LupineFree",
+      "MolluskFree",
+      "AlcoholFree",
+      "SulfiteFree"
+    ],
+    "totalTime": 15,
+    "instructions": [
+      "Take the steaks out of the fridge 30 mins before cooking them. Pat them dry and season.",
+      "Heat a non-stick heavy-based frying pan over a very high heat. Drizzle in the oil, then add the butter, garlic and steaks, nestling the herbs around them. With a pair of tongs, turn the steaks every 30 secs to 1 min so they get a nice brown crust. As a rough guide, each steak will take 3 mins in total for rare, 4-5 mins in total for medium and 7-8 mins for well done. If you have a digital cooking thermometer, the middle of the steak should be 50C for rare, 60C for medium and 70C for well done. If your steak has a thick layer of fat running down the side, hold the steak on its side with a pair of tongs and push the fat into the pan for 2 mins or until golden brown.",
+      "Transfer the steak to a plate. Cover in foil and leave to rest for 5 mins before serving."
+    ]
+  },
+  {
+    "recipeName": "Steak Teriyaki recipes",
+    "ingredients": [
+      {
+        "food": "rice wine",
+        "quantity": 0.3333333333333333,
+        "measure": "cup"
+      },
+      {
+        "food": "sake",
+        "quantity": 0.3333333333333333,
+        "measure": "cup"
+      },
+      {
+        "food": "soy sauce",
+        "quantity": 0.3333333333333333,
+        "measure": "cup"
+      },
+      {
+        "food": "sugar",
+        "quantity": 1,
+        "measure": "tablespoon"
+      },
+      {
+        "food": "ginger",
+        "quantity": 1,
+        "measure": "tablespoon"
+      },
+      {
+        "food": "flank steak",
+        "quantity": 1.75,
+        "measure": "pound"
+      },
+      {
+        "food": "olive oil",
+        "quantity": 0,
+        "measure": null
+      }
+    ],
+    "healthLabels": [
+      "SugarConscious",
+      "KetoFriendly",
+      "DairyFree",
+      "EggFree",
+      "PeanutFree",
+      "TreeNutFree",
+      "FishFree",
+      "ShellfishFree",
+      "PorkFree",
+      "CrustaceanFree",
+      "CeleryFree",
+      "MustardFree",
+      "SesameFree",
+      "LupineFree",
+      "MolluskFree",
+      "Kosher"
+    ],
+    "totalTime": 75
+  },
+  {
+    "recipeName": "Perfect Porterhouse Steak recipes",
+    "ingredients": [
+      {
+        "food": "Porterhouse steak",
+        "quantity": 2,
+        "measure": "pound"
+      },
+      {
+        "food": "vegetable oil",
+        "quantity": 0,
+        "measure": null
+      },
+      {
+        "food": "black pepper",
+        "quantity": 0,
+        "measure": null
+      },
+      {
+        "food": "kosher salt",
+        "quantity": 0,
+        "measure": null
+      },
+      {
+        "food": "unsalted butter",
+        "quantity": 0,
+        "measure": null
+      }
+    ],
+    "healthLabels": [
+      "SugarConscious",
+      "KetoFriendly",
+      "GlutenFree",
+      "WheatFree",
+      "EggFree",
+      "PeanutFree",
+      "TreeNutFree",
+      "SoyFree",
+      "FishFree",
+      "ShellfishFree",
+      "PorkFree",
+      "CrustaceanFree",
+      "CeleryFree",
+      "MustardFree",
+      "SesameFree",
+      "LupineFree",
+      "MolluskFree",
+      "AlcoholFree",
+      "SulfiteFree",
+      "FODMAPFree"
+    ],
+    "totalTime": 100,
+    "instructions": [
+      "Combine the mirin, sake, soy sauce, sugar, and grated ginger in a large, shallow bowl. Place the steak in the marinade and let marinate for at least an hour, and up to 48 hours. If marinating for more than an hour, keep chilled until an hour before you plan to cook.",
+      "When ready to cook, remove steak from marinade, reserving the marinade. Place steak on a plate and set aside. Place marinade in a saucepan and bring to a boil. Boil for 10 minutes, or until the marinade has reduced to a thin glaze, becoming your teriyaki sauce.",
+      "If grilling the steak, prepare your grill for high, direct heat and oil the grill grates. If pan frying, heat a large cast iron pan on high heat. Pat dry the steak. Rub a little olive oil all over it. Place the steak on the hot grill or pan. Sear for 3 to 5 minutes on one side, or until the side is well browned, and turn the steak over and sear the other side.",
+      "Baste the steak with teriyaki sauce.",
+      "When the steak is well seared on both sides, remove from the heat, cover with foil, and let rest for 10 to 15 minutes."
+    ]
+  },
+  {
+    "recipeName": "Vietnamese Sugar Steak",
+    "ingredients": [
+      {
+        "food": "fish sauce",
+        "quantity": 4,
+        "measure": "tablespoon"
+      },
+      {
+        "food": "brown sugar",
+        "quantity": 2,
+        "measure": "tablespoon"
+      },
+      {
+        "food": "lime juice",
+        "quantity": 3,
+        "measure": "tablespoon"
+      },
+      {
+        "food": "garlic",
+        "quantity": 1,
+        "measure": "tablespoon"
+      },
+      {
+        "food": "flap steak",
+        "quantity": 1,
+        "measure": "pound"
+      },
+      {
+        "food": "butter",
+        "quantity": 1,
+        "measure": "tablespoon"
+      }
+    ],
+    "healthLabels": [
+      "KetoFriendly",
+      "GlutenFree",
+      "WheatFree",
+      "EggFree",
+      "PeanutFree",
+      "TreeNutFree",
+      "SoyFree",
+      "ShellfishFree",
+      "PorkFree",
+      "CeleryFree",
+      "MustardFree",
+      "SesameFree",
+      "LupineFree",
+      "AlcoholFree"
+    ],
+    "totalTime": 100,
+    "instructions": [
+      "In a large bowl, mix the fish sauce, brown sugar, 2 tablespoons of the lime juice, and garlic. Place the steak in the bowl to marinate and cover with plastic wrap. Place in the refrigerator for at least 30 minutes, or up to 4 hours.",
+      "Remove the steak from the refrigerator and allow it to return to room temperature, about 30 minutes. Reserving the marinade, remove the steak from the bowl.",
+      "Over a grill or in a cast-iron skillet over high heat, grill the steak for 3 to 4 minutes per side, until medium-rare.",
+      "Allow the steak rest for 10 minutes, then slice it thinly across the grain. Add the remaining tablespoon of lime juice to the marinade and pour it into a saucepan. Cook over medium heat until slightly reduced, about 4 minutes. Once it's warm, swirl in the butter for extra deliciousness, if desired. Serve steak with sauce at the side."
+    ]
+  },
+  {
+    "recipeName": "Sous-vide steak",
+    "ingredients": [
+      {
+        "food": "New York strip steak",
+        "quantity": 16,
+        "measure": "ounce"
+      },
+      {
+        "food": "Salt",
+        "quantity": 0,
+        "measure": null
+      },
+      {
+        "food": "Canola oil",
+        "quantity": 0,
+        "measure": null
+      },
+      {
+        "food": "garlic",
+        "quantity": 1,
+        "measure": "clove"
+      },
+      {
+        "food": "thyme",
+        "quantity": 1,
+        "measure": "sprig"
+      }
+    ],
+    "healthLabels": [
+      "SugarConscious",
+      "KetoFriendly",
+      "DairyFree",
+      "GlutenFree",
+      "WheatFree",
+      "EggFree",
+      "PeanutFree",
+      "TreeNutFree",
+      "SoyFree",
+      "FishFree",
+      "ShellfishFree",
+      "PorkFree",
+      "CrustaceanFree",
+      "CeleryFree",
+      "MustardFree",
+      "SesameFree",
+      "LupineFree",
+      "MolluskFree",
+      "AlcoholFree",
+      "SulfiteFree"
+    ],
+    "totalTime": 0
+  },
+  {
+    "recipeName": "Stir-fry Pepper Steak",
+    "ingredients": [
+      {
+        "food": "flank steak",
+        "quantity": 1,
+        "measure": "pound"
+      },
+      {
+        "food": "green peppers",
+        "quantity": 2,
+        "measure": "pepper"
+      },
+      {
+        "food": "garlic",
+        "quantity": 1,
+        "measure": "tablespoon"
+      },
+      {
+        "food": "ginger",
+        "quantity": 1,
+        "measure": "tablespoon"
+      },
+      {
+        "food": "light soy sauce",
+        "quantity": 1,
+        "measure": "tablespoon"
+      },
+      {
+        "food": "wine",
+        "quantity": 2,
+        "measure": "tablespoon"
+      },
+      {
+        "food": "cornstarch",
+        "quantity": 1,
+        "measure": "tablespoon"
+      },
+      {
+        "food": "vegetable oil",
+        "quantity": 1,
+        "measure": "tablespoon"
+      },
+      {
+        "food": "vegetable oil",
+        "quantity": 3,
+        "measure": "tablespoon"
+      }
+    ],
+    "healthLabels": [
+      "SugarConscious",
+      "KetoFriendly",
+      "DairyFree",
+      "EggFree",
+      "PeanutFree",
+      "TreeNutFree",
+      "FishFree",
+      "ShellfishFree",
+      "PorkFree",
+      "CrustaceanFree",
+      "CeleryFree",
+      "MustardFree",
+      "SesameFree",
+      "LupineFree",
+      "MolluskFree",
+      "Kosher"
+    ],
+    "totalTime": 60,
+    "instructions": [
+      "Season the steak on both sides with a pinch of salt.",
+      "Heat a grill pan over high heat until it is smoking and then brush lightly with canola oil. Place the steak in the pan and cook just until dark grill marks appear -- about 60 seconds. Rotate the steak to create a crosshatch pattern and repeat on the second side.",
+      "Follow the zip bag instructions at left, using a 5 0/50 blend of canola oil and olive oil to submerge the steak, thyme and garlic. Cook in a water bath at 139 degrees for 45 minutes. When finished, remove the steak from the oil and allow it to rest and drain on paper towels. Discard the oil. Slice and serve."
+    ]
+  }
+]

@@ -1,0 +1,99 @@
+{
+  "data": [
+    {
+      "productId": "0005210000451",
+      "brand": "McCormick",
+      "upc": "0005210000451",
+      "price": [
+        null
+      ]
+    },
+    {
+      "productId": "0008983600379",
+      "brand": "Frontier Natural Products Co-op",
+      "upc": "0008983600379",
+      "price": [
+        {
+          "regular": 16,
+          "promo": 0
+        }
+      ]
+    },
+    {
+      "productId": "0008983618468",
+      "brand": "Frontier Natural Products Co-op",
+      "upc": "0008983618468",
+      "price": [
+        null
+      ]
+    },
+    {
+      "productId": "0001111068413",
+      "brand": "Kroger",
+      "upc": "0001111068413",
+      "price": [
+        {
+          "regular": 3.49,
+          "promo": 3.49
+        }
+      ]
+    },
+    {
+      "productId": "0008983618610",
+      "brand": "Simply Organic",
+      "upc": "0008983618610",
+      "price": [
+        null
+      ]
+    },
+    {
+      "productId": "0008983600189",
+      "brand": "Frontier Natural Products Co-op",
+      "upc": "0008983600189",
+      "price": [
+        null
+      ]
+    },
+    {
+      "productId": "0001111001886",
+      "brand": "Simple Truth Organic",
+      "upc": "0001111001886",
+      "price": [
+        {
+          "regular": 2.49,
+          "promo": 0
+        }
+      ]
+    },
+    {
+      "productId": "0005210082793",
+      "brand": "McCormick",
+      "upc": "0005210082793",
+      "price": [
+        null
+      ]
+    },
+    {
+      "productId": "0001111074484",
+      "brand": "Private Selection",
+      "upc": "0001111074484",
+      "price": [
+        {
+          "regular": 4.99,
+          "promo": 0
+        }
+      ]
+    },
+    {
+      "productId": "0001111002404",
+      "brand": "Simple Truth Organic",
+      "upc": "0001111002404",
+      "price": [
+        {
+          "regular": 3.49,
+          "promo": 0
+        }
+      ]
+    }
+  ]
+}

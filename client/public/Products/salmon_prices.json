@@ -1,0 +1,115 @@
+{
+  "data": [
+    {
+      "productId": "0026859340000",
+      "upc": "0026859340000",
+      "price": [
+        {
+          "regular": 11.99,
+          "promo": 0,
+          "regularPerUnitEstimate": 11.99
+        }
+      ]
+    },
+    {
+      "productId": "0023858840000",
+      "upc": "0023858840000",
+      "price": [
+        {
+          "regular": 9.99,
+          "promo": 0,
+          "regularPerUnitEstimate": 9.99
+        }
+      ]
+    },
+    {
+      "productId": "0001111096164",
+      "brand": "Kroger",
+      "upc": "0001111096164",
+      "price": [
+        {
+          "regular": 12.49,
+          "promo": 8.49
+        }
+      ]
+    },
+    {
+      "productId": "0073114951527",
+      "brand": "Aqua Star",
+      "upc": "0073114951527",
+      "price": [
+        {
+          "regular": 12.49,
+          "promo": 7.99
+        }
+      ]
+    },
+    {
+      "productId": "0026917340000",
+      "upc": "0026917340000",
+      "price": [
+        {
+          "regular": 11.99,
+          "promo": 0
+        }
+      ]
+    },
+    {
+      "productId": "0001111096661",
+      "brand": "Kroger",
+      "upc": "0001111096661",
+      "price": [
+        {
+          "regular": 15.99,
+          "promo": 12.99
+        }
+      ]
+    },
+    {
+      "productId": "0026910540000",
+      "upc": "0026910540000",
+      "price": [
+        {
+          "regular": 12.99,
+          "promo": 9.99,
+          "regularPerUnitEstimate": 12.99,
+          "promoPerUnitEstimate": 9.99
+        }
+      ]
+    },
+    {
+      "productId": "0001111077990",
+      "brand": "Kroger",
+      "upc": "0001111077990",
+      "price": [
+        {
+          "regular": 14.99,
+          "promo": 12.99
+        }
+      ]
+    },
+    {
+      "productId": "0021544150000",
+      "brand": "Packer",
+      "upc": "0021544150000",
+      "price": [
+        {
+          "regular": 9.99,
+          "promo": 0,
+          "regularPerUnitEstimate": 9.99
+        }
+      ]
+    },
+    {
+      "productId": "0001529219985",
+      "brand": "SeaPak",
+      "upc": "0001529219985",
+      "price": [
+        {
+          "regular": 9.99,
+          "promo": 0
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,114 @@
+{
+  "data": [
+    {
+      "productId": "0004135150216",
+      "brand": "Cinnamon Toast Crunch",
+      "upc": "0004135150216",
+      "price": [
+        {
+          "regular": 3.49,
+          "promo": 3
+        }
+      ]
+    },
+    {
+      "productId": "0001111072972",
+      "brand": "Private Selection",
+      "upc": "0001111072972",
+      "price": [
+        {
+          "regular": 3.99,
+          "promo": 0
+        }
+      ]
+    },
+    {
+      "productId": "0001111002561",
+      "brand": "Private Selection",
+      "upc": "0001111002561",
+      "price": [
+        {
+          "regular": 5.99,
+          "promo": 0
+        }
+      ]
+    },
+    {
+      "productId": "0001111002396",
+      "brand": "Simple Truth Organic",
+      "upc": "0001111002396",
+      "price": [
+        {
+          "regular": 3.49,
+          "promo": 0
+        }
+      ]
+    },
+    {
+      "productId": "0001732400226",
+      "brand": "Spice Islands",
+      "upc": "0001732400226",
+      "price": [
+        {
+          "regular": 7.49,
+          "promo": 7.49
+        }
+      ]
+    },
+    {
+      "productId": "0005210000438",
+      "brand": "McCormick",
+      "upc": "0005210000438",
+      "price": [
+        {
+          "regular": 3.99,
+          "promo": 3.49
+        }
+      ]
+    },
+    {
+      "productId": "0001111068274",
+      "brand": "Kroger",
+      "upc": "0001111068274",
+      "price": [
+        {
+          "regular": 4.29,
+          "promo": 4.29
+        }
+      ]
+    },
+    {
+      "productId": "0001111068252",
+      "brand": "Kroger",
+      "upc": "0001111068252",
+      "price": [
+        {
+          "regular": 2.49,
+          "promo": 2.49
+        }
+      ]
+    },
+    {
+      "productId": "0001111011748",
+      "brand": "Smart Way",
+      "upc": "0001111011748",
+      "price": [
+        {
+          "regular": 1.25,
+          "promo": 0
+        }
+      ]
+    },
+    {
+      "productId": "0001111000315",
+      "brand": "Kroger",
+      "upc": "0001111000315",
+      "price": [
+        {
+          "regular": 4.49,
+          "promo": 0
+        }
+      ]
+    }
+  ]
+}

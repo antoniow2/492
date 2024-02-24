@@ -1,0 +1,109 @@
+{
+  "data": [
+    {
+      "productId": "0007766111521",
+      "brand": "Litehouse",
+      "upc": "0007766111521",
+      "price": [
+        {
+          "regular": 6.99,
+          "promo": 6.49
+        }
+      ]
+    },
+    {
+      "productId": "0000000004889",
+      "upc": "0000000004889",
+      "price": [
+        {
+          "regular": 0.99,
+          "promo": 0
+        }
+      ]
+    },
+    {
+      "productId": "0087520800065",
+      "brand": "Gourmet Garden",
+      "upc": "0087520800065",
+      "price": [
+        {
+          "regular": 4.99,
+          "promo": 4.79
+        }
+      ]
+    },
+    {
+      "productId": "0001111001814",
+      "brand": "Simple Truth Organic",
+      "upc": "0001111001814",
+      "price": [
+        {
+          "regular": 2.49,
+          "promo": 0
+        }
+      ]
+    },
+    {
+      "productId": "0005210000838",
+      "brand": "McCormick",
+      "upc": "0005210000838",
+      "price": [
+        {
+          "regular": 4.99,
+          "promo": 4.49
+        }
+      ]
+    },
+    {
+      "productId": "0008983618324",
+      "brand": "Frontier Natural Products Co-op",
+      "upc": "0008983618324",
+      "price": [
+        null
+      ]
+    },
+    {
+      "productId": "0087520800123",
+      "brand": "Gourmet Garden",
+      "upc": "0087520800123",
+      "price": [
+        {
+          "regular": 4.99,
+          "promo": 4.79
+        }
+      ]
+    },
+    {
+      "productId": "0001732400225",
+      "brand": "Spice Islands",
+      "upc": "0001732400225",
+      "price": [
+        {
+          "regular": 6.49,
+          "promo": 6.49
+        }
+      ]
+    },
+    {
+      "productId": "0001111000298",
+      "brand": "Kroger",
+      "upc": "0001111000298",
+      "price": [
+        {
+          "regular": 2.29,
+          "promo": 2.29
+        }
+      ]
+    },
+    {
+      "productId": "0000000094889",
+      "upc": "0000000094889",
+      "price": [
+        {
+          "regular": 1.69,
+          "promo": 0
+        }
+      ]
+    }
+  ]
+}

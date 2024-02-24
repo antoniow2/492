@@ -1,0 +1,114 @@
+{
+  "data": [
+    {
+      "productId": "0078735910380",
+      "brand": "Fresh Gourmet",
+      "upc": "0078735910380",
+      "price": [
+        {
+          "regular": 1.99,
+          "promo": 1.25
+        }
+      ]
+    },
+    {
+      "productId": "0001111081353",
+      "brand": "Kroger",
+      "upc": "0001111081353",
+      "price": [
+        {
+          "regular": 1.39,
+          "promo": 0
+        }
+      ]
+    },
+    {
+      "productId": "0001111081364",
+      "brand": "Kroger",
+      "upc": "0001111081364",
+      "price": [
+        {
+          "regular": 1.39,
+          "promo": 0
+        }
+      ]
+    },
+    {
+      "productId": "0007020001065",
+      "brand": "New York Bakery",
+      "upc": "0007020001065",
+      "price": [
+        {
+          "regular": 1.99,
+          "promo": 0
+        }
+      ]
+    },
+    {
+      "productId": "0001111081357",
+      "brand": "Kroger",
+      "upc": "0001111081357",
+      "price": [
+        {
+          "regular": 1.39,
+          "promo": 0
+        }
+      ]
+    },
+    {
+      "productId": "0008663178332",
+      "brand": "Olive Garden",
+      "upc": "0008663178332",
+      "price": [
+        {
+          "regular": 2.69,
+          "promo": 2
+        }
+      ]
+    },
+    {
+      "productId": "0001111081359",
+      "brand": "Kroger",
+      "upc": "0001111081359",
+      "price": [
+        {
+          "regular": 1.39,
+          "promo": 0
+        }
+      ]
+    },
+    {
+      "productId": "0001111086330",
+      "brand": "Simple Truth Organic",
+      "upc": "0001111086330",
+      "price": [
+        {
+          "regular": 1.99,
+          "promo": 0
+        }
+      ]
+    },
+    {
+      "productId": "0001111086356",
+      "brand": "Simple Truth Organic",
+      "upc": "0001111086356",
+      "price": [
+        {
+          "regular": 1.99,
+          "promo": 0
+        }
+      ]
+    },
+    {
+      "productId": "0001111081352",
+      "brand": "Kroger",
+      "upc": "0001111081352",
+      "price": [
+        {
+          "regular": 1.39,
+          "promo": 0
+        }
+      ]
+    }
+  ]
+}

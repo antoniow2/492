@@ -1,0 +1,790 @@
+[
+  {
+    "recipeName": "Individual vegetarian lasagnes",
+    "ingredients": [
+      {
+        "food": "cherry tomatoes",
+        "quantity": 1.2000000476837158,
+        "measure": "kilogram"
+      },
+      {
+        "food": "fresh thyme",
+        "quantity": 5,
+        "measure": "sprig"
+      },
+      {
+        "food": "extra virgin olive oil",
+        "quantity": 0,
+        "measure": null
+      },
+      {
+        "food": "shallots",
+        "quantity": 2,
+        "measure": "<unit>"
+      },
+      {
+        "food": "garlic",
+        "quantity": 2,
+        "measure": "clove"
+      },
+      {
+        "food": "spinach",
+        "quantity": 500,
+        "measure": "gram"
+      },
+      {
+        "food": "lasagne",
+        "quantity": 10,
+        "measure": "sheet"
+      },
+      {
+        "food": "ricotta cheese",
+        "quantity": 350,
+        "measure": "gram"
+      },
+      {
+        "food": "milk",
+        "quantity": 600,
+        "measure": "milliliter"
+      },
+      {
+        "food": "unsalted butter",
+        "quantity": 25,
+        "measure": "gram"
+      },
+      {
+        "food": "flour",
+        "quantity": 2,
+        "measure": "tablespoon"
+      },
+      {
+        "food": "cheese",
+        "quantity": 150,
+        "measure": "gram"
+      },
+      {
+        "food": "mozzarella",
+        "quantity": 100,
+        "measure": "gram"
+      }
+    ],
+    "healthLabels": [
+      "Vegetarian",
+      "Pescatarian",
+      "Egg-Free",
+      "Peanut-Free",
+      "Tree-Nut-Free",
+      "Soy-Free",
+      "Fish-Free",
+      "Shellfish-Free",
+      "Pork-Free",
+      "Red-Meat-Free",
+      "Crustacean-Free",
+      "Celery-Free",
+      "Mustard-Free",
+      "Sesame-Free",
+      "Lupine-Free",
+      "Mollusk-Free",
+      "Alcohol-Free",
+      "Sulfite-Free",
+      "Kosher",
+      "Immuno-Supportive"
+    ],
+    "totalTime": 130,
+    "instructions": [
+      "Heat an oven to 325°F. \n",
+      "Cook lasagne noodles in a pot on the stove with salt water. \n",
+      "Add the ingredients to a mixing bowl and mix in between the layers of noodles.\n",
+      "Put in the oven and bake for 40 minutes. Serve."
+    ]
+  },
+  {
+    "recipeName": "Vegetarian Stir-Fried Garlic Scape",
+    "ingredients": [
+      {
+        "food": "garlic scapes",
+        "quantity": 8,
+        "measure": "ounce"
+      },
+      {
+        "food": "corn",
+        "quantity": 3,
+        "measure": "ounce"
+      },
+      {
+        "food": "carrots",
+        "quantity": 3,
+        "measure": "ounce"
+      },
+      {
+        "food": "dried shiitake mushrooms",
+        "quantity": 1,
+        "measure": "ounce"
+      },
+      {
+        "food": "garlic",
+        "quantity": 1,
+        "measure": "clove"
+      },
+      {
+        "food": "ginger root",
+        "quantity": 3,
+        "measure": "slice"
+      },
+      {
+        "food": "vegetable oil",
+        "quantity": 2,
+        "measure": "tablespoon"
+      },
+      {
+        "food": "cooking wine",
+        "quantity": 0.25,
+        "measure": "cup"
+      },
+      {
+        "food": "stock",
+        "quantity": 0,
+        "measure": null
+      },
+      {
+        "food": "light soy sauce",
+        "quantity": 1,
+        "measure": "tablespoon"
+      },
+      {
+        "food": "sugar",
+        "quantity": 1,
+        "measure": "teaspoon"
+      },
+      {
+        "food": "cornstarch",
+        "quantity": 1,
+        "measure": "teaspoon"
+      },
+      {
+        "food": "white pepper",
+        "quantity": 0.25,
+        "measure": "teaspoon"
+      }
+    ],
+    "healthLabels": [
+      "Dairy-Free",
+      "Egg-Free",
+      "Peanut-Free",
+      "Tree-Nut-Free",
+      "Fish-Free",
+      "Shellfish-Free",
+      "Pork-Free",
+      "Red-Meat-Free",
+      "Crustacean-Free",
+      "Celery-Free",
+      "Mustard-Free",
+      "Sesame-Free",
+      "Lupine-Free",
+      "Mollusk-Free",
+      "Kosher"
+    ],
+    "totalTime": 30,
+    "instructions": [
+      "Heat a pot on the stove. \n",
+      "Add the ingredients to a mixing bowl and mix. Put them in the pot. \n",
+      "Put in the pot and cook for 20 minutes. Serve."
+    ]
+  },
+  {
+    "recipeName": "Cheat’s cheesy focaccia",
+    "ingredients": [
+      {
+        "food": "bread mix",
+        "quantity": 500,
+        "measure": "gram"
+      },
+      {
+        "food": "olive oil",
+        "quantity": 2,
+        "measure": "tablespoon"
+      },
+      {
+        "food": "parmesan",
+        "quantity": 25,
+        "measure": "gram"
+      },
+      {
+        "food": "cheese",
+        "quantity": 75,
+        "measure": "gram"
+      }
+    ],
+    "healthLabels": [
+      "Low Potassium",
+      "Vegetarian",
+      "Pescatarian",
+      "Egg-Free",
+      "Peanut-Free",
+      "Tree-Nut-Free",
+      "Soy-Free",
+      "Fish-Free",
+      "Shellfish-Free",
+      "Pork-Free",
+      "Red-Meat-Free",
+      "Crustacean-Free",
+      "Celery-Free",
+      "Mustard-Free",
+      "Sesame-Free",
+      "Lupine-Free",
+      "Mollusk-Free",
+      "Alcohol-Free",
+      "Sulfite-Free",
+      "FODMAP-Free",
+      "Kosher"
+    ],
+    "totalTime": 40,
+    "instructions": [
+      "Heat an oven to 325°F. \n",
+      "Add the ingredients to a mixing bowl and mix.\n",
+      "Put in the oven and bake for 30 minutes. Serve."
+    ]
+  },
+  {
+    "recipeName": "Vegetarian Shepherd's Pie",
+    "ingredients": [
+      {
+        "food": "extra-virgin olive oil",
+        "quantity": 2,
+        "measure": "tablespoon"
+      },
+      {
+        "food": "onion",
+        "quantity": 1,
+        "measure": "<unit>"
+      },
+      {
+        "food": "carrots",
+        "quantity": 2,
+        "measure": "<unit>"
+      },
+      {
+        "food": "celery",
+        "quantity": 2,
+        "measure": "stalk"
+      },
+      {
+        "food": "cremini mushrooms",
+        "quantity": 10,
+        "measure": "ounce"
+      },
+      {
+        "food": "tomato paste",
+        "quantity": 1,
+        "measure": "tablespoon"
+      },
+      {
+        "food": "Worcestershire sauce",
+        "quantity": 1,
+        "measure": "tablespoon"
+      },
+      {
+        "food": "bay leaf",
+        "quantity": 1,
+        "measure": "<unit>"
+      },
+      {
+        "food": "green lentils",
+        "quantity": 1,
+        "measure": "cup"
+      },
+      {
+        "food": "Kosher salt",
+        "quantity": 0,
+        "measure": null
+      },
+      {
+        "food": "pepper",
+        "quantity": 0,
+        "measure": null
+      },
+      {
+        "food": "frozen peas",
+        "quantity": 1,
+        "measure": "cup"
+      },
+      {
+        "food": "Yukon Gold potatoes",
+        "quantity": 2,
+        "measure": "pound"
+      },
+      {
+        "food": "garlic",
+        "quantity": 4,
+        "measure": "clove"
+      },
+      {
+        "food": "unsalted butter",
+        "quantity": 4,
+        "measure": "tablespoon"
+      },
+      {
+        "food": "whole milk",
+        "quantity": 0.5,
+        "measure": "cup"
+      }
+    ],
+    "healthLabels": [
+      "Vegetarian",
+      "Egg-Free",
+      "Peanut-Free",
+      "Tree-Nut-Free",
+      "Soy-Free",
+      "Shellfish-Free",
+      "Pork-Free",
+      "Red-Meat-Free",
+      "Crustacean-Free",
+      "Mustard-Free",
+      "Sesame-Free",
+      "Lupine-Free",
+      "Mollusk-Free",
+      "Alcohol-Free",
+      "Sulfite-Free",
+      "Kosher"
+    ],
+    "totalTime": 140,
+    "instructions": [
+      "Heat an oven to 325°F. \n",
+      "Stir fry all ingredients seperately and well until done.\n",
+      "Put in the oven and bake for 135 minutes. Serve."
+    ]
+  },
+  {
+    "recipeName": "Vegetarian Gumbo",
+    "ingredients": [
+      {
+        "food": "clarified butter",
+        "quantity": 1,
+        "measure": "cup"
+      },
+      {
+        "food": "all-purpose flour",
+        "quantity": 1,
+        "measure": "cup"
+      },
+      {
+        "food": "yellow onion",
+        "quantity": 5,
+        "measure": "cup"
+      },
+      {
+        "food": "green bell pepper",
+        "quantity": 0.75,
+        "measure": "cup"
+      },
+      {
+        "food": "fine-grain sea salt",
+        "quantity": 0.5,
+        "measure": "teaspoon"
+      },
+      {
+        "food": "garlic",
+        "quantity": 0.25,
+        "measure": "cup"
+      },
+      {
+        "food": "red pepper flakes",
+        "quantity": 0.5,
+        "measure": "teaspoon"
+      },
+      {
+        "food": "bay leaves",
+        "quantity": 2,
+        "measure": "<unit>"
+      },
+      {
+        "food": "vegetable broth",
+        "quantity": 3.5,
+        "measure": "quart"
+      },
+      {
+        "food": "green onions",
+        "quantity": 1,
+        "measure": "bunch"
+      },
+      {
+        "food": "eggs",
+        "quantity": 7,
+        "measure": "<unit>"
+      },
+      {
+        "food": "brown basmati rice",
+        "quantity": 5.5,
+        "measure": "cup"
+      }
+    ],
+    "healthLabels": [
+      "Vegetarian",
+      "Pescatarian",
+      "Peanut-Free",
+      "Tree-Nut-Free",
+      "Soy-Free",
+      "Fish-Free",
+      "Shellfish-Free",
+      "Pork-Free",
+      "Red-Meat-Free",
+      "Crustacean-Free",
+      "Celery-Free",
+      "Mustard-Free",
+      "Sesame-Free",
+      "Lupine-Free",
+      "Mollusk-Free",
+      "Alcohol-Free",
+      "No oil added",
+      "Sulfite-Free",
+      "Kosher"
+    ],
+    "totalTime": 70,
+    "instructions": [
+      "Heat an oven to 325°F. \n",
+      "Make the roux. Make the other ingredients. Mix in bowl.\n",
+      "Put in the oven and bake for 60 minutes. Serve."
+    ]
+  },
+  {
+    "recipeName": "Breakfast Burritos With Vegetarian Sausage",
+    "ingredients": [
+      {
+        "food": "egg whites",
+        "quantity": 2,
+        "measure": "<unit>"
+      },
+      {
+        "food": "vegetarian sausage",
+        "quantity": 4,
+        "measure": "link"
+      },
+      {
+        "food": "whole-wheat tortillas",
+        "quantity": 4,
+        "measure": "<unit>"
+      },
+      {
+        "food": "scallions",
+        "quantity": 2,
+        "measure": "<unit>"
+      },
+      {
+        "food": "avocado",
+        "quantity": 1,
+        "measure": "<unit>"
+      },
+      {
+        "food": "tomato",
+        "quantity": 1,
+        "measure": "<unit>"
+      },
+      {
+        "food": "sour cream",
+        "quantity": 0.25,
+        "measure": "cup"
+      }
+    ],
+    "healthLabels": [
+      "Sugar-Conscious",
+      "Vegetarian",
+      "Mediterranean",
+      "Peanut-Free",
+      "Tree-Nut-Free",
+      "Fish-Free",
+      "Shellfish-Free",
+      "Pork-Free",
+      "Red-Meat-Free",
+      "Crustacean-Free",
+      "Celery-Free",
+      "Mustard-Free",
+      "Sesame-Free",
+      "Lupine-Free",
+      "Mollusk-Free",
+      "Alcohol-Free",
+      "Sulfite-Free",
+      "Kosher"
+    ],
+    "totalTime": 11,
+    "instructions": [
+      "Heat an oven to 325°F. \n",
+      "Cook all ingredients until done. Layer on the tortilla and wrap.\n",
+      "Put in the oven and bake for 6 minutes. Serve."
+    ]
+  },
+  {
+    "recipeName": "Vegetarian Poutine",
+    "ingredients": [
+      {
+        "food": "Russet potatoes",
+        "quantity": 4,
+        "measure": "<unit>"
+      },
+      {
+        "food": "olive oil",
+        "quantity": 3,
+        "measure": "tablespoon"
+      },
+      {
+        "food": "butter",
+        "quantity": 2,
+        "measure": "tablespoon"
+      },
+      {
+        "food": "all-purpose flour",
+        "quantity": 2,
+        "measure": "tablespoon"
+      },
+      {
+        "food": "vegetable stock",
+        "quantity": 1,
+        "measure": "cup"
+      },
+      {
+        "food": "curds",
+        "quantity": 0.5,
+        "measure": "pound"
+      }
+    ],
+    "healthLabels": [
+      "Sugar-Conscious",
+      "Vegetarian",
+      "Pescatarian",
+      "Egg-Free",
+      "Peanut-Free",
+      "Tree-Nut-Free",
+      "Soy-Free",
+      "Fish-Free",
+      "Shellfish-Free",
+      "Pork-Free",
+      "Red-Meat-Free",
+      "Crustacean-Free",
+      "Celery-Free",
+      "Mustard-Free",
+      "Sesame-Free",
+      "Lupine-Free",
+      "Mollusk-Free",
+      "Alcohol-Free",
+      "Sulfite-Free",
+      "Kosher"
+    ],
+    "totalTime": 40,
+    "instructions": [
+      "Heat an oven to 325°F. \n",
+      "Add the ingredients to a mixing bowl and mix. Put in oven bowl. \n",
+      "Put in the oven and bake for 30 minutes. Serve."
+    ]
+  },
+  {
+    "recipeName": "Vegetarian Thai Red Curry",
+    "ingredients": [
+      {
+        "food": "coconut milk",
+        "quantity": 14,
+        "measure": "ounce"
+      },
+      {
+        "food": "Thai red curry paste",
+        "quantity": 2,
+        "measure": "tablespoon"
+      },
+      {
+        "food": "sweet potatoes",
+        "quantity": 1,
+        "measure": "pound"
+      },
+      {
+        "food": "water",
+        "quantity": 2,
+        "measure": "cup"
+      },
+      {
+        "food": "asparagus",
+        "quantity": 1,
+        "measure": "bunch"
+      },
+      {
+        "food": "bird chiles",
+        "quantity": 2,
+        "measure": "chile"
+      },
+      {
+        "food": "lime leaves",
+        "quantity": 2,
+        "measure": "<unit>"
+      },
+      {
+        "food": "dandelion greens",
+        "quantity": 2,
+        "measure": "cup"
+      },
+      {
+        "food": "Thai basil",
+        "quantity": 0.5,
+        "measure": "leaf"
+      },
+      {
+        "food": "salt",
+        "quantity": 0.25,
+        "measure": "teaspoon"
+      }
+    ],
+    "healthLabels": [
+      "Vegan",
+      "Vegetarian",
+      "Pescatarian",
+      "Dairy-Free",
+      "Gluten-Free",
+      "Wheat-Free",
+      "Egg-Free",
+      "Peanut-Free",
+      "Soy-Free",
+      "Fish-Free",
+      "Shellfish-Free",
+      "Pork-Free",
+      "Red-Meat-Free",
+      "Crustacean-Free",
+      "Celery-Free",
+      "Mustard-Free",
+      "Sesame-Free",
+      "Lupine-Free",
+      "Mollusk-Free",
+      "Alcohol-Free",
+      "Sulfite-Free",
+      "Kosher"
+    ],
+    "totalTime": 30,
+    "instructions": [
+      "Heat an oven to 325°F. \n",
+      "Add the ingredients to a oven safe bowl and mix.\n",
+      "Put in the oven and bake for 20 minutes. Serve."
+    ]
+  },
+  {
+    "recipeName": "Zucchini With Thyme",
+    "ingredients": [
+      {
+        "food": "olive oil",
+        "quantity": 2,
+        "measure": "tablespoon"
+      },
+      {
+        "food": "unsalted butter",
+        "quantity": 1.5,
+        "measure": "tablespoon"
+      },
+      {
+        "food": "onion",
+        "quantity": 0.25,
+        "measure": "cup"
+      },
+      {
+        "food": "parsley",
+        "quantity": 0.25,
+        "measure": "cup"
+      },
+      {
+        "food": "zucchini",
+        "quantity": 1,
+        "measure": "pound"
+      },
+      {
+        "food": "beef bouillon cube",
+        "quantity": 1,
+        "measure": "<unit>"
+      },
+      {
+        "food": "dried thyme",
+        "quantity": 1,
+        "measure": "teaspoon"
+      },
+      {
+        "food": "Salt",
+        "quantity": 0,
+        "measure": null
+      },
+      {
+        "food": "pepper",
+        "quantity": 0,
+        "measure": null
+      }
+    ],
+    "healthLabels": [
+      "Sugar-Conscious",
+      "Keto-Friendly",
+      "Gluten-Free",
+      "Wheat-Free",
+      "Egg-Free",
+      "Peanut-Free",
+      "Tree-Nut-Free",
+      "Soy-Free",
+      "Fish-Free",
+      "Shellfish-Free",
+      "Pork-Free",
+      "Crustacean-Free",
+      "Celery-Free",
+      "Mustard-Free",
+      "Sesame-Free",
+      "Lupine-Free",
+      "Mollusk-Free",
+      "Alcohol-Free",
+      "Sulfite-Free"
+    ],
+    "totalTime": 5,
+    "instructions": [
+      "Add the ingredients to a mixing bowl and mix on cut veggies.\n",
+      "Serve."
+    ]
+  },
+  {
+    "recipeName": "Vegetarian Bagel",
+    "ingredients": [
+      {
+        "food": "Bagel",
+        "quantity": 1,
+        "measure": "<unit>"
+      },
+      {
+        "food": "Cream Cheese",
+        "quantity": 1,
+        "measure": "<unit>"
+      },
+      {
+        "food": "Tomato",
+        "quantity": 1,
+        "measure": "<unit>"
+      },
+      {
+        "food": "cheese",
+        "quantity": 2,
+        "measure": "<unit>"
+      }
+    ],
+    "healthLabels": [
+      "Vegetarian",
+      "Pescatarian",
+      "Mediterranean",
+      "Egg-Free",
+      "Peanut-Free",
+      "Tree-Nut-Free",
+      "Soy-Free",
+      "Fish-Free",
+      "Shellfish-Free",
+      "Pork-Free",
+      "Red-Meat-Free",
+      "Crustacean-Free",
+      "Celery-Free",
+      "Mustard-Free",
+      "Lupine-Free",
+      "Mollusk-Free",
+      "Alcohol-Free",
+      "Sulfite-Free",
+      "Kosher"
+    ],
+    "totalTime": 10,
+    "instructions": [
+      "Add the ingredients to a mixing bowl and mix on bagel.\n",
+      "Serve."
+    ]
+  }
+]

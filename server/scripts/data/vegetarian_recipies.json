@@ -1,0 +1,1559 @@
+[
+  {
+    "label": "Individual vegetarian lasagnes",
+    "url": "http://www.jamieoliver.com/recipes/vegetables-recipes/individual-vegetarian-lasagnes/",
+    "ingredients": [
+      {
+        "text": "1.2 kg cherry tomatoes",
+        "quantity": 1.2000000476837158,
+        "measure": "kilogram",
+        "food": "cherry tomatoes",
+        "weight": 1200.0000476837158,
+        "foodCategory": "vegetables",
+        "foodId": "food_a30b0hpbvavginafe0tocbf6ymje",
+        "image": "https://www.edamam.com/food-img/23e/23e727a14f1035bdc2733bb0477efbd2.jpg"
+      },
+      {
+        "text": "5 sprigs of fresh thyme",
+        "quantity": 5,
+        "measure": "sprig",
+        "food": "fresh thyme",
+        "weight": 15,
+        "foodCategory": "Condiments and sauces",
+        "foodId": "food_b3o3cj7a5gskecb0ufphtadnbfqb",
+        "image": "https://www.edamam.com/food-img/3e7/3e7cf3c8d767a90b906447f5e74059f7.jpg"
+      },
+      {
+        "text": "extra virgin olive oil",
+        "quantity": 0,
+        "measure": null,
+        "food": "extra virgin olive oil",
+        "weight": 45.541556840751845,
+        "foodCategory": "Oils",
+        "foodId": "food_b1d1icuad3iktrbqby0hiagafaz7",
+        "image": "https://www.edamam.com/food-img/4d6/4d651eaa8a353647746290c7a9b29d84.jpg"
+      },
+      {
+        "text": "2 shallots",
+        "quantity": 2,
+        "measure": "<unit>",
+        "food": "shallots",
+        "weight": 118.22222222222223,
+        "foodCategory": "vegetables",
+        "foodId": "food_bu2ver7a5f52dfap8q9f0bn085qb",
+        "image": "https://www.edamam.com/food-img/d23/d23e3be21df05e9e16c05eadb12341e7.jpeg"
+      },
+      {
+        "text": "2 cloves of garlic",
+        "quantity": 2,
+        "measure": "clove",
+        "food": "garlic",
+        "weight": 6,
+        "foodCategory": "vegetables",
+        "foodId": "food_avtcmx6bgjv1jvay6s6stan8dnyp",
+        "image": "https://www.edamam.com/food-img/6ee/6ee142951f48aaf94f4312409f8d133d.jpg"
+      },
+      {
+        "text": "500 g baby spinach",
+        "quantity": 500,
+        "measure": "gram",
+        "food": "spinach",
+        "weight": 500,
+        "foodCategory": "vegetables",
+        "foodId": "food_aoceuc6bshdej1bbsdammbnj6l6o",
+        "image": "https://www.edamam.com/food-img/e6e/e6e4be375c4554ce01c8ea75232efaa6.jpg"
+      },
+      {
+        "text": "8-12 fresh or dried lasagne sheets",
+        "quantity": 10,
+        "measure": "sheet",
+        "food": "lasagne",
+        "weight": 250,
+        "foodCategory": "grains",
+        "foodId": "food_a8hs60uayl5icia1qe8qoba1kwp8",
+        "image": "https://www.edamam.com/food-img/296/296ff2b02ef3822928c3c923e22c7d19.jpg"
+      },
+      {
+        "text": "350 g ricotta cheese",
+        "quantity": 350,
+        "measure": "gram",
+        "food": "ricotta cheese",
+        "weight": 350,
+        "foodCategory": "Cheese",
+        "foodId": "food_ahhgiwga1i8qo9bcvoa6wbi3xybg",
+        "image": "https://www.edamam.com/food-img/fc4/fc42636b63848462aea5f5930c2b6268.jpg"
+      },
+      {
+        "text": "600 ml milk",
+        "quantity": 600,
+        "measure": "milliliter",
+        "food": "milk",
+        "weight": 618.7966154437269,
+        "foodCategory": "Milk",
+        "foodId": "food_b49rs1kaw0jktabzkg2vvanvvsis",
+        "image": "https://www.edamam.com/food-img/7c9/7c9962acf83654a8d98ea6a2ade93735.jpg"
+      },
+      {
+        "text": "25 g unsalted butter",
+        "quantity": 25,
+        "measure": "gram",
+        "food": "unsalted butter",
+        "weight": 25,
+        "foodCategory": "Dairy",
+        "foodId": "food_awz3iefajbk1fwahq9logahmgltj",
+        "image": "https://www.edamam.com/food-img/713/71397239b670d88c04faa8d05035cab4.jpg"
+      },
+      {
+        "text": "2 heaped tablespoons flour",
+        "quantity": 2,
+        "measure": "tablespoon",
+        "food": "flour",
+        "weight": 15.624999999735829,
+        "foodCategory": "grains",
+        "foodId": "food_ahebfs0a985an4aubqaebbipra58",
+        "image": "https://www.edamam.com/food-img/b4c/b4c739e76a6f2172b7ad49d0aa41d5aa.jpg"
+      },
+      {
+        "text": "150 g vegetarian sharp, mature cheese",
+        "quantity": 150,
+        "measure": "gram",
+        "food": "cheese",
+        "weight": 150,
+        "foodCategory": "Cheese",
+        "foodId": "food_bhppgmha1u27voagb8eptbp9g376",
+        "image": "https://www.edamam.com/food-img/bcd/bcd94dde1fcde1475b5bf0540f821c5d.jpg"
+      },
+      {
+        "text": "100 g mozzarella",
+        "quantity": 100,
+        "measure": "gram",
+        "food": "mozzarella",
+        "weight": 100,
+        "foodCategory": "Cheese",
+        "foodId": "food_am27cpgbcz7639bm3uvx0ai1xhrs",
+        "image": "https://www.edamam.com/food-img/03e/03ec3a4d46bec5634dc8a352804e4e68.jpg"
+      }
+    ],
+    "uri": "http://www.edamam.com/ontologies/edamam.owl#recipe_8aa9509b03ebfa96681f7700dd591677",
+    "image": "https://edamam-product-images.s3.amazonaws.com/web-img/775/7757b08b70371bcb03d3c10199e70e77.jpg?X-Amz-Security-Token=IQoJb3JpZ2luX2VjEGoaCXVzLWVhc3QtMSJHMEUCIFIil1jd5NHOSvMOKXmiga%2F7CRpL9SqT90pjzpQvMpS1AiEA9ABMxynDIYnPNFSoTb7ZMBckcrDLvv4e6dtYzK1N0iIqwgUIs%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FARAAGgwxODcwMTcxNTA5ODYiDJ0JUiSQioeZN09KpyqWBVe1sbdKBl4lqNSDGR5UVO8dIqqE5WJuXebdX3lZD4OaGW51LWKTCCXZuBKs2ISuKPh91m2%2BsZ6ktPbGE2AhkybcxwieCVK%2BK7l84Bj24ywSDZsP1yn%2FPQvPSOPdtnqKR68nmtPicbTTb2iN1fNYmLpy0S%2FnwrF8mkwdmHhvUaEbcAUyjMHohThRkgvTO7TCgSpOGWKVTQEFsLHvsgi4bWMGi1ZtCdznqWdnvOSGhPIQKiLCFUVTI1oRtogKh0lqCDL4eD4Xt5720oaytX%2FzK60NnLdU6s2vGCG9kL1rEzM1fp%2FYqaRoi9XQXp3hj79AyZsUJuPSW2wBsyauTTAprw9V0oSJ%2BkgyFsGc7Ge21I74u8u%2BUNk7NGsVmUYeMeKK6TI%2B0Rjmc6gRjNT%2FzDhfv7vJG7pMLWR%2FOUMWNa9yQUISZ8lh6vjj0kkFOzMlze5lBdHr%2FnWvNqWN3MkH70GXWEsIEh43bVc1guPIoprq%2Bu47idhxaAzP1HurGLQr7p64dzS9lpwPYzY6lcy%2FURRoDKTRQG4E%2FCEP5VCwURQtf7DgsBTBfS1SBxALeyc8mv8DNadhiSKCTJIn%2BIy5cJE6p56IH%2FPy%2BLDoFKWBjEyTq%2B485casZ1GZkBnH8U522cCwhIpNLcykX%2F4wNUr86O6r5UklISiFuq1Fd0yu9W3z6zJUJ4XVYRI9130kMvqmT%2FWXqW8YAlY3uDF32GhawMfgb7KSBBrnSCeHfWshej%2BfYfsb%2FLLReGZxgMPqGgbsfZYqxDpHj6ybFJVzSw6l8QriLDoi8oT9adjEPELXp0rV5YgcHAyQDtWXjZ99CXlSqj0bLUoeo8aQQjTT8V8rzygz0yXkostwb4FyfVN5cyxFoE1S0FloEdNSMKW24KoGOrEBFDB4UqY3hmGXzAo%2Bg1EAXCZSzy18Zg6aqXEnnaM9l2m9b6ZdoEhKpA3zaGpQeiK72d9loW2TJU%2FxVT11CkQoWJnc5vc%2BvEAEWhFcrNhGRjVyEL68aqO6lD%2FuH94JxctuAJ2UWf%2BJsGDngPUA01yn%2B8aRAjoZ6PyU1JWIWSrw9CbhMr8XDOwYorTcKjT1xK76ZXfjU6C%2FWO%2BB8Ahq6zvqxZM3%2F4GQPiRkwzYuKPC78a5%2B&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Date=20231118T030529Z&X-Amz-SignedHeaders=host&X-Amz-Expires=3600&X-Amz-Credential=ASIASXCYXIIFLO2MWB7Q%2F20231118%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Signature=470a95ea73d6d31e75aeef34e6aeebd558102a642f5cb61abe095a6daea3a783",
+    "source": "Jamie Oliver",
+    "shareAs": "http://www.edamam.com/recipe/individual-vegetarian-lasagnes-8aa9509b03ebfa96681f7700dd591677/vegetarian",
+    "yield": 4,
+    "dietLabels": [
+      "High-Fiber"
+    ],
+    "healthLabels": [
+      "Vegetarian",
+      "Pescatarian",
+      "Egg-Free",
+      "Peanut-Free",
+      "Tree-Nut-Free",
+      "Soy-Free",
+      "Fish-Free",
+      "Shellfish-Free",
+      "Pork-Free",
+      "Red-Meat-Free",
+      "Crustacean-Free",
+      "Celery-Free",
+      "Mustard-Free",
+      "Sesame-Free",
+      "Lupine-Free",
+      "Mollusk-Free",
+      "Alcohol-Free",
+      "Sulfite-Free",
+      "Kosher",
+      "Immuno-Supportive"
+    ],
+    "cautions": [
+      "Sulfites"
+    ],
+    "ingredientLines": [
+      "1.2 kg cherry tomatoes",
+      "5 sprigs of fresh thyme",
+      "extra virgin olive oil",
+      "2 shallots",
+      "2 cloves of garlic",
+      "500 g baby spinach",
+      "8-12 fresh or dried lasagne sheets",
+      "350 g ricotta cheese",
+      "WHITE SAUCE",
+      "600 ml milk",
+      "25 g unsalted butter",
+      "2 heaped tablespoons flour",
+      "150 g vegetarian sharp, mature cheese",
+      "100 g mozzarella"
+    ],
+    "calories": 3812.3883064750266,
+    "totalWeight": 3394.1854421901526,
+    "totalTime": 130,
+    "cuisineType": [
+      "italian"
+    ],
+    "mealType": [
+      "lunch/dinner"
+    ],
+    "dishType": [
+      "main course"
+    ]
+  },
+  {
+    "label": "Vegetarian Stir-Fried Garlic Scape",
+    "url": "http://redcook.net/2010/06/16/garlic-scape-an-off-menu-treat/",
+    "ingredients": [
+      {
+        "text": "8 oz. garlic scapes",
+        "quantity": 8,
+        "measure": "ounce",
+        "food": "garlic scapes",
+        "weight": 226.796185,
+        "foodCategory": "vegetables",
+        "foodId": "food_avtcmx6bgjv1jvay6s6stan8dnyp",
+        "image": "https://www.edamam.com/food-img/6ee/6ee142951f48aaf94f4312409f8d133d.jpg"
+      },
+      {
+        "text": "3 oz. baby corn",
+        "quantity": 3,
+        "measure": "ounce",
+        "food": "corn",
+        "weight": 85.048569375,
+        "foodCategory": "vegetables",
+        "foodId": "food_b4wvre6b14mmkpaa22d8ybup8q51",
+        "image": "https://www.edamam.com/food-img/eb5/eb5e11afb9f697720b2de2e0e0e27d8d.jpg"
+      },
+      {
+        "text": "3 oz. carrots",
+        "quantity": 3,
+        "measure": "ounce",
+        "food": "carrots",
+        "weight": 85.048569375,
+        "foodCategory": "vegetables",
+        "foodId": "food_ai215e5b85pdh5ajd4aafa3w2zm8",
+        "image": "https://www.edamam.com/food-img/121/121e33fce0bb9546ed7d060b6c114e29.jpg"
+      },
+      {
+        "text": "1 oz. dried shiitake mushrooms",
+        "quantity": 1,
+        "measure": "ounce",
+        "food": "dried shiitake mushrooms",
+        "weight": 28.349523125,
+        "foodCategory": "vegetables",
+        "foodId": "food_aws03zlajqq28lbdbg3r2azowyac",
+        "image": "https://www.edamam.com/food-img/34e/34e3396564deed18766b5e7d2b987bd0.jpg"
+      },
+      {
+        "text": "1 clove of garlic sliced thinly",
+        "quantity": 1,
+        "measure": "clove",
+        "food": "garlic",
+        "weight": 3,
+        "foodCategory": "vegetables",
+        "foodId": "food_avtcmx6bgjv1jvay6s6stan8dnyp",
+        "image": "https://www.edamam.com/food-img/6ee/6ee142951f48aaf94f4312409f8d133d.jpg"
+      },
+      {
+        "text": "3 slices of fresh ginger root",
+        "quantity": 3,
+        "measure": "slice",
+        "food": "ginger root",
+        "weight": 6.6000000000000005,
+        "foodCategory": "vegetables",
+        "foodId": "food_bi2ki2xb5zmmvbaiwf7ztbgktzp6",
+        "image": "https://www.edamam.com/food-img/b9c/b9c06ef451ef29513880af0a53ebbaa6.jpg"
+      },
+      {
+        "text": "2 tablespoons vegetable oil",
+        "quantity": 2,
+        "measure": "tablespoon",
+        "food": "vegetable oil",
+        "weight": 28,
+        "foodCategory": "Oils",
+        "foodId": "food_bt1mzi2ah2sfg8bv7no1qai83w8s",
+        "image": "https://www.edamam.com/food-img/6e5/6e51a63a6300a8ea1b4c4cc68dfaba33.jpg"
+      },
+      {
+        "text": "1/4 cup shaoxing cooking wine",
+        "quantity": 0.25,
+        "measure": "cup",
+        "food": "cooking wine",
+        "weight": 58,
+        "foodCategory": "condiments and sauces",
+        "foodId": "food_aq719loafmwh5zbwk47zlaydv3i4",
+        "image": "https://www.edamam.com/food-img/342/342a6f60c0a0114a29035556c7ce9da1.jpg"
+      },
+      {
+        "text": "1/4 vegetarian stock or water",
+        "quantity": 0,
+        "measure": null,
+        "food": "stock",
+        "weight": 108.50190270836043,
+        "foodCategory": "canned soup",
+        "foodId": "food_bptblvzambd16nbhewqmhaw1rnh5",
+        "image": "https://www.edamam.com/food-img/26a/26a10c4cb4e07bab54d8a687ef5ac7d8.jpg"
+      },
+      {
+        "text": "1 tablespoon light soy sauce",
+        "quantity": 1,
+        "measure": "tablespoon",
+        "food": "light soy sauce",
+        "weight": 14.2,
+        "foodCategory": "plant-based protein",
+        "foodId": "food_af8xwhdbq4vg0tbqfqjysafu339b",
+        "image": "https://www.edamam.com/food-img/4bc/4bccc4c294a8dddb62020c62935e6fd8.jpg"
+      },
+      {
+        "text": "1 teaspoon sugar",
+        "quantity": 1,
+        "measure": "teaspoon",
+        "food": "sugar",
+        "weight": 4.2,
+        "foodCategory": "sugars",
+        "foodId": "food_axi2ijobrk819yb0adceobnhm1c2",
+        "image": "https://www.edamam.com/food-img/ecb/ecb3f5aaed96d0188c21b8369be07765.jpg"
+      },
+      {
+        "text": "1 teaspoon cornstarch",
+        "quantity": 1,
+        "measure": "teaspoon",
+        "food": "cornstarch",
+        "weight": 2.66666666680192,
+        "foodCategory": "grains",
+        "foodId": "food_a6r17hrba37cqeabesko5a2gk233",
+        "image": "https://www.edamam.com/food-img/f9b/f9b74d9495b40c0aea955c37a1fc39dc.jpg"
+      },
+      {
+        "text": "1/4 teaspoon ground white pepper",
+        "quantity": 0.25,
+        "measure": "teaspoon",
+        "food": "white pepper",
+        "weight": 0.6,
+        "foodCategory": "Condiments and sauces",
+        "foodId": "food_a443px0bncpqa5avv80p3anrp26k",
+        "image": "https://www.edamam.com/food-img/4f0/4f0e35fe6c042996408b337fb550324a.jpg"
+      }
+    ],
+    "uri": "http://www.edamam.com/ontologies/edamam.owl#recipe_c64bbbcafa1c486c95d94dc1a99b14f9",
+    "image": "https://edamam-product-images.s3.amazonaws.com/web-img/33e/33e894ef1df09575df1f8fdb348d6d9a.png?X-Amz-Security-Token=IQoJb3JpZ2luX2VjEGoaCXVzLWVhc3QtMSJHMEUCIFIil1jd5NHOSvMOKXmiga%2F7CRpL9SqT90pjzpQvMpS1AiEA9ABMxynDIYnPNFSoTb7ZMBckcrDLvv4e6dtYzK1N0iIqwgUIs%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FARAAGgwxODcwMTcxNTA5ODYiDJ0JUiSQioeZN09KpyqWBVe1sbdKBl4lqNSDGR5UVO8dIqqE5WJuXebdX3lZD4OaGW51LWKTCCXZuBKs2ISuKPh91m2%2BsZ6ktPbGE2AhkybcxwieCVK%2BK7l84Bj24ywSDZsP1yn%2FPQvPSOPdtnqKR68nmtPicbTTb2iN1fNYmLpy0S%2FnwrF8mkwdmHhvUaEbcAUyjMHohThRkgvTO7TCgSpOGWKVTQEFsLHvsgi4bWMGi1ZtCdznqWdnvOSGhPIQKiLCFUVTI1oRtogKh0lqCDL4eD4Xt5720oaytX%2FzK60NnLdU6s2vGCG9kL1rEzM1fp%2FYqaRoi9XQXp3hj79AyZsUJuPSW2wBsyauTTAprw9V0oSJ%2BkgyFsGc7Ge21I74u8u%2BUNk7NGsVmUYeMeKK6TI%2B0Rjmc6gRjNT%2FzDhfv7vJG7pMLWR%2FOUMWNa9yQUISZ8lh6vjj0kkFOzMlze5lBdHr%2FnWvNqWN3MkH70GXWEsIEh43bVc1guPIoprq%2Bu47idhxaAzP1HurGLQr7p64dzS9lpwPYzY6lcy%2FURRoDKTRQG4E%2FCEP5VCwURQtf7DgsBTBfS1SBxALeyc8mv8DNadhiSKCTJIn%2BIy5cJE6p56IH%2FPy%2BLDoFKWBjEyTq%2B485casZ1GZkBnH8U522cCwhIpNLcykX%2F4wNUr86O6r5UklISiFuq1Fd0yu9W3z6zJUJ4XVYRI9130kMvqmT%2FWXqW8YAlY3uDF32GhawMfgb7KSBBrnSCeHfWshej%2BfYfsb%2FLLReGZxgMPqGgbsfZYqxDpHj6ybFJVzSw6l8QriLDoi8oT9adjEPELXp0rV5YgcHAyQDtWXjZ99CXlSqj0bLUoeo8aQQjTT8V8rzygz0yXkostwb4FyfVN5cyxFoE1S0FloEdNSMKW24KoGOrEBFDB4UqY3hmGXzAo%2Bg1EAXCZSzy18Zg6aqXEnnaM9l2m9b6ZdoEhKpA3zaGpQeiK72d9loW2TJU%2FxVT11CkQoWJnc5vc%2BvEAEWhFcrNhGRjVyEL68aqO6lD%2FuH94JxctuAJ2UWf%2BJsGDngPUA01yn%2B8aRAjoZ6PyU1JWIWSrw9CbhMr8XDOwYorTcKjT1xK76ZXfjU6C%2FWO%2BB8Ahq6zvqxZM3%2F4GQPiRkwzYuKPC78a5%2B&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Date=20231118T030529Z&X-Amz-SignedHeaders=host&X-Amz-Expires=3600&X-Amz-Credential=ASIASXCYXIIFLO2MWB7Q%2F20231118%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Signature=bdac5e1a4a1b5bd50934c4866634e89d537918116e947e835e25c85260938066",
+    "source": "Red Cook",
+    "shareAs": "http://www.edamam.com/recipe/vegetarian-stir-fried-garlic-scape-c64bbbcafa1c486c95d94dc1a99b14f9/vegetarian",
+    "yield": 4,
+    "dietLabels": [
+      "Balanced"
+    ],
+    "healthLabels": [
+      "Dairy-Free",
+      "Egg-Free",
+      "Peanut-Free",
+      "Tree-Nut-Free",
+      "Fish-Free",
+      "Shellfish-Free",
+      "Pork-Free",
+      "Red-Meat-Free",
+      "Crustacean-Free",
+      "Celery-Free",
+      "Mustard-Free",
+      "Sesame-Free",
+      "Lupine-Free",
+      "Mollusk-Free",
+      "Kosher"
+    ],
+    "cautions": [
+      "Gluten",
+      "Wheat",
+      "Sulfites"
+    ],
+    "ingredientLines": [
+      "8 oz. garlic scapes",
+      "3 oz. baby corn",
+      "3 oz. carrots",
+      "1 oz. dried shiitake mushrooms",
+      "1 clove of garlic sliced thinly",
+      "3 slices of fresh ginger root",
+      "2 tablespoons vegetable oil",
+      "1/4 cup shaoxing cooking wine",
+      "1/4 vegetarian stock or water",
+      "1 tablespoon light soy sauce",
+      "1 teaspoon sugar",
+      "1 teaspoon cornstarch",
+      "1/4 teaspoon ground white pepper"
+    ],
+    "calories": 891.4672721817751,
+    "totalWeight": 651.0114162501625,
+    "totalTime": 30,
+    "cuisineType": [
+      "chinese"
+    ],
+    "mealType": [
+      "lunch/dinner"
+    ],
+    "dishType": [
+      "main course"
+    ]
+  },
+  {
+    "label": "Cheat’s cheesy focaccia",
+    "url": "https://www.bbcgoodfood.com/recipes/cheats-cheesy-focaccia",
+    "ingredients": [
+      {
+        "text": "500g pack bread mix",
+        "quantity": 500,
+        "measure": "gram",
+        "food": "bread mix",
+        "weight": 500,
+        "foodCategory": "grains",
+        "foodId": "food_bq9xyjcbffze0tao2b3z8a646cp3",
+        "image": "https://www.edamam.com/food-img/cac/cac9a071d5da19d9c8b8af9ddaa9a186.jpg"
+      },
+      {
+        "text": "2 tbsp olive oil , plus a little extra for drizzling",
+        "quantity": 2,
+        "measure": "tablespoon",
+        "food": "olive oil",
+        "weight": 27,
+        "foodCategory": "Oils",
+        "foodId": "food_b1d1icuad3iktrbqby0hiagafaz7",
+        "image": "https://www.edamam.com/food-img/4d6/4d651eaa8a353647746290c7a9b29d84.jpg"
+      },
+      {
+        "text": "25g parmesan (or vegetarian alternative), grated",
+        "quantity": 25,
+        "measure": "gram",
+        "food": "parmesan",
+        "weight": 25,
+        "foodCategory": "Cheese",
+        "foodId": "food_a104ppxa06d3emb272fkcab3cugd",
+        "image": "https://www.edamam.com/food-img/f58/f588658627c59d5041e4664119829aa9.jpg"
+      },
+      {
+        "text": "75g dolcelatte cheese (or vegetarian alternative)",
+        "quantity": 75,
+        "measure": "gram",
+        "food": "cheese",
+        "weight": 75,
+        "foodCategory": "Cheese",
+        "foodId": "food_bhppgmha1u27voagb8eptbp9g376",
+        "image": "https://www.edamam.com/food-img/bcd/bcd94dde1fcde1475b5bf0540f821c5d.jpg"
+      }
+    ],
+    "uri": "http://www.edamam.com/ontologies/edamam.owl#recipe_6e2166a21a489a3eaaa2ee904920a3e1",
+    "image": "https://edamam-product-images.s3.amazonaws.com/web-img/a0d/a0de55b3acb75e928429104489b0bfd6.jpg?X-Amz-Security-Token=IQoJb3JpZ2luX2VjEGoaCXVzLWVhc3QtMSJHMEUCIFIil1jd5NHOSvMOKXmiga%2F7CRpL9SqT90pjzpQvMpS1AiEA9ABMxynDIYnPNFSoTb7ZMBckcrDLvv4e6dtYzK1N0iIqwgUIs%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FARAAGgwxODcwMTcxNTA5ODYiDJ0JUiSQioeZN09KpyqWBVe1sbdKBl4lqNSDGR5UVO8dIqqE5WJuXebdX3lZD4OaGW51LWKTCCXZuBKs2ISuKPh91m2%2BsZ6ktPbGE2AhkybcxwieCVK%2BK7l84Bj24ywSDZsP1yn%2FPQvPSOPdtnqKR68nmtPicbTTb2iN1fNYmLpy0S%2FnwrF8mkwdmHhvUaEbcAUyjMHohThRkgvTO7TCgSpOGWKVTQEFsLHvsgi4bWMGi1ZtCdznqWdnvOSGhPIQKiLCFUVTI1oRtogKh0lqCDL4eD4Xt5720oaytX%2FzK60NnLdU6s2vGCG9kL1rEzM1fp%2FYqaRoi9XQXp3hj79AyZsUJuPSW2wBsyauTTAprw9V0oSJ%2BkgyFsGc7Ge21I74u8u%2BUNk7NGsVmUYeMeKK6TI%2B0Rjmc6gRjNT%2FzDhfv7vJG7pMLWR%2FOUMWNa9yQUISZ8lh6vjj0kkFOzMlze5lBdHr%2FnWvNqWN3MkH70GXWEsIEh43bVc1guPIoprq%2Bu47idhxaAzP1HurGLQr7p64dzS9lpwPYzY6lcy%2FURRoDKTRQG4E%2FCEP5VCwURQtf7DgsBTBfS1SBxALeyc8mv8DNadhiSKCTJIn%2BIy5cJE6p56IH%2FPy%2BLDoFKWBjEyTq%2B485casZ1GZkBnH8U522cCwhIpNLcykX%2F4wNUr86O6r5UklISiFuq1Fd0yu9W3z6zJUJ4XVYRI9130kMvqmT%2FWXqW8YAlY3uDF32GhawMfgb7KSBBrnSCeHfWshej%2BfYfsb%2FLLReGZxgMPqGgbsfZYqxDpHj6ybFJVzSw6l8QriLDoi8oT9adjEPELXp0rV5YgcHAyQDtWXjZ99CXlSqj0bLUoeo8aQQjTT8V8rzygz0yXkostwb4FyfVN5cyxFoE1S0FloEdNSMKW24KoGOrEBFDB4UqY3hmGXzAo%2Bg1EAXCZSzy18Zg6aqXEnnaM9l2m9b6ZdoEhKpA3zaGpQeiK72d9loW2TJU%2FxVT11CkQoWJnc5vc%2BvEAEWhFcrNhGRjVyEL68aqO6lD%2FuH94JxctuAJ2UWf%2BJsGDngPUA01yn%2B8aRAjoZ6PyU1JWIWSrw9CbhMr8XDOwYorTcKjT1xK76ZXfjU6C%2FWO%2BB8Ahq6zvqxZM3%2F4GQPiRkwzYuKPC78a5%2B&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Date=20231118T030529Z&X-Amz-SignedHeaders=host&X-Amz-Expires=3600&X-Amz-Credential=ASIASXCYXIIFLO2MWB7Q%2F20231118%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Signature=b8e8d81330f252ae7592ca38b4a4b3f12cb426fac9af277004756c26bdfd2486",
+    "source": "BBC Good Food",
+    "shareAs": "http://www.edamam.com/recipe/cheat-s-cheesy-focaccia-6e2166a21a489a3eaaa2ee904920a3e1/vegetarian",
+    "yield": 6,
+    "dietLabels": [],
+    "healthLabels": [
+      "Low Potassium",
+      "Vegetarian",
+      "Pescatarian",
+      "Egg-Free",
+      "Peanut-Free",
+      "Tree-Nut-Free",
+      "Soy-Free",
+      "Fish-Free",
+      "Shellfish-Free",
+      "Pork-Free",
+      "Red-Meat-Free",
+      "Crustacean-Free",
+      "Celery-Free",
+      "Mustard-Free",
+      "Sesame-Free",
+      "Lupine-Free",
+      "Mollusk-Free",
+      "Alcohol-Free",
+      "Sulfite-Free",
+      "FODMAP-Free",
+      "Kosher"
+    ],
+    "cautions": [
+      "Sulfites",
+      "FODMAP"
+    ],
+    "ingredientLines": [
+      "500g pack bread mix",
+      "2 tbsp olive oil , plus a little extra for drizzling",
+      "25g parmesan (or vegetarian alternative), grated",
+      "75g dolcelatte cheese (or vegetarian alternative)"
+    ],
+    "calories": 2353.9300000000003,
+    "totalWeight": 627,
+    "totalTime": 40,
+    "cuisineType": [
+      "italian"
+    ],
+    "mealType": [
+      "lunch/dinner"
+    ],
+    "dishType": [
+      "starter"
+    ]
+  },
+  {
+    "label": "Vegetarian Shepherd's Pie",
+    "url": "https://www.marthastewart.com/1535235/vegetarian-shepherds-pie",
+    "ingredients": [
+      {
+        "text": "2 tablespoons extra-virgin olive oil",
+        "quantity": 2,
+        "measure": "tablespoon",
+        "food": "extra-virgin olive oil",
+        "weight": 27,
+        "foodCategory": "Oils",
+        "foodId": "food_b1d1icuad3iktrbqby0hiagafaz7",
+        "image": "https://www.edamam.com/food-img/4d6/4d651eaa8a353647746290c7a9b29d84.jpg"
+      },
+      {
+        "text": "1 large onion, finely diced",
+        "quantity": 1,
+        "measure": "<unit>",
+        "food": "onion",
+        "weight": 150,
+        "foodCategory": "vegetables",
+        "foodId": "food_bmrvi4ob4binw9a5m7l07amlfcoy",
+        "image": "https://www.edamam.com/food-img/205/205e6bf2399b85d34741892ef91cc603.jpg"
+      },
+      {
+        "text": "2 carrots, peeled and thinly sliced",
+        "quantity": 2,
+        "measure": "<unit>",
+        "food": "carrots",
+        "weight": 122,
+        "foodCategory": "vegetables",
+        "foodId": "food_ai215e5b85pdh5ajd4aafa3w2zm8",
+        "image": "https://www.edamam.com/food-img/121/121e33fce0bb9546ed7d060b6c114e29.jpg"
+      },
+      {
+        "text": "2 celery stalks, thinly sliced",
+        "quantity": 2,
+        "measure": "stalk",
+        "food": "celery",
+        "weight": 80,
+        "foodCategory": "vegetables",
+        "foodId": "food_bffeoksbyyur8ja4da73ub2xs57g",
+        "image": "https://www.edamam.com/food-img/d91/d91d2aed1c36d8fad54c4d7dc58f5a18.jpg"
+      },
+      {
+        "text": "10 ounces cremini mushrooms, trimmed and sliced",
+        "quantity": 10,
+        "measure": "ounce",
+        "food": "cremini mushrooms",
+        "weight": 283.49523125,
+        "foodCategory": "vegetables",
+        "foodId": "food_bizlqkfby3d954bfyuxhsbhybslp",
+        "image": "https://www.edamam.com/food-img/17a/17a9ef54308a434004be9ba16c0eea03.jpg"
+      },
+      {
+        "text": "1 tablespoon tomato paste",
+        "quantity": 1,
+        "measure": "tablespoon",
+        "food": "tomato paste",
+        "weight": 16.3749999997231,
+        "foodCategory": "canned vegetables",
+        "foodId": "food_auu2atfal07b6gbd1a5wsawy7u0s",
+        "image": "https://www.edamam.com/food-img/aef/aef4e029118da71388e526086506053a.jpg"
+      },
+      {
+        "text": "1 tablespoon vegetarian Worcestershire sauce, such as Annie's Naturals",
+        "quantity": 1,
+        "measure": "tablespoon",
+        "food": "Worcestershire sauce",
+        "weight": 17,
+        "foodCategory": "canned soup",
+        "foodId": "food_ahb8mscbejo58ubexo0itam1i74g",
+        "image": "https://www.edamam.com/food-img/072/072b61dd1ad5bb641f05b14f716ba6d0.jpg"
+      },
+      {
+        "text": "1 dried bay leaf",
+        "quantity": 1,
+        "measure": "<unit>",
+        "food": "bay leaf",
+        "weight": 0.6,
+        "foodCategory": "Condiments and sauces",
+        "foodId": "food_asx39x4ayja4jab6ivj6zayvkblo",
+        "image": "https://www.edamam.com/food-img/0f9/0f9f5f95df173e9ffaaff2977bef88f3.jpg"
+      },
+      {
+        "text": "1 cup French green lentils, picked over",
+        "quantity": 1,
+        "measure": "cup",
+        "food": "green lentils",
+        "weight": 192,
+        "foodCategory": "plant-based protein",
+        "foodId": "food_bg13k5uafva4jta78xnjcaqkli85",
+        "image": "https://www.edamam.com/food-img/d5a/d5aa5bc5a3142f3179f31310054a56e6.jpg"
+      },
+      {
+        "text": "Kosher salt and freshly ground pepper",
+        "quantity": 0,
+        "measure": null,
+        "food": "Kosher salt",
+        "weight": 12.722729827498338,
+        "foodCategory": "Condiments and sauces",
+        "foodId": "food_a1vgrj1bs8rd1majvmd9ubz8ttkg",
+        "image": "https://www.edamam.com/food-img/694/6943ea510918c6025795e8dc6e6eaaeb.jpg"
+      },
+      {
+        "text": "Kosher salt and freshly ground pepper",
+        "quantity": 0,
+        "measure": null,
+        "food": "pepper",
+        "weight": 6.361364913749169,
+        "foodCategory": "Condiments and sauces",
+        "foodId": "food_b6ywzluaaxv02wad7s1r9ag4py89",
+        "image": "https://www.edamam.com/food-img/c6e/c6e5c3bd8d3bc15175d9766971a4d1b2.jpg"
+      },
+      {
+        "text": "1 cup frozen peas",
+        "quantity": 1,
+        "measure": "cup",
+        "food": "frozen peas",
+        "weight": 134,
+        "foodCategory": "vegetables",
+        "foodId": "food_aqrct01b4nxw5eaxoo8woaxc3xd7",
+        "image": "https://www.edamam.com/food-img/c91/c9130a361d5c5b279bf48c69e2466ec2.jpg"
+      },
+      {
+        "text": "2 pounds Yukon Gold potatoes, scrubbed and cut into 1 1/2-inch pieces",
+        "quantity": 2,
+        "measure": "pound",
+        "food": "Yukon Gold potatoes",
+        "weight": 907.18474,
+        "foodCategory": "vegetables",
+        "foodId": "food_abiw5baauresjmb6xpap2bg3otzu",
+        "image": "https://www.edamam.com/food-img/651/6512e82417bce15c2899630c1a2799df.jpg"
+      },
+      {
+        "text": "4 cloves garlic",
+        "quantity": 4,
+        "measure": "clove",
+        "food": "garlic",
+        "weight": 12,
+        "foodCategory": "vegetables",
+        "foodId": "food_avtcmx6bgjv1jvay6s6stan8dnyp",
+        "image": "https://www.edamam.com/food-img/6ee/6ee142951f48aaf94f4312409f8d133d.jpg"
+      },
+      {
+        "text": "4 tablespoons unsalted butter",
+        "quantity": 4,
+        "measure": "tablespoon",
+        "food": "unsalted butter",
+        "weight": 56.8,
+        "foodCategory": "Dairy",
+        "foodId": "food_awz3iefajbk1fwahq9logahmgltj",
+        "image": "https://www.edamam.com/food-img/713/71397239b670d88c04faa8d05035cab4.jpg"
+      },
+      {
+        "text": "1/2 cup whole milk, warmed",
+        "quantity": 0.5,
+        "measure": "cup",
+        "food": "whole milk",
+        "weight": 122,
+        "foodCategory": "Milk",
+        "foodId": "food_b49rs1kaw0jktabzkg2vvanvvsis",
+        "image": "https://www.edamam.com/food-img/7c9/7c9962acf83654a8d98ea6a2ade93735.jpg"
+      }
+    ],
+    "uri": "http://www.edamam.com/ontologies/edamam.owl#recipe_c84a5590c9c1afa37aac712452dfe2b4",
+    "image": "https://edamam-product-images.s3.amazonaws.com/web-img/a45/a4598c01957781c223a1c95c15141428?X-Amz-Security-Token=IQoJb3JpZ2luX2VjEGoaCXVzLWVhc3QtMSJHMEUCIFIil1jd5NHOSvMOKXmiga%2F7CRpL9SqT90pjzpQvMpS1AiEA9ABMxynDIYnPNFSoTb7ZMBckcrDLvv4e6dtYzK1N0iIqwgUIs%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FARAAGgwxODcwMTcxNTA5ODYiDJ0JUiSQioeZN09KpyqWBVe1sbdKBl4lqNSDGR5UVO8dIqqE5WJuXebdX3lZD4OaGW51LWKTCCXZuBKs2ISuKPh91m2%2BsZ6ktPbGE2AhkybcxwieCVK%2BK7l84Bj24ywSDZsP1yn%2FPQvPSOPdtnqKR68nmtPicbTTb2iN1fNYmLpy0S%2FnwrF8mkwdmHhvUaEbcAUyjMHohThRkgvTO7TCgSpOGWKVTQEFsLHvsgi4bWMGi1ZtCdznqWdnvOSGhPIQKiLCFUVTI1oRtogKh0lqCDL4eD4Xt5720oaytX%2FzK60NnLdU6s2vGCG9kL1rEzM1fp%2FYqaRoi9XQXp3hj79AyZsUJuPSW2wBsyauTTAprw9V0oSJ%2BkgyFsGc7Ge21I74u8u%2BUNk7NGsVmUYeMeKK6TI%2B0Rjmc6gRjNT%2FzDhfv7vJG7pMLWR%2FOUMWNa9yQUISZ8lh6vjj0kkFOzMlze5lBdHr%2FnWvNqWN3MkH70GXWEsIEh43bVc1guPIoprq%2Bu47idhxaAzP1HurGLQr7p64dzS9lpwPYzY6lcy%2FURRoDKTRQG4E%2FCEP5VCwURQtf7DgsBTBfS1SBxALeyc8mv8DNadhiSKCTJIn%2BIy5cJE6p56IH%2FPy%2BLDoFKWBjEyTq%2B485casZ1GZkBnH8U522cCwhIpNLcykX%2F4wNUr86O6r5UklISiFuq1Fd0yu9W3z6zJUJ4XVYRI9130kMvqmT%2FWXqW8YAlY3uDF32GhawMfgb7KSBBrnSCeHfWshej%2BfYfsb%2FLLReGZxgMPqGgbsfZYqxDpHj6ybFJVzSw6l8QriLDoi8oT9adjEPELXp0rV5YgcHAyQDtWXjZ99CXlSqj0bLUoeo8aQQjTT8V8rzygz0yXkostwb4FyfVN5cyxFoE1S0FloEdNSMKW24KoGOrEBFDB4UqY3hmGXzAo%2Bg1EAXCZSzy18Zg6aqXEnnaM9l2m9b6ZdoEhKpA3zaGpQeiK72d9loW2TJU%2FxVT11CkQoWJnc5vc%2BvEAEWhFcrNhGRjVyEL68aqO6lD%2FuH94JxctuAJ2UWf%2BJsGDngPUA01yn%2B8aRAjoZ6PyU1JWIWSrw9CbhMr8XDOwYorTcKjT1xK76ZXfjU6C%2FWO%2BB8Ahq6zvqxZM3%2F4GQPiRkwzYuKPC78a5%2B&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Date=20231118T030529Z&X-Amz-SignedHeaders=host&X-Amz-Expires=3600&X-Amz-Credential=ASIASXCYXIIFLO2MWB7Q%2F20231118%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Signature=9bf514e03192942a41f073e12468d716f84bb77e32b13489664763ffd04d314a",
+    "source": "Martha Stewart",
+    "shareAs": "http://www.edamam.com/recipe/vegetarian-shepherd-s-pie-c84a5590c9c1afa37aac712452dfe2b4/vegetarian",
+    "yield": 8,
+    "dietLabels": [
+      "Balanced",
+      "High-Fiber"
+    ],
+    "healthLabels": [
+      "Vegetarian",
+      "Egg-Free",
+      "Peanut-Free",
+      "Tree-Nut-Free",
+      "Soy-Free",
+      "Shellfish-Free",
+      "Pork-Free",
+      "Red-Meat-Free",
+      "Crustacean-Free",
+      "Mustard-Free",
+      "Sesame-Free",
+      "Lupine-Free",
+      "Mollusk-Free",
+      "Alcohol-Free",
+      "Sulfite-Free",
+      "Kosher"
+    ],
+    "cautions": [
+      "Sulfites"
+    ],
+    "ingredientLines": [
+      "2 tablespoons extra-virgin olive oil",
+      "1 large onion, finely diced",
+      "2 carrots, peeled and thinly sliced",
+      "2 celery stalks, thinly sliced",
+      "10 ounces cremini mushrooms, trimmed and sliced",
+      "1 tablespoon tomato paste",
+      "1 tablespoon vegetarian Worcestershire sauce, such as Annie's Naturals",
+      "1 dried bay leaf",
+      "1 cup French green lentils, picked over",
+      "Kosher salt and freshly ground pepper",
+      "1 cup frozen peas",
+      "2 pounds Yukon Gold potatoes, scrubbed and cut into 1 1/2-inch pieces",
+      "4 cloves garlic",
+      "4 tablespoons unsalted butter",
+      "1/2 cup whole milk, warmed"
+    ],
+    "calories": 2443.7397266082835,
+    "totalWeight": 2137.514653901013,
+    "totalTime": 140,
+    "cuisineType": [
+      "american"
+    ],
+    "mealType": [
+      "lunch/dinner"
+    ],
+    "dishType": [
+      "main course",
+      "desserts"
+    ]
+  },
+  {
+    "label": "Vegetarian Gumbo",
+    "url": "http://www.101cookbooks.com/archives/vegetarian-gumbo-recipe.html",
+    "ingredients": [
+      {
+        "text": "1 cup clarified butter (or ghee)",
+        "quantity": 1,
+        "measure": "cup",
+        "food": "clarified butter",
+        "weight": 205,
+        "foodCategory": "Dairy",
+        "foodId": "food_bt9uvvxacpohzjblxojh1behk63g",
+        "image": "https://www.edamam.com/food-img/2b5/2b504c036c64481b224c9d74cc4a82e0.jpg"
+      },
+      {
+        "text": "1 cup unbleached all-purpose flour",
+        "quantity": 1,
+        "measure": "cup",
+        "food": "all-purpose flour",
+        "weight": 125,
+        "foodCategory": "grains",
+        "foodId": "food_ar3x97tbq9o9p6b6gzwj0am0c81l",
+        "image": "https://www.edamam.com/food-img/368/368077bbcab62f862a8c766a56ea5dd1.jpg"
+      },
+      {
+        "text": "5 cups yellow onion, chopped into 1/3-inch dice",
+        "quantity": 5,
+        "measure": "cup",
+        "food": "yellow onion",
+        "weight": 800,
+        "foodCategory": "vegetables",
+        "foodId": "food_bmrvi4ob4binw9a5m7l07amlfcoy",
+        "image": "https://www.edamam.com/food-img/205/205e6bf2399b85d34741892ef91cc603.jpg"
+      },
+      {
+        "text": "3/4 cup green bell pepper, chopped into 1/3-inch dice",
+        "quantity": 0.75,
+        "measure": "cup",
+        "food": "green bell pepper",
+        "weight": 111.75,
+        "foodCategory": "vegetables",
+        "foodId": "food_bz8rcwobbzm7zhb3wh2n7aznivou",
+        "image": "https://www.edamam.com/food-img/629/629dc9fddc1f8aec27fa337dd6ce2b7c.jpg"
+      },
+      {
+        "text": "scant 1/2 teaspoon fine-grain sea salt",
+        "quantity": 0.5,
+        "measure": "teaspoon",
+        "food": "fine-grain sea salt",
+        "weight": 3,
+        "foodCategory": "Condiments and sauces",
+        "foodId": "food_btxz81db72hwbra2pncvebzzzum9",
+        "image": "https://www.edamam.com/food-img/694/6943ea510918c6025795e8dc6e6eaaeb.jpg"
+      },
+      {
+        "text": "1/4 cup garlic, chopped",
+        "quantity": 0.25,
+        "measure": "cup",
+        "food": "garlic",
+        "weight": 34,
+        "foodCategory": "vegetables",
+        "foodId": "food_avtcmx6bgjv1jvay6s6stan8dnyp",
+        "image": "https://www.edamam.com/food-img/6ee/6ee142951f48aaf94f4312409f8d133d.jpg"
+      },
+      {
+        "text": "1/2 teaspoon crushed red pepper flakes",
+        "quantity": 0.5,
+        "measure": "teaspoon",
+        "food": "red pepper flakes",
+        "weight": 0.38541666668621544,
+        "foodCategory": "vegetables",
+        "foodId": "food_bispmxiaijcuxcagex14mbhk2o48",
+        "image": "https://www.edamam.com/food-img/6cb/6cb8e4510251a322178f6e191b3a7b1b.jpeg"
+      },
+      {
+        "text": "2 dried bay leaves",
+        "quantity": 2,
+        "measure": "<unit>",
+        "food": "bay leaves",
+        "weight": 1.2,
+        "foodCategory": "Condiments and sauces",
+        "foodId": "food_asx39x4ayja4jab6ivj6zayvkblo",
+        "image": "https://www.edamam.com/food-img/0f9/0f9f5f95df173e9ffaaff2977bef88f3.jpg"
+      },
+      {
+        "text": "3-4 quarts of a great tasting vegetable broth (see head notes!)",
+        "quantity": 3.5,
+        "measure": "quart",
+        "food": "vegetable broth",
+        "weight": 3178,
+        "foodCategory": "Vegan products",
+        "foodId": "food_bb2qjrjamst0vmam39stubtkmrs4",
+        "image": "https://www.edamam.com/food-img/e61/e6184a8681b772e5198ef0ca1919e1b7.jpg"
+      },
+      {
+        "text": "1 bunch green onions, chopped green ends only",
+        "quantity": 1,
+        "measure": "bunch",
+        "food": "green onions",
+        "weight": 113,
+        "foodCategory": "vegetables",
+        "foodId": "food_bknlkyzbuzo27pb11whr4bttkuy6",
+        "image": "https://www.edamam.com/food-img/b89/b89986ed6aa466285bdd99bac34b3c46.jpg"
+      },
+      {
+        "text": "6-8 eggs",
+        "quantity": 7,
+        "measure": "<unit>",
+        "food": "eggs",
+        "weight": 301,
+        "foodCategory": "Eggs",
+        "foodId": "food_bhpradua77pk16aipcvzeayg732r",
+        "image": "https://www.edamam.com/food-img/a7e/a7ec7c337cb47c6550b3b118e357f077.jpg"
+      },
+      {
+        "text": "5- 6 cups cooked long grain white or brown basmati rice",
+        "quantity": 5.5,
+        "measure": "cup",
+        "food": "brown basmati rice",
+        "weight": 1017.5,
+        "foodCategory": "grains",
+        "foodId": "food_auv1t4xbcd4le1awqkq6naxq149k",
+        "image": "https://www.edamam.com/food-img/186/1861cc9c36539ad1f59ed6acbc2750c2.jpg"
+      }
+    ],
+    "uri": "http://www.edamam.com/ontologies/edamam.owl#recipe_844fd21d62385f5fb1e06324873e5a91",
+    "image": "https://edamam-product-images.s3.amazonaws.com/web-img/167/167f309f2aa59ddc323d1c53eb4a183c.jpg?X-Amz-Security-Token=IQoJb3JpZ2luX2VjEGoaCXVzLWVhc3QtMSJHMEUCIFIil1jd5NHOSvMOKXmiga%2F7CRpL9SqT90pjzpQvMpS1AiEA9ABMxynDIYnPNFSoTb7ZMBckcrDLvv4e6dtYzK1N0iIqwgUIs%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FARAAGgwxODcwMTcxNTA5ODYiDJ0JUiSQioeZN09KpyqWBVe1sbdKBl4lqNSDGR5UVO8dIqqE5WJuXebdX3lZD4OaGW51LWKTCCXZuBKs2ISuKPh91m2%2BsZ6ktPbGE2AhkybcxwieCVK%2BK7l84Bj24ywSDZsP1yn%2FPQvPSOPdtnqKR68nmtPicbTTb2iN1fNYmLpy0S%2FnwrF8mkwdmHhvUaEbcAUyjMHohThRkgvTO7TCgSpOGWKVTQEFsLHvsgi4bWMGi1ZtCdznqWdnvOSGhPIQKiLCFUVTI1oRtogKh0lqCDL4eD4Xt5720oaytX%2FzK60NnLdU6s2vGCG9kL1rEzM1fp%2FYqaRoi9XQXp3hj79AyZsUJuPSW2wBsyauTTAprw9V0oSJ%2BkgyFsGc7Ge21I74u8u%2BUNk7NGsVmUYeMeKK6TI%2B0Rjmc6gRjNT%2FzDhfv7vJG7pMLWR%2FOUMWNa9yQUISZ8lh6vjj0kkFOzMlze5lBdHr%2FnWvNqWN3MkH70GXWEsIEh43bVc1guPIoprq%2Bu47idhxaAzP1HurGLQr7p64dzS9lpwPYzY6lcy%2FURRoDKTRQG4E%2FCEP5VCwURQtf7DgsBTBfS1SBxALeyc8mv8DNadhiSKCTJIn%2BIy5cJE6p56IH%2FPy%2BLDoFKWBjEyTq%2B485casZ1GZkBnH8U522cCwhIpNLcykX%2F4wNUr86O6r5UklISiFuq1Fd0yu9W3z6zJUJ4XVYRI9130kMvqmT%2FWXqW8YAlY3uDF32GhawMfgb7KSBBrnSCeHfWshej%2BfYfsb%2FLLReGZxgMPqGgbsfZYqxDpHj6ybFJVzSw6l8QriLDoi8oT9adjEPELXp0rV5YgcHAyQDtWXjZ99CXlSqj0bLUoeo8aQQjTT8V8rzygz0yXkostwb4FyfVN5cyxFoE1S0FloEdNSMKW24KoGOrEBFDB4UqY3hmGXzAo%2Bg1EAXCZSzy18Zg6aqXEnnaM9l2m9b6ZdoEhKpA3zaGpQeiK72d9loW2TJU%2FxVT11CkQoWJnc5vc%2BvEAEWhFcrNhGRjVyEL68aqO6lD%2FuH94JxctuAJ2UWf%2BJsGDngPUA01yn%2B8aRAjoZ6PyU1JWIWSrw9CbhMr8XDOwYorTcKjT1xK76ZXfjU6C%2FWO%2BB8Ahq6zvqxZM3%2F4GQPiRkwzYuKPC78a5%2B&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Date=20231118T030529Z&X-Amz-SignedHeaders=host&X-Amz-Expires=3600&X-Amz-Credential=ASIASXCYXIIFLO2MWB7Q%2F20231118%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Signature=7754dd5d3007adf9954575b0bce44994d81a7afacabc71c54a57cc3c48702a08",
+    "source": "101 Cookbooks",
+    "shareAs": "http://www.edamam.com/recipe/vegetarian-gumbo-844fd21d62385f5fb1e06324873e5a91/vegetarian",
+    "yield": 7,
+    "dietLabels": [
+      "High-Fiber"
+    ],
+    "healthLabels": [
+      "Vegetarian",
+      "Pescatarian",
+      "Peanut-Free",
+      "Tree-Nut-Free",
+      "Soy-Free",
+      "Fish-Free",
+      "Shellfish-Free",
+      "Pork-Free",
+      "Red-Meat-Free",
+      "Crustacean-Free",
+      "Celery-Free",
+      "Mustard-Free",
+      "Sesame-Free",
+      "Lupine-Free",
+      "Mollusk-Free",
+      "Alcohol-Free",
+      "No oil added",
+      "Sulfite-Free",
+      "Kosher"
+    ],
+    "cautions": [],
+    "ingredientLines": [
+      "1 cup clarified butter (or ghee)",
+      "1 cup unbleached all-purpose flour",
+      "5 cups yellow onion, chopped into 1/3-inch dice",
+      "3/4 cup green bell pepper, chopped into 1/3-inch dice",
+      "scant 1/2 teaspoon fine-grain sea salt",
+      "1/4 cup garlic, chopped",
+      "1/2 teaspoon crushed red pepper flakes",
+      "2 dried bay leaves",
+      "3-4 quarts of a great tasting vegetable broth (see head notes!)",
+      "Gumbo file'",
+      "1 bunch green onions, chopped green ends only",
+      "6-8 eggs",
+      "5- 6 cups cooked long grain white or brown basmati rice"
+    ],
+    "calories": 6880.244099769983,
+    "totalWeight": 5889.835416666687,
+    "totalTime": 0,
+    "cuisineType": [
+      "american"
+    ],
+    "mealType": [
+      "lunch/dinner"
+    ],
+    "dishType": [
+      "starter"
+    ]
+  },
+  {
+    "label": "Breakfast Burritos With Vegetarian Sausage",
+    "url": "https://www.menshealth.com/recipes/breakfast-burritos-with-vegetarian-sausage",
+    "ingredients": [
+      {
+        "text": "2 large egg whites, lightly beaten",
+        "quantity": 2,
+        "measure": "<unit>",
+        "food": "egg whites",
+        "weight": 66,
+        "foodCategory": "Eggs",
+        "foodId": "food_a7hurbpb20zs42bnwg2p8bca3ihs",
+        "image": "https://www.edamam.com/food-img/b30/b304a020501418f9a63cf7f9359bc99d.jpg"
+      },
+      {
+        "text": "4 vegetarian sausage links",
+        "quantity": 4,
+        "measure": "link",
+        "food": "vegetarian sausage",
+        "weight": 100,
+        "foodCategory": "plant-based protein",
+        "foodId": "food_a83w977alnfoofa4bz2sgbglilos",
+        "image": "https://www.edamam.com/food-img/182/18209b4b31a37a3aaa2b8d5a2fa5fae0.jpg"
+      },
+      {
+        "text": "4 whole-wheat tortillas (10\" diameter)",
+        "quantity": 4,
+        "measure": "<unit>",
+        "food": "whole-wheat tortillas",
+        "weight": 196,
+        "foodCategory": "bread, rolls and tortillas",
+        "foodId": "food_btm0q4fagybgadbdm8wnwa0o2ytg",
+        "image": "https://www.edamam.com/food-img/14d/14d5bc9ea70954d9ce2da19df7004507.jpg"
+      },
+      {
+        "text": "2 scallions, thinly sliced",
+        "quantity": 2,
+        "measure": "<unit>",
+        "food": "scallions",
+        "weight": 27.777777777777782,
+        "foodCategory": "vegetables",
+        "foodId": "food_bknlkyzbuzo27pb11whr4bttkuy6",
+        "image": "https://www.edamam.com/food-img/b89/b89986ed6aa466285bdd99bac34b3c46.jpg"
+      },
+      {
+        "text": "1 large, ripe avocado, pitted, peeled, and sliced",
+        "quantity": 1,
+        "measure": "<unit>",
+        "food": "avocado",
+        "weight": 251.25,
+        "foodCategory": "fruit",
+        "foodId": "food_b0yuze4b1g3afpanijno5abtiu28",
+        "image": "https://www.edamam.com/food-img/984/984a707ea8e9c6bf5f6498970a9e6d9d.jpg"
+      },
+      {
+        "text": "1 medium-size tomato, diced",
+        "quantity": 1,
+        "measure": "<unit>",
+        "food": "tomato",
+        "weight": 123,
+        "foodCategory": "vegetables",
+        "foodId": "food_a6k79rrahp8fe2b26zussa3wtkqh",
+        "image": "https://www.edamam.com/food-img/23e/23e727a14f1035bdc2733bb0477efbd2.jpg"
+      },
+      {
+        "text": "1/4 cup sour cream",
+        "quantity": 0.25,
+        "measure": "cup",
+        "food": "sour cream",
+        "weight": 57.5,
+        "foodCategory": "Dairy",
+        "foodId": "food_adp9fcubzl3lr7bcvzn3rbfiiiwq",
+        "image": "https://www.edamam.com/food-img/f9d/f9d6183267b041b0aff9a10b89c9c15f.jpg"
+      }
+    ],
+    "uri": "http://www.edamam.com/ontologies/edamam.owl#recipe_74e1e45dd6c1e156799a6c71dc1a05d6",
+    "image": "https://edamam-product-images.s3.amazonaws.com/web-img/a8a/a8a108270338ff41028800e45d43bcf2.jpg?X-Amz-Security-Token=IQoJb3JpZ2luX2VjEGoaCXVzLWVhc3QtMSJHMEUCIFIil1jd5NHOSvMOKXmiga%2F7CRpL9SqT90pjzpQvMpS1AiEA9ABMxynDIYnPNFSoTb7ZMBckcrDLvv4e6dtYzK1N0iIqwgUIs%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FARAAGgwxODcwMTcxNTA5ODYiDJ0JUiSQioeZN09KpyqWBVe1sbdKBl4lqNSDGR5UVO8dIqqE5WJuXebdX3lZD4OaGW51LWKTCCXZuBKs2ISuKPh91m2%2BsZ6ktPbGE2AhkybcxwieCVK%2BK7l84Bj24ywSDZsP1yn%2FPQvPSOPdtnqKR68nmtPicbTTb2iN1fNYmLpy0S%2FnwrF8mkwdmHhvUaEbcAUyjMHohThRkgvTO7TCgSpOGWKVTQEFsLHvsgi4bWMGi1ZtCdznqWdnvOSGhPIQKiLCFUVTI1oRtogKh0lqCDL4eD4Xt5720oaytX%2FzK60NnLdU6s2vGCG9kL1rEzM1fp%2FYqaRoi9XQXp3hj79AyZsUJuPSW2wBsyauTTAprw9V0oSJ%2BkgyFsGc7Ge21I74u8u%2BUNk7NGsVmUYeMeKK6TI%2B0Rjmc6gRjNT%2FzDhfv7vJG7pMLWR%2FOUMWNa9yQUISZ8lh6vjj0kkFOzMlze5lBdHr%2FnWvNqWN3MkH70GXWEsIEh43bVc1guPIoprq%2Bu47idhxaAzP1HurGLQr7p64dzS9lpwPYzY6lcy%2FURRoDKTRQG4E%2FCEP5VCwURQtf7DgsBTBfS1SBxALeyc8mv8DNadhiSKCTJIn%2BIy5cJE6p56IH%2FPy%2BLDoFKWBjEyTq%2B485casZ1GZkBnH8U522cCwhIpNLcykX%2F4wNUr86O6r5UklISiFuq1Fd0yu9W3z6zJUJ4XVYRI9130kMvqmT%2FWXqW8YAlY3uDF32GhawMfgb7KSBBrnSCeHfWshej%2BfYfsb%2FLLReGZxgMPqGgbsfZYqxDpHj6ybFJVzSw6l8QriLDoi8oT9adjEPELXp0rV5YgcHAyQDtWXjZ99CXlSqj0bLUoeo8aQQjTT8V8rzygz0yXkostwb4FyfVN5cyxFoE1S0FloEdNSMKW24KoGOrEBFDB4UqY3hmGXzAo%2Bg1EAXCZSzy18Zg6aqXEnnaM9l2m9b6ZdoEhKpA3zaGpQeiK72d9loW2TJU%2FxVT11CkQoWJnc5vc%2BvEAEWhFcrNhGRjVyEL68aqO6lD%2FuH94JxctuAJ2UWf%2BJsGDngPUA01yn%2B8aRAjoZ6PyU1JWIWSrw9CbhMr8XDOwYorTcKjT1xK76ZXfjU6C%2FWO%2BB8Ahq6zvqxZM3%2F4GQPiRkwzYuKPC78a5%2B&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Date=20231118T030529Z&X-Amz-SignedHeaders=host&X-Amz-Expires=3600&X-Amz-Credential=ASIASXCYXIIFLO2MWB7Q%2F20231118%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Signature=127a90204ce3aeaaf6b94cfbe1a9c65494b8d349d6d091edb33075373d8b90df",
+    "source": "Men's Health",
+    "shareAs": "http://www.edamam.com/recipe/breakfast-burritos-with-vegetarian-sausage-74e1e45dd6c1e156799a6c71dc1a05d6/vegetarian",
+    "yield": 6,
+    "dietLabels": [],
+    "healthLabels": [
+      "Sugar-Conscious",
+      "Vegetarian",
+      "Mediterranean",
+      "Peanut-Free",
+      "Tree-Nut-Free",
+      "Fish-Free",
+      "Shellfish-Free",
+      "Pork-Free",
+      "Red-Meat-Free",
+      "Crustacean-Free",
+      "Celery-Free",
+      "Mustard-Free",
+      "Sesame-Free",
+      "Lupine-Free",
+      "Mollusk-Free",
+      "Alcohol-Free",
+      "Sulfite-Free",
+      "Kosher"
+    ],
+    "cautions": [
+      "Gluten",
+      "Wheat",
+      "Sulfites",
+      "FODMAP"
+    ],
+    "ingredientLines": [
+      "2 large egg whites, lightly beaten",
+      "4 vegetarian sausage links",
+      "4 whole-wheat tortillas (10\" diameter)",
+      "2 scallions, thinly sliced",
+      "1 large, ripe avocado, pitted, peeled, and sliced",
+      "1 medium-size tomato, diced",
+      "1/4 cup sour cream"
+    ],
+    "calories": 1418.318888888889,
+    "totalWeight": 821.5277777777778,
+    "totalTime": 11,
+    "cuisineType": [
+      "mexican"
+    ],
+    "mealType": [
+      "lunch/dinner"
+    ],
+    "dishType": [
+      "sandwiches"
+    ]
+  },
+  {
+    "label": "Vegetarian Poutine",
+    "url": "https://food52.com/recipes/25906-vegetarian-poutine",
+    "ingredients": [
+      {
+        "text": "4 small or 2 large Russet potatoes",
+        "quantity": 4,
+        "measure": "<unit>",
+        "food": "Russet potatoes",
+        "weight": 1476,
+        "foodCategory": "vegetables",
+        "foodId": "food_brsjy86bq09pzgbmr4ri8bnohrf7",
+        "image": "https://www.edamam.com/food-img/71b/71b3756ecfd3d1efa075874377038b67.jpg"
+      },
+      {
+        "text": "3 tablespoons olive oil",
+        "quantity": 3,
+        "measure": "tablespoon",
+        "food": "olive oil",
+        "weight": 40.5,
+        "foodCategory": "Oils",
+        "foodId": "food_b1d1icuad3iktrbqby0hiagafaz7",
+        "image": "https://www.edamam.com/food-img/4d6/4d651eaa8a353647746290c7a9b29d84.jpg"
+      },
+      {
+        "text": "2 tablespoons butter",
+        "quantity": 2,
+        "measure": "tablespoon",
+        "food": "butter",
+        "weight": 28.4,
+        "foodCategory": "Dairy",
+        "foodId": "food_awz3iefajbk1fwahq9logahmgltj",
+        "image": "https://www.edamam.com/food-img/713/71397239b670d88c04faa8d05035cab4.jpg"
+      },
+      {
+        "text": "2 tablespoons all-purpose flour",
+        "quantity": 2,
+        "measure": "tablespoon",
+        "food": "all-purpose flour",
+        "weight": 15.62499999973582,
+        "foodCategory": "grains",
+        "foodId": "food_ar3x97tbq9o9p6b6gzwj0am0c81l",
+        "image": "https://www.edamam.com/food-img/368/368077bbcab62f862a8c766a56ea5dd1.jpg"
+      },
+      {
+        "text": "1 cup vegetable stock",
+        "quantity": 1,
+        "measure": "cup",
+        "food": "vegetable stock",
+        "weight": 227,
+        "foodCategory": "Vegan products",
+        "foodId": "food_bb2qjrjamst0vmam39stubtkmrs4",
+        "image": "https://www.edamam.com/food-img/e61/e6184a8681b772e5198ef0ca1919e1b7.jpg"
+      },
+      {
+        "text": "1/2 pound cheese curds",
+        "quantity": 0.5,
+        "measure": "pound",
+        "food": "curds",
+        "weight": 226.796185,
+        "foodCategory": "Cheese",
+        "foodId": "food_adqkk4ta6dggveb3hy192aqzdfnv",
+        "image": "https://www.edamam.com/food-img/8ee/8ee7b75071fc907cce2819031a9ae563.jpg"
+      }
+    ],
+    "uri": "http://www.edamam.com/ontologies/edamam.owl#recipe_99ca604d4aab10062b8040b1a1d6e6d0",
+    "image": "https://edamam-product-images.s3.amazonaws.com/web-img/b66/b663877afdef9bfabf143346a31560b9.jpg?X-Amz-Security-Token=IQoJb3JpZ2luX2VjEGoaCXVzLWVhc3QtMSJHMEUCIFIil1jd5NHOSvMOKXmiga%2F7CRpL9SqT90pjzpQvMpS1AiEA9ABMxynDIYnPNFSoTb7ZMBckcrDLvv4e6dtYzK1N0iIqwgUIs%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FARAAGgwxODcwMTcxNTA5ODYiDJ0JUiSQioeZN09KpyqWBVe1sbdKBl4lqNSDGR5UVO8dIqqE5WJuXebdX3lZD4OaGW51LWKTCCXZuBKs2ISuKPh91m2%2BsZ6ktPbGE2AhkybcxwieCVK%2BK7l84Bj24ywSDZsP1yn%2FPQvPSOPdtnqKR68nmtPicbTTb2iN1fNYmLpy0S%2FnwrF8mkwdmHhvUaEbcAUyjMHohThRkgvTO7TCgSpOGWKVTQEFsLHvsgi4bWMGi1ZtCdznqWdnvOSGhPIQKiLCFUVTI1oRtogKh0lqCDL4eD4Xt5720oaytX%2FzK60NnLdU6s2vGCG9kL1rEzM1fp%2FYqaRoi9XQXp3hj79AyZsUJuPSW2wBsyauTTAprw9V0oSJ%2BkgyFsGc7Ge21I74u8u%2BUNk7NGsVmUYeMeKK6TI%2B0Rjmc6gRjNT%2FzDhfv7vJG7pMLWR%2FOUMWNa9yQUISZ8lh6vjj0kkFOzMlze5lBdHr%2FnWvNqWN3MkH70GXWEsIEh43bVc1guPIoprq%2Bu47idhxaAzP1HurGLQr7p64dzS9lpwPYzY6lcy%2FURRoDKTRQG4E%2FCEP5VCwURQtf7DgsBTBfS1SBxALeyc8mv8DNadhiSKCTJIn%2BIy5cJE6p56IH%2FPy%2BLDoFKWBjEyTq%2B485casZ1GZkBnH8U522cCwhIpNLcykX%2F4wNUr86O6r5UklISiFuq1Fd0yu9W3z6zJUJ4XVYRI9130kMvqmT%2FWXqW8YAlY3uDF32GhawMfgb7KSBBrnSCeHfWshej%2BfYfsb%2FLLReGZxgMPqGgbsfZYqxDpHj6ybFJVzSw6l8QriLDoi8oT9adjEPELXp0rV5YgcHAyQDtWXjZ99CXlSqj0bLUoeo8aQQjTT8V8rzygz0yXkostwb4FyfVN5cyxFoE1S0FloEdNSMKW24KoGOrEBFDB4UqY3hmGXzAo%2Bg1EAXCZSzy18Zg6aqXEnnaM9l2m9b6ZdoEhKpA3zaGpQeiK72d9loW2TJU%2FxVT11CkQoWJnc5vc%2BvEAEWhFcrNhGRjVyEL68aqO6lD%2FuH94JxctuAJ2UWf%2BJsGDngPUA01yn%2B8aRAjoZ6PyU1JWIWSrw9CbhMr8XDOwYorTcKjT1xK76ZXfjU6C%2FWO%2BB8Ahq6zvqxZM3%2F4GQPiRkwzYuKPC78a5%2B&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Date=20231118T030529Z&X-Amz-SignedHeaders=host&X-Amz-Expires=3600&X-Amz-Credential=ASIASXCYXIIFLO2MWB7Q%2F20231118%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Signature=cc1af265996108529603bfe6d45f52f150610b5792a255e979c7bd883dae62d0",
+    "source": "Food52",
+    "shareAs": "http://www.edamam.com/recipe/vegetarian-poutine-99ca604d4aab10062b8040b1a1d6e6d0/vegetarian",
+    "yield": 4,
+    "dietLabels": [
+      "Balanced"
+    ],
+    "healthLabels": [
+      "Sugar-Conscious",
+      "Vegetarian",
+      "Pescatarian",
+      "Egg-Free",
+      "Peanut-Free",
+      "Tree-Nut-Free",
+      "Soy-Free",
+      "Fish-Free",
+      "Shellfish-Free",
+      "Pork-Free",
+      "Red-Meat-Free",
+      "Crustacean-Free",
+      "Celery-Free",
+      "Mustard-Free",
+      "Sesame-Free",
+      "Lupine-Free",
+      "Mollusk-Free",
+      "Alcohol-Free",
+      "Sulfite-Free",
+      "Kosher"
+    ],
+    "cautions": [
+      "Sulfites"
+    ],
+    "ingredientLines": [
+      "4 small or 2 large Russet potatoes",
+      "3 tablespoons olive oil",
+      "2 tablespoons butter",
+      "2 tablespoons all-purpose flour",
+      "1 cup vegetable stock",
+      "1/2 pound cheese curds"
+    ],
+    "calories": 2009.0100005683184,
+    "totalWeight": 2014.3211849997358,
+    "totalTime": 0,
+    "cuisineType": [
+      "american"
+    ],
+    "mealType": [
+      "lunch/dinner"
+    ],
+    "dishType": [
+      "starter"
+    ]
+  },
+  {
+    "label": "Vegetarian Thai Red Curry",
+    "url": "http://www.eatingwell.com/recipe/250739/vegetarian-thai-red-curry/",
+    "ingredients": [
+      {
+        "text": "1 14-ounce can “lite” coconut milk, divided",
+        "quantity": 14,
+        "measure": "ounce",
+        "food": "coconut milk",
+        "weight": 396.89332375000004,
+        "foodCategory": "non-dairy beverages",
+        "foodId": "food_by1k6v2adj7drhbq9w1rpbpen9ms",
+        "image": "https://www.edamam.com/food-img/671/671f7528eadb1b01efb53243d0ef0f80.JPG"
+      },
+      {
+        "text": "2 tablespoons vegetarian Thai red curry paste (see Tip), or to taste",
+        "quantity": 2,
+        "measure": "tablespoon",
+        "food": "Thai red curry paste",
+        "weight": 32,
+        "foodCategory": "condiments and sauces",
+        "foodId": "food_aojdol2are6zg7af2nincbe87jot",
+        "image": "https://www.edamam.com/food-img/b6a/b6a9ebae5850f42eca0253827603ef9c.jpg"
+      },
+      {
+        "text": "1 pound sweet potatoes, peeled and cut into 1½-inch cubes",
+        "quantity": 1,
+        "measure": "pound",
+        "food": "sweet potatoes",
+        "weight": 453.59237,
+        "foodCategory": "vegetables",
+        "foodId": "food_bg68yf2b3dlfusawgs590bjloxfd",
+        "image": "https://www.edamam.com/food-img/b66/b660e3d37b4ea9d58cb98e8ea73933b6.jpg"
+      },
+      {
+        "text": "2 cups water",
+        "quantity": 2,
+        "measure": "cup",
+        "food": "water",
+        "weight": 473.176473,
+        "foodCategory": "water",
+        "foodId": "food_a99vzubbk1ayrsad318rvbzr3dh0",
+        "image": "https://www.edamam.com/food-img/5dd/5dd9d1361847b2ca53c4b19a8f92627e.jpg"
+      },
+      {
+        "text": "1 bunch asparagus, trimmed and cut into 2-inch lengths",
+        "quantity": 1,
+        "measure": "bunch",
+        "food": "asparagus",
+        "weight": 226.5,
+        "foodCategory": "vegetables",
+        "foodId": "food_b7bgzddbqq26mia27xpv7acn083m",
+        "image": "https://www.edamam.com/food-img/159/159dec8bbcabf7ed641a57b40a2d2eb9.jpg"
+      },
+      {
+        "text": "2 fresh cayenne chiles or bird chiles (see Tip), cut into long strips (optional)",
+        "quantity": 2,
+        "measure": "chile",
+        "food": "bird chiles",
+        "weight": 40,
+        "foodCategory": "vegetables",
+        "foodId": "food_a6g98mqatzj7vca6ms3bnbzqxf3s",
+        "image": "https://www.edamam.com/food-img/469/469213672957a242638e20c27e3e8acd.jpeg"
+      },
+      {
+        "text": "2 whole lime leaves (fresh or frozen; see Tip) or 2 teaspoons lime zest",
+        "quantity": 2,
+        "measure": "<unit>",
+        "food": "lime leaves",
+        "weight": 1.2,
+        "foodCategory": "Condiments and sauces",
+        "foodId": "food_bzlcvi0bnkdc2batlr7qaa6ndv1k",
+        "image": "https://www.edamam.com/food-img/0f9/0f9f5f95df173e9ffaaff2977bef88f3.jpg"
+      },
+      {
+        "text": "2 cups coarsely chopped dandelion greens or arugula",
+        "quantity": 2,
+        "measure": "cup",
+        "food": "dandelion greens",
+        "weight": 110,
+        "foodCategory": "vegetables",
+        "foodId": "food_a25hrybbr7tatfaqjhzm7b5ia5dw",
+        "image": "https://www.edamam.com/food-img/def/def986438306ee887bda2f2373b11e10.jpg"
+      },
+      {
+        "text": "½ cup fresh basil leaves, preferably Thai basil",
+        "quantity": 0.5,
+        "measure": "leaf",
+        "food": "Thai basil",
+        "weight": 0.25,
+        "foodCategory": "Condiments and sauces",
+        "foodId": "food_bfeht3obd58c3gak5ehpibxgbbs6",
+        "image": "https://www.edamam.com/food-img/5f1/5f1b05685ac2b404236a5d1c1f3c8c10.jpg"
+      },
+      {
+        "text": "¼ teaspoon salt",
+        "quantity": 0.25,
+        "measure": "teaspoon",
+        "food": "salt",
+        "weight": 1.5,
+        "foodCategory": "Condiments and sauces",
+        "foodId": "food_btxz81db72hwbra2pncvebzzzum9",
+        "image": "https://www.edamam.com/food-img/694/6943ea510918c6025795e8dc6e6eaaeb.jpg"
+      }
+    ],
+    "uri": "http://www.edamam.com/ontologies/edamam.owl#recipe_e399d6db94c1ff0cb4b580568ca48296",
+    "image": "https://edamam-product-images.s3.amazonaws.com/web-img/3e5/3e53cdbaab1e39c7a57bc64858e0f3cb.jpg?X-Amz-Security-Token=IQoJb3JpZ2luX2VjEGoaCXVzLWVhc3QtMSJHMEUCIFIil1jd5NHOSvMOKXmiga%2F7CRpL9SqT90pjzpQvMpS1AiEA9ABMxynDIYnPNFSoTb7ZMBckcrDLvv4e6dtYzK1N0iIqwgUIs%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FARAAGgwxODcwMTcxNTA5ODYiDJ0JUiSQioeZN09KpyqWBVe1sbdKBl4lqNSDGR5UVO8dIqqE5WJuXebdX3lZD4OaGW51LWKTCCXZuBKs2ISuKPh91m2%2BsZ6ktPbGE2AhkybcxwieCVK%2BK7l84Bj24ywSDZsP1yn%2FPQvPSOPdtnqKR68nmtPicbTTb2iN1fNYmLpy0S%2FnwrF8mkwdmHhvUaEbcAUyjMHohThRkgvTO7TCgSpOGWKVTQEFsLHvsgi4bWMGi1ZtCdznqWdnvOSGhPIQKiLCFUVTI1oRtogKh0lqCDL4eD4Xt5720oaytX%2FzK60NnLdU6s2vGCG9kL1rEzM1fp%2FYqaRoi9XQXp3hj79AyZsUJuPSW2wBsyauTTAprw9V0oSJ%2BkgyFsGc7Ge21I74u8u%2BUNk7NGsVmUYeMeKK6TI%2B0Rjmc6gRjNT%2FzDhfv7vJG7pMLWR%2FOUMWNa9yQUISZ8lh6vjj0kkFOzMlze5lBdHr%2FnWvNqWN3MkH70GXWEsIEh43bVc1guPIoprq%2Bu47idhxaAzP1HurGLQr7p64dzS9lpwPYzY6lcy%2FURRoDKTRQG4E%2FCEP5VCwURQtf7DgsBTBfS1SBxALeyc8mv8DNadhiSKCTJIn%2BIy5cJE6p56IH%2FPy%2BLDoFKWBjEyTq%2B485casZ1GZkBnH8U522cCwhIpNLcykX%2F4wNUr86O6r5UklISiFuq1Fd0yu9W3z6zJUJ4XVYRI9130kMvqmT%2FWXqW8YAlY3uDF32GhawMfgb7KSBBrnSCeHfWshej%2BfYfsb%2FLLReGZxgMPqGgbsfZYqxDpHj6ybFJVzSw6l8QriLDoi8oT9adjEPELXp0rV5YgcHAyQDtWXjZ99CXlSqj0bLUoeo8aQQjTT8V8rzygz0yXkostwb4FyfVN5cyxFoE1S0FloEdNSMKW24KoGOrEBFDB4UqY3hmGXzAo%2Bg1EAXCZSzy18Zg6aqXEnnaM9l2m9b6ZdoEhKpA3zaGpQeiK72d9loW2TJU%2FxVT11CkQoWJnc5vc%2BvEAEWhFcrNhGRjVyEL68aqO6lD%2FuH94JxctuAJ2UWf%2BJsGDngPUA01yn%2B8aRAjoZ6PyU1JWIWSrw9CbhMr8XDOwYorTcKjT1xK76ZXfjU6C%2FWO%2BB8Ahq6zvqxZM3%2F4GQPiRkwzYuKPC78a5%2B&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Date=20231118T030529Z&X-Amz-SignedHeaders=host&X-Amz-Expires=3600&X-Amz-Credential=ASIASXCYXIIFLO2MWB7Q%2F20231118%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Signature=54a37edde3abbbac47007cbab4a665122a9b5ffbca4a2405511b8cd0b88c1d04",
+    "source": "EatingWell",
+    "shareAs": "http://www.edamam.com/recipe/vegetarian-thai-red-curry-e399d6db94c1ff0cb4b580568ca48296/vegetarian",
+    "yield": 4,
+    "dietLabels": [
+      "High-Fiber"
+    ],
+    "healthLabels": [
+      "Vegan",
+      "Vegetarian",
+      "Pescatarian",
+      "Dairy-Free",
+      "Gluten-Free",
+      "Wheat-Free",
+      "Egg-Free",
+      "Peanut-Free",
+      "Soy-Free",
+      "Fish-Free",
+      "Shellfish-Free",
+      "Pork-Free",
+      "Red-Meat-Free",
+      "Crustacean-Free",
+      "Celery-Free",
+      "Mustard-Free",
+      "Sesame-Free",
+      "Lupine-Free",
+      "Mollusk-Free",
+      "Alcohol-Free",
+      "Sulfite-Free",
+      "Kosher"
+    ],
+    "cautions": [
+      "Tree-Nuts",
+      "Sulfites",
+      "FODMAP"
+    ],
+    "ingredientLines": [
+      "1 14-ounce can “lite” coconut milk, divided",
+      "2 tablespoons vegetarian Thai red curry paste (see Tip), or to taste",
+      "1 pound sweet potatoes, peeled and cut into 1½-inch cubes",
+      "2 cups water",
+      "1 bunch asparagus, trimmed and cut into 2-inch lengths",
+      "2 fresh cayenne chiles or bird chiles (see Tip), cut into long strips (optional)",
+      "2 whole lime leaves (fresh or frozen; see Tip) or 2 teaspoons lime zest",
+      "2 cups coarsely chopped dandelion greens or arugula",
+      "½ cup fresh basil leaves, preferably Thai basil",
+      "¼ teaspoon salt"
+    ],
+    "calories": 1324.8726111075002,
+    "totalWeight": 1735.1121667500001,
+    "totalTime": 30,
+    "cuisineType": [
+      "south east asian"
+    ],
+    "mealType": [
+      "lunch/dinner"
+    ],
+    "dishType": [
+      "starter"
+    ]
+  },
+  {
+    "label": "Zucchini With Thyme",
+    "url": "http://simplyrecipes.com/recipes/zucchini_with_thyme/",
+    "ingredients": [
+      {
+        "text": "2 Tbsp olive oil",
+        "quantity": 2,
+        "measure": "tablespoon",
+        "food": "olive oil",
+        "weight": 27,
+        "foodCategory": "Oils",
+        "foodId": "food_b1d1icuad3iktrbqby0hiagafaz7",
+        "image": "https://www.edamam.com/food-img/4d6/4d651eaa8a353647746290c7a9b29d84.jpg"
+      },
+      {
+        "text": "1 1/2 Tbsp unsalted butter",
+        "quantity": 1.5,
+        "measure": "tablespoon",
+        "food": "unsalted butter",
+        "weight": 21.299999999999997,
+        "foodCategory": "Dairy",
+        "foodId": "food_awz3iefajbk1fwahq9logahmgltj",
+        "image": "https://www.edamam.com/food-img/713/71397239b670d88c04faa8d05035cab4.jpg"
+      },
+      {
+        "text": "1/4 cup finely chopped onion",
+        "quantity": 0.25,
+        "measure": "cup",
+        "food": "onion",
+        "weight": 40,
+        "foodCategory": "vegetables",
+        "foodId": "food_bmrvi4ob4binw9a5m7l07amlfcoy",
+        "image": "https://www.edamam.com/food-img/205/205e6bf2399b85d34741892ef91cc603.jpg"
+      },
+      {
+        "text": "1/4 cup chopped fresh parsley",
+        "quantity": 0.25,
+        "measure": "cup",
+        "food": "parsley",
+        "weight": 15,
+        "foodCategory": "vegetables",
+        "foodId": "food_b244pqdazw24zobr5vqu2bf0uid8",
+        "image": "https://www.edamam.com/food-img/46a/46a132e96626d7989b4d6ed8c91f4da0.jpg"
+      },
+      {
+        "text": "1 pound fresh zucchini, cut into 3-by-1/2-inch sticks",
+        "quantity": 1,
+        "measure": "pound",
+        "food": "zucchini",
+        "weight": 453.59237,
+        "foodCategory": "vegetables",
+        "foodId": "food_avpihljbuwpd8ibbmahcabaros5s",
+        "image": "https://www.edamam.com/food-img/f63/f637280594e4a731eccc1199194a8847.jpg"
+      },
+      {
+        "text": "1 beef bouillon cube, crumbled (use vegetarian bouillon for vegetarian option)",
+        "quantity": 1,
+        "measure": "<unit>",
+        "food": "beef bouillon cube",
+        "weight": 3.6,
+        "foodCategory": "canned soup",
+        "foodId": "food_ap9dxwla8dska7bcd54orbisfahg",
+        "image": null
+      },
+      {
+        "text": "1 teaspoon dried thyme or 1 Tbsp fresh thyme, chopped",
+        "quantity": 1,
+        "measure": "teaspoon",
+        "food": "dried thyme",
+        "weight": 1,
+        "foodCategory": "Condiments and sauces",
+        "foodId": "food_avsq22zadwyb5cb5sl1byaa4mbo8",
+        "image": "https://www.edamam.com/food-img/89b/89b37a04e46e052671d73addcb84aa51.jpg"
+      },
+      {
+        "text": "Salt and freshly ground pepper",
+        "quantity": 0,
+        "measure": null,
+        "food": "Salt",
+        "weight": 3.3689542200000004,
+        "foodCategory": "Condiments and sauces",
+        "foodId": "food_btxz81db72hwbra2pncvebzzzum9",
+        "image": "https://www.edamam.com/food-img/694/6943ea510918c6025795e8dc6e6eaaeb.jpg"
+      },
+      {
+        "text": "Salt and freshly ground pepper",
+        "quantity": 0,
+        "measure": null,
+        "food": "pepper",
+        "weight": 1.6844771100000002,
+        "foodCategory": "Condiments and sauces",
+        "foodId": "food_b6ywzluaaxv02wad7s1r9ag4py89",
+        "image": "https://www.edamam.com/food-img/c6e/c6e5c3bd8d3bc15175d9766971a4d1b2.jpg"
+      }
+    ],
+    "uri": "http://www.edamam.com/ontologies/edamam.owl#recipe_d41eb6c9dec11ef5f59da3e80ac4080c",
+    "image": "https://edamam-product-images.s3.amazonaws.com/web-img/f4b/f4b2a09c61029f362aea7e8b9e8ef12e.jpg?X-Amz-Security-Token=IQoJb3JpZ2luX2VjEGoaCXVzLWVhc3QtMSJHMEUCIFIil1jd5NHOSvMOKXmiga%2F7CRpL9SqT90pjzpQvMpS1AiEA9ABMxynDIYnPNFSoTb7ZMBckcrDLvv4e6dtYzK1N0iIqwgUIs%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FARAAGgwxODcwMTcxNTA5ODYiDJ0JUiSQioeZN09KpyqWBVe1sbdKBl4lqNSDGR5UVO8dIqqE5WJuXebdX3lZD4OaGW51LWKTCCXZuBKs2ISuKPh91m2%2BsZ6ktPbGE2AhkybcxwieCVK%2BK7l84Bj24ywSDZsP1yn%2FPQvPSOPdtnqKR68nmtPicbTTb2iN1fNYmLpy0S%2FnwrF8mkwdmHhvUaEbcAUyjMHohThRkgvTO7TCgSpOGWKVTQEFsLHvsgi4bWMGi1ZtCdznqWdnvOSGhPIQKiLCFUVTI1oRtogKh0lqCDL4eD4Xt5720oaytX%2FzK60NnLdU6s2vGCG9kL1rEzM1fp%2FYqaRoi9XQXp3hj79AyZsUJuPSW2wBsyauTTAprw9V0oSJ%2BkgyFsGc7Ge21I74u8u%2BUNk7NGsVmUYeMeKK6TI%2B0Rjmc6gRjNT%2FzDhfv7vJG7pMLWR%2FOUMWNa9yQUISZ8lh6vjj0kkFOzMlze5lBdHr%2FnWvNqWN3MkH70GXWEsIEh43bVc1guPIoprq%2Bu47idhxaAzP1HurGLQr7p64dzS9lpwPYzY6lcy%2FURRoDKTRQG4E%2FCEP5VCwURQtf7DgsBTBfS1SBxALeyc8mv8DNadhiSKCTJIn%2BIy5cJE6p56IH%2FPy%2BLDoFKWBjEyTq%2B485casZ1GZkBnH8U522cCwhIpNLcykX%2F4wNUr86O6r5UklISiFuq1Fd0yu9W3z6zJUJ4XVYRI9130kMvqmT%2FWXqW8YAlY3uDF32GhawMfgb7KSBBrnSCeHfWshej%2BfYfsb%2FLLReGZxgMPqGgbsfZYqxDpHj6ybFJVzSw6l8QriLDoi8oT9adjEPELXp0rV5YgcHAyQDtWXjZ99CXlSqj0bLUoeo8aQQjTT8V8rzygz0yXkostwb4FyfVN5cyxFoE1S0FloEdNSMKW24KoGOrEBFDB4UqY3hmGXzAo%2Bg1EAXCZSzy18Zg6aqXEnnaM9l2m9b6ZdoEhKpA3zaGpQeiK72d9loW2TJU%2FxVT11CkQoWJnc5vc%2BvEAEWhFcrNhGRjVyEL68aqO6lD%2FuH94JxctuAJ2UWf%2BJsGDngPUA01yn%2B8aRAjoZ6PyU1JWIWSrw9CbhMr8XDOwYorTcKjT1xK76ZXfjU6C%2FWO%2BB8Ahq6zvqxZM3%2F4GQPiRkwzYuKPC78a5%2B&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Date=20231118T030529Z&X-Amz-SignedHeaders=host&X-Amz-Expires=3600&X-Amz-Credential=ASIASXCYXIIFLO2MWB7Q%2F20231118%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Signature=9034058d5d547ba2b7a7c9339d397e5f54b6ee8782fea2c31a549ceeb05adeee",
+    "source": "Simply Recipes",
+    "shareAs": "http://www.edamam.com/recipe/zucchini-with-thyme-d41eb6c9dec11ef5f59da3e80ac4080c/vegetarian",
+    "yield": 4,
+    "dietLabels": [
+      "Low-Carb"
+    ],
+    "healthLabels": [
+      "Sugar-Conscious",
+      "Keto-Friendly",
+      "Gluten-Free",
+      "Wheat-Free",
+      "Egg-Free",
+      "Peanut-Free",
+      "Tree-Nut-Free",
+      "Soy-Free",
+      "Fish-Free",
+      "Shellfish-Free",
+      "Pork-Free",
+      "Crustacean-Free",
+      "Celery-Free",
+      "Mustard-Free",
+      "Sesame-Free",
+      "Lupine-Free",
+      "Mollusk-Free",
+      "Alcohol-Free",
+      "Sulfite-Free"
+    ],
+    "cautions": [
+      "Gluten",
+      "Wheat",
+      "Sulfites"
+    ],
+    "ingredientLines": [
+      "2 Tbsp olive oil",
+      "1 1/2 Tbsp unsalted butter",
+      "1/4 cup finely chopped onion",
+      "1/4 cup chopped fresh parsley",
+      "1 pound fresh zucchini, cut into 3-by-1/2-inch sticks",
+      "1 beef bouillon cube, crumbled (use vegetarian bouillon for vegetarian option)",
+      "1 teaspoon dried thyme or 1 Tbsp fresh thyme, chopped",
+      "Salt and freshly ground pepper"
+    ],
+    "calories": 503.0197404460999,
+    "totalWeight": 564.1964327012251,
+    "totalTime": 0,
+    "cuisineType": [
+      "french"
+    ],
+    "mealType": [
+      "lunch/dinner"
+    ],
+    "dishType": [
+      "main course"
+    ]
+  },
+  {
+    "label": "Vegetarian Bagel",
+    "url": "http://userealbutter.com/2008/12/21/vegetarian-bagel-recipe/",
+    "ingredients": [
+      {
+        "text": "1 x Bagel",
+        "quantity": 1,
+        "measure": "<unit>",
+        "food": "Bagel",
+        "weight": 99,
+        "foodCategory": "quick breads and pastries",
+        "foodId": "food_abgmon9a80fjy1b5vyx0kawkj6n1",
+        "image": "https://www.edamam.com/food-img/755/7553666b2864e4003538607529dcccde.jpg"
+      },
+      {
+        "text": "1 x Cream Cheese",
+        "quantity": 1,
+        "measure": "<unit>",
+        "food": "Cream Cheese",
+        "weight": 113.33333333333333,
+        "foodCategory": "Cheese",
+        "foodId": "food_a7rvc49a09a7yjbq3ekjbbauyoqa",
+        "image": "https://www.edamam.com/food-img/ddd/dddce306e7ee41e8e07dc62e28cab94b.jpg"
+      },
+      {
+        "text": "1 x Tomato",
+        "quantity": 1,
+        "measure": "<unit>",
+        "food": "Tomato",
+        "weight": 123,
+        "foodCategory": "vegetables",
+        "foodId": "food_a6k79rrahp8fe2b26zussa3wtkqh",
+        "image": "https://www.edamam.com/food-img/23e/23e727a14f1035bdc2733bb0477efbd2.jpg"
+      },
+      {
+        "text": "2 x meunster cheese",
+        "quantity": 2,
+        "measure": "<unit>",
+        "food": "cheese",
+        "weight": 56,
+        "foodCategory": "Cheese",
+        "foodId": "food_bhppgmha1u27voagb8eptbp9g376",
+        "image": "https://www.edamam.com/food-img/bcd/bcd94dde1fcde1475b5bf0540f821c5d.jpg"
+      }
+    ],
+    "uri": "http://www.edamam.com/ontologies/edamam.owl#recipe_0c4e0b9bbf221e718ef419bfd87f00af",
+    "image": "https://edamam-product-images.s3.amazonaws.com/web-img/8cf/8cfd05657ae0e945594a2790c53182bc.jpg?X-Amz-Security-Token=IQoJb3JpZ2luX2VjEGoaCXVzLWVhc3QtMSJHMEUCIFIil1jd5NHOSvMOKXmiga%2F7CRpL9SqT90pjzpQvMpS1AiEA9ABMxynDIYnPNFSoTb7ZMBckcrDLvv4e6dtYzK1N0iIqwgUIs%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FARAAGgwxODcwMTcxNTA5ODYiDJ0JUiSQioeZN09KpyqWBVe1sbdKBl4lqNSDGR5UVO8dIqqE5WJuXebdX3lZD4OaGW51LWKTCCXZuBKs2ISuKPh91m2%2BsZ6ktPbGE2AhkybcxwieCVK%2BK7l84Bj24ywSDZsP1yn%2FPQvPSOPdtnqKR68nmtPicbTTb2iN1fNYmLpy0S%2FnwrF8mkwdmHhvUaEbcAUyjMHohThRkgvTO7TCgSpOGWKVTQEFsLHvsgi4bWMGi1ZtCdznqWdnvOSGhPIQKiLCFUVTI1oRtogKh0lqCDL4eD4Xt5720oaytX%2FzK60NnLdU6s2vGCG9kL1rEzM1fp%2FYqaRoi9XQXp3hj79AyZsUJuPSW2wBsyauTTAprw9V0oSJ%2BkgyFsGc7Ge21I74u8u%2BUNk7NGsVmUYeMeKK6TI%2B0Rjmc6gRjNT%2FzDhfv7vJG7pMLWR%2FOUMWNa9yQUISZ8lh6vjj0kkFOzMlze5lBdHr%2FnWvNqWN3MkH70GXWEsIEh43bVc1guPIoprq%2Bu47idhxaAzP1HurGLQr7p64dzS9lpwPYzY6lcy%2FURRoDKTRQG4E%2FCEP5VCwURQtf7DgsBTBfS1SBxALeyc8mv8DNadhiSKCTJIn%2BIy5cJE6p56IH%2FPy%2BLDoFKWBjEyTq%2B485casZ1GZkBnH8U522cCwhIpNLcykX%2F4wNUr86O6r5UklISiFuq1Fd0yu9W3z6zJUJ4XVYRI9130kMvqmT%2FWXqW8YAlY3uDF32GhawMfgb7KSBBrnSCeHfWshej%2BfYfsb%2FLLReGZxgMPqGgbsfZYqxDpHj6ybFJVzSw6l8QriLDoi8oT9adjEPELXp0rV5YgcHAyQDtWXjZ99CXlSqj0bLUoeo8aQQjTT8V8rzygz0yXkostwb4FyfVN5cyxFoE1S0FloEdNSMKW24KoGOrEBFDB4UqY3hmGXzAo%2Bg1EAXCZSzy18Zg6aqXEnnaM9l2m9b6ZdoEhKpA3zaGpQeiK72d9loW2TJU%2FxVT11CkQoWJnc5vc%2BvEAEWhFcrNhGRjVyEL68aqO6lD%2FuH94JxctuAJ2UWf%2BJsGDngPUA01yn%2B8aRAjoZ6PyU1JWIWSrw9CbhMr8XDOwYorTcKjT1xK76ZXfjU6C%2FWO%2BB8Ahq6zvqxZM3%2F4GQPiRkwzYuKPC78a5%2B&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Date=20231118T030529Z&X-Amz-SignedHeaders=host&X-Amz-Expires=3600&X-Amz-Credential=ASIASXCYXIIFLO2MWB7Q%2F20231118%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Signature=964ddd38678c0cf270f24657bcd706353f36de181ef3821df40be4f10b1d9f05",
+    "source": "Use Real Butter",
+    "shareAs": "http://www.edamam.com/recipe/vegetarian-bagel-0c4e0b9bbf221e718ef419bfd87f00af/vegetarian",
+    "yield": 2,
+    "dietLabels": [],
+    "healthLabels": [
+      "Vegetarian",
+      "Pescatarian",
+      "Mediterranean",
+      "Egg-Free",
+      "Peanut-Free",
+      "Tree-Nut-Free",
+      "Soy-Free",
+      "Fish-Free",
+      "Shellfish-Free",
+      "Pork-Free",
+      "Red-Meat-Free",
+      "Crustacean-Free",
+      "Celery-Free",
+      "Mustard-Free",
+      "Lupine-Free",
+      "Mollusk-Free",
+      "Alcohol-Free",
+      "Sulfite-Free",
+      "Kosher"
+    ],
+    "cautions": [
+      "Sulfites"
+    ],
+    "ingredientLines": [
+      "1 x Bagel",
+      "1 x Cream Cheese",
+      "1 x Tomato",
+      "2 x meunster cheese"
+    ],
+    "calories": 905.8466666666667,
+    "totalWeight": 391.3333333333333,
+    "totalTime": 0,
+    "cuisineType": [
+      "eastern europe"
+    ],
+    "mealType": [
+      "lunch/dinner"
+    ],
+    "dishType": [
+      "sandwiches"
+    ]
+  }
+]

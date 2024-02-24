@@ -1,0 +1,98 @@
+{
+  "data": [
+    {
+      "productId": "0008983618037",
+      "brand": "Simply Organic",
+      "upc": "0008983618037",
+      "price": [
+        null
+      ]
+    },
+    {
+      "productId": "0008983602619",
+      "brand": "Frontier Natural Products Co-op",
+      "upc": "0008983602619",
+      "price": [
+        {
+          "regular": 15.99,
+          "promo": 0
+        }
+      ]
+    },
+    {
+      "productId": "0063803161215",
+      "brand": "Field Roast",
+      "upc": "0063803161215",
+      "price": [
+        {
+          "regular": 6.99,
+          "promo": 0
+        }
+      ]
+    },
+    {
+      "productId": "0005210000124",
+      "brand": "McCormick",
+      "upc": "0005210000124",
+      "price": [
+        null
+      ]
+    },
+    {
+      "productId": "0082699800743",
+      "brand": "Spicely Organics",
+      "upc": "0082699800743",
+      "price": [
+        null
+      ]
+    },
+    {
+      "productId": "0001111073711",
+      "brand": "Private Selection",
+      "upc": "0001111073711",
+      "price": [
+        {
+          "regular": 4.79,
+          "promo": 0
+        }
+      ]
+    },
+    {
+      "productId": "0008983600144",
+      "brand": "Frontier Natural Products Co-op",
+      "upc": "0008983600144",
+      "price": [
+        null
+      ]
+    },
+    {
+      "productId": "0001111006217",
+      "brand": "Simple Truth Organic",
+      "upc": "0001111006217",
+      "price": [
+        {
+          "regular": 3.49,
+          "promo": 0
+        }
+      ]
+    },
+    {
+      "productId": "0000000094515",
+      "upc": "0000000094515",
+      "price": [
+        {
+          "regular": 2.49,
+          "promo": 0
+        }
+      ]
+    },
+    {
+      "productId": "0082699804086",
+      "brand": "Spicely",
+      "upc": "0082699804086",
+      "price": [
+        null
+      ]
+    }
+  ]
+}

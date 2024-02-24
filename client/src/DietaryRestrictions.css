@@ -1,0 +1,223 @@
+.container {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+  margin-bottom: 100px;
+}
+
+.label-container {
+  border: 3px dotted black; 
+  padding: 10px;
+  margin: 10px;
+  display: flex; 
+  justify-content: center; 
+  align-items: center; 
+  box-sizing: border-box;
+} 
+
+.label-container label {
+  font-family: 'Consolas', sans-serif; 
+  margin-left: 5px; 
+  color:midnightblue;
+}
+
+.checkbox {
+  display: none; 
+}
+
+.checkbox + span {
+  cursor: pointer;
+}
+
+.checkbox:checked + span {
+  color: red; 
+}
+
+.save-button {
+  width: 100%;
+}
+
+@keyframes sparkle {
+  0% {
+    opacity: 1;
+  }
+  50% {
+    opacity: 0.5;
+  }
+  100% {
+    opacity: 1;
+  }
+}
+
+.select-allergy {
+  animation: sparkle 2s ease infinite; 
+  text-align: center; 
+  width: 100%; 
+  text-decoration: underline;
+  color:crimson;
+}
+
+.egg-background {
+  background-image: url('../public/images/diet/egg.png');
+  background-size: cover;
+}
+
+.mediterranean-background {
+  background-image: url('../public/images/diet/mediterranean.png');
+  background-size: cover;
+}
+
+.dairy-background {
+  background-image: url('../public/images/diet/dairy.png');
+  background-size: cover;
+}
+
+.gluten-background {
+  background-image: url('../public/images/diet/gluten.png');
+  background-size: cover;
+}
+
+.wheat-background {
+  background-image: url('../public/images/diet/wheat.png');
+  background-size: cover;
+}
+
+.peanut-background {
+  background-image: url('../public/images/diet/peanut.png');
+  background-size: cover;
+}
+
+.treenut-background {
+  background-image: url('../public/images/diet/treenut.png');
+  background-size: cover;
+}
+
+.fish-background {
+  background-image: url('../public/images/diet/fish.png');
+  background-size: cover;
+}
+
+.soy-background {
+  background-image: url('../public/images/diet/soy.png');
+  background-size: cover;
+}
+
+.shellfish-background {
+  background-image: url('../public/images/diet/shellfish.png');
+  background-size: cover;
+}
+
+.pork-background {
+  background-image: url('../public/images/diet/pork.png');
+  background-size: cover;
+}
+
+.redmeat-background {
+  background-image: url('../public/images/diet/redmeat.png');
+  background-size: cover;
+}
+
+.crustacean-background {
+  background-image: url('../public/images/diet/crustcean.png');
+  background-size: cover;
+}
+
+.celery-background {
+  background-image: url('../public/images/diet/celery.png');
+  background-size: cover;
+}
+
+.mustard-background {
+  background-image: url('../public/images/diet/mustard.png');
+  background-size: cover;
+}
+
+.sesame-background {
+  background-image: url('../public/images/diet/sesame.png');
+  background-size: cover;
+}
+
+.lupine-background {
+  background-image: url('../public/images/diet/lupine.png');
+  background-size: cover;
+}
+
+.mollusk-background {
+  background-image: url('../public/images/diet/mollusk.png');
+  background-size: cover;
+}
+
+.kosher-background {
+  background-image: url('../public/images/diet/kosher.png');
+  background-size: cover;
+}
+
+.sugarconscious-background {
+  background-image: url('../public/images/diet/sugar.png');
+  background-size: cover;
+}
+
+.alcohol-background {
+  background-image: url('../public/images/diet/alcohol.png');
+  background-size: cover;
+}
+
+.sulfite-background {
+  background-image: url('../public/images/diet/sulfite.png');
+  background-size: cover;
+}
+
+.ketofriendly-background {
+  background-image: url('../public/images/diet/keto.png');
+  background-size: cover;
+}
+
+.paleo-background {
+  background-image: url('../public/images/diet/paleo.png');
+  background-size: cover;
+}
+
+.nooil-background {
+  background-image: url('../public/images/diet/oil.png');
+  background-size: cover;
+}
+
+.fodmap-background {
+  background-image: url('../public/images/diet/Fodmap.png');
+  background-size: cover;
+}
+
+.kidney-background {
+  background-image: url('../public/images/diet/kidney.png');
+  background-size: cover;
+}
+
+.immunosupportive-background {
+  background-image: url('../public/images/diet/immune.png');
+  background-size: cover;
+}
+
+.lowpotassium-background {
+  background-image: url('../public/images/diet/potassium.png');
+  background-size: cover;
+}
+
+.lowsugar-background {
+  background-image: url('../public/images/diet/sugar.png');
+  background-size: cover;
+}
+
+.pescatarian-background {
+  background-image: url('../public/images/diet/fish.png');
+  background-size: cover;
+}
+
+.vegan-background {
+  background-image: url('../public/images/diet/vegan.png');
+  background-size: cover;
+}
+
+.vegetarian-background {
+  background-image: url('../public/images/diet/vegtar.png');
+  background-size: cover;
+}

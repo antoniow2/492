@@ -1,0 +1,90 @@
+{
+  "data": [
+    {
+      "productId": "0006727500034",
+      "brand": "Crofter's Organic",
+      "upc": "0006727500034",
+      "price": [
+        null
+      ]
+    },
+    {
+      "productId": "0065264200630",
+      "brand": "Rigoni di Asiago",
+      "upc": "0065264200630",
+      "price": [
+        null
+      ]
+    },
+    {
+      "productId": "0371193419218",
+      "brand": "Kitcheniva",
+      "upc": "0371193419218",
+      "price": [
+        null
+      ]
+    },
+    {
+      "productId": "0073373901717",
+      "brand": "NOW",
+      "upc": "0073373901717",
+      "price": [
+        null
+      ]
+    },
+    {
+      "productId": "0371193419219",
+      "brand": "Kitcheniva",
+      "upc": "0371193419219",
+      "price": [
+        null
+      ]
+    },
+    {
+      "productId": "0074615562734",
+      "brand": "Bulk Buys",
+      "upc": "0074615562734",
+      "price": [
+        null
+      ]
+    },
+    {
+      "productId": "0081002120838",
+      "brand": "Dr Teal's",
+      "upc": "0081002120838",
+      "price": [
+        {
+          "regular": 6.99,
+          "promo": 5.99
+        }
+      ]
+    },
+    {
+      "productId": "0030997764108",
+      "brand": "Revlon",
+      "upc": "0030997764108",
+      "price": [
+        {
+          "regular": 10.99,
+          "promo": 0
+        }
+      ]
+    },
+    {
+      "productId": "0004759363009",
+      "brand": "Shiloh Farms",
+      "upc": "0004759363009",
+      "price": [
+        null
+      ]
+    },
+    {
+      "productId": "0371193419220",
+      "brand": "Kitcheniva",
+      "upc": "0371193419220",
+      "price": [
+        null
+      ]
+    }
+  ]
+}

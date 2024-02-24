@@ -1,0 +1,1115 @@
+[
+  {
+    "label": "Skirt Steak and Hanger Steak",
+    "url": "http://www.cookstr.com/recipes/skirt-steak-and-hanger-steak",
+    "ingredients": [
+      {
+        "text": "5 to 6 ounces skirt steak or hanger steak",
+        "quantity": 5.5,
+        "measure": "ounce",
+        "food": "skirt steak",
+        "weight": 155.92237718750002,
+        "foodCategory": "meats",
+        "foodId": "food_agvdl6pajjrz8sbghz0cdaz6q4yf",
+        "image": "https://www.edamam.com/food-img/e1d/e1dc9aaf420f55f30dd24768e532594a.jpg"
+      },
+      {
+        "text": "Salt",
+        "quantity": 0,
+        "measure": null,
+        "food": "Salt",
+        "weight": 0.9355342631250001,
+        "foodCategory": "Condiments and sauces",
+        "foodId": "food_btxz81db72hwbra2pncvebzzzum9",
+        "image": "https://www.edamam.com/food-img/694/6943ea510918c6025795e8dc6e6eaaeb.jpg"
+      },
+      {
+        "text": "Mild-tasting olive oil, to coat, or as needed",
+        "quantity": 0,
+        "measure": null,
+        "food": "olive oil",
+        "weight": 2.12054432975,
+        "foodCategory": "Oils",
+        "foodId": "food_b1d1icuad3iktrbqby0hiagafaz7",
+        "image": "https://www.edamam.com/food-img/4d6/4d651eaa8a353647746290c7a9b29d84.jpg"
+      }
+    ],
+    "uri": "http://www.edamam.com/ontologies/edamam.owl#recipe_d2fe0d280de91cd9cd5f3781fc5441a3",
+    "image": "https://edamam-product-images.s3.amazonaws.com/web-img/28e/28e26b8817b74263d70dd9480c112d83.jpg?X-Amz-Security-Token=IQoJb3JpZ2luX2VjEGsaCXVzLWVhc3QtMSJHMEUCIC5EcVohn5KOF%2BqsJMnWN15QAQiEjniqRzrDkKyFbnySAiEAklir9G9lxG0xv0NtH%2BbNUzcDusmggahGna36Vka0pfsqwQUIs%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FARAAGgwxODcwMTcxNTA5ODYiDE38n9doIwHPgmHkWCqVBbisrUc9re%2F9CDcggsOnHnBDSRivSr3n%2FpYDQwMNPvf0SYUmrug6XHTenjdFdVWV1Ff4x%2FBsbtdGVuGulJC598dBW%2FIXmHxB4RjkYiS0v%2BNR9rt8jcBLiQUdFZ1UDal6PePuO4XlD02vZtgzOL2rjk1S1%2FRf02SGPYJDSeRFq6YjIqTzCh0jJZTg0%2FA3mMwFzUHaQfuQhzaODUHy1ebxM9d9XMiSmONtMNlrIpIOojhoDIOugj9wpKzV1B4G2F%2FqIWaDFP25ylNKNxv88Xm00chUeTkgDxIn0%2BqyokvCIZdkiTHYWrZx9j%2B7gtiIywqN4eoqf48CItxwd3eZ71tpbn8KAdJRsFADWtqRn6XaPyfWjEnaZusqQyD%2FM5IgFH8v7T7kORlhTNQqvu3qWAZeMYp6hUGrDS%2FF7XZuXXkQ9yzH4skZOOMi6r1nr0sCJrML1oDJvC7Q7IsuvUWJPtpZVHDhzi8aUFs%2F2N8ILHtfUhPKIRzDCuh9FVjGw99civG%2BPOzyxr8RdH7%2FBMXZn%2B1WacULKtWF1byJOq56cJr48nuUeFCUM6pc2T6B50aVoJ9Gz5mPJtrrDmxRwPP3gRaKs%2BjhgPZ2p7zF7m7UbnvAzsnKmT6ea9fdY9eOAlr%2FVVEFAej3tXqn%2BRExSPcoysRWrzlGdsGFyCIb4LnjHQN3x8ndZ2m3BlYfR4pzXkXPytgvuQEcM7a3rznYy74k8Tf4m5AmnC92WA0MQ7C6%2BkvAO04Dhs06NMw8rJU8BgjyGK%2B%2F8PH9%2FFvH2PwUnqOVlkRSXlV1JtA70t5Kj6MYcZ3zB8jMYefoRof3Yo72ahjXkanHysD141KKoDO2UX3DxRT3zwC%2B7JvAZjqahjJyrfNtPsg%2FrNyahrUw17jgqgY6sQGeksuY%2F97zXR%2BobwqmxhruCnjVQr%2BL2fGGQNCFMEuHGe6Qqw57JcQ2csndirt5ZrsgvI37Rll9JHP3FXR2svQVNgb6%2BxCZWqynfWvMKZDTFTSVmUtYaqez1LlAuKXnuqJW2j8Han1M%2BhZGYZhwmUyADyPiBl0N2JHAR%2BMfdYrmkWOG2mNDMiJrkrBkg5SmzABy3VtH3F46kLOE0hf3Mgbc6VKYTVszV6sdIdys475UY1I%3D&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Date=20231118T025157Z&X-Amz-SignedHeaders=host&X-Amz-Expires=3600&X-Amz-Credential=ASIASXCYXIIFBUSCGD4D%2F20231118%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Signature=3adcc86234bc7ebbdfbdaf053ef2029a33a5299d88bf5391d4ec932dd2f798f1",
+    "source": "Cookstr",
+    "shareAs": "http://www.edamam.com/recipe/skirt-steak-and-hanger-steak-d2fe0d280de91cd9cd5f3781fc5441a3/steak",
+    "yield": 2,
+    "dietLabels": [
+      "Low-Carb"
+    ],
+    "healthLabels": [
+      "Sugar-Conscious",
+      "Low Sugar",
+      "Kidney-Friendly",
+      "Keto-Friendly",
+      "Paleo",
+      "Dairy-Free",
+      "Gluten-Free",
+      "Wheat-Free",
+      "Egg-Free",
+      "Peanut-Free",
+      "Tree-Nut-Free",
+      "Soy-Free",
+      "Fish-Free",
+      "Shellfish-Free",
+      "Pork-Free",
+      "Crustacean-Free",
+      "Celery-Free",
+      "Mustard-Free",
+      "Sesame-Free",
+      "Lupine-Free",
+      "Mollusk-Free",
+      "Alcohol-Free",
+      "Sulfite-Free",
+      "FODMAP-Free",
+      "Kosher"
+    ],
+    "cautions": [],
+    "ingredientLines": [
+      "5 to 6 ounces skirt steak or hanger steak",
+      "Salt",
+      "Mild-tasting olive oil, to coat, or as needed"
+    ],
+    "calories": 322.79424739061506,
+    "totalWeight": 158.72883310764038,
+    "totalTime": 30,
+    "cuisineType": [
+      "american"
+    ],
+    "mealType": [
+      "lunch/dinner"
+    ],
+    "dishType": [
+      "sandwiches"
+    ],
+    "instructions":[
+      "Mix ingredients and back in oven on 400 for 30 minutes. Serve"
+    ]
+  },
+  {
+    "label": "Salt-And-Pepper Steak",
+    "url": "https://www.epicurious.com/recipes/food/views/salt-and-pepper-steak-51236360",
+    "ingredients": [
+      {
+        "text": "1 1/2 pound skirt steak, cut into 4 pieces",
+        "quantity": 1.5,
+        "measure": "pound",
+        "food": "skirt steak",
+        "weight": 680.388555,
+        "foodCategory": "meats",
+        "foodId": "food_agvdl6pajjrz8sbghz0cdaz6q4yf",
+        "image": "https://www.edamam.com/food-img/e1d/e1dc9aaf420f55f30dd24768e532594a.jpg"
+      },
+      {
+        "text": "Salt",
+        "quantity": 0,
+        "measure": null,
+        "food": "Salt",
+        "weight": 4.08233133,
+        "foodCategory": "Condiments and sauces",
+        "foodId": "food_btxz81db72hwbra2pncvebzzzum9",
+        "image": "https://www.edamam.com/food-img/694/6943ea510918c6025795e8dc6e6eaaeb.jpg"
+      },
+      {
+        "text": "Pepper",
+        "quantity": 0,
+        "measure": null,
+        "food": "Pepper",
+        "weight": 2.041165665,
+        "foodCategory": "Condiments and sauces",
+        "foodId": "food_b6ywzluaaxv02wad7s1r9ag4py89",
+        "image": "https://www.edamam.com/food-img/c6e/c6e5c3bd8d3bc15175d9766971a4d1b2.jpg"
+      }
+    ],
+    "uri": "http://www.edamam.com/ontologies/edamam.owl#recipe_11ad0ac0b2f5870cadb46890c2d8d8de",
+    "image": "https://edamam-product-images.s3.amazonaws.com/web-img/69a/69a185e15ae107444f63acfeef439fdd.jpg?X-Amz-Security-Token=IQoJb3JpZ2luX2VjEGsaCXVzLWVhc3QtMSJHMEUCIC5EcVohn5KOF%2BqsJMnWN15QAQiEjniqRzrDkKyFbnySAiEAklir9G9lxG0xv0NtH%2BbNUzcDusmggahGna36Vka0pfsqwQUIs%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FARAAGgwxODcwMTcxNTA5ODYiDE38n9doIwHPgmHkWCqVBbisrUc9re%2F9CDcggsOnHnBDSRivSr3n%2FpYDQwMNPvf0SYUmrug6XHTenjdFdVWV1Ff4x%2FBsbtdGVuGulJC598dBW%2FIXmHxB4RjkYiS0v%2BNR9rt8jcBLiQUdFZ1UDal6PePuO4XlD02vZtgzOL2rjk1S1%2FRf02SGPYJDSeRFq6YjIqTzCh0jJZTg0%2FA3mMwFzUHaQfuQhzaODUHy1ebxM9d9XMiSmONtMNlrIpIOojhoDIOugj9wpKzV1B4G2F%2FqIWaDFP25ylNKNxv88Xm00chUeTkgDxIn0%2BqyokvCIZdkiTHYWrZx9j%2B7gtiIywqN4eoqf48CItxwd3eZ71tpbn8KAdJRsFADWtqRn6XaPyfWjEnaZusqQyD%2FM5IgFH8v7T7kORlhTNQqvu3qWAZeMYp6hUGrDS%2FF7XZuXXkQ9yzH4skZOOMi6r1nr0sCJrML1oDJvC7Q7IsuvUWJPtpZVHDhzi8aUFs%2F2N8ILHtfUhPKIRzDCuh9FVjGw99civG%2BPOzyxr8RdH7%2FBMXZn%2B1WacULKtWF1byJOq56cJr48nuUeFCUM6pc2T6B50aVoJ9Gz5mPJtrrDmxRwPP3gRaKs%2BjhgPZ2p7zF7m7UbnvAzsnKmT6ea9fdY9eOAlr%2FVVEFAej3tXqn%2BRExSPcoysRWrzlGdsGFyCIb4LnjHQN3x8ndZ2m3BlYfR4pzXkXPytgvuQEcM7a3rznYy74k8Tf4m5AmnC92WA0MQ7C6%2BkvAO04Dhs06NMw8rJU8BgjyGK%2B%2F8PH9%2FFvH2PwUnqOVlkRSXlV1JtA70t5Kj6MYcZ3zB8jMYefoRof3Yo72ahjXkanHysD141KKoDO2UX3DxRT3zwC%2B7JvAZjqahjJyrfNtPsg%2FrNyahrUw17jgqgY6sQGeksuY%2F97zXR%2BobwqmxhruCnjVQr%2BL2fGGQNCFMEuHGe6Qqw57JcQ2csndirt5ZrsgvI37Rll9JHP3FXR2svQVNgb6%2BxCZWqynfWvMKZDTFTSVmUtYaqez1LlAuKXnuqJW2j8Han1M%2BhZGYZhwmUyADyPiBl0N2JHAR%2BMfdYrmkWOG2mNDMiJrkrBkg5SmzABy3VtH3F46kLOE0hf3Mgbc6VKYTVszV6sdIdys475UY1I%3D&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Date=20231118T025157Z&X-Amz-SignedHeaders=host&X-Amz-Expires=3600&X-Amz-Credential=ASIASXCYXIIFBUSCGD4D%2F20231118%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Signature=897d89cc5228fbf6aa8ea19bb4a388ddd9941b0c03f65de26c22b93b866c8d4a",
+    "source": "Epicurious",
+    "shareAs": "http://www.edamam.com/recipe/salt-and-pepper-steak-11ad0ac0b2f5870cadb46890c2d8d8de/steak",
+    "yield": 6,
+    "dietLabels": [
+      "Low-Carb"
+    ],
+    "healthLabels": [
+      "Sugar-Conscious",
+      "Keto-Friendly",
+      "Paleo",
+      "Dairy-Free",
+      "Gluten-Free",
+      "Wheat-Free",
+      "Egg-Free",
+      "Peanut-Free",
+      "Tree-Nut-Free",
+      "Soy-Free",
+      "Fish-Free",
+      "Shellfish-Free",
+      "Pork-Free",
+      "Crustacean-Free",
+      "Celery-Free",
+      "Mustard-Free",
+      "Sesame-Free",
+      "Lupine-Free",
+      "Mollusk-Free",
+      "Alcohol-Free",
+      "No oil added",
+      "Sulfite-Free",
+      "FODMAP-Free",
+      "Kosher"
+    ],
+    "cautions": [],
+    "ingredientLines": [
+      "1 1/2 pound skirt steak, cut into 4 pieces",
+      "Salt",
+      "Pepper"
+    ],
+    "calories": 1331.88100806915,
+    "totalWeight": 685.3789883787347,
+    "totalTime": 0,
+    "cuisineType": [
+      "mediterranean"
+    ],
+    "mealType": [
+      "lunch/dinner"
+    ],
+    "dishType": [
+      "salad"
+    ]
+  },
+  {
+    "label": "Pan-Fried Steak",
+    "url": "https://www.marthastewart.com/315499/pan-fried-steak",
+    "ingredients": [
+      {
+        "text": "1 inch-thick boneless shell steak",
+        "quantity": 1,
+        "measure": "<unit>",
+        "food": "shell steak",
+        "weight": 301,
+        "foodCategory": "meats",
+        "foodId": "food_a1qm1qga3rhbanbowi34ja6x6xyl",
+        "image": "https://www.edamam.com/food-img/818/818522f7f285ce65fd11f956d119cb50.jpg"
+      },
+      {
+        "text": "Olive oil",
+        "quantity": 0,
+        "measure": null,
+        "food": "Olive oil",
+        "weight": 4.0935999999999995,
+        "foodCategory": "Oils",
+        "foodId": "food_b1d1icuad3iktrbqby0hiagafaz7",
+        "image": "https://www.edamam.com/food-img/4d6/4d651eaa8a353647746290c7a9b29d84.jpg"
+      },
+      {
+        "text": "Coarse salt and freshly ground pepper",
+        "quantity": 0,
+        "measure": null,
+        "food": "Coarse salt",
+        "weight": 1.806,
+        "foodCategory": "Condiments and sauces",
+        "foodId": "food_a1vgrj1bs8rd1majvmd9ubz8ttkg",
+        "image": "https://www.edamam.com/food-img/694/6943ea510918c6025795e8dc6e6eaaeb.jpg"
+      },
+      {
+        "text": "Coarse salt and freshly ground pepper",
+        "quantity": 0,
+        "measure": null,
+        "food": "pepper",
+        "weight": 0.903,
+        "foodCategory": "Condiments and sauces",
+        "foodId": "food_b6ywzluaaxv02wad7s1r9ag4py89",
+        "image": "https://www.edamam.com/food-img/c6e/c6e5c3bd8d3bc15175d9766971a4d1b2.jpg"
+      }
+    ],
+    "uri": "http://www.edamam.com/ontologies/edamam.owl#recipe_f445cd8ddcd858402909040855fad197",
+    "image": "https://edamam-product-images.s3.amazonaws.com/web-img/4c8/4c82dad530271be7c5e91205e2fc5931.jpg?X-Amz-Security-Token=IQoJb3JpZ2luX2VjEGsaCXVzLWVhc3QtMSJHMEUCIC5EcVohn5KOF%2BqsJMnWN15QAQiEjniqRzrDkKyFbnySAiEAklir9G9lxG0xv0NtH%2BbNUzcDusmggahGna36Vka0pfsqwQUIs%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FARAAGgwxODcwMTcxNTA5ODYiDE38n9doIwHPgmHkWCqVBbisrUc9re%2F9CDcggsOnHnBDSRivSr3n%2FpYDQwMNPvf0SYUmrug6XHTenjdFdVWV1Ff4x%2FBsbtdGVuGulJC598dBW%2FIXmHxB4RjkYiS0v%2BNR9rt8jcBLiQUdFZ1UDal6PePuO4XlD02vZtgzOL2rjk1S1%2FRf02SGPYJDSeRFq6YjIqTzCh0jJZTg0%2FA3mMwFzUHaQfuQhzaODUHy1ebxM9d9XMiSmONtMNlrIpIOojhoDIOugj9wpKzV1B4G2F%2FqIWaDFP25ylNKNxv88Xm00chUeTkgDxIn0%2BqyokvCIZdkiTHYWrZx9j%2B7gtiIywqN4eoqf48CItxwd3eZ71tpbn8KAdJRsFADWtqRn6XaPyfWjEnaZusqQyD%2FM5IgFH8v7T7kORlhTNQqvu3qWAZeMYp6hUGrDS%2FF7XZuXXkQ9yzH4skZOOMi6r1nr0sCJrML1oDJvC7Q7IsuvUWJPtpZVHDhzi8aUFs%2F2N8ILHtfUhPKIRzDCuh9FVjGw99civG%2BPOzyxr8RdH7%2FBMXZn%2B1WacULKtWF1byJOq56cJr48nuUeFCUM6pc2T6B50aVoJ9Gz5mPJtrrDmxRwPP3gRaKs%2BjhgPZ2p7zF7m7UbnvAzsnKmT6ea9fdY9eOAlr%2FVVEFAej3tXqn%2BRExSPcoysRWrzlGdsGFyCIb4LnjHQN3x8ndZ2m3BlYfR4pzXkXPytgvuQEcM7a3rznYy74k8Tf4m5AmnC92WA0MQ7C6%2BkvAO04Dhs06NMw8rJU8BgjyGK%2B%2F8PH9%2FFvH2PwUnqOVlkRSXlV1JtA70t5Kj6MYcZ3zB8jMYefoRof3Yo72ahjXkanHysD141KKoDO2UX3DxRT3zwC%2B7JvAZjqahjJyrfNtPsg%2FrNyahrUw17jgqgY6sQGeksuY%2F97zXR%2BobwqmxhruCnjVQr%2BL2fGGQNCFMEuHGe6Qqw57JcQ2csndirt5ZrsgvI37Rll9JHP3FXR2svQVNgb6%2BxCZWqynfWvMKZDTFTSVmUtYaqez1LlAuKXnuqJW2j8Han1M%2BhZGYZhwmUyADyPiBl0N2JHAR%2BMfdYrmkWOG2mNDMiJrkrBkg5SmzABy3VtH3F46kLOE0hf3Mgbc6VKYTVszV6sdIdys475UY1I%3D&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Date=20231118T025157Z&X-Amz-SignedHeaders=host&X-Amz-Expires=3600&X-Amz-Credential=ASIASXCYXIIFBUSCGD4D%2F20231118%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Signature=534be4ace0057455c51a77f373ea81fe197ecd6fdaaac5a9c39cc37ca055dfe7",
+    "source": "Martha Stewart",
+    "shareAs": "http://www.edamam.com/recipe/pan-fried-steak-f445cd8ddcd858402909040855fad197/steak",
+    "yield": 6,
+    "dietLabels": [
+      "Low-Carb",
+      "Low-Sodium"
+    ],
+    "healthLabels": [
+      "Sugar-Conscious",
+      "Kidney-Friendly",
+      "Keto-Friendly",
+      "Paleo",
+      "Dairy-Free",
+      "Gluten-Free",
+      "Wheat-Free",
+      "Egg-Free",
+      "Peanut-Free",
+      "Tree-Nut-Free",
+      "Soy-Free",
+      "Fish-Free",
+      "Shellfish-Free",
+      "Pork-Free",
+      "Crustacean-Free",
+      "Celery-Free",
+      "Mustard-Free",
+      "Sesame-Free",
+      "Lupine-Free",
+      "Mollusk-Free",
+      "Alcohol-Free",
+      "Sulfite-Free",
+      "FODMAP-Free"
+    ],
+    "cautions": [],
+    "ingredientLines": [
+      "1 inch-thick boneless shell steak",
+      "Olive oil",
+      "Coarse salt and freshly ground pepper"
+    ],
+    "calories": 1118.3546640000002,
+    "totalWeight": 349.120118150098,
+    "totalTime": 40,
+    "cuisineType": [
+      "american"
+    ],
+    "mealType": [
+      "lunch/dinner"
+    ],
+    "dishType": [
+      "main course"
+    ],
+    "instructions":[
+      "Mix ingredients and sear on the stove for 20 minutes. Serve while hot."
+    ]
+  },
+  {
+    "label": "Steak Bites",
+    "url": "http://thepioneerwoman.com/cooking/2009/01/steak-bites/",
+    "ingredients": [
+      {
+        "text": "1 lb Sirloin Steak (without Much Gristle) OR Pre-cut Beef Tips",
+        "quantity": 1,
+        "measure": "pound",
+        "food": "Beef Tips",
+        "weight": 453.59237,
+        "foodCategory": "meats",
+        "foodId": "food_bx2lgazb3757gsadoi85nbp72s8x",
+        "image": "https://www.edamam.com/food-img/58f/58f4bc64486057452caaf30a5443396e.jpg"
+      },
+      {
+        "text": "Kosher Salt To Taste",
+        "quantity": 0,
+        "measure": null,
+        "food": "Kosher Salt",
+        "weight": 2.89195422,
+        "foodCategory": "Condiments and sauces",
+        "foodId": "food_a1vgrj1bs8rd1majvmd9ubz8ttkg",
+        "image": "https://www.edamam.com/food-img/694/6943ea510918c6025795e8dc6e6eaaeb.jpg"
+      },
+      {
+        "text": "Fresh Ground Black Pepper To Taste",
+        "quantity": 0,
+        "measure": null,
+        "food": "Black Pepper",
+        "weight": 1.44597711,
+        "foodCategory": "Condiments and sauces",
+        "foodId": "food_b6ywzluaaxv02wad7s1r9ag4py89",
+        "image": "https://www.edamam.com/food-img/c6e/c6e5c3bd8d3bc15175d9766971a4d1b2.jpg"
+      },
+      {
+        "text": "2 tbsp Butter",
+        "quantity": 2,
+        "measure": "tablespoon",
+        "food": "Butter",
+        "weight": 28.4,
+        "foodCategory": "Dairy",
+        "foodId": "food_awz3iefajbk1fwahq9logahmgltj",
+        "image": "https://www.edamam.com/food-img/713/71397239b670d88c04faa8d05035cab4.jpg"
+      }
+    ],
+    "uri": "http://www.edamam.com/ontologies/edamam.owl#recipe_b3a023e49ddfe32818f9eaf0637e52ac",
+    "image": "https://edamam-product-images.s3.amazonaws.com/web-img/705/705f9836e39fcd98464340791e9ca8bc.jpg?X-Amz-Security-Token=IQoJb3JpZ2luX2VjEGsaCXVzLWVhc3QtMSJHMEUCIC5EcVohn5KOF%2BqsJMnWN15QAQiEjniqRzrDkKyFbnySAiEAklir9G9lxG0xv0NtH%2BbNUzcDusmggahGna36Vka0pfsqwQUIs%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FARAAGgwxODcwMTcxNTA5ODYiDE38n9doIwHPgmHkWCqVBbisrUc9re%2F9CDcggsOnHnBDSRivSr3n%2FpYDQwMNPvf0SYUmrug6XHTenjdFdVWV1Ff4x%2FBsbtdGVuGulJC598dBW%2FIXmHxB4RjkYiS0v%2BNR9rt8jcBLiQUdFZ1UDal6PePuO4XlD02vZtgzOL2rjk1S1%2FRf02SGPYJDSeRFq6YjIqTzCh0jJZTg0%2FA3mMwFzUHaQfuQhzaODUHy1ebxM9d9XMiSmONtMNlrIpIOojhoDIOugj9wpKzV1B4G2F%2FqIWaDFP25ylNKNxv88Xm00chUeTkgDxIn0%2BqyokvCIZdkiTHYWrZx9j%2B7gtiIywqN4eoqf48CItxwd3eZ71tpbn8KAdJRsFADWtqRn6XaPyfWjEnaZusqQyD%2FM5IgFH8v7T7kORlhTNQqvu3qWAZeMYp6hUGrDS%2FF7XZuXXkQ9yzH4skZOOMi6r1nr0sCJrML1oDJvC7Q7IsuvUWJPtpZVHDhzi8aUFs%2F2N8ILHtfUhPKIRzDCuh9FVjGw99civG%2BPOzyxr8RdH7%2FBMXZn%2B1WacULKtWF1byJOq56cJr48nuUeFCUM6pc2T6B50aVoJ9Gz5mPJtrrDmxRwPP3gRaKs%2BjhgPZ2p7zF7m7UbnvAzsnKmT6ea9fdY9eOAlr%2FVVEFAej3tXqn%2BRExSPcoysRWrzlGdsGFyCIb4LnjHQN3x8ndZ2m3BlYfR4pzXkXPytgvuQEcM7a3rznYy74k8Tf4m5AmnC92WA0MQ7C6%2BkvAO04Dhs06NMw8rJU8BgjyGK%2B%2F8PH9%2FFvH2PwUnqOVlkRSXlV1JtA70t5Kj6MYcZ3zB8jMYefoRof3Yo72ahjXkanHysD141KKoDO2UX3DxRT3zwC%2B7JvAZjqahjJyrfNtPsg%2FrNyahrUw17jgqgY6sQGeksuY%2F97zXR%2BobwqmxhruCnjVQr%2BL2fGGQNCFMEuHGe6Qqw57JcQ2csndirt5ZrsgvI37Rll9JHP3FXR2svQVNgb6%2BxCZWqynfWvMKZDTFTSVmUtYaqez1LlAuKXnuqJW2j8Han1M%2BhZGYZhwmUyADyPiBl0N2JHAR%2BMfdYrmkWOG2mNDMiJrkrBkg5SmzABy3VtH3F46kLOE0hf3Mgbc6VKYTVszV6sdIdys475UY1I%3D&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Date=20231118T025157Z&X-Amz-SignedHeaders=host&X-Amz-Expires=3600&X-Amz-Credential=ASIASXCYXIIFBUSCGD4D%2F20231118%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Signature=51d243d1b5a18c513ec7574bcb6a77b6d2707230ba6a00f3abc1d945df27a041",
+    "source": "Pioneer Woman",
+    "shareAs": "http://www.edamam.com/recipe/steak-bites-b3a023e49ddfe32818f9eaf0637e52ac/steak",
+    "yield": 2,
+    "dietLabels": [
+      "Low-Carb"
+    ],
+    "healthLabels": [
+      "Sugar-Conscious",
+      "Keto-Friendly",
+      "Gluten-Free",
+      "Wheat-Free",
+      "Egg-Free",
+      "Peanut-Free",
+      "Tree-Nut-Free",
+      "Soy-Free",
+      "Fish-Free",
+      "Shellfish-Free",
+      "Pork-Free",
+      "Crustacean-Free",
+      "Celery-Free",
+      "Mustard-Free",
+      "Sesame-Free",
+      "Lupine-Free",
+      "Mollusk-Free",
+      "Alcohol-Free",
+      "Sulfite-Free",
+      "FODMAP-Free"
+    ],
+    "cautions": [],
+    "ingredientLines": [
+      "1 lb Sirloin Steak (without Much Gristle) OR Pre-cut Beef Tips",
+      "Kosher Salt To Taste",
+      "Fresh Ground Black Pepper To Taste",
+      "2 tbsp Butter"
+    ],
+    "calories": 1109.9062188461,
+    "totalWeight": 485.6489899899365,
+    "totalTime": 15,
+    "cuisineType": [
+      "american"
+    ],
+    "mealType": [
+      "lunch/dinner"
+    ],
+    "dishType": [
+      "bread"
+    ],
+    "instructions":[
+      "Trim off the large obvious piece of fat that runs along the side of the meat. Next, cut strips less than 1-inch wide. Rotate the meat and cut into small bite-sized pieces. If you see any more large chunks of fat, gristle or long silvery membrane, cut them off.",
+      "Sprinkle generously with kosher salt and freshly ground pepper. Toss the meat around a bit to thoroughly coat with the seasonings.",
+      "Next, turn on your ventilation fan overhead. Heat the skillet over medium high to high heat. As the pan heats, add about 2 tablespoons butter to the skillet. Allow the butter to melt, then brown, before you add the meat",
+      "Place some of the meat in the pan in a single layer. It should sizzle loudly when it hits the pan – if it doesn’t, the pan isn’t hot enough. Don’t stir or disrupt the meat for 30-45 seconds. You want it to sizzle and brown on one side. Scoop as many steak bites as you can with your spatula and flip them over. Repeat until all the meat is turned. Cook for an additional 30 to 45 seconds—just long enough to sear the outside of the meat but NOT cook the inside.",
+      "Remove the meat to a clean plate. Add a little more butter to the pan and repeat the cooking process with the next batch just as before. Lastly, when all the meat is nicely browned and removed to the plate, pour all that browned/blackened butter all over the meat. And enjoy"
+    ]
+  },
+  {
+    "label": "Rump steak",
+    "url": "https://www.bbcgoodfood.com/recipes/rump-steak",
+    "ingredients": [
+      {
+        "text": "2 x 200g rump steak about 2-3cm thick",
+        "quantity": 400,
+        "measure": "gram",
+        "food": "rump steak",
+        "weight": 400,
+        "foodCategory": "meats",
+        "foodId": "food_a9esz60a6378pnbbo2xjdaenyjmy",
+        "image": "https://www.edamam.com/food-img/6e4/6e4187447a4066a470583b949687180d.jpg"
+      },
+      {
+        "text": "1 tbsp sunflower oil",
+        "quantity": 1,
+        "measure": "tablespoon",
+        "food": "sunflower oil",
+        "weight": 13.6,
+        "foodCategory": "Oils",
+        "foodId": "food_b09yz1nbx49rv1bss5kgxat77cvn",
+        "image": "https://www.edamam.com/food-img/be4/be4dba2bb618ecda2213ac422ae05289.jpg"
+      },
+      {
+        "text": "1 tbsp unsalted butter",
+        "quantity": 1,
+        "measure": "tablespoon",
+        "food": "unsalted butter",
+        "weight": 14.2,
+        "foodCategory": "Dairy",
+        "foodId": "food_awz3iefajbk1fwahq9logahmgltj",
+        "image": "https://www.edamam.com/food-img/713/71397239b670d88c04faa8d05035cab4.jpg"
+      },
+      {
+        "text": "1 large garlic clove , bashed once",
+        "quantity": 1,
+        "measure": "clove",
+        "food": "garlic",
+        "weight": 5,
+        "foodCategory": "vegetables",
+        "foodId": "food_avtcmx6bgjv1jvay6s6stan8dnyp",
+        "image": "https://www.edamam.com/food-img/6ee/6ee142951f48aaf94f4312409f8d133d.jpg"
+      },
+      {
+        "text": "1 sprig thyme or rosemary (optional)",
+        "quantity": 1,
+        "measure": "sprig",
+        "food": "thyme",
+        "weight": 3,
+        "foodCategory": "Condiments and sauces",
+        "foodId": "food_b3o3cj7a5gskecb0ufphtadnbfqb",
+        "image": "https://www.edamam.com/food-img/3e7/3e7cf3c8d767a90b906447f5e74059f7.jpg"
+      }
+    ],
+    "uri": "http://www.edamam.com/ontologies/edamam.owl#recipe_f5dad3feaed948e9efc446a2c87f921e",
+    "image": "https://edamam-product-images.s3.amazonaws.com/web-img/b5d/b5d448a14468adae3c7ce7986ff99df4.jpg?X-Amz-Security-Token=IQoJb3JpZ2luX2VjEGsaCXVzLWVhc3QtMSJHMEUCIC5EcVohn5KOF%2BqsJMnWN15QAQiEjniqRzrDkKyFbnySAiEAklir9G9lxG0xv0NtH%2BbNUzcDusmggahGna36Vka0pfsqwQUIs%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FARAAGgwxODcwMTcxNTA5ODYiDE38n9doIwHPgmHkWCqVBbisrUc9re%2F9CDcggsOnHnBDSRivSr3n%2FpYDQwMNPvf0SYUmrug6XHTenjdFdVWV1Ff4x%2FBsbtdGVuGulJC598dBW%2FIXmHxB4RjkYiS0v%2BNR9rt8jcBLiQUdFZ1UDal6PePuO4XlD02vZtgzOL2rjk1S1%2FRf02SGPYJDSeRFq6YjIqTzCh0jJZTg0%2FA3mMwFzUHaQfuQhzaODUHy1ebxM9d9XMiSmONtMNlrIpIOojhoDIOugj9wpKzV1B4G2F%2FqIWaDFP25ylNKNxv88Xm00chUeTkgDxIn0%2BqyokvCIZdkiTHYWrZx9j%2B7gtiIywqN4eoqf48CItxwd3eZ71tpbn8KAdJRsFADWtqRn6XaPyfWjEnaZusqQyD%2FM5IgFH8v7T7kORlhTNQqvu3qWAZeMYp6hUGrDS%2FF7XZuXXkQ9yzH4skZOOMi6r1nr0sCJrML1oDJvC7Q7IsuvUWJPtpZVHDhzi8aUFs%2F2N8ILHtfUhPKIRzDCuh9FVjGw99civG%2BPOzyxr8RdH7%2FBMXZn%2B1WacULKtWF1byJOq56cJr48nuUeFCUM6pc2T6B50aVoJ9Gz5mPJtrrDmxRwPP3gRaKs%2BjhgPZ2p7zF7m7UbnvAzsnKmT6ea9fdY9eOAlr%2FVVEFAej3tXqn%2BRExSPcoysRWrzlGdsGFyCIb4LnjHQN3x8ndZ2m3BlYfR4pzXkXPytgvuQEcM7a3rznYy74k8Tf4m5AmnC92WA0MQ7C6%2BkvAO04Dhs06NMw8rJU8BgjyGK%2B%2F8PH9%2FFvH2PwUnqOVlkRSXlV1JtA70t5Kj6MYcZ3zB8jMYefoRof3Yo72ahjXkanHysD141KKoDO2UX3DxRT3zwC%2B7JvAZjqahjJyrfNtPsg%2FrNyahrUw17jgqgY6sQGeksuY%2F97zXR%2BobwqmxhruCnjVQr%2BL2fGGQNCFMEuHGe6Qqw57JcQ2csndirt5ZrsgvI37Rll9JHP3FXR2svQVNgb6%2BxCZWqynfWvMKZDTFTSVmUtYaqez1LlAuKXnuqJW2j8Han1M%2BhZGYZhwmUyADyPiBl0N2JHAR%2BMfdYrmkWOG2mNDMiJrkrBkg5SmzABy3VtH3F46kLOE0hf3Mgbc6VKYTVszV6sdIdys475UY1I%3D&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Date=20231118T025157Z&X-Amz-SignedHeaders=host&X-Amz-Expires=3600&X-Amz-Credential=ASIASXCYXIIFBUSCGD4D%2F20231118%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Signature=3c10ca92a4bed86cbd0aba604383a1c9ace4e190e43ea5b5884c5712607b2974",
+    "source": "BBC Good Food",
+    "shareAs": "http://www.edamam.com/recipe/rump-steak-f5dad3feaed948e9efc446a2c87f921e/steak",
+    "yield": 2,
+    "dietLabels": [
+      "Low-Carb",
+      "Low-Sodium"
+    ],
+    "healthLabels": [
+      "Sugar-Conscious",
+      "Keto-Friendly",
+      "Gluten-Free",
+      "Wheat-Free",
+      "Egg-Free",
+      "Peanut-Free",
+      "Tree-Nut-Free",
+      "Soy-Free",
+      "Fish-Free",
+      "Shellfish-Free",
+      "Pork-Free",
+      "Crustacean-Free",
+      "Celery-Free",
+      "Mustard-Free",
+      "Sesame-Free",
+      "Lupine-Free",
+      "Mollusk-Free",
+      "Alcohol-Free",
+      "Sulfite-Free"
+    ],
+    "cautions": [],
+    "ingredientLines": [
+      "2 x 200g rump steak about 2-3cm thick",
+      "1 tbsp sunflower oil",
+      "1 tbsp unsalted butter",
+      "1 large garlic clove , bashed once",
+      "1 sprig thyme or rosemary (optional)"
+    ],
+    "calories": 1079.1180000000002,
+    "totalWeight": 435.8,
+    "totalTime": 15,
+    "cuisineType": [
+      "american"
+    ],
+    "mealType": [
+      "lunch/dinner"
+    ],
+    "dishType": [
+      "main course"
+    ],
+    "instructions":[
+      "Take the steaks out of the fridge 30 mins before cooking them. Pat them dry and season.",
+      "Heat a non-stick heavy-based frying pan over a very high heat. Drizzle in the oil, then add the butter, garlic and steaks, nestling the herbs around them. With a pair of tongs, turn the steaks every 30 secs to 1 min so they get a nice brown crust. As a rough guide, each steak will take 3 mins in total for rare, 4-5 mins in total for medium and 7-8 mins for well done. If you have a digital cooking thermometer, the middle of the steak should be 50C for rare, 60C for medium and 70C for well done. If your steak has a thick layer of fat running down the side, hold the steak on its side with a pair of tongs and push the fat into the pan for 2 mins or until golden brown.",
+      "Transfer the steak to a plate. Cover in foil and leave to rest for 5 mins before serving."
+    ]
+  },
+  {
+    "label": "Steak Teriyaki recipes",
+    "url": "http://www.simplyrecipes.com/recipes/steak_teriyaki/",
+    "ingredients": [
+      {
+        "text": "1/3 cup mirin rice wine",
+        "quantity": 0.3333333333333333,
+        "measure": "cup",
+        "food": "rice wine",
+        "weight": 77.6,
+        "foodCategory": "cocktails and liquors",
+        "foodId": "food_bm83c4ob7z5q3xac1potzakndqbv",
+        "image": "https://www.edamam.com/food-img/bb7/bb76cdd34c080bf65908c09812fd9c8d.jpg"
+      },
+      {
+        "text": "1/3 cup sake",
+        "quantity": 0.3333333333333333,
+        "measure": "cup",
+        "food": "sake",
+        "weight": 77.6,
+        "foodCategory": "cocktails and liquors",
+        "foodId": "food_b4lx3glaxob844b6jpzb8ay9men8",
+        "image": "https://www.edamam.com/food-img/bb7/bb76cdd34c080bf65908c09812fd9c8d.jpg"
+      },
+      {
+        "text": "1/3 cup soy sauce (if cooking gluten-free, use gluten-free soy sauce)",
+        "quantity": 0.3333333333333333,
+        "measure": "cup",
+        "food": "soy sauce",
+        "weight": 85,
+        "foodCategory": "plant-based protein",
+        "foodId": "food_a5g9yevb1iactoaiimbvjbkrxueh",
+        "image": "https://www.edamam.com/food-img/f56/f562e461eb0618f367f538b836c17b82.jpg"
+      },
+      {
+        "text": "1 Tbsp sugar",
+        "quantity": 1,
+        "measure": "tablespoon",
+        "food": "sugar",
+        "weight": 12.4999999997887,
+        "foodCategory": "sugars",
+        "foodId": "food_axi2ijobrk819yb0adceobnhm1c2",
+        "image": "https://www.edamam.com/food-img/ecb/ecb3f5aaed96d0188c21b8369be07765.jpg"
+      },
+      {
+        "text": "1 Tbsp fresh grated ginger",
+        "quantity": 1,
+        "measure": "tablespoon",
+        "food": "ginger",
+        "weight": 5.99999999989856,
+        "foodCategory": "vegetables",
+        "foodId": "food_bi2ki2xb5zmmvbaiwf7ztbgktzp6",
+        "image": "https://www.edamam.com/food-img/b9c/b9c06ef451ef29513880af0a53ebbaa6.jpg"
+      },
+      {
+        "text": "1 1/2 to 2 lb flank steak or skirt steak",
+        "quantity": 1.75,
+        "measure": "pound",
+        "food": "flank steak",
+        "weight": 793.7866475000001,
+        "foodCategory": "meats",
+        "foodId": "food_abhe6ejbfw25i1a4u0iiwbi0aw6s",
+        "image": "https://www.edamam.com/food-img/f8d/f8dedaeb7292857a4d92019961fb91fb.jpg"
+      },
+      {
+        "text": "olive oil",
+        "quantity": 0,
+        "measure": null,
+        "food": "olive oil",
+        "weight": 14.313818405995745,
+        "foodCategory": "Oils",
+        "foodId": "food_b1d1icuad3iktrbqby0hiagafaz7",
+        "image": "https://www.edamam.com/food-img/4d6/4d651eaa8a353647746290c7a9b29d84.jpg"
+      }
+    ],
+    "uri": "http://www.edamam.com/ontologies/edamam.owl#recipe_4d0335d34d2ed7ce31df104b8bcb2df1",
+    "image": "https://edamam-product-images.s3.amazonaws.com/web-img/1ab/1abd0d75240a799f4985de6b17f6645f?X-Amz-Security-Token=IQoJb3JpZ2luX2VjEGsaCXVzLWVhc3QtMSJHMEUCIC5EcVohn5KOF%2BqsJMnWN15QAQiEjniqRzrDkKyFbnySAiEAklir9G9lxG0xv0NtH%2BbNUzcDusmggahGna36Vka0pfsqwQUIs%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FARAAGgwxODcwMTcxNTA5ODYiDE38n9doIwHPgmHkWCqVBbisrUc9re%2F9CDcggsOnHnBDSRivSr3n%2FpYDQwMNPvf0SYUmrug6XHTenjdFdVWV1Ff4x%2FBsbtdGVuGulJC598dBW%2FIXmHxB4RjkYiS0v%2BNR9rt8jcBLiQUdFZ1UDal6PePuO4XlD02vZtgzOL2rjk1S1%2FRf02SGPYJDSeRFq6YjIqTzCh0jJZTg0%2FA3mMwFzUHaQfuQhzaODUHy1ebxM9d9XMiSmONtMNlrIpIOojhoDIOugj9wpKzV1B4G2F%2FqIWaDFP25ylNKNxv88Xm00chUeTkgDxIn0%2BqyokvCIZdkiTHYWrZx9j%2B7gtiIywqN4eoqf48CItxwd3eZ71tpbn8KAdJRsFADWtqRn6XaPyfWjEnaZusqQyD%2FM5IgFH8v7T7kORlhTNQqvu3qWAZeMYp6hUGrDS%2FF7XZuXXkQ9yzH4skZOOMi6r1nr0sCJrML1oDJvC7Q7IsuvUWJPtpZVHDhzi8aUFs%2F2N8ILHtfUhPKIRzDCuh9FVjGw99civG%2BPOzyxr8RdH7%2FBMXZn%2B1WacULKtWF1byJOq56cJr48nuUeFCUM6pc2T6B50aVoJ9Gz5mPJtrrDmxRwPP3gRaKs%2BjhgPZ2p7zF7m7UbnvAzsnKmT6ea9fdY9eOAlr%2FVVEFAej3tXqn%2BRExSPcoysRWrzlGdsGFyCIb4LnjHQN3x8ndZ2m3BlYfR4pzXkXPytgvuQEcM7a3rznYy74k8Tf4m5AmnC92WA0MQ7C6%2BkvAO04Dhs06NMw8rJU8BgjyGK%2B%2F8PH9%2FFvH2PwUnqOVlkRSXlV1JtA70t5Kj6MYcZ3zB8jMYefoRof3Yo72ahjXkanHysD141KKoDO2UX3DxRT3zwC%2B7JvAZjqahjJyrfNtPsg%2FrNyahrUw17jgqgY6sQGeksuY%2F97zXR%2BobwqmxhruCnjVQr%2BL2fGGQNCFMEuHGe6Qqw57JcQ2csndirt5ZrsgvI37Rll9JHP3FXR2svQVNgb6%2BxCZWqynfWvMKZDTFTSVmUtYaqez1LlAuKXnuqJW2j8Han1M%2BhZGYZhwmUyADyPiBl0N2JHAR%2BMfdYrmkWOG2mNDMiJrkrBkg5SmzABy3VtH3F46kLOE0hf3Mgbc6VKYTVszV6sdIdys475UY1I%3D&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Date=20231118T025157Z&X-Amz-SignedHeaders=host&X-Amz-Expires=3600&X-Amz-Credential=ASIASXCYXIIFBUSCGD4D%2F20231118%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Signature=23825d4d0c56bd2f8f5e8fce73c9aff4309bc2d42749a5a521e6a6fb27df1104",
+    "source": "Simply Recipes",
+    "shareAs": "http://www.edamam.com/recipe/steak-teriyaki-recipes-4d0335d34d2ed7ce31df104b8bcb2df1/steak",
+    "yield": 4,
+    "dietLabels": [
+      "Low-Carb"
+    ],
+    "healthLabels": [
+      "Sugar-Conscious",
+      "Keto-Friendly",
+      "Dairy-Free",
+      "Egg-Free",
+      "Peanut-Free",
+      "Tree-Nut-Free",
+      "Fish-Free",
+      "Shellfish-Free",
+      "Pork-Free",
+      "Crustacean-Free",
+      "Celery-Free",
+      "Mustard-Free",
+      "Sesame-Free",
+      "Lupine-Free",
+      "Mollusk-Free",
+      "Kosher"
+    ],
+    "cautions": [],
+    "ingredientLines": [
+      "1/3 cup mirin rice wine",
+      "1/3 cup sake",
+      "1/3 cup soy sauce (if cooking gluten-free, use gluten-free soy sauce)",
+      "1 Tbsp sugar",
+      "1 Tbsp fresh grated ginger",
+      "1 1/2 to 2 lb flank steak or skirt steak",
+      "olive oil"
+    ],
+    "calories": 1742.4751230831034,
+    "totalWeight": 1066.800465905683,
+    "totalTime": 75,
+    "cuisineType": [
+      "japanese"
+    ],
+    "mealType": [
+      "lunch/dinner"
+    ],
+    "dishType": [
+      "main course"
+    ]
+  },
+  {
+    "label": "Perfect Porterhouse Steak recipes",
+    "url": "http://www.bonappetit.com/recipe/perfect-porterhouse-steak",
+    "ingredients": [
+      {
+        "text": "2”-thick Porterhouse steak, trimmed (about 2 lb.)",
+        "quantity": 2,
+        "measure": "pound",
+        "food": "Porterhouse steak",
+        "weight": 907.18474,
+        "foodCategory": "meats",
+        "foodId": "food_bwbjyozb6nminjbvtqrwnawt5rnc",
+        "image": "https://www.edamam.com/food-img/a74/a74f4d1a191fdf11e28bf8de1f6a95dd.jpg"
+      },
+      {
+        "text": "vegetable oil",
+        "quantity": 0,
+        "measure": null,
+        "food": "vegetable oil",
+        "weight": 12.337712463999999,
+        "foodCategory": "Oils",
+        "foodId": "food_bt1mzi2ah2sfg8bv7no1qai83w8s",
+        "image": "https://www.edamam.com/food-img/6e5/6e51a63a6300a8ea1b4c4cc68dfaba33.jpg"
+      },
+      {
+        "text": "ground black pepper",
+        "quantity": 0,
+        "measure": null,
+        "food": "black pepper",
+        "weight": 2.7215542200000002,
+        "foodCategory": "Condiments and sauces",
+        "foodId": "food_b6ywzluaaxv02wad7s1r9ag4py89",
+        "image": "https://www.edamam.com/food-img/c6e/c6e5c3bd8d3bc15175d9766971a4d1b2.jpg"
+      },
+      {
+        "text": "kosher salt",
+        "quantity": 0,
+        "measure": null,
+        "food": "kosher salt",
+        "weight": 5.4431084400000005,
+        "foodCategory": "Condiments and sauces",
+        "foodId": "food_a1vgrj1bs8rd1majvmd9ubz8ttkg",
+        "image": "https://www.edamam.com/food-img/694/6943ea510918c6025795e8dc6e6eaaeb.jpg"
+      },
+      {
+        "text": "unsalted butter",
+        "quantity": 0,
+        "measure": null,
+        "food": "unsalted butter",
+        "weight": 12.337712463999999,
+        "foodCategory": "Dairy",
+        "foodId": "food_awz3iefajbk1fwahq9logahmgltj",
+        "image": "https://www.edamam.com/food-img/713/71397239b670d88c04faa8d05035cab4.jpg"
+      }
+    ],
+    "uri": "http://www.edamam.com/ontologies/edamam.owl#recipe_7e3aad53d00b9acccaef151afa67b7e6",
+    "image": "https://edamam-product-images.s3.amazonaws.com/web-img/d30/d30083c0e56c915a136b8637e623ef3e?X-Amz-Security-Token=IQoJb3JpZ2luX2VjEGsaCXVzLWVhc3QtMSJHMEUCIC5EcVohn5KOF%2BqsJMnWN15QAQiEjniqRzrDkKyFbnySAiEAklir9G9lxG0xv0NtH%2BbNUzcDusmggahGna36Vka0pfsqwQUIs%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FARAAGgwxODcwMTcxNTA5ODYiDE38n9doIwHPgmHkWCqVBbisrUc9re%2F9CDcggsOnHnBDSRivSr3n%2FpYDQwMNPvf0SYUmrug6XHTenjdFdVWV1Ff4x%2FBsbtdGVuGulJC598dBW%2FIXmHxB4RjkYiS0v%2BNR9rt8jcBLiQUdFZ1UDal6PePuO4XlD02vZtgzOL2rjk1S1%2FRf02SGPYJDSeRFq6YjIqTzCh0jJZTg0%2FA3mMwFzUHaQfuQhzaODUHy1ebxM9d9XMiSmONtMNlrIpIOojhoDIOugj9wpKzV1B4G2F%2FqIWaDFP25ylNKNxv88Xm00chUeTkgDxIn0%2BqyokvCIZdkiTHYWrZx9j%2B7gtiIywqN4eoqf48CItxwd3eZ71tpbn8KAdJRsFADWtqRn6XaPyfWjEnaZusqQyD%2FM5IgFH8v7T7kORlhTNQqvu3qWAZeMYp6hUGrDS%2FF7XZuXXkQ9yzH4skZOOMi6r1nr0sCJrML1oDJvC7Q7IsuvUWJPtpZVHDhzi8aUFs%2F2N8ILHtfUhPKIRzDCuh9FVjGw99civG%2BPOzyxr8RdH7%2FBMXZn%2B1WacULKtWF1byJOq56cJr48nuUeFCUM6pc2T6B50aVoJ9Gz5mPJtrrDmxRwPP3gRaKs%2BjhgPZ2p7zF7m7UbnvAzsnKmT6ea9fdY9eOAlr%2FVVEFAej3tXqn%2BRExSPcoysRWrzlGdsGFyCIb4LnjHQN3x8ndZ2m3BlYfR4pzXkXPytgvuQEcM7a3rznYy74k8Tf4m5AmnC92WA0MQ7C6%2BkvAO04Dhs06NMw8rJU8BgjyGK%2B%2F8PH9%2FFvH2PwUnqOVlkRSXlV1JtA70t5Kj6MYcZ3zB8jMYefoRof3Yo72ahjXkanHysD141KKoDO2UX3DxRT3zwC%2B7JvAZjqahjJyrfNtPsg%2FrNyahrUw17jgqgY6sQGeksuY%2F97zXR%2BobwqmxhruCnjVQr%2BL2fGGQNCFMEuHGe6Qqw57JcQ2csndirt5ZrsgvI37Rll9JHP3FXR2svQVNgb6%2BxCZWqynfWvMKZDTFTSVmUtYaqez1LlAuKXnuqJW2j8Han1M%2BhZGYZhwmUyADyPiBl0N2JHAR%2BMfdYrmkWOG2mNDMiJrkrBkg5SmzABy3VtH3F46kLOE0hf3Mgbc6VKYTVszV6sdIdys475UY1I%3D&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Date=20231118T025157Z&X-Amz-SignedHeaders=host&X-Amz-Expires=3600&X-Amz-Credential=ASIASXCYXIIFBUSCGD4D%2F20231118%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Signature=fc809a0c9dfb2f66d61fd191cda26b4dacc9d4244c39ff46feab432768dd17a2",
+    "source": "Bon Appetit",
+    "shareAs": "http://www.edamam.com/recipe/perfect-porterhouse-steak-recipes-7e3aad53d00b9acccaef151afa67b7e6/steak",
+    "yield": 4,
+    "dietLabels": [
+      "Low-Carb"
+    ],
+    "healthLabels": [
+      "Sugar-Conscious",
+      "Keto-Friendly",
+      "Gluten-Free",
+      "Wheat-Free",
+      "Egg-Free",
+      "Peanut-Free",
+      "Tree-Nut-Free",
+      "Soy-Free",
+      "Fish-Free",
+      "Shellfish-Free",
+      "Pork-Free",
+      "Crustacean-Free",
+      "Celery-Free",
+      "Mustard-Free",
+      "Sesame-Free",
+      "Lupine-Free",
+      "Mollusk-Free",
+      "Alcohol-Free",
+      "Sulfite-Free",
+      "FODMAP-Free"
+    ],
+    "cautions": [],
+    "ingredientLines": [
+      "2”-thick Porterhouse steak, trimmed (about 2 lb.)",
+      "vegetable oil",
+      "ground black pepper",
+      "kosher salt",
+      "unsalted butter"
+    ],
+    "calories": 2182.02061084084,
+    "totalWeight": 938.9624242310651,
+    "totalTime": 100,
+    "cuisineType": [
+      "british"
+    ],
+    "mealType": [
+      "lunch/dinner"
+    ],
+    "dishType": [
+      "main course"
+    ],
+    "instructions":[
+      "Combine the mirin, sake, soy sauce, sugar, and grated ginger in a large, shallow bowl. Place the steak in the marinade and let marinate for at least an hour, and up to 48 hours. If marinating for more than an hour, keep chilled until an hour before you plan to cook.",
+      "When ready to cook, remove steak from marinade, reserving the marinade. Place steak on a plate and set aside. Place marinade in a saucepan and bring to a boil. Boil for 10 minutes, or until the marinade has reduced to a thin glaze, becoming your teriyaki sauce.",
+      "If grilling the steak, prepare your grill for high, direct heat and oil the grill grates. If pan frying, heat a large cast iron pan on high heat. Pat dry the steak. Rub a little olive oil all over it. Place the steak on the hot grill or pan. Sear for 3 to 5 minutes on one side, or until the side is well browned, and turn the steak over and sear the other side.",
+      "Baste the steak with teriyaki sauce.",
+      "When the steak is well seared on both sides, remove from the heat, cover with foil, and let rest for 10 to 15 minutes."
+    ]
+  },
+  {
+    "label": "Vietnamese Sugar Steak",
+    "url": "https://food52.com/recipes/34678-vietnamese-sugar-steak",
+    "ingredients": [
+      {
+        "text": "4 tablespoons fish sauce",
+        "quantity": 4,
+        "measure": "tablespoon",
+        "food": "fish sauce",
+        "weight": 72,
+        "foodCategory": "canned soup",
+        "foodId": "food_ahlu6u3ab8bu1wap7cbqua3s1quk",
+        "image": "https://www.edamam.com/food-img/7b5/7b58b769d8bf7b79acf12a76b79ea9bc.jpg"
+      },
+      {
+        "text": "2 tablespoons brown sugar",
+        "quantity": 2,
+        "measure": "tablespoon",
+        "food": "brown sugar",
+        "weight": 18.12499999969356,
+        "foodCategory": "sugars",
+        "foodId": "food_aodgtqwbmeu5f6bxeffn0art3bga",
+        "image": "https://www.edamam.com/food-img/8c6/8c6662bd73900645c6385b51a95d9b03.jpg"
+      },
+      {
+        "text": "3 tablespoons lime juice, divided",
+        "quantity": 3,
+        "measure": "tablespoon",
+        "food": "lime juice",
+        "weight": 46.199999999218896,
+        "foodCategory": "fruit",
+        "foodId": "food_b0iywbmaujvd4eblrooo9bsvn7e6",
+        "image": "https://www.edamam.com/food-img/8f0/8f0c10eb3dbf476a05e61018e76ea220.jpg"
+      },
+      {
+        "text": "1 tablespoon minced garlic",
+        "quantity": 1,
+        "measure": "tablespoon",
+        "food": "garlic",
+        "weight": 8.499999999856291,
+        "foodCategory": "vegetables",
+        "foodId": "food_avtcmx6bgjv1jvay6s6stan8dnyp",
+        "image": "https://www.edamam.com/food-img/6ee/6ee142951f48aaf94f4312409f8d133d.jpg"
+      },
+      {
+        "text": "1 pound skirt or flap steak",
+        "quantity": 1,
+        "measure": "pound",
+        "food": "flap steak",
+        "weight": 453.59237,
+        "foodCategory": "meats",
+        "foodId": "food_agvdl6pajjrz8sbghz0cdaz6q4yf",
+        "image": "https://www.edamam.com/food-img/e1d/e1dc9aaf420f55f30dd24768e532594a.jpg"
+      },
+      {
+        "text": "1 tablespoon butter (optional)",
+        "quantity": 1,
+        "measure": "tablespoon",
+        "food": "butter",
+        "weight": 14.2,
+        "foodCategory": "Dairy",
+        "foodId": "food_awz3iefajbk1fwahq9logahmgltj",
+        "image": "https://www.edamam.com/food-img/713/71397239b670d88c04faa8d05035cab4.jpg"
+      }
+    ],
+    "uri": "http://www.edamam.com/ontologies/edamam.owl#recipe_90101bbc817bd554bba0e759b8faea96",
+    "image": "https://edamam-product-images.s3.amazonaws.com/web-img/0ce/0ceb02a442b8a784fdf2cb37c5a4bce2.jpg?X-Amz-Security-Token=IQoJb3JpZ2luX2VjEGsaCXVzLWVhc3QtMSJHMEUCIC5EcVohn5KOF%2BqsJMnWN15QAQiEjniqRzrDkKyFbnySAiEAklir9G9lxG0xv0NtH%2BbNUzcDusmggahGna36Vka0pfsqwQUIs%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FARAAGgwxODcwMTcxNTA5ODYiDE38n9doIwHPgmHkWCqVBbisrUc9re%2F9CDcggsOnHnBDSRivSr3n%2FpYDQwMNPvf0SYUmrug6XHTenjdFdVWV1Ff4x%2FBsbtdGVuGulJC598dBW%2FIXmHxB4RjkYiS0v%2BNR9rt8jcBLiQUdFZ1UDal6PePuO4XlD02vZtgzOL2rjk1S1%2FRf02SGPYJDSeRFq6YjIqTzCh0jJZTg0%2FA3mMwFzUHaQfuQhzaODUHy1ebxM9d9XMiSmONtMNlrIpIOojhoDIOugj9wpKzV1B4G2F%2FqIWaDFP25ylNKNxv88Xm00chUeTkgDxIn0%2BqyokvCIZdkiTHYWrZx9j%2B7gtiIywqN4eoqf48CItxwd3eZ71tpbn8KAdJRsFADWtqRn6XaPyfWjEnaZusqQyD%2FM5IgFH8v7T7kORlhTNQqvu3qWAZeMYp6hUGrDS%2FF7XZuXXkQ9yzH4skZOOMi6r1nr0sCJrML1oDJvC7Q7IsuvUWJPtpZVHDhzi8aUFs%2F2N8ILHtfUhPKIRzDCuh9FVjGw99civG%2BPOzyxr8RdH7%2FBMXZn%2B1WacULKtWF1byJOq56cJr48nuUeFCUM6pc2T6B50aVoJ9Gz5mPJtrrDmxRwPP3gRaKs%2BjhgPZ2p7zF7m7UbnvAzsnKmT6ea9fdY9eOAlr%2FVVEFAej3tXqn%2BRExSPcoysRWrzlGdsGFyCIb4LnjHQN3x8ndZ2m3BlYfR4pzXkXPytgvuQEcM7a3rznYy74k8Tf4m5AmnC92WA0MQ7C6%2BkvAO04Dhs06NMw8rJU8BgjyGK%2B%2F8PH9%2FFvH2PwUnqOVlkRSXlV1JtA70t5Kj6MYcZ3zB8jMYefoRof3Yo72ahjXkanHysD141KKoDO2UX3DxRT3zwC%2B7JvAZjqahjJyrfNtPsg%2FrNyahrUw17jgqgY6sQGeksuY%2F97zXR%2BobwqmxhruCnjVQr%2BL2fGGQNCFMEuHGe6Qqw57JcQ2csndirt5ZrsgvI37Rll9JHP3FXR2svQVNgb6%2BxCZWqynfWvMKZDTFTSVmUtYaqez1LlAuKXnuqJW2j8Han1M%2BhZGYZhwmUyADyPiBl0N2JHAR%2BMfdYrmkWOG2mNDMiJrkrBkg5SmzABy3VtH3F46kLOE0hf3Mgbc6VKYTVszV6sdIdys475UY1I%3D&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Date=20231118T025157Z&X-Amz-SignedHeaders=host&X-Amz-Expires=3600&X-Amz-Credential=ASIASXCYXIIFBUSCGD4D%2F20231118%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Signature=9a877835690b85d4fa398b8f019e60a8604bb421a59821132c74e0cab2460db4",
+    "source": "Food52",
+    "shareAs": "http://www.edamam.com/recipe/vietnamese-sugar-steak-90101bbc817bd554bba0e759b8faea96/steak",
+    "yield": 4,
+    "dietLabels": [
+      "Low-Carb"
+    ],
+    "healthLabels": [
+      "Keto-Friendly",
+      "Gluten-Free",
+      "Wheat-Free",
+      "Egg-Free",
+      "Peanut-Free",
+      "Tree-Nut-Free",
+      "Soy-Free",
+      "Shellfish-Free",
+      "Pork-Free",
+      "Celery-Free",
+      "Mustard-Free",
+      "Sesame-Free",
+      "Lupine-Free",
+      "Alcohol-Free"
+    ],
+    "cautions": [
+      "Shellfish",
+      "Sulfites",
+      "FODMAP"
+    ],
+    "ingredientLines": [
+      "4 tablespoons fish sauce",
+      "2 tablespoons brown sugar",
+      "3 tablespoons lime juice, divided",
+      "1 tablespoon minced garlic",
+      "1 pound skirt or flap steak",
+      "1 tablespoon butter (optional)"
+    ],
+    "calories": 1104.6091214984262,
+    "totalWeight": 612.6173699987688,
+    "totalTime": 100,
+    "cuisineType": [
+      "south east asian"
+    ],
+    "mealType": [
+      "lunch/dinner"
+    ],
+    "dishType": [
+      "sandwiches"
+    ],
+    "instructions":[
+      "In a large bowl, mix the fish sauce, brown sugar, 2 tablespoons of the lime juice, and garlic. Place the steak in the bowl to marinate and cover with plastic wrap. Place in the refrigerator for at least 30 minutes, or up to 4 hours.",
+      "Remove the steak from the refrigerator and allow it to return to room temperature, about 30 minutes. Reserving the marinade, remove the steak from the bowl.",
+      "Over a grill or in a cast-iron skillet over high heat, grill the steak for 3 to 4 minutes per side, until medium-rare.",
+      "Allow the steak rest for 10 minutes, then slice it thinly across the grain. Add the remaining tablespoon of lime juice to the marinade and pour it into a saucepan. Cook over medium heat until slightly reduced, about 4 minutes. Once it's warm, swirl in the butter for extra deliciousness, if desired. Serve steak with sauce at the side."
+    ]
+  },
+  {
+    "label": "Sous-vide steak",
+    "url": "https://www.latimes.com/recipe/sous-vide-steak",
+    "ingredients": [
+      {
+        "text": "1 (16-ounce) New York strip steak, at room temperature",
+        "quantity": 16,
+        "measure": "ounce",
+        "food": "New York strip steak",
+        "weight": 453.59237,
+        "foodCategory": "meats",
+        "foodId": "food_a1qm1qga3rhbanbowi34ja6x6xyl",
+        "image": "https://www.edamam.com/food-img/818/818522f7f285ce65fd11f956d119cb50.jpg"
+      },
+      {
+        "text": "Salt",
+        "quantity": 0,
+        "measure": null,
+        "food": "Salt",
+        "weight": 2.7575542200000003,
+        "foodCategory": "Condiments and sauces",
+        "foodId": "food_btxz81db72hwbra2pncvebzzzum9",
+        "image": "https://www.edamam.com/food-img/694/6943ea510918c6025795e8dc6e6eaaeb.jpg"
+      },
+      {
+        "text": "Canola oil, as needed for brushing the grill and submerging the steak",
+        "quantity": 0,
+        "measure": null,
+        "food": "Canola oil",
+        "weight": 6.2504562319999994,
+        "foodCategory": "Oils",
+        "foodId": "food_bk9p9aaavhvoq4bqsnprobpsiuxs",
+        "image": "https://www.edamam.com/food-img/07e/07e106ab3536d57428e5c46d009038f8.jpg"
+      },
+      {
+        "text": "1 garlic clove, crushed",
+        "quantity": 1,
+        "measure": "clove",
+        "food": "garlic",
+        "weight": 3,
+        "foodCategory": "vegetables",
+        "foodId": "food_avtcmx6bgjv1jvay6s6stan8dnyp",
+        "image": "https://www.edamam.com/food-img/6ee/6ee142951f48aaf94f4312409f8d133d.jpg"
+      },
+      {
+        "text": "2 springs sprigs thyme",
+        "quantity": 1,
+        "measure": "sprig",
+        "food": "thyme",
+        "weight": 3,
+        "foodCategory": "Condiments and sauces",
+        "foodId": "food_b3o3cj7a5gskecb0ufphtadnbfqb",
+        "image": "https://www.edamam.com/food-img/3e7/3e7cf3c8d767a90b906447f5e74059f7.jpg"
+      }
+    ],
+    "uri": "http://www.edamam.com/ontologies/edamam.owl#recipe_415c05d3a30d75e4b122511236effc89",
+    "image": "https://edamam-product-images.s3.amazonaws.com/web-img/f35/f35a82bc580570f60c34c4d7e57c22f8?X-Amz-Security-Token=IQoJb3JpZ2luX2VjEGsaCXVzLWVhc3QtMSJHMEUCIC5EcVohn5KOF%2BqsJMnWN15QAQiEjniqRzrDkKyFbnySAiEAklir9G9lxG0xv0NtH%2BbNUzcDusmggahGna36Vka0pfsqwQUIs%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FARAAGgwxODcwMTcxNTA5ODYiDE38n9doIwHPgmHkWCqVBbisrUc9re%2F9CDcggsOnHnBDSRivSr3n%2FpYDQwMNPvf0SYUmrug6XHTenjdFdVWV1Ff4x%2FBsbtdGVuGulJC598dBW%2FIXmHxB4RjkYiS0v%2BNR9rt8jcBLiQUdFZ1UDal6PePuO4XlD02vZtgzOL2rjk1S1%2FRf02SGPYJDSeRFq6YjIqTzCh0jJZTg0%2FA3mMwFzUHaQfuQhzaODUHy1ebxM9d9XMiSmONtMNlrIpIOojhoDIOugj9wpKzV1B4G2F%2FqIWaDFP25ylNKNxv88Xm00chUeTkgDxIn0%2BqyokvCIZdkiTHYWrZx9j%2B7gtiIywqN4eoqf48CItxwd3eZ71tpbn8KAdJRsFADWtqRn6XaPyfWjEnaZusqQyD%2FM5IgFH8v7T7kORlhTNQqvu3qWAZeMYp6hUGrDS%2FF7XZuXXkQ9yzH4skZOOMi6r1nr0sCJrML1oDJvC7Q7IsuvUWJPtpZVHDhzi8aUFs%2F2N8ILHtfUhPKIRzDCuh9FVjGw99civG%2BPOzyxr8RdH7%2FBMXZn%2B1WacULKtWF1byJOq56cJr48nuUeFCUM6pc2T6B50aVoJ9Gz5mPJtrrDmxRwPP3gRaKs%2BjhgPZ2p7zF7m7UbnvAzsnKmT6ea9fdY9eOAlr%2FVVEFAej3tXqn%2BRExSPcoysRWrzlGdsGFyCIb4LnjHQN3x8ndZ2m3BlYfR4pzXkXPytgvuQEcM7a3rznYy74k8Tf4m5AmnC92WA0MQ7C6%2BkvAO04Dhs06NMw8rJU8BgjyGK%2B%2F8PH9%2FFvH2PwUnqOVlkRSXlV1JtA70t5Kj6MYcZ3zB8jMYefoRof3Yo72ahjXkanHysD141KKoDO2UX3DxRT3zwC%2B7JvAZjqahjJyrfNtPsg%2FrNyahrUw17jgqgY6sQGeksuY%2F97zXR%2BobwqmxhruCnjVQr%2BL2fGGQNCFMEuHGe6Qqw57JcQ2csndirt5ZrsgvI37Rll9JHP3FXR2svQVNgb6%2BxCZWqynfWvMKZDTFTSVmUtYaqez1LlAuKXnuqJW2j8Han1M%2BhZGYZhwmUyADyPiBl0N2JHAR%2BMfdYrmkWOG2mNDMiJrkrBkg5SmzABy3VtH3F46kLOE0hf3Mgbc6VKYTVszV6sdIdys475UY1I%3D&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Date=20231118T025157Z&X-Amz-SignedHeaders=host&X-Amz-Expires=3600&X-Amz-Credential=ASIASXCYXIIFBUSCGD4D%2F20231118%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Signature=ca4f04ff04a8db7fd503be2e6e1d6351e1c35eda90f32afe8413826da649b483",
+    "source": "LA Times",
+    "shareAs": "http://www.edamam.com/recipe/sous-vide-steak-415c05d3a30d75e4b122511236effc89/steak",
+    "yield": 1,
+    "dietLabels": [
+      "Low-Carb"
+    ],
+    "healthLabels": [
+      "Sugar-Conscious",
+      "Keto-Friendly",
+      "Dairy-Free",
+      "Gluten-Free",
+      "Wheat-Free",
+      "Egg-Free",
+      "Peanut-Free",
+      "Tree-Nut-Free",
+      "Soy-Free",
+      "Fish-Free",
+      "Shellfish-Free",
+      "Pork-Free",
+      "Crustacean-Free",
+      "Celery-Free",
+      "Mustard-Free",
+      "Sesame-Free",
+      "Lupine-Free",
+      "Mollusk-Free",
+      "Alcohol-Free",
+      "Sulfite-Free"
+    ],
+    "cautions": [],
+    "ingredientLines": [
+      "1 (16-ounce) New York strip steak, at room temperature",
+      "Salt",
+      "Canola oil, as needed for brushing the grill and submerging the steak",
+      "1 garlic clove, crushed",
+      "2 springs sprigs thyme"
+    ],
+    "calories": 1030.2665583008802,
+    "totalWeight": 468.06468778799484,
+    "totalTime": 0,
+    "cuisineType": [
+      "american"
+    ],
+    "mealType": [
+      "lunch/dinner"
+    ],
+    "dishType": [
+      "main course"
+    ]
+  },
+  {
+    "label": "Stir-fry Pepper Steak",
+    "url": "http://redcook.net/2008/03/05/stir-fry-1/",
+    "ingredients": [
+      {
+        "text": "1 lb. flank steak or sirloin steak",
+        "quantity": 1,
+        "measure": "pound",
+        "food": "flank steak",
+        "weight": 453.59237,
+        "foodCategory": "meats",
+        "foodId": "food_abhe6ejbfw25i1a4u0iiwbi0aw6s",
+        "image": "https://www.edamam.com/food-img/f8d/f8dedaeb7292857a4d92019961fb91fb.jpg"
+      },
+      {
+        "text": "2 cups shredded italian green peppers (about 2 medium peppers)",
+        "quantity": 2,
+        "measure": "pepper",
+        "food": "green peppers",
+        "weight": 16,
+        "foodCategory": "canned vegetables",
+        "foodId": "food_a1bb6oebsm1x27ap3gjd9aqdnsmv",
+        "image": "https://www.edamam.com/food-img/5c7/5c7d5ccf804ea606016003b8b2edfad2.jpg"
+      },
+      {
+        "text": "1 tablespoon minced garlic",
+        "quantity": 1,
+        "measure": "tablespoon",
+        "food": "garlic",
+        "weight": 8.499999999856291,
+        "foodCategory": "vegetables",
+        "foodId": "food_avtcmx6bgjv1jvay6s6stan8dnyp",
+        "image": "https://www.edamam.com/food-img/6ee/6ee142951f48aaf94f4312409f8d133d.jpg"
+      },
+      {
+        "text": "1 tablespoon thinly shredded ginger",
+        "quantity": 1,
+        "measure": "tablespoon",
+        "food": "ginger",
+        "weight": 5.99999999989856,
+        "foodCategory": "vegetables",
+        "foodId": "food_bi2ki2xb5zmmvbaiwf7ztbgktzp6",
+        "image": "https://www.edamam.com/food-img/b9c/b9c06ef451ef29513880af0a53ebbaa6.jpg"
+      },
+      {
+        "text": "1 tablespoon light soy sauce",
+        "quantity": 1,
+        "measure": "tablespoon",
+        "food": "light soy sauce",
+        "weight": 14.2,
+        "foodCategory": "plant-based protein",
+        "foodId": "food_af8xwhdbq4vg0tbqfqjysafu339b",
+        "image": "https://www.edamam.com/food-img/4bc/4bccc4c294a8dddb62020c62935e6fd8.jpg"
+      },
+      {
+        "text": "2 tablespoons shaoxing wine",
+        "quantity": 2,
+        "measure": "tablespoon",
+        "food": "wine",
+        "weight": 29.49999999950124,
+        "foodCategory": "wines",
+        "foodId": "food_bw5p1agbubb4dubpm8r0yax8fjco",
+        "image": "https://www.edamam.com/food-img/aeb/aebdd2e72bc13fa8ca762a408b6e58b6.jpg"
+      },
+      {
+        "text": "1 tablespoon cornstarch",
+        "quantity": 1,
+        "measure": "tablespoon",
+        "food": "cornstarch",
+        "weight": 7.999999999864745,
+        "foodCategory": "grains",
+        "foodId": "food_a6r17hrba37cqeabesko5a2gk233",
+        "image": "https://www.edamam.com/food-img/f9b/f9b74d9495b40c0aea955c37a1fc39dc.jpg"
+      },
+      {
+        "text": "1 tablespoon vegetable oil for marinate",
+        "quantity": 1,
+        "measure": "tablespoon",
+        "food": "vegetable oil",
+        "weight": 14,
+        "foodCategory": "Oils",
+        "foodId": "food_bt1mzi2ah2sfg8bv7no1qai83w8s",
+        "image": "https://www.edamam.com/food-img/6e5/6e51a63a6300a8ea1b4c4cc68dfaba33.jpg"
+      },
+      {
+        "text": "3 tablespoons vegetable oil for stir-frying",
+        "quantity": 3,
+        "measure": "tablespoon",
+        "food": "vegetable oil",
+        "weight": 42,
+        "foodCategory": "Oils",
+        "foodId": "food_bt1mzi2ah2sfg8bv7no1qai83w8s",
+        "image": "https://www.edamam.com/food-img/6e5/6e51a63a6300a8ea1b4c4cc68dfaba33.jpg"
+      }
+    ],
+    "uri": "http://www.edamam.com/ontologies/edamam.owl#recipe_c7cb4785919818e7180e9064dd813ff9",
+    "image": "https://edamam-product-images.s3.amazonaws.com/web-img/1f9/1f994636a9fc09d525de4bdab1cc4e7b.jpg?X-Amz-Security-Token=IQoJb3JpZ2luX2VjEGsaCXVzLWVhc3QtMSJHMEUCIC5EcVohn5KOF%2BqsJMnWN15QAQiEjniqRzrDkKyFbnySAiEAklir9G9lxG0xv0NtH%2BbNUzcDusmggahGna36Vka0pfsqwQUIs%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FARAAGgwxODcwMTcxNTA5ODYiDE38n9doIwHPgmHkWCqVBbisrUc9re%2F9CDcggsOnHnBDSRivSr3n%2FpYDQwMNPvf0SYUmrug6XHTenjdFdVWV1Ff4x%2FBsbtdGVuGulJC598dBW%2FIXmHxB4RjkYiS0v%2BNR9rt8jcBLiQUdFZ1UDal6PePuO4XlD02vZtgzOL2rjk1S1%2FRf02SGPYJDSeRFq6YjIqTzCh0jJZTg0%2FA3mMwFzUHaQfuQhzaODUHy1ebxM9d9XMiSmONtMNlrIpIOojhoDIOugj9wpKzV1B4G2F%2FqIWaDFP25ylNKNxv88Xm00chUeTkgDxIn0%2BqyokvCIZdkiTHYWrZx9j%2B7gtiIywqN4eoqf48CItxwd3eZ71tpbn8KAdJRsFADWtqRn6XaPyfWjEnaZusqQyD%2FM5IgFH8v7T7kORlhTNQqvu3qWAZeMYp6hUGrDS%2FF7XZuXXkQ9yzH4skZOOMi6r1nr0sCJrML1oDJvC7Q7IsuvUWJPtpZVHDhzi8aUFs%2F2N8ILHtfUhPKIRzDCuh9FVjGw99civG%2BPOzyxr8RdH7%2FBMXZn%2B1WacULKtWF1byJOq56cJr48nuUeFCUM6pc2T6B50aVoJ9Gz5mPJtrrDmxRwPP3gRaKs%2BjhgPZ2p7zF7m7UbnvAzsnKmT6ea9fdY9eOAlr%2FVVEFAej3tXqn%2BRExSPcoysRWrzlGdsGFyCIb4LnjHQN3x8ndZ2m3BlYfR4pzXkXPytgvuQEcM7a3rznYy74k8Tf4m5AmnC92WA0MQ7C6%2BkvAO04Dhs06NMw8rJU8BgjyGK%2B%2F8PH9%2FFvH2PwUnqOVlkRSXlV1JtA70t5Kj6MYcZ3zB8jMYefoRof3Yo72ahjXkanHysD141KKoDO2UX3DxRT3zwC%2B7JvAZjqahjJyrfNtPsg%2FrNyahrUw17jgqgY6sQGeksuY%2F97zXR%2BobwqmxhruCnjVQr%2BL2fGGQNCFMEuHGe6Qqw57JcQ2csndirt5ZrsgvI37Rll9JHP3FXR2svQVNgb6%2BxCZWqynfWvMKZDTFTSVmUtYaqez1LlAuKXnuqJW2j8Han1M%2BhZGYZhwmUyADyPiBl0N2JHAR%2BMfdYrmkWOG2mNDMiJrkrBkg5SmzABy3VtH3F46kLOE0hf3Mgbc6VKYTVszV6sdIdys475UY1I%3D&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Date=20231118T025157Z&X-Amz-SignedHeaders=host&X-Amz-Expires=3600&X-Amz-Credential=ASIASXCYXIIFBUSCGD4D%2F20231118%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Signature=4b70336807311347ae57b9f83b7a7cc6f38abab8159aed80a8d7c8e5a43acc21",
+    "source": "Red Cook",
+    "shareAs": "http://www.edamam.com/recipe/stir-fry-pepper-steak-c7cb4785919818e7180e9064dd813ff9/steak",
+    "yield": 6,
+    "dietLabels": [
+      "Low-Carb"
+    ],
+    "healthLabels": [
+      "Sugar-Conscious",
+      "Keto-Friendly",
+      "Dairy-Free",
+      "Egg-Free",
+      "Peanut-Free",
+      "Tree-Nut-Free",
+      "Fish-Free",
+      "Shellfish-Free",
+      "Pork-Free",
+      "Crustacean-Free",
+      "Celery-Free",
+      "Mustard-Free",
+      "Sesame-Free",
+      "Lupine-Free",
+      "Mollusk-Free",
+      "Kosher"
+    ],
+    "cautions": [
+      "Gluten",
+      "Wheat",
+      "Sulfites"
+    ],
+    "ingredientLines": [
+      "1 lb. flank steak or sirloin steak",
+      "2 cups shredded italian green peppers (about 2 medium peppers)",
+      "1 tablespoon minced garlic",
+      "1 tablespoon thinly shredded ginger",
+      "1 tablespoon light soy sauce",
+      "2 tablespoons shaoxing wine",
+      "1 tablespoon cornstarch",
+      "1 tablespoon vegetable oil for marinate",
+      "3 tablespoons vegetable oil for stir-frying"
+    ],
+    "calories": 1326.8714104987757,
+    "totalWeight": 591.7923699991208,
+    "totalTime": 60,
+    "cuisineType": [
+      "chinese"
+    ],
+    "mealType": [
+      "lunch/dinner"
+    ],
+    "dishType": [
+      "main course"
+    ],
+    "instructions":[
+      "Season the steak on both sides with a pinch of salt.",
+      "Heat a grill pan over high heat until it is smoking and then brush lightly with canola oil. Place the steak in the pan and cook just until dark grill marks appear -- about 60 seconds. Rotate the steak to create a crosshatch pattern and repeat on the second side.",
+      "Follow the zip bag instructions at left, using a 5 0/50 blend of canola oil and olive oil to submerge the steak, thyme and garlic. Cook in a water bath at 139 degrees for 45 minutes. When finished, remove the steak from the oil and allow it to rest and drain on paper towels. Discard the oil. Slice and serve."
+    ]
+  }
+]

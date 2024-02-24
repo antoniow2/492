@@ -1,0 +1,315 @@
+/* Home */
+
+.Homepage{
+    background-image: url( '/public/images/Home/home-page.jpg' );
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-color: darkgoldenrod;
+    height: 100vh;
+}
+
+body {
+
+    background-color:palegoldenrod;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    min-height: 100vh;
+    margin: 0;
+    background-color: #f9f9f9;
+  }
+
+.overlay {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background-color: rgba(0, 0, 0, 0.5); /* Adjust the alpha value for transparency */
+    z-index: 0; /* Place the overlay below the content and header */
+}
+
+.content {
+    position: absolute;
+    top: 40%;
+    left: 50%;
+    text-align: center;
+    transform: translate(-50%, 0%);
+    z-index: 2;
+}
+.box-container {
+display: flex;
+justify-content: center;
+transform: translate(0%, 10%);
+gap: 20px;
+}
+.box-container-lower {
+display: flex;
+justify-content: center;
+transform: translate(0%, 10%);
+gap: 20px;
+margin-bottom: 20px;
+}
+.head {
+text-align: center;
+font-size: 50px;
+transform: translate(0%, 20%);
+}
+
+.boxRep {
+text-align: center;
+background-color: darkseagreen;
+border: 3px solid white;
+padding: 20px;
+margin-bottom: 20px;
+border-radius: 10px;
+width: 550px;
+height: auto;
+margin-top: 0px;
+/* background-image: url('../build/images/HomePage/recipe.jpg'); */
+background-size: cover;
+background-position: center;
+}
+.boxPri {
+text-align: center;
+background-color: darkseagreen;
+border: 3px solid white;
+padding: 20px;
+margin-bottom: 20px;
+border-radius: 10px;
+width: 550px;
+height: auto;
+margin-top: 0px;
+/* background-image: url('../build/images/HomePage/price.jpeg'); */
+background-size: cover;
+background-position: center;
+}
+
+.boxDiet {
+    text-align: center;
+    background-color: darkseagreen;
+    border: 3px solid white;
+    padding: 20px;
+    margin-bottom: 20px;
+    border-radius: 10px;
+    width: 550px;
+    height: auto;
+    margin-top: 0px;
+/* background-image: url('../build/images/HomePage/diet.jpg'); */
+    background-size: cover;
+    background-position: center;
+}
+
+.boxPro {
+    text-align: center;
+    background-color: darkseagreen;
+    border: 3px solid white;
+    padding: 20px;
+    margin-bottom: 20px;
+    border-radius: 10px;
+    width: 550px;
+    height: auto;
+    margin-top: 0px;
+    /* background-image: url('../build/images/HomePage/profile.jpg'); */
+    background-size: cover;
+    background-position: center;
+    }
+.but {
+font-family: serif;
+background: none;
+border: none;
+cursor: pointer;
+font-size: inherit;
+color: black;
+width: 100%;
+height: 100%;
+}
+
+.Recipe-Title, .Price-Title, .Diet-Title, .Profile-Title {
+font-size: 30px;
+margin-bottom: 10px;
+}
+
+.Recipe-Description, .Price-Description, .Diet-Description, .Profile-Description {
+font-size: 16px;
+font-weight: bold;
+color: black;
+}
+
+.home-title {
+    color: white;   
+}
+
+.home-description {
+    font-weight: 500px;
+    font-size: 20px;
+    color: white;
+}
+
+.home-container {
+    display: flex;
+    height: 80vh;
+    justify-content: space-around;
+    background-color: white;
+    padding: 20px; /* Add padding for spacing */
+}
+
+/* .recipe_container,
+.price_container,
+.diet_container {
+    width: 30%; 
+    padding: 20px;
+    text-align: center;
+    margin-top: 50px;
+}
+
+.price_title,
+.diet_title,
+.recipe_title {
+    font-size: 2.5rem;
+} */
+
+
+/* Home
+
+.Homepage{
+    background-image: url( '/public/images/Home/home-page.jpg' );
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-color: darkgoldenrod;
+    height: 600px;
+}
+
+body {
+    background-color:palegoldenrod;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    min-height: 100vh;
+    margin: 0;
+    background-color: #f9f9f9;
+}
+
+.overlay {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 600px;
+    background-color: rgba(0, 0, 0, 0.5); Adjust the alpha value for transparency
+    z-index: 0;  Place the overlay below the content and header
+}
+
+.content {
+    color: white;
+    position: absolute;
+    top: 40%;
+    left: 50%;
+    text-align: center;
+    transform: translate(-50%, 0%);
+    z-index: 2;
+}
+
+Middle Section
+
+.middle-section {
+    display: flex;
+    flex-direction: column;
+}
+
+.price_box {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    position: relative;
+    width: 500px;
+    height: 500px;
+}
+
+.price_header {
+    position: absolute;
+    top: 160px;
+    left: 50%;
+    font-size: 30px;
+    font-weight: 0.5rem;
+    transform: translate(-50%, -50%);
+    text-align: center;
+    color: black;
+}
+
+.price_picture {
+    width: 100%; 
+    height: 70%; 
+    object-fit: cover; 
+}
+
+.price_content {
+    text-align: center;
+    border: 1px solid black;
+    width: 477px;
+    height: 200px;
+    padding: 10px;
+    font-size: 18px;
+    white-space: pre-line;
+}
+
+.recipe_box {
+    display: flex;
+    flex-direction: column;
+    position: relative;
+    width: 750px;
+    height: 500px;
+    border: 1px solid black;
+}
+
+.recipe_picture {
+    width: 100%; 
+    height: 100%; 
+    object-fit: cover; 
+}
+
+.recipe_content {
+    position: absolute;
+    top: 180px;
+    left: 50%;
+    font-size: 30px;
+    font-weight: 0.5rem;
+    transform: translate(-50%, -50%);
+    text-align: center;
+    color: black;
+}
+
+.bottom-page {
+    padding: 10px;
+}
+
+.diet_box{
+    font-family: 'Brush Script MT', 'Brush Script Std', cursive;
+    display: flex;
+    flex-direction: column;
+    position: relative;
+    width: 100%;
+    height: 500px;
+    border: 1px solid black;
+}
+
+.diet_picture {
+    width: 100%; 
+    height: 100%; 
+    object-fit: cover; 
+}
+
+.diet_content {
+    position: absolute;
+    top: 180px;
+    left: 50%;
+    font-size: 30px;
+    font-weight: 0.5rem;
+    transform: translate(-50%, -50%);
+    text-align: center;
+    color: black;
+    white-space: pre-line;
+} */

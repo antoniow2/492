@@ -1,0 +1,23 @@
+{
+  "data": [
+    {
+      "productId": "0007600152506",
+      "brand": "Candle-lite",
+      "upc": "0007600152506",
+      "price": [
+        {
+          "regular": 4.99,
+          "promo": 0
+        }
+      ]
+    },
+    {
+      "productId": "0081012902203",
+      "brand": "One Up Bands",
+      "upc": "0081012902203",
+      "price": [
+        null
+      ]
+    }
+  ]
+}

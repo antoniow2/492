@@ -1,0 +1,96 @@
+{
+  "data": [
+    {
+      "productId": "0081498500004",
+      "brand": "Mediterranean Organic",
+      "upc": "0081498500004",
+      "price": [
+        null
+      ]
+    },
+    {
+      "productId": "0007321400750",
+      "brand": "Jeff's Garden",
+      "upc": "0007321400750",
+      "price": [
+        null
+      ]
+    },
+    {
+      "productId": "0060195785677",
+      "brand": "Mezzetta",
+      "upc": "0060195785677",
+      "price": [
+        null
+      ]
+    },
+    {
+      "productId": "0004125300007",
+      "brand": "Napoleon",
+      "upc": "0004125300007",
+      "price": [
+        null
+      ]
+    },
+    {
+      "productId": "0001111082527",
+      "brand": "Private Selection",
+      "upc": "0001111082527",
+      "price": [
+        {
+          "regular": 3.79,
+          "promo": 0
+        }
+      ]
+    },
+    {
+      "productId": "0070581472721",
+      "brand": "Early California",
+      "upc": "0070581472721",
+      "price": [
+        {
+          "regular": 2.99,
+          "promo": 2
+        }
+      ]
+    },
+    {
+      "productId": "0001111089860",
+      "brand": "Simple Truth Organic",
+      "upc": "0001111089860",
+      "price": [
+        {
+          "regular": 3.49,
+          "promo": 2.99
+        }
+      ]
+    },
+    {
+      "productId": "0001111010119",
+      "brand": "Simple Truth Organic",
+      "upc": "0001111010119",
+      "price": [
+        {
+          "regular": 3.79,
+          "promo": 3.39
+        }
+      ]
+    },
+    {
+      "productId": "3007067000002",
+      "brand": "Reese",
+      "upc": "3007067000002",
+      "price": [
+        null
+      ]
+    },
+    {
+      "productId": "0004133101370",
+      "brand": "GOYA",
+      "upc": "0004133101370",
+      "price": [
+        null
+      ]
+    }
+  ]
+}

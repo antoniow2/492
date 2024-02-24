@@ -1,0 +1,114 @@
+{
+  "data": [
+    {
+      "productId": "0007790100781",
+      "brand": "President",
+      "upc": "0007790100781",
+      "price": [
+        {
+          "regular": 5.99,
+          "promo": 0
+        }
+      ]
+    },
+    {
+      "productId": "0007027729000",
+      "brand": "Athenos",
+      "upc": "0007027729000",
+      "price": [
+        {
+          "regular": 9.99,
+          "promo": 0
+        }
+      ]
+    },
+    {
+      "productId": "0001111088725",
+      "brand": "Private Selection",
+      "upc": "0001111088725",
+      "price": [
+        {
+          "regular": 3.79,
+          "promo": 3.49
+        }
+      ]
+    },
+    {
+      "productId": "0007027700005",
+      "brand": "Athenos",
+      "upc": "0007027700005",
+      "price": [
+        {
+          "regular": 5.99,
+          "promo": 0
+        }
+      ]
+    },
+    {
+      "productId": "0007790100786",
+      "brand": "President",
+      "upc": "0007790100786",
+      "price": [
+        {
+          "regular": 5.99,
+          "promo": 0
+        }
+      ]
+    },
+    {
+      "productId": "0064334281522",
+      "brand": "Dodoni",
+      "upc": "0064334281522",
+      "price": [
+        {
+          "regular": 9.99,
+          "promo": 7.99
+        }
+      ]
+    },
+    {
+      "productId": "0007027700006",
+      "brand": "Athenos",
+      "upc": "0007027700006",
+      "price": [
+        {
+          "regular": 5.99,
+          "promo": 0
+        }
+      ]
+    },
+    {
+      "productId": "0007027700007",
+      "brand": "Athenos",
+      "upc": "0007027700007",
+      "price": [
+        {
+          "regular": 5.99,
+          "promo": 0
+        }
+      ]
+    },
+    {
+      "productId": "0007790100651",
+      "brand": "President",
+      "upc": "0007790100651",
+      "price": [
+        {
+          "regular": 5.99,
+          "promo": 0
+        }
+      ]
+    },
+    {
+      "productId": "0004956834006",
+      "brand": "Follow Your Heart",
+      "upc": "0004956834006",
+      "price": [
+        {
+          "regular": 5.99,
+          "promo": 0
+        }
+      ]
+    }
+  ]
+}

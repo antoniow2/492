@@ -1,0 +1,101 @@
+{
+  "data": [
+    {
+      "productId": "0065428700002",
+      "brand": "Peppadew",
+      "upc": "0065428700002",
+      "price": [
+        null
+      ]
+    },
+    {
+      "productId": "0001111090020",
+      "brand": "Simple Truth Organic",
+      "upc": "0001111090020",
+      "price": [
+        {
+          "regular": 4.99,
+          "promo": 0
+        }
+      ]
+    },
+    {
+      "productId": "0007321400115",
+      "brand": "Mezzetta",
+      "upc": "0007321400115",
+      "price": [
+        {
+          "regular": 3.59,
+          "promo": 0
+        }
+      ]
+    },
+    {
+      "productId": "0065334109040",
+      "brand": "Texas Pepper Jelly",
+      "upc": "0065334109040",
+      "price": [
+        null
+      ]
+    },
+    {
+      "productId": "0003620043077",
+      "brand": "Bertolli",
+      "upc": "0003620043077",
+      "price": [
+        {
+          "regular": 5.49,
+          "promo": 0
+        }
+      ]
+    },
+    {
+      "productId": "0060195785831",
+      "brand": "Mezzetta",
+      "upc": "0060195785831",
+      "price": [
+        null
+      ]
+    },
+    {
+      "productId": "0001111060770",
+      "brand": "Private Selection",
+      "upc": "0001111060770",
+      "price": [
+        {
+          "regular": 3.99,
+          "promo": 0
+        }
+      ]
+    },
+    {
+      "productId": "0001111018181",
+      "upc": "0001111018181",
+      "price": [
+        {
+          "regular": 3.99,
+          "promo": 0
+        }
+      ]
+    },
+    {
+      "productId": "0000930000098",
+      "brand": "Mt. Olive",
+      "upc": "0000930000098",
+      "price": [
+        {
+          "regular": 2.39,
+          "promo": 0
+        }
+      ]
+    },
+    {
+      "productId": "0060195785813",
+      "brand": "Mezzetta",
+      "upc": "0060195785813",
+      "price": [
+        null
+      ]
+    }
+  ]
+}

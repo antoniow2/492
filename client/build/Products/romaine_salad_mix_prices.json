@@ -1,0 +1,114 @@
+{
+  "data": [
+    {
+      "productId": "0001111091053",
+      "brand": "Kroger",
+      "upc": "0001111091053",
+      "price": [
+        {
+          "regular": 3.49,
+          "promo": 2.99
+        }
+      ]
+    },
+    {
+      "productId": "0001111091042",
+      "brand": "Kroger",
+      "upc": "0001111091042",
+      "price": [
+        {
+          "regular": 3.19,
+          "promo": 2.99
+        }
+      ]
+    },
+    {
+      "productId": "0001111091471",
+      "brand": "Simple Truth Organic",
+      "upc": "0001111091471",
+      "price": [
+        {
+          "regular": 3.49,
+          "promo": 0
+        }
+      ]
+    },
+    {
+      "productId": "0001111091052",
+      "brand": "Kroger",
+      "upc": "0001111091052",
+      "price": [
+        {
+          "regular": 4.49,
+          "promo": 0
+        }
+      ]
+    },
+    {
+      "productId": "0001111002474",
+      "brand": "Simple Truth Organic",
+      "upc": "0001111002474",
+      "price": [
+        {
+          "regular": 5.99,
+          "promo": 0
+        }
+      ]
+    },
+    {
+      "productId": "0001111091038",
+      "brand": "Kroger",
+      "upc": "0001111091038",
+      "price": [
+        {
+          "regular": 3.19,
+          "promo": 2.99
+        }
+      ]
+    },
+    {
+      "productId": "0001111091046",
+      "brand": "Kroger",
+      "upc": "0001111091046",
+      "price": [
+        {
+          "regular": 3.19,
+          "promo": 2.99
+        }
+      ]
+    },
+    {
+      "productId": "0007143001037",
+      "brand": "Dole",
+      "upc": "0007143001037",
+      "price": [
+        {
+          "regular": 4.39,
+          "promo": 0
+        }
+      ]
+    },
+    {
+      "productId": "0001111091045",
+      "brand": "Kroger",
+      "upc": "0001111091045",
+      "price": [
+        {
+          "regular": 3.19,
+          "promo": 2.99
+        }
+      ]
+    },
+    {
+      "productId": "0007143000951",
+      "brand": "Dole",
+      "upc": "0007143000951",
+      "price": [
+        {
+          "regular": 5.39,
+          "promo": 0
+        }
+      ]
+    }
+  ]
+}

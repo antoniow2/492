@@ -1,0 +1,1584 @@
+[
+  {
+    "label": "Chicken Vesuvio",
+    "url": "http://www.seriouseats.com/recipes/2011/12/chicken-vesuvio-recipe.html",
+    "ingredients": [
+      {
+        "text": "1/2 cup olive oil",
+        "quantity": 0.5,
+        "measure": "cup",
+        "food": "olive oil",
+        "weight": 108,
+        "foodCategory": "Oils",
+        "foodId": "food_b1d1icuad3iktrbqby0hiagafaz7",
+        "image": "https://www.edamam.com/food-img/4d6/4d651eaa8a353647746290c7a9b29d84.jpg"
+      },
+      {
+        "text": "5 cloves garlic, peeled",
+        "quantity": 5,
+        "measure": "clove",
+        "food": "garlic",
+        "weight": 15,
+        "foodCategory": "vegetables",
+        "foodId": "food_avtcmx6bgjv1jvay6s6stan8dnyp",
+        "image": "https://www.edamam.com/food-img/6ee/6ee142951f48aaf94f4312409f8d133d.jpg"
+      },
+      {
+        "text": "2 large russet potatoes, peeled and cut into chunks",
+        "quantity": 2,
+        "measure": "<unit>",
+        "food": "russet potatoes",
+        "weight": 738,
+        "foodCategory": "vegetables",
+        "foodId": "food_brsjy86bq09pzgbmr4ri8bnohrf7",
+        "image": "https://www.edamam.com/food-img/71b/71b3756ecfd3d1efa075874377038b67.jpg"
+      },
+      {
+        "text": "1 3-4 pound chicken, cut into 8 pieces (or 3 pound chicken legs)",
+        "quantity": 3.5,
+        "measure": "pound",
+        "food": "chicken",
+        "weight": 1587.5732950000001,
+        "foodCategory": "Poultry",
+        "foodId": "food_bmyxrshbfao9s1amjrvhoauob6mo",
+        "image": "https://www.edamam.com/food-img/d33/d338229d774a743f7858f6764e095878.jpg"
+      },
+      {
+        "text": "3/4 cup white wine",
+        "quantity": 0.75,
+        "measure": "cup",
+        "food": "white wine",
+        "weight": 176.39999999999998,
+        "foodCategory": "wines",
+        "foodId": "food_bn44h7baron9ufaoxinmya8l0yye",
+        "image": "https://www.edamam.com/food-img/a71/a718cf3c52add522128929f1f324d2ab.jpg"
+      },
+      {
+        "text": "3/4 cup chicken stock",
+        "quantity": 0.75,
+        "measure": "cup",
+        "food": "chicken stock",
+        "weight": 180,
+        "foodCategory": "canned soup",
+        "foodId": "food_bptblvzambd16nbhewqmhaw1rnh5",
+        "image": "https://www.edamam.com/food-img/26a/26a10c4cb4e07bab54d8a687ef5ac7d8.jpg"
+      },
+      {
+        "text": "3 tablespoons chopped parsley",
+        "quantity": 3,
+        "measure": "tablespoon",
+        "food": "parsley",
+        "weight": 11.399999999999999,
+        "foodCategory": "vegetables",
+        "foodId": "food_b244pqdazw24zobr5vqu2bf0uid8",
+        "image": "https://www.edamam.com/food-img/46a/46a132e96626d7989b4d6ed8c91f4da0.jpg"
+      },
+      {
+        "text": "1 tablespoon dried oregano",
+        "quantity": 1,
+        "measure": "tablespoon",
+        "food": "dried oregano",
+        "weight": 2.9999999997971143,
+        "foodCategory": "Condiments and sauces",
+        "foodId": "food_bkkw6v3bdf0sqiazmzyuiax7i8jr",
+        "image": "https://www.edamam.com/food-img/1b0/1b0eaffb1c261606e0d82fed8e9747a7.jpg"
+      },
+      {
+        "text": "Salt and pepper",
+        "quantity": 0,
+        "measure": null,
+        "food": "Salt",
+        "weight": 17.720239769998784,
+        "foodCategory": "Condiments and sauces",
+        "foodId": "food_btxz81db72hwbra2pncvebzzzum9",
+        "image": "https://www.edamam.com/food-img/694/6943ea510918c6025795e8dc6e6eaaeb.jpg"
+      },
+      {
+        "text": "Salt and pepper",
+        "quantity": 0,
+        "measure": null,
+        "food": "pepper",
+        "weight": 8.860119884999392,
+        "foodCategory": "Condiments and sauces",
+        "foodId": "food_b6ywzluaaxv02wad7s1r9ag4py89",
+        "image": "https://www.edamam.com/food-img/c6e/c6e5c3bd8d3bc15175d9766971a4d1b2.jpg"
+      },
+      {
+        "text": "1 cup frozen peas, thawed",
+        "quantity": 1,
+        "measure": "cup",
+        "food": "frozen peas",
+        "weight": 134,
+        "foodCategory": "vegetables",
+        "foodId": "food_aqrct01b4nxw5eaxoo8woaxc3xd7",
+        "image": "https://www.edamam.com/food-img/c91/c9130a361d5c5b279bf48c69e2466ec2.jpg"
+      }
+    ],
+    "uri": "http://www.edamam.com/ontologies/edamam.owl#recipe_b79327d05b8e5b838ad6cfd9576b30b6",
+    "image": "https://edamam-product-images.s3.amazonaws.com/web-img/e42/e42f9119813e890af34c259785ae1cfb.jpg?X-Amz-Security-Token=IQoJb3JpZ2luX2VjEGsaCXVzLWVhc3QtMSJHMEUCIC5EcVohn5KOF%2BqsJMnWN15QAQiEjniqRzrDkKyFbnySAiEAklir9G9lxG0xv0NtH%2BbNUzcDusmggahGna36Vka0pfsqwQUIs%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FARAAGgwxODcwMTcxNTA5ODYiDE38n9doIwHPgmHkWCqVBbisrUc9re%2F9CDcggsOnHnBDSRivSr3n%2FpYDQwMNPvf0SYUmrug6XHTenjdFdVWV1Ff4x%2FBsbtdGVuGulJC598dBW%2FIXmHxB4RjkYiS0v%2BNR9rt8jcBLiQUdFZ1UDal6PePuO4XlD02vZtgzOL2rjk1S1%2FRf02SGPYJDSeRFq6YjIqTzCh0jJZTg0%2FA3mMwFzUHaQfuQhzaODUHy1ebxM9d9XMiSmONtMNlrIpIOojhoDIOugj9wpKzV1B4G2F%2FqIWaDFP25ylNKNxv88Xm00chUeTkgDxIn0%2BqyokvCIZdkiTHYWrZx9j%2B7gtiIywqN4eoqf48CItxwd3eZ71tpbn8KAdJRsFADWtqRn6XaPyfWjEnaZusqQyD%2FM5IgFH8v7T7kORlhTNQqvu3qWAZeMYp6hUGrDS%2FF7XZuXXkQ9yzH4skZOOMi6r1nr0sCJrML1oDJvC7Q7IsuvUWJPtpZVHDhzi8aUFs%2F2N8ILHtfUhPKIRzDCuh9FVjGw99civG%2BPOzyxr8RdH7%2FBMXZn%2B1WacULKtWF1byJOq56cJr48nuUeFCUM6pc2T6B50aVoJ9Gz5mPJtrrDmxRwPP3gRaKs%2BjhgPZ2p7zF7m7UbnvAzsnKmT6ea9fdY9eOAlr%2FVVEFAej3tXqn%2BRExSPcoysRWrzlGdsGFyCIb4LnjHQN3x8ndZ2m3BlYfR4pzXkXPytgvuQEcM7a3rznYy74k8Tf4m5AmnC92WA0MQ7C6%2BkvAO04Dhs06NMw8rJU8BgjyGK%2B%2F8PH9%2FFvH2PwUnqOVlkRSXlV1JtA70t5Kj6MYcZ3zB8jMYefoRof3Yo72ahjXkanHysD141KKoDO2UX3DxRT3zwC%2B7JvAZjqahjJyrfNtPsg%2FrNyahrUw17jgqgY6sQGeksuY%2F97zXR%2BobwqmxhruCnjVQr%2BL2fGGQNCFMEuHGe6Qqw57JcQ2csndirt5ZrsgvI37Rll9JHP3FXR2svQVNgb6%2BxCZWqynfWvMKZDTFTSVmUtYaqez1LlAuKXnuqJW2j8Han1M%2BhZGYZhwmUyADyPiBl0N2JHAR%2BMfdYrmkWOG2mNDMiJrkrBkg5SmzABy3VtH3F46kLOE0hf3Mgbc6VKYTVszV6sdIdys475UY1I%3D&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Date=20231118T025228Z&X-Amz-SignedHeaders=host&X-Amz-Expires=3600&X-Amz-Credential=ASIASXCYXIIFBUSCGD4D%2F20231118%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Signature=19a24104fdfa8f4ebc5df929187d6da8d73c9acf980937d88d1fa75e4173a9d4",
+    "source": "Serious Eats",
+    "shareAs": "http://www.edamam.com/recipe/chicken-vesuvio-b79327d05b8e5b838ad6cfd9576b30b6/chicken",
+    "yield": 4,
+    "dietLabels": [
+      "Low-Carb"
+    ],
+    "healthLabels": [
+      "Mediterranean",
+      "Dairy-Free",
+      "Gluten-Free",
+      "Wheat-Free",
+      "Egg-Free",
+      "Peanut-Free",
+      "Tree-Nut-Free",
+      "Soy-Free",
+      "Fish-Free",
+      "Shellfish-Free",
+      "Pork-Free",
+      "Red-Meat-Free",
+      "Crustacean-Free",
+      "Celery-Free",
+      "Mustard-Free",
+      "Sesame-Free",
+      "Lupine-Free",
+      "Mollusk-Free",
+      "Kosher"
+    ],
+    "cautions": [
+      "Sulfites"
+    ],
+    "ingredientLines": [
+      "1/2 cup olive oil",
+      "5 cloves garlic, peeled",
+      "2 large russet potatoes, peeled and cut into chunks",
+      "1 3-4 pound chicken, cut into 8 pieces (or 3 pound chicken legs)",
+      "3/4 cup white wine",
+      "3/4 cup chicken stock",
+      "3 tablespoons chopped parsley",
+      "1 tablespoon dried oregano",
+      "Salt and pepper",
+      "1 cup frozen peas, thawed"
+    ],
+    "calories": 4228.043058200812,
+    "totalWeight": 2976.850615011728,
+    "totalTime": 60,
+    "cuisineType": [
+      "italian"
+    ],
+    "mealType": [
+      "lunch/dinner"
+    ],
+    "dishType": [
+      "main course"
+    ],
+    "instructions": [
+      "Heat an oven to 325°F. In a roasting pan (or a large (14-inch) oven-proof skillet), heat the olive oil over medium until shimmering. Add the potatoes and garlic and cook until golden brown, about 12 minutes. Remove to a plate, leaving behind as much oil as possible.\n",
+      "Add the chicken to the skillet, skin-side down. Cook until golden and crisp, then turn and cook the other side until golden as well. Add the wine and cook until it reduces by half.\n", 
+      "Return the garlic and potatoes to the pan, along with the chicken stock, parsley, oregano, and a pinch of salt and pepper. Transfer to the oven and cook, uncovered, until the chicken is cooked through, about 45 minutes. Add the peas to the pan with 5 minutes left in the cooking time. Serve with the roasting juices in the pan."
+    ]
+  },
+  {
+    "label": "Chicken Paprikash",
+    "url": "http://norecipes.com/recipe/chicken-paprikash/",
+    "ingredients": [
+      {
+        "text": "640 grams chicken - drumsticks and thighs ( 3 whole chicken legs cut apart)",
+        "quantity": 640,
+        "measure": "gram",
+        "food": "chicken - drumsticks",
+        "weight": 640,
+        "foodCategory": "Poultry",
+        "foodId": "food_agzvc6lbxg03stab195szars32lx",
+        "image": "https://www.edamam.com/food-img/491/4916353c22bd1ac381ac81d55597ddbe.jpg"
+      },
+      {
+        "text": "640 grams chicken - drumsticks and thighs ( 3 whole chicken legs cut apart)",
+        "quantity": 640,
+        "measure": "gram",
+        "food": "thighs",
+        "weight": 640,
+        "foodCategory": "Poultry",
+        "foodId": "food_bsarl08be0gwarb34bpviafna9d4",
+        "image": "https://www.edamam.com/food-img/007/00792642367e1f55de680762f85cfb3b.jpg"
+      },
+      {
+        "text": "1/2 teaspoon salt",
+        "quantity": 0.5,
+        "measure": "teaspoon",
+        "food": "salt",
+        "weight": 3,
+        "foodCategory": "Condiments and sauces",
+        "foodId": "food_btxz81db72hwbra2pncvebzzzum9",
+        "image": "https://www.edamam.com/food-img/694/6943ea510918c6025795e8dc6e6eaaeb.jpg"
+      },
+      {
+        "text": "1/4 teaspoon black pepper",
+        "quantity": 0.25,
+        "measure": "teaspoon",
+        "food": "black pepper",
+        "weight": 0.725,
+        "foodCategory": "Condiments and sauces",
+        "foodId": "food_b6ywzluaaxv02wad7s1r9ag4py89",
+        "image": "https://www.edamam.com/food-img/c6e/c6e5c3bd8d3bc15175d9766971a4d1b2.jpg"
+      },
+      {
+        "text": "1 tablespoon butter – cultured unsalted (or olive oil)",
+        "quantity": 1,
+        "measure": "tablespoon",
+        "food": "olive oil",
+        "weight": 13.5,
+        "foodCategory": "Oils",
+        "foodId": "food_b1d1icuad3iktrbqby0hiagafaz7",
+        "image": "https://www.edamam.com/food-img/4d6/4d651eaa8a353647746290c7a9b29d84.jpg"
+      },
+      {
+        "text": "240 grams onion sliced thin (1 large onion)",
+        "quantity": 1,
+        "measure": "onion",
+        "food": "onion",
+        "weight": 78.125,
+        "foodCategory": "vegetables",
+        "foodId": "food_bmrvi4ob4binw9a5m7l07amlfcoy",
+        "image": "https://www.edamam.com/food-img/205/205e6bf2399b85d34741892ef91cc603.jpg"
+      },
+      {
+        "text": "70 grams Anaheim pepper chopped (1 large pepper)",
+        "quantity": 1,
+        "measure": "pepper",
+        "food": "Anaheim pepper",
+        "weight": 56.25,
+        "foodCategory": "vegetables",
+        "foodId": "food_bv2gevdbd1orbiarnp1vfaez1r85",
+        "image": "https://www.edamam.com/food-img/73f/73ff2eeb21372fe15b0ec51f9ecf368d.jpeg"
+      },
+      {
+        "text": "25 grams paprika (about 1/4 cup)",
+        "quantity": 0.25,
+        "measure": "cup",
+        "food": "paprika",
+        "weight": 27.200000000459866,
+        "foodCategory": "Condiments and sauces",
+        "foodId": "food_a9dpcnjb883g67b3lq82ca0421ql",
+        "image": "https://www.edamam.com/food-img/474/474d63763b9d8b9da98c5f43a114648c.jpg"
+      },
+      {
+        "text": "1 cup chicken stock",
+        "quantity": 1,
+        "measure": "cup",
+        "food": "chicken stock",
+        "weight": 240,
+        "foodCategory": "canned soup",
+        "foodId": "food_bptblvzambd16nbhewqmhaw1rnh5",
+        "image": "https://www.edamam.com/food-img/26a/26a10c4cb4e07bab54d8a687ef5ac7d8.jpg"
+      },
+      {
+        "text": "1/2 teaspoon salt",
+        "quantity": 0.5,
+        "measure": "teaspoon",
+        "food": "salt",
+        "weight": 3,
+        "foodCategory": "Condiments and sauces",
+        "foodId": "food_btxz81db72hwbra2pncvebzzzum9",
+        "image": "https://www.edamam.com/food-img/694/6943ea510918c6025795e8dc6e6eaaeb.jpg"
+      },
+      {
+        "text": "1/2 cup sour cream",
+        "quantity": 0.5,
+        "measure": "cup",
+        "food": "sour cream",
+        "weight": 115,
+        "foodCategory": "Dairy",
+        "foodId": "food_adp9fcubzl3lr7bcvzn3rbfiiiwq",
+        "image": "https://www.edamam.com/food-img/f9d/f9d6183267b041b0aff9a10b89c9c15f.jpg"
+      },
+      {
+        "text": "1 tablespoon flour – all-purpose",
+        "quantity": 1,
+        "measure": "tablespoon",
+        "food": "flour",
+        "weight": 7.8124999998679145,
+        "foodCategory": "grains",
+        "foodId": "food_ahebfs0a985an4aubqaebbipra58",
+        "image": "https://www.edamam.com/food-img/b4c/b4c739e76a6f2172b7ad49d0aa41d5aa.jpg"
+      }
+    ],
+    "uri": "http://www.edamam.com/ontologies/edamam.owl#recipe_8275bb28647abcedef0baaf2dcf34f8b",
+    "image": "https://edamam-product-images.s3.amazonaws.com/web-img/e12/e12b8c5581226d7639168f41d126f2ff.jpg?X-Amz-Security-Token=IQoJb3JpZ2luX2VjEGsaCXVzLWVhc3QtMSJHMEUCIC5EcVohn5KOF%2BqsJMnWN15QAQiEjniqRzrDkKyFbnySAiEAklir9G9lxG0xv0NtH%2BbNUzcDusmggahGna36Vka0pfsqwQUIs%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FARAAGgwxODcwMTcxNTA5ODYiDE38n9doIwHPgmHkWCqVBbisrUc9re%2F9CDcggsOnHnBDSRivSr3n%2FpYDQwMNPvf0SYUmrug6XHTenjdFdVWV1Ff4x%2FBsbtdGVuGulJC598dBW%2FIXmHxB4RjkYiS0v%2BNR9rt8jcBLiQUdFZ1UDal6PePuO4XlD02vZtgzOL2rjk1S1%2FRf02SGPYJDSeRFq6YjIqTzCh0jJZTg0%2FA3mMwFzUHaQfuQhzaODUHy1ebxM9d9XMiSmONtMNlrIpIOojhoDIOugj9wpKzV1B4G2F%2FqIWaDFP25ylNKNxv88Xm00chUeTkgDxIn0%2BqyokvCIZdkiTHYWrZx9j%2B7gtiIywqN4eoqf48CItxwd3eZ71tpbn8KAdJRsFADWtqRn6XaPyfWjEnaZusqQyD%2FM5IgFH8v7T7kORlhTNQqvu3qWAZeMYp6hUGrDS%2FF7XZuXXkQ9yzH4skZOOMi6r1nr0sCJrML1oDJvC7Q7IsuvUWJPtpZVHDhzi8aUFs%2F2N8ILHtfUhPKIRzDCuh9FVjGw99civG%2BPOzyxr8RdH7%2FBMXZn%2B1WacULKtWF1byJOq56cJr48nuUeFCUM6pc2T6B50aVoJ9Gz5mPJtrrDmxRwPP3gRaKs%2BjhgPZ2p7zF7m7UbnvAzsnKmT6ea9fdY9eOAlr%2FVVEFAej3tXqn%2BRExSPcoysRWrzlGdsGFyCIb4LnjHQN3x8ndZ2m3BlYfR4pzXkXPytgvuQEcM7a3rznYy74k8Tf4m5AmnC92WA0MQ7C6%2BkvAO04Dhs06NMw8rJU8BgjyGK%2B%2F8PH9%2FFvH2PwUnqOVlkRSXlV1JtA70t5Kj6MYcZ3zB8jMYefoRof3Yo72ahjXkanHysD141KKoDO2UX3DxRT3zwC%2B7JvAZjqahjJyrfNtPsg%2FrNyahrUw17jgqgY6sQGeksuY%2F97zXR%2BobwqmxhruCnjVQr%2BL2fGGQNCFMEuHGe6Qqw57JcQ2csndirt5ZrsgvI37Rll9JHP3FXR2svQVNgb6%2BxCZWqynfWvMKZDTFTSVmUtYaqez1LlAuKXnuqJW2j8Han1M%2BhZGYZhwmUyADyPiBl0N2JHAR%2BMfdYrmkWOG2mNDMiJrkrBkg5SmzABy3VtH3F46kLOE0hf3Mgbc6VKYTVszV6sdIdys475UY1I%3D&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Date=20231118T025228Z&X-Amz-SignedHeaders=host&X-Amz-Expires=3600&X-Amz-Credential=ASIASXCYXIIFBUSCGD4D%2F20231118%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Signature=115d1807f3f26c489a15ea3216ff2017d2449c83bec9bf246a128fa5f7c28521",
+    "source": "No Recipes",
+    "shareAs": "http://www.edamam.com/recipe/chicken-paprikash-8275bb28647abcedef0baaf2dcf34f8b/chicken",
+    "yield": 4,
+    "dietLabels": [
+      "Low-Carb"
+    ],
+    "healthLabels": [
+      "Egg-Free",
+      "Peanut-Free",
+      "Tree-Nut-Free",
+      "Soy-Free",
+      "Fish-Free",
+      "Shellfish-Free",
+      "Pork-Free",
+      "Red-Meat-Free",
+      "Crustacean-Free",
+      "Celery-Free",
+      "Mustard-Free",
+      "Sesame-Free",
+      "Lupine-Free",
+      "Mollusk-Free",
+      "Alcohol-Free",
+      "Sulfite-Free"
+    ],
+    "cautions": [
+      "Sulfites"
+    ],
+    "ingredientLines": [
+      "640 grams chicken - drumsticks and thighs ( 3 whole chicken legs cut apart)",
+      "1/2 teaspoon salt",
+      "1/4 teaspoon black pepper",
+      "1 tablespoon butter – cultured unsalted (or olive oil)",
+      "240 grams onion sliced thin (1 large onion)",
+      "70 grams Anaheim pepper chopped (1 large pepper)",
+      "25 grams paprika (about 1/4 cup)",
+      "1 cup chicken stock",
+      "1/2 teaspoon salt",
+      "1/2 cup sour cream",
+      "1 tablespoon flour – all-purpose"
+    ],
+    "calories": 3038.9512500008163,
+    "totalWeight": 1824.6125000003276,
+    "totalTime": 70,
+    "cuisineType": [
+      "central europe"
+    ],
+    "mealType": [
+      "lunch/dinner"
+    ],
+    "dishType": [
+      "main course"
+    ],
+    "instructions": [
+      "Use paper towels to dry the chicken thoroughly. Reducing the moisture content on the surface of the chicken is essential to get it to brown.",
+      "Sprinkle the chicken evenly with the salt and black pepper.",
+      "Heat a heavy bottomed pot (such as a Dutch oven) over medium heat until hot. Add the olive oil and swirl to coat the pan.",
+      "When the pot is hot, add the chicken in a single layer, skin side down, being careful not to overcrowd the pan. If they don't all fit in your pan, divide the chicken into two batches. Leave the chicken undisturbed until golden brown (about 5-7 minutes).",
+      "Flip the chicken pieces over and brown the other side. Repeat with the rest of the chicken if necessary.",
+      "Transfer the chicken to a bowl and then add the onions and peppers to the pot. Stir to distribute evenly and then cover with a lid to let the vegetables steam for about 10 minutes.",
+      "Remove the lid and saute the onions until they are golden brown.",
+      "Add the sweet paprika and fry, continually stirring for about 10 seconds. Paprika burns easily and will become bitter, so be careful not to burn it.",
+      "Add the chicken stock and then return the chicken to the pot along with any accumulated juices. Cover with a lid and turn down the heat to maintain a gentle simmer. Cook the chicken until it is tender (about 45 minutes).",
+      "While you're waiting for the chicken to cook, mix the sour cream and flour in a bowl until it's free of lumps.",
+      "When the chicken is done, temper the sour cream by transferring some cooking liquid from the chicken a spoonful at a time to the cream mixture and stirring after each addition. You want to slowly raise the temperature of the sour cream until it is very warm.",
+      "Once the sour cream is tempered, you can pour it all back into the pot and stir to combine. Do not let it boil once you've added the sour cream. Taste the sauce and add some more salt if needed. The paprika chicken is done when the sauce has thickened."
+    ]
+  },
+  {
+    "label": "Baked Chicken",
+    "url": "http://www.marthastewart.com/318981/baked-chicken",
+    "ingredients": [
+      {
+        "text": "6 bone-in chicken breast halves, or 6 chicken thighs and wings, skin-on",
+        "quantity": 6,
+        "measure": "half",
+        "food": "chicken breast",
+        "weight": 522,
+        "foodCategory": "Poultry",
+        "foodId": "food_bdrxu94aj3x2djbpur8dhagfhkcn",
+        "image": "https://www.edamam.com/food-img/da5/da510379d3650787338ca16fb69f4c94.jpg"
+      },
+      {
+        "text": "1/2 teaspoon coarse salt",
+        "quantity": 0.5,
+        "measure": "teaspoon",
+        "food": "coarse salt",
+        "weight": 2.4270833334564377,
+        "foodCategory": "Condiments and sauces",
+        "foodId": "food_a1vgrj1bs8rd1majvmd9ubz8ttkg",
+        "image": "https://www.edamam.com/food-img/694/6943ea510918c6025795e8dc6e6eaaeb.jpg"
+      },
+      {
+        "text": "1/2 teaspoon Mrs. Dash seasoning",
+        "quantity": 0.5,
+        "measure": "teaspoon",
+        "food": "seasoning",
+        "weight": 0.75,
+        "foodCategory": "Condiments and sauces",
+        "foodId": "food_aj7w3xab0epj7cbgkbkpwadysovd",
+        "image": "https://www.edamam.com/food-img/c23/c23e20823b442067307aa436969358f1.jpg"
+      },
+      {
+        "text": "1/4 teaspoon freshly ground black pepper",
+        "quantity": 0.25,
+        "measure": "teaspoon",
+        "food": "black pepper",
+        "weight": 0.575,
+        "foodCategory": "Condiments and sauces",
+        "foodId": "food_b6ywzluaaxv02wad7s1r9ag4py89",
+        "image": "https://www.edamam.com/food-img/c6e/c6e5c3bd8d3bc15175d9766971a4d1b2.jpg"
+      }
+    ],
+    "uri": "http://www.edamam.com/ontologies/edamam.owl#recipe_be3ba087e212f13672b553ecfa876333",
+    "image": "https://edamam-product-images.s3.amazonaws.com/web-img/01c/01cacb70890274fb7b7cebb975a93231.jpg?X-Amz-Security-Token=IQoJb3JpZ2luX2VjEGsaCXVzLWVhc3QtMSJHMEUCIC5EcVohn5KOF%2BqsJMnWN15QAQiEjniqRzrDkKyFbnySAiEAklir9G9lxG0xv0NtH%2BbNUzcDusmggahGna36Vka0pfsqwQUIs%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FARAAGgwxODcwMTcxNTA5ODYiDE38n9doIwHPgmHkWCqVBbisrUc9re%2F9CDcggsOnHnBDSRivSr3n%2FpYDQwMNPvf0SYUmrug6XHTenjdFdVWV1Ff4x%2FBsbtdGVuGulJC598dBW%2FIXmHxB4RjkYiS0v%2BNR9rt8jcBLiQUdFZ1UDal6PePuO4XlD02vZtgzOL2rjk1S1%2FRf02SGPYJDSeRFq6YjIqTzCh0jJZTg0%2FA3mMwFzUHaQfuQhzaODUHy1ebxM9d9XMiSmONtMNlrIpIOojhoDIOugj9wpKzV1B4G2F%2FqIWaDFP25ylNKNxv88Xm00chUeTkgDxIn0%2BqyokvCIZdkiTHYWrZx9j%2B7gtiIywqN4eoqf48CItxwd3eZ71tpbn8KAdJRsFADWtqRn6XaPyfWjEnaZusqQyD%2FM5IgFH8v7T7kORlhTNQqvu3qWAZeMYp6hUGrDS%2FF7XZuXXkQ9yzH4skZOOMi6r1nr0sCJrML1oDJvC7Q7IsuvUWJPtpZVHDhzi8aUFs%2F2N8ILHtfUhPKIRzDCuh9FVjGw99civG%2BPOzyxr8RdH7%2FBMXZn%2B1WacULKtWF1byJOq56cJr48nuUeFCUM6pc2T6B50aVoJ9Gz5mPJtrrDmxRwPP3gRaKs%2BjhgPZ2p7zF7m7UbnvAzsnKmT6ea9fdY9eOAlr%2FVVEFAej3tXqn%2BRExSPcoysRWrzlGdsGFyCIb4LnjHQN3x8ndZ2m3BlYfR4pzXkXPytgvuQEcM7a3rznYy74k8Tf4m5AmnC92WA0MQ7C6%2BkvAO04Dhs06NMw8rJU8BgjyGK%2B%2F8PH9%2FFvH2PwUnqOVlkRSXlV1JtA70t5Kj6MYcZ3zB8jMYefoRof3Yo72ahjXkanHysD141KKoDO2UX3DxRT3zwC%2B7JvAZjqahjJyrfNtPsg%2FrNyahrUw17jgqgY6sQGeksuY%2F97zXR%2BobwqmxhruCnjVQr%2BL2fGGQNCFMEuHGe6Qqw57JcQ2csndirt5ZrsgvI37Rll9JHP3FXR2svQVNgb6%2BxCZWqynfWvMKZDTFTSVmUtYaqez1LlAuKXnuqJW2j8Han1M%2BhZGYZhwmUyADyPiBl0N2JHAR%2BMfdYrmkWOG2mNDMiJrkrBkg5SmzABy3VtH3F46kLOE0hf3Mgbc6VKYTVszV6sdIdys475UY1I%3D&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Date=20231118T025228Z&X-Amz-SignedHeaders=host&X-Amz-Expires=3600&X-Amz-Credential=ASIASXCYXIIFBUSCGD4D%2F20231118%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Signature=62e79c88e7c176fc8c0d00cef101d45a76a25c11569b8d572f6ee76bdf6fbabd",
+    "source": "Martha Stewart",
+    "shareAs": "http://www.edamam.com/recipe/baked-chicken-be3ba087e212f13672b553ecfa876333/chicken",
+    "yield": 4,
+    "dietLabels": [
+      "High-Protein",
+      "Low-Carb"
+    ],
+    "healthLabels": [
+      "Sugar-Conscious",
+      "Keto-Friendly",
+      "Paleo",
+      "Mediterranean",
+      "Dairy-Free",
+      "Gluten-Free",
+      "Wheat-Free",
+      "Egg-Free",
+      "Peanut-Free",
+      "Tree-Nut-Free",
+      "Soy-Free",
+      "Fish-Free",
+      "Shellfish-Free",
+      "Pork-Free",
+      "Red-Meat-Free",
+      "Crustacean-Free",
+      "Celery-Free",
+      "Mustard-Free",
+      "Sesame-Free",
+      "Lupine-Free",
+      "Mollusk-Free",
+      "Alcohol-Free",
+      "No oil added",
+      "Sulfite-Free",
+      "FODMAP-Free",
+      "Kosher"
+    ],
+    "cautions": [],
+    "ingredientLines": [
+      "6 bone-in chicken breast halves, or 6 chicken thighs and wings, skin-on",
+      "1/2 teaspoon coarse salt",
+      "1/2 teaspoon Mrs. Dash seasoning",
+      "1/4 teaspoon freshly ground black pepper"
+    ],
+    "calories": 630.14575,
+    "totalWeight": 525.7520833334565,
+    "totalTime": 65,
+    "cuisineType": [
+      "american"
+    ],
+    "mealType": [
+      "lunch/dinner"
+    ],
+    "dishType": [
+      "main course"
+    ],
+    "instructions": [
+      "Season chicken on both sides with salt and pepper. Heat oil in a large (6 quart) pot over medium-high heat until shimmering. Sear chicken in batches, turning once, until golden, 7 to 8 minutes. Transfer to a plate.",
+      "Reduce heat to medium; add onion and poblanos. Cook, stirring occasionally, until softened, about 5 minutes.",
+      "Stir in garlic, cumin, coriander, and chili powder, and cook until fragrant, 1 minute more. Stir in canned chiles.",
+      "Add chicken back to pot along with broth and juices, scraping up bits from the bottom of the pan. Bring to a boil then reduce heat to medium-low and simmer, partially covered, until chicken is cooked through and flavors meld, about 15 minutes.",
+      "Remove chicken to a plate and shred into bite-size pieces.",
+      "In a small bowl, whisk together cornmeal with 1 cup hot cooking liquid. Return to pot, along with beans, and simmer 5 minutes.",
+      "Stir in chicken until heated through. Taste and adjust seasoning. Divide among bowls and top with sour cream, fresh cilantro sprigs, tortilla chips and lime."
+    ]
+  },
+  {
+    "label": "Catalan Chicken",
+    "url": "http://www.bonappetit.com/columns/breadwinner/article/how-to-get-your-kids-to-eat-sauce-let-them-cook-it-themselves",
+    "ingredients": [
+      {
+        "text": "1 whole 4-pound chicken, quartered",
+        "quantity": 1,
+        "measure": "<unit>",
+        "food": "chicken",
+        "weight": 1200,
+        "foodCategory": "Poultry",
+        "foodId": "food_bmyxrshbfao9s1amjrvhoauob6mo",
+        "image": "https://www.edamam.com/food-img/d33/d338229d774a743f7858f6764e095878.jpg"
+      },
+      {
+        "text": "8 slices bacon",
+        "quantity": 8,
+        "measure": "slice",
+        "food": "bacon",
+        "weight": 232,
+        "foodCategory": "cured meats",
+        "foodId": "food_av0awb0bgs18qub01sd9kbx44b61",
+        "image": "https://www.edamam.com/food-img/d42/d426884a125fa39a70d5a5d7217864ec.jpg"
+      },
+      {
+        "text": "30 cloves garlic",
+        "quantity": 30,
+        "measure": "clove",
+        "food": "garlic",
+        "weight": 90,
+        "foodCategory": "vegetables",
+        "foodId": "food_avtcmx6bgjv1jvay6s6stan8dnyp",
+        "image": "https://www.edamam.com/food-img/6ee/6ee142951f48aaf94f4312409f8d133d.jpg"
+      },
+      {
+        "text": "3 lemons, peeled, rinds thinly sliced and reserved",
+        "quantity": 3,
+        "measure": "<unit>",
+        "food": "lemons",
+        "weight": 252,
+        "foodCategory": "fruit",
+        "foodId": "food_a6uzc62astrxcgbtzyq59b6fncrr",
+        "image": "https://www.edamam.com/food-img/70a/70acba3d4c734d7c70ef4efeed85dc8f.jpg"
+      },
+      {
+        "text": "½ cup Banyuls or another fortified dessert wine",
+        "quantity": 0.5,
+        "measure": "cup",
+        "food": "dessert wine",
+        "weight": 51.5,
+        "foodCategory": "wines",
+        "foodId": "food_a9b1edjayi2e3kae6qvpvb0l2zaf",
+        "image": "https://www.edamam.com/food-img/ea0/ea026d474cb3f9c0b3302eeaa5232151.jpg"
+      },
+      {
+        "text": "1 cup veal or chicken stock",
+        "quantity": 1,
+        "measure": "cup",
+        "food": "chicken stock",
+        "weight": 240,
+        "foodCategory": "canned soup",
+        "foodId": "food_bptblvzambd16nbhewqmhaw1rnh5",
+        "image": "https://www.edamam.com/food-img/26a/26a10c4cb4e07bab54d8a687ef5ac7d8.jpg"
+      }
+    ],
+    "uri": "http://www.edamam.com/ontologies/edamam.owl#recipe_2463f2482609d7a471dbbf3b268bd956",
+    "image": "https://edamam-product-images.s3.amazonaws.com/web-img/4d9/4d9084cbc170789caa9e997108b595de.jpg?X-Amz-Security-Token=IQoJb3JpZ2luX2VjEGsaCXVzLWVhc3QtMSJHMEUCIC5EcVohn5KOF%2BqsJMnWN15QAQiEjniqRzrDkKyFbnySAiEAklir9G9lxG0xv0NtH%2BbNUzcDusmggahGna36Vka0pfsqwQUIs%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FARAAGgwxODcwMTcxNTA5ODYiDE38n9doIwHPgmHkWCqVBbisrUc9re%2F9CDcggsOnHnBDSRivSr3n%2FpYDQwMNPvf0SYUmrug6XHTenjdFdVWV1Ff4x%2FBsbtdGVuGulJC598dBW%2FIXmHxB4RjkYiS0v%2BNR9rt8jcBLiQUdFZ1UDal6PePuO4XlD02vZtgzOL2rjk1S1%2FRf02SGPYJDSeRFq6YjIqTzCh0jJZTg0%2FA3mMwFzUHaQfuQhzaODUHy1ebxM9d9XMiSmONtMNlrIpIOojhoDIOugj9wpKzV1B4G2F%2FqIWaDFP25ylNKNxv88Xm00chUeTkgDxIn0%2BqyokvCIZdkiTHYWrZx9j%2B7gtiIywqN4eoqf48CItxwd3eZ71tpbn8KAdJRsFADWtqRn6XaPyfWjEnaZusqQyD%2FM5IgFH8v7T7kORlhTNQqvu3qWAZeMYp6hUGrDS%2FF7XZuXXkQ9yzH4skZOOMi6r1nr0sCJrML1oDJvC7Q7IsuvUWJPtpZVHDhzi8aUFs%2F2N8ILHtfUhPKIRzDCuh9FVjGw99civG%2BPOzyxr8RdH7%2FBMXZn%2B1WacULKtWF1byJOq56cJr48nuUeFCUM6pc2T6B50aVoJ9Gz5mPJtrrDmxRwPP3gRaKs%2BjhgPZ2p7zF7m7UbnvAzsnKmT6ea9fdY9eOAlr%2FVVEFAej3tXqn%2BRExSPcoysRWrzlGdsGFyCIb4LnjHQN3x8ndZ2m3BlYfR4pzXkXPytgvuQEcM7a3rznYy74k8Tf4m5AmnC92WA0MQ7C6%2BkvAO04Dhs06NMw8rJU8BgjyGK%2B%2F8PH9%2FFvH2PwUnqOVlkRSXlV1JtA70t5Kj6MYcZ3zB8jMYefoRof3Yo72ahjXkanHysD141KKoDO2UX3DxRT3zwC%2B7JvAZjqahjJyrfNtPsg%2FrNyahrUw17jgqgY6sQGeksuY%2F97zXR%2BobwqmxhruCnjVQr%2BL2fGGQNCFMEuHGe6Qqw57JcQ2csndirt5ZrsgvI37Rll9JHP3FXR2svQVNgb6%2BxCZWqynfWvMKZDTFTSVmUtYaqez1LlAuKXnuqJW2j8Han1M%2BhZGYZhwmUyADyPiBl0N2JHAR%2BMfdYrmkWOG2mNDMiJrkrBkg5SmzABy3VtH3F46kLOE0hf3Mgbc6VKYTVszV6sdIdys475UY1I%3D&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Date=20231118T025228Z&X-Amz-SignedHeaders=host&X-Amz-Expires=3600&X-Amz-Credential=ASIASXCYXIIFBUSCGD4D%2F20231118%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Signature=4421445d2f32edb343673e7beda479fcc928a4c23df50251c19891be3d9c7252",
+    "source": "Bon Appetit",
+    "shareAs": "http://www.edamam.com/recipe/catalan-chicken-2463f2482609d7a471dbbf3b268bd956/chicken",
+    "yield": 14,
+    "dietLabels": [
+      "Low-Carb"
+    ],
+    "healthLabels": [
+      "Sugar-Conscious",
+      "Keto-Friendly",
+      "Paleo",
+      "Dairy-Free",
+      "Gluten-Free",
+      "Wheat-Free",
+      "Egg-Free",
+      "Peanut-Free",
+      "Tree-Nut-Free",
+      "Soy-Free",
+      "Fish-Free",
+      "Shellfish-Free",
+      "Crustacean-Free",
+      "Celery-Free",
+      "Mustard-Free",
+      "Sesame-Free",
+      "Lupine-Free",
+      "Mollusk-Free",
+      "No oil added",
+      "Sulfite-Free"
+    ],
+    "cautions": [
+      "Sulfites"
+    ],
+    "ingredientLines": [
+      "1 whole 4-pound chicken, quartered",
+      "8 slices bacon",
+      "30 cloves garlic",
+      "3 lemons, peeled, rinds thinly sliced and reserved",
+      "½ cup Banyuls or another fortified dessert wine",
+      "1 cup veal or chicken stock"
+    ],
+    "calories": 3867.7400000000002,
+    "totalWeight": 2065.5,
+    "totalTime": 30,
+    "cuisineType": [
+      "french"
+    ],
+    "mealType": [
+      "lunch/dinner"
+    ],
+    "dishType": [
+      "condiments and sauces"
+    ],
+    "instructions": [
+      "Cook bacon in heavy, 5-quart pot until crisp and fat is rendered. Remove the strips and reserve.",
+      "In the same pot, brown chicken on medium heat in bacon fat. Add ¾ cup water, bring to a boil, then reduce to a simmer. While chicken cooks, place peeled garlic in pan of water and bring to a boil. Cook for 1 minute, drain, and cover with cold water to stop cooking process. Cut 2 lemons into quarters. Slice the third across the grain. Bring small pan of water to boil. Add lemons and cook for 1 minute. Drain and place in cold water to stop cooking process.",
+      "When chicken is tender, about 20 minutes, remove and set aside. Add Banyuls, and scrape caramelized bits until bottom of pan is clean and sauce has darkened. Cut chicken into serving-size portions and return to pot along with stock. Simmer for 10 minutes, then add garlic and lemon and cook another 10 minutes.",
+      "Serve immediately with steamed potatoes or rice."
+    ]
+  },
+  {
+    "label": "Chicken Stew",
+    "url": "https://food52.com/recipes/83097-chicken-stew",
+    "ingredients": [
+      {
+        "text": "1 pound chicken cut in pieces",
+        "quantity": 1,
+        "measure": "pound",
+        "food": "chicken",
+        "weight": 453.59237,
+        "foodCategory": "Poultry",
+        "foodId": "food_bmyxrshbfao9s1amjrvhoauob6mo",
+        "image": "https://www.edamam.com/food-img/d33/d338229d774a743f7858f6764e095878.jpg"
+      },
+      {
+        "text": "4 carrots",
+        "quantity": 4,
+        "measure": "<unit>",
+        "food": "carrots",
+        "weight": 244,
+        "foodCategory": "vegetables",
+        "foodId": "food_ai215e5b85pdh5ajd4aafa3w2zm8",
+        "image": "https://www.edamam.com/food-img/121/121e33fce0bb9546ed7d060b6c114e29.jpg"
+      },
+      {
+        "text": "1 onion",
+        "quantity": 1,
+        "measure": "<unit>",
+        "food": "onion",
+        "weight": 125,
+        "foodCategory": "vegetables",
+        "foodId": "food_bmrvi4ob4binw9a5m7l07amlfcoy",
+        "image": "https://www.edamam.com/food-img/205/205e6bf2399b85d34741892ef91cc603.jpg"
+      },
+      {
+        "text": "1 leek",
+        "quantity": 1,
+        "measure": "<unit>",
+        "food": "leek",
+        "weight": 89,
+        "foodCategory": "vegetables",
+        "foodId": "food_a27jevnb06c1m9ax7k41xbbcwcuo",
+        "image": "https://www.edamam.com/food-img/4ae/4ae9e09d029a28e0e2c64bdfdbf3f6ae.jpg"
+      },
+      {
+        "text": "1 green pepper",
+        "quantity": 1,
+        "measure": "<unit>",
+        "food": "green pepper",
+        "weight": 116.28888888888889,
+        "foodCategory": "vegetables",
+        "foodId": "food_bz8rcwobbzm7zhb3wh2n7aznivou",
+        "image": "https://www.edamam.com/food-img/629/629dc9fddc1f8aec27fa337dd6ce2b7c.jpg"
+      },
+      {
+        "text": "kosher salt",
+        "quantity": 0,
+        "measure": null,
+        "food": "kosher salt",
+        "weight": 7.578487553333335,
+        "foodCategory": "Condiments and sauces",
+        "foodId": "food_a1vgrj1bs8rd1majvmd9ubz8ttkg",
+        "image": "https://www.edamam.com/food-img/694/6943ea510918c6025795e8dc6e6eaaeb.jpg"
+      },
+      {
+        "text": "Freshly ground black pepper",
+        "quantity": 0,
+        "measure": null,
+        "food": "black pepper",
+        "weight": 3.7892437766666673,
+        "foodCategory": "Condiments and sauces",
+        "foodId": "food_b6ywzluaaxv02wad7s1r9ag4py89",
+        "image": "https://www.edamam.com/food-img/c6e/c6e5c3bd8d3bc15175d9766971a4d1b2.jpg"
+      },
+      {
+        "text": "Extra Virgin Olive Oil",
+        "quantity": 0,
+        "measure": null,
+        "food": "Extra Virgin Olive Oil",
+        "weight": 17.17790512088889,
+        "foodCategory": "Oils",
+        "foodId": "food_b1d1icuad3iktrbqby0hiagafaz7",
+        "image": "https://www.edamam.com/food-img/4d6/4d651eaa8a353647746290c7a9b29d84.jpg"
+      },
+      {
+        "text": "1 cup white wine",
+        "quantity": 1,
+        "measure": "cup",
+        "food": "white wine",
+        "weight": 235.2,
+        "foodCategory": "wines",
+        "foodId": "food_bn44h7baron9ufaoxinmya8l0yye",
+        "image": "https://www.edamam.com/food-img/a71/a718cf3c52add522128929f1f324d2ab.jpg"
+      },
+      {
+        "text": "Chicken broth",
+        "quantity": 0,
+        "measure": null,
+        "food": "Chicken broth",
+        "weight": 252.61625177777785,
+        "foodCategory": "canned soup",
+        "foodId": "food_bptblvzambd16nbhewqmhaw1rnh5",
+        "image": "https://www.edamam.com/food-img/26a/26a10c4cb4e07bab54d8a687ef5ac7d8.jpg"
+      }
+    ],
+    "uri": "http://www.edamam.com/ontologies/edamam.owl#recipe_a7c379c59775dd0c7c88710f7fecff81",
+    "image": "https://edamam-product-images.s3.amazonaws.com/web-img/74b/74bfb16655500083c4af92bcf45889f7.jpg?X-Amz-Security-Token=IQoJb3JpZ2luX2VjEGsaCXVzLWVhc3QtMSJHMEUCIC5EcVohn5KOF%2BqsJMnWN15QAQiEjniqRzrDkKyFbnySAiEAklir9G9lxG0xv0NtH%2BbNUzcDusmggahGna36Vka0pfsqwQUIs%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FARAAGgwxODcwMTcxNTA5ODYiDE38n9doIwHPgmHkWCqVBbisrUc9re%2F9CDcggsOnHnBDSRivSr3n%2FpYDQwMNPvf0SYUmrug6XHTenjdFdVWV1Ff4x%2FBsbtdGVuGulJC598dBW%2FIXmHxB4RjkYiS0v%2BNR9rt8jcBLiQUdFZ1UDal6PePuO4XlD02vZtgzOL2rjk1S1%2FRf02SGPYJDSeRFq6YjIqTzCh0jJZTg0%2FA3mMwFzUHaQfuQhzaODUHy1ebxM9d9XMiSmONtMNlrIpIOojhoDIOugj9wpKzV1B4G2F%2FqIWaDFP25ylNKNxv88Xm00chUeTkgDxIn0%2BqyokvCIZdkiTHYWrZx9j%2B7gtiIywqN4eoqf48CItxwd3eZ71tpbn8KAdJRsFADWtqRn6XaPyfWjEnaZusqQyD%2FM5IgFH8v7T7kORlhTNQqvu3qWAZeMYp6hUGrDS%2FF7XZuXXkQ9yzH4skZOOMi6r1nr0sCJrML1oDJvC7Q7IsuvUWJPtpZVHDhzi8aUFs%2F2N8ILHtfUhPKIRzDCuh9FVjGw99civG%2BPOzyxr8RdH7%2FBMXZn%2B1WacULKtWF1byJOq56cJr48nuUeFCUM6pc2T6B50aVoJ9Gz5mPJtrrDmxRwPP3gRaKs%2BjhgPZ2p7zF7m7UbnvAzsnKmT6ea9fdY9eOAlr%2FVVEFAej3tXqn%2BRExSPcoysRWrzlGdsGFyCIb4LnjHQN3x8ndZ2m3BlYfR4pzXkXPytgvuQEcM7a3rznYy74k8Tf4m5AmnC92WA0MQ7C6%2BkvAO04Dhs06NMw8rJU8BgjyGK%2B%2F8PH9%2FFvH2PwUnqOVlkRSXlV1JtA70t5Kj6MYcZ3zB8jMYefoRof3Yo72ahjXkanHysD141KKoDO2UX3DxRT3zwC%2B7JvAZjqahjJyrfNtPsg%2FrNyahrUw17jgqgY6sQGeksuY%2F97zXR%2BobwqmxhruCnjVQr%2BL2fGGQNCFMEuHGe6Qqw57JcQ2csndirt5ZrsgvI37Rll9JHP3FXR2svQVNgb6%2BxCZWqynfWvMKZDTFTSVmUtYaqez1LlAuKXnuqJW2j8Han1M%2BhZGYZhwmUyADyPiBl0N2JHAR%2BMfdYrmkWOG2mNDMiJrkrBkg5SmzABy3VtH3F46kLOE0hf3Mgbc6VKYTVszV6sdIdys475UY1I%3D&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Date=20231118T025228Z&X-Amz-SignedHeaders=host&X-Amz-Expires=3600&X-Amz-Credential=ASIASXCYXIIFBUSCGD4D%2F20231118%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Signature=1482c2fffe15ec641da0120b78d715e16a93290b4bca615eb6cb66679276bf9d",
+    "source": "Food52",
+    "shareAs": "http://www.edamam.com/recipe/chicken-stew-a7c379c59775dd0c7c88710f7fecff81/chicken",
+    "yield": 4,
+    "dietLabels": [],
+    "healthLabels": [
+      "Paleo",
+      "Mediterranean",
+      "Dairy-Free",
+      "Gluten-Free",
+      "Wheat-Free",
+      "Egg-Free",
+      "Peanut-Free",
+      "Tree-Nut-Free",
+      "Soy-Free",
+      "Fish-Free",
+      "Shellfish-Free",
+      "Pork-Free",
+      "Red-Meat-Free",
+      "Crustacean-Free",
+      "Celery-Free",
+      "Mustard-Free",
+      "Sesame-Free",
+      "Lupine-Free",
+      "Mollusk-Free",
+      "Kosher"
+    ],
+    "cautions": [
+      "Sulfites"
+    ],
+    "ingredientLines": [
+      "1 pound chicken cut in pieces",
+      "4 carrots",
+      "1 onion",
+      "1 leek",
+      "1 green pepper",
+      "kosher salt",
+      "Freshly ground black pepper",
+      "Extra Virgin Olive Oil",
+      "1 cup white wine",
+      "Chicken broth"
+    ],
+    "calories": 1647.980907065869,
+    "totalWeight": 1543.5904764713277,
+    "totalTime": 70,
+    "cuisineType": [
+      "french"
+    ],
+    "mealType": [
+      "lunch/dinner"
+    ],
+    "dishType": [
+      "main course"
+    ],
+    "instructions":[
+      "In a large pot over medium heat, add oil. Add cutted carrots and leek and season with salt and pepper. Cook, stirring often, until vegetables are tender, about 5 minutes.",
+      "Then add chicken and white wine. Bring mixture to a simmer and cook until the chicken is no longer pink. Add broth until cover the chicken an cook for 45 minutes.",
+      "Serve"
+    ]
+  },
+  {
+    "label": "Chicken Liver Pâté",
+    "url": "http://www.saveur.com/article/Recipes/Classic-Chicken-Pate",
+    "ingredients": [
+      {
+        "text": "8 oz. chicken livers, cleaned",
+        "quantity": 8,
+        "measure": "ounce",
+        "food": "chicken livers",
+        "weight": 226.796185,
+        "foodCategory": "Poultry",
+        "foodId": "food_a9xs7abb632dn3aozv3w4a9351fh",
+        "image": "https://www.edamam.com/food-img/9aa/9aa4760ac12b682555a37a1cdc91150b.jpg"
+      },
+      {
+        "text": "4 cups chicken stock",
+        "quantity": 4,
+        "measure": "cup",
+        "food": "chicken stock",
+        "weight": 960,
+        "foodCategory": "canned soup",
+        "foodId": "food_bptblvzambd16nbhewqmhaw1rnh5",
+        "image": "https://www.edamam.com/food-img/26a/26a10c4cb4e07bab54d8a687ef5ac7d8.jpg"
+      },
+      {
+        "text": "2 tbsp. rendered chicken fat or unsalted butter",
+        "quantity": 2,
+        "measure": "tablespoon",
+        "food": "rendered chicken fat",
+        "weight": 28.2499999995224,
+        "foodCategory": "cured meats",
+        "foodId": "food_bhh30ayacqyq77bxdepyhb53souu",
+        "image": null
+      },
+      {
+        "text": "½ medium yellow onion, minced",
+        "quantity": 0.5,
+        "measure": "<unit>",
+        "food": "yellow onion",
+        "weight": 55,
+        "foodCategory": "vegetables",
+        "foodId": "food_bmrvi4ob4binw9a5m7l07amlfcoy",
+        "image": "https://www.edamam.com/food-img/205/205e6bf2399b85d34741892ef91cc603.jpg"
+      },
+      {
+        "text": "1½ tbsp. cognac or brandy",
+        "quantity": 1.5,
+        "measure": "tablespoon",
+        "food": "cognac",
+        "weight": 20.9999999995266,
+        "foodCategory": "liquors and cocktails",
+        "foodId": "food_ajguqpia53yz3oah6w2frad3tz65",
+        "image": "https://www.edamam.com/food-img/c7f/c7fcc63de96b349534aade3de3f9fa7d.jpg"
+      },
+      {
+        "text": "2 hard-boiled eggs",
+        "quantity": 2,
+        "measure": "<unit>",
+        "food": "hard-boiled eggs",
+        "weight": 80,
+        "foodCategory": "Eggs",
+        "foodId": "food_a2y52zfbr22uq1ah5thnqac607ft",
+        "image": "https://www.edamam.com/food-img/e54/e54c012fabed0f9cf211a817d1e23c5c.jpg"
+      },
+      {
+        "text": "Kosher salt and freshly ground black pepper, to taste",
+        "quantity": 0,
+        "measure": null,
+        "food": "Kosher salt",
+        "weight": 8.370277109994293,
+        "foodCategory": "Condiments and sauces",
+        "foodId": "food_a1vgrj1bs8rd1majvmd9ubz8ttkg",
+        "image": "https://www.edamam.com/food-img/694/6943ea510918c6025795e8dc6e6eaaeb.jpg"
+      },
+      {
+        "text": "Kosher salt and freshly ground black pepper, to taste",
+        "quantity": 0,
+        "measure": null,
+        "food": "black pepper",
+        "weight": 4.185138554997146,
+        "foodCategory": "Condiments and sauces",
+        "foodId": "food_b6ywzluaaxv02wad7s1r9ag4py89",
+        "image": "https://www.edamam.com/food-img/c6e/c6e5c3bd8d3bc15175d9766971a4d1b2.jpg"
+      },
+      {
+        "text": "Toast points, for serving",
+        "quantity": 1,
+        "measure": "serving",
+        "food": "Toast",
+        "weight": 24,
+        "foodCategory": "bread, rolls and tortillas",
+        "foodId": "food_apk1psxaqtsilfbfxoa5hbxfgdg4",
+        "image": "https://www.edamam.com/food-img/6c0/6c0c1e866e0106b960d1463a9bdc54db.jpg"
+      }
+    ],
+    "uri": "http://www.edamam.com/ontologies/edamam.owl#recipe_9ca0499f2ac7f1e4cae63bdf4671c1b3",
+    "image": "https://edamam-product-images.s3.amazonaws.com/web-img/480/480000e79dbdd4648c4acd65630ff654.jpg?X-Amz-Security-Token=IQoJb3JpZ2luX2VjEGsaCXVzLWVhc3QtMSJHMEUCIC5EcVohn5KOF%2BqsJMnWN15QAQiEjniqRzrDkKyFbnySAiEAklir9G9lxG0xv0NtH%2BbNUzcDusmggahGna36Vka0pfsqwQUIs%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FARAAGgwxODcwMTcxNTA5ODYiDE38n9doIwHPgmHkWCqVBbisrUc9re%2F9CDcggsOnHnBDSRivSr3n%2FpYDQwMNPvf0SYUmrug6XHTenjdFdVWV1Ff4x%2FBsbtdGVuGulJC598dBW%2FIXmHxB4RjkYiS0v%2BNR9rt8jcBLiQUdFZ1UDal6PePuO4XlD02vZtgzOL2rjk1S1%2FRf02SGPYJDSeRFq6YjIqTzCh0jJZTg0%2FA3mMwFzUHaQfuQhzaODUHy1ebxM9d9XMiSmONtMNlrIpIOojhoDIOugj9wpKzV1B4G2F%2FqIWaDFP25ylNKNxv88Xm00chUeTkgDxIn0%2BqyokvCIZdkiTHYWrZx9j%2B7gtiIywqN4eoqf48CItxwd3eZ71tpbn8KAdJRsFADWtqRn6XaPyfWjEnaZusqQyD%2FM5IgFH8v7T7kORlhTNQqvu3qWAZeMYp6hUGrDS%2FF7XZuXXkQ9yzH4skZOOMi6r1nr0sCJrML1oDJvC7Q7IsuvUWJPtpZVHDhzi8aUFs%2F2N8ILHtfUhPKIRzDCuh9FVjGw99civG%2BPOzyxr8RdH7%2FBMXZn%2B1WacULKtWF1byJOq56cJr48nuUeFCUM6pc2T6B50aVoJ9Gz5mPJtrrDmxRwPP3gRaKs%2BjhgPZ2p7zF7m7UbnvAzsnKmT6ea9fdY9eOAlr%2FVVEFAej3tXqn%2BRExSPcoysRWrzlGdsGFyCIb4LnjHQN3x8ndZ2m3BlYfR4pzXkXPytgvuQEcM7a3rznYy74k8Tf4m5AmnC92WA0MQ7C6%2BkvAO04Dhs06NMw8rJU8BgjyGK%2B%2F8PH9%2FFvH2PwUnqOVlkRSXlV1JtA70t5Kj6MYcZ3zB8jMYefoRof3Yo72ahjXkanHysD141KKoDO2UX3DxRT3zwC%2B7JvAZjqahjJyrfNtPsg%2FrNyahrUw17jgqgY6sQGeksuY%2F97zXR%2BobwqmxhruCnjVQr%2BL2fGGQNCFMEuHGe6Qqw57JcQ2csndirt5ZrsgvI37Rll9JHP3FXR2svQVNgb6%2BxCZWqynfWvMKZDTFTSVmUtYaqez1LlAuKXnuqJW2j8Han1M%2BhZGYZhwmUyADyPiBl0N2JHAR%2BMfdYrmkWOG2mNDMiJrkrBkg5SmzABy3VtH3F46kLOE0hf3Mgbc6VKYTVszV6sdIdys475UY1I%3D&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Date=20231118T025228Z&X-Amz-SignedHeaders=host&X-Amz-Expires=3600&X-Amz-Credential=ASIASXCYXIIFBUSCGD4D%2F20231118%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Signature=b095eb0dd554e0eed17683534e783105a6d3c9278dca14e04b56572fc8460ab0",
+    "source": "Saveur",
+    "shareAs": "http://www.edamam.com/recipe/chicken-liver-p%C3%A2t%C3%A9-9ca0499f2ac7f1e4cae63bdf4671c1b3/chicken",
+    "yield": 6,
+    "dietLabels": [],
+    "healthLabels": [
+      "Sugar-Conscious",
+      "Peanut-Free",
+      "Tree-Nut-Free",
+      "Soy-Free",
+      "Fish-Free",
+      "Shellfish-Free",
+      "Crustacean-Free",
+      "Celery-Free",
+      "Mustard-Free",
+      "Sesame-Free",
+      "Lupine-Free",
+      "Mollusk-Free",
+      "Sulfite-Free"
+    ],
+    "cautions": [
+      "Sulfites"
+    ],
+    "ingredientLines": [
+      "8 oz. chicken livers, cleaned",
+      "4 cups chicken stock",
+      "2 tbsp. rendered chicken fat or unsalted butter",
+      "½ medium yellow onion, minced",
+      "1½ tbsp. cognac or brandy",
+      "2 hard-boiled eggs",
+      "Kosher salt and freshly ground black pepper, to taste",
+      "Toast points, for serving"
+    ],
+    "calories": 1149.3071579176606,
+    "totalWeight": 1403.009015923215,
+    "totalTime": 30,
+    "cuisineType": [
+      "french"
+    ],
+    "mealType": [
+      "brunch"
+    ],
+    "dishType": [
+      "starter"
+    ],
+    "instructions":[
+      "To a medium pot over medium-high heat, add the livers and stock, and bring to a boil. Lower the heat to maintain a simmer and cook until the livers are firm but still faintly pink at the center, 6–8 minutes.",
+      "Set a colander over a large bowl and strain the livers, reserving the cooking liquid. Transfer the livers to a food processor and set aside.",
+      "In a large skillet over high heat, melt the chicken fat or butter. Add the onion and cook, stirring frequently, until translucent and just beginning to brown, 6–8 minutes. Transfer the onions to the food processor, add ¼ cup of the reserved liver cooking liquid along with the Cognac and eggs and process until smooth. Season to taste with salt and pepper, transfer to a jar, and chill until ready to serve, at least 4 hours or up to 3 days. Serve cold or at room temperature with toast points."
+    ]
+  },
+  {
+    "label": "Persian Chicken",
+    "url": "http://www.bbcgoodfood.com/recipes/7343/",
+    "ingredients": [
+      {
+        "text": "2 large onions",
+        "quantity": 2,
+        "measure": "<unit>",
+        "food": "onions",
+        "weight": 300,
+        "foodCategory": "vegetables",
+        "foodId": "food_bmrvi4ob4binw9a5m7l07amlfcoy",
+        "image": "https://www.edamam.com/food-img/205/205e6bf2399b85d34741892ef91cc603.jpg"
+      },
+      {
+        "text": "750 g chicken",
+        "quantity": 750,
+        "measure": "gram",
+        "food": "chicken",
+        "weight": 750,
+        "foodCategory": "Poultry",
+        "foodId": "food_bmyxrshbfao9s1amjrvhoauob6mo",
+        "image": "https://www.edamam.com/food-img/d33/d338229d774a743f7858f6764e095878.jpg"
+      },
+      {
+        "text": "500 g mushrooms",
+        "quantity": 500,
+        "measure": "gram",
+        "food": "mushrooms",
+        "weight": 500,
+        "foodCategory": "vegetables",
+        "foodId": "food_bvlose6arfl26ra396sjrb7hetqh",
+        "image": "https://www.edamam.com/food-img/d63/d639cf4a2afc7407c1d1ce286028136b.jpg"
+      },
+      {
+        "text": "1 cup water",
+        "quantity": 1,
+        "measure": "cup",
+        "food": "water",
+        "weight": 236.5882365,
+        "foodCategory": "water",
+        "foodId": "food_a99vzubbk1ayrsad318rvbzr3dh0",
+        "image": "https://www.edamam.com/food-img/5dd/5dd9d1361847b2ca53c4b19a8f92627e.jpg"
+      },
+      {
+        "text": "1 cup red wine",
+        "quantity": 1,
+        "measure": "cup",
+        "food": "red wine",
+        "weight": 235.2,
+        "foodCategory": "wines",
+        "foodId": "food_b5q0xv2ba8la5hbzdfzdgaca3fwu",
+        "image": "https://www.edamam.com/food-img/82b/82b8d0db2d5c38fc7498a657c0afc4ee.JPG"
+      },
+      {
+        "text": "2 teaspoons chicken stock",
+        "quantity": 2,
+        "measure": "teaspoon",
+        "food": "chicken stock",
+        "weight": 10.00000000050721,
+        "foodCategory": "canned soup",
+        "foodId": "food_bptblvzambd16nbhewqmhaw1rnh5",
+        "image": "https://www.edamam.com/food-img/26a/26a10c4cb4e07bab54d8a687ef5ac7d8.jpg"
+      },
+      {
+        "text": "200 ml mayonnaise",
+        "quantity": 200,
+        "measure": "milliliter",
+        "food": "mayonnaise",
+        "weight": 195.2759811031433,
+        "foodCategory": "condiments and sauces",
+        "foodId": "food_bu8t61zaplle7dbrzk81dbygq0qj",
+        "image": "https://www.edamam.com/food-img/577/577308a0422357885c94cc9b5f1f1862.jpg"
+      },
+      {
+        "text": "200 ml cream",
+        "quantity": 200,
+        "measure": "milliliter",
+        "food": "cream",
+        "weight": 201.53157530298427,
+        "foodCategory": "Dairy",
+        "foodId": "food_bvhbvd7bwy6a7wamfrmvmbmen1sz",
+        "image": "https://www.edamam.com/food-img/484/4848d71f6a14dd5076083f5e17925420.jpg"
+      },
+      {
+        "text": "small bunch of parsley",
+        "quantity": 1,
+        "measure": "bunch",
+        "food": "parsley",
+        "weight": 45,
+        "foodCategory": "vegetables",
+        "foodId": "food_b244pqdazw24zobr5vqu2bf0uid8",
+        "image": "https://www.edamam.com/food-img/46a/46a132e96626d7989b4d6ed8c91f4da0.jpg"
+      },
+      {
+        "text": "1 teaspoon curry powder",
+        "quantity": 1,
+        "measure": "teaspoon",
+        "food": "curry powder",
+        "weight": 2,
+        "foodCategory": "Condiments and sauces",
+        "foodId": "food_ao4koeoajh7yjxaq2knzrbv55y8o",
+        "image": "https://www.edamam.com/food-img/9ce/9ce02a2887385fd2adaec8dd8adcf9c5.jpg"
+      }
+    ],
+    "uri": "http://www.edamam.com/ontologies/edamam.owl#recipe_4caf01683bf99ddc7c08c35774aae54c",
+    "image": "https://edamam-product-images.s3.amazonaws.com/web-img/8f8/8f810dfe198fa3e520d291f3fcf62bbf.jpg?X-Amz-Security-Token=IQoJb3JpZ2luX2VjEGsaCXVzLWVhc3QtMSJHMEUCIC5EcVohn5KOF%2BqsJMnWN15QAQiEjniqRzrDkKyFbnySAiEAklir9G9lxG0xv0NtH%2BbNUzcDusmggahGna36Vka0pfsqwQUIs%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FARAAGgwxODcwMTcxNTA5ODYiDE38n9doIwHPgmHkWCqVBbisrUc9re%2F9CDcggsOnHnBDSRivSr3n%2FpYDQwMNPvf0SYUmrug6XHTenjdFdVWV1Ff4x%2FBsbtdGVuGulJC598dBW%2FIXmHxB4RjkYiS0v%2BNR9rt8jcBLiQUdFZ1UDal6PePuO4XlD02vZtgzOL2rjk1S1%2FRf02SGPYJDSeRFq6YjIqTzCh0jJZTg0%2FA3mMwFzUHaQfuQhzaODUHy1ebxM9d9XMiSmONtMNlrIpIOojhoDIOugj9wpKzV1B4G2F%2FqIWaDFP25ylNKNxv88Xm00chUeTkgDxIn0%2BqyokvCIZdkiTHYWrZx9j%2B7gtiIywqN4eoqf48CItxwd3eZ71tpbn8KAdJRsFADWtqRn6XaPyfWjEnaZusqQyD%2FM5IgFH8v7T7kORlhTNQqvu3qWAZeMYp6hUGrDS%2FF7XZuXXkQ9yzH4skZOOMi6r1nr0sCJrML1oDJvC7Q7IsuvUWJPtpZVHDhzi8aUFs%2F2N8ILHtfUhPKIRzDCuh9FVjGw99civG%2BPOzyxr8RdH7%2FBMXZn%2B1WacULKtWF1byJOq56cJr48nuUeFCUM6pc2T6B50aVoJ9Gz5mPJtrrDmxRwPP3gRaKs%2BjhgPZ2p7zF7m7UbnvAzsnKmT6ea9fdY9eOAlr%2FVVEFAej3tXqn%2BRExSPcoysRWrzlGdsGFyCIb4LnjHQN3x8ndZ2m3BlYfR4pzXkXPytgvuQEcM7a3rznYy74k8Tf4m5AmnC92WA0MQ7C6%2BkvAO04Dhs06NMw8rJU8BgjyGK%2B%2F8PH9%2FFvH2PwUnqOVlkRSXlV1JtA70t5Kj6MYcZ3zB8jMYefoRof3Yo72ahjXkanHysD141KKoDO2UX3DxRT3zwC%2B7JvAZjqahjJyrfNtPsg%2FrNyahrUw17jgqgY6sQGeksuY%2F97zXR%2BobwqmxhruCnjVQr%2BL2fGGQNCFMEuHGe6Qqw57JcQ2csndirt5ZrsgvI37Rll9JHP3FXR2svQVNgb6%2BxCZWqynfWvMKZDTFTSVmUtYaqez1LlAuKXnuqJW2j8Han1M%2BhZGYZhwmUyADyPiBl0N2JHAR%2BMfdYrmkWOG2mNDMiJrkrBkg5SmzABy3VtH3F46kLOE0hf3Mgbc6VKYTVszV6sdIdys475UY1I%3D&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Date=20231118T025228Z&X-Amz-SignedHeaders=host&X-Amz-Expires=3600&X-Amz-Credential=ASIASXCYXIIFBUSCGD4D%2F20231118%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Signature=d28e82737337667a42bbf45f4ed4fdc012ab8318a780b1bd4b7954a177433325",
+    "source": "BBC Good Food",
+    "shareAs": "http://www.edamam.com/recipe/persian-chicken-4caf01683bf99ddc7c08c35774aae54c/chicken",
+    "yield": 5,
+    "dietLabels": [
+      "Low-Carb"
+    ],
+    "healthLabels": [
+      "Gluten-Free",
+      "Wheat-Free",
+      "Peanut-Free",
+      "Tree-Nut-Free",
+      "Soy-Free",
+      "Fish-Free",
+      "Shellfish-Free",
+      "Pork-Free",
+      "Red-Meat-Free",
+      "Crustacean-Free",
+      "Celery-Free",
+      "Sesame-Free",
+      "Lupine-Free",
+      "Mollusk-Free"
+    ],
+    "cautions": [
+      "Sulfites"
+    ],
+    "ingredientLines": [
+      "2 large onions",
+      "750 g chicken",
+      "500 g mushrooms",
+      "1 cup water",
+      "1 cup red wine",
+      "2 teaspoons chicken stock",
+      "200 ml mayonnaise",
+      "200 ml cream",
+      "small bunch of parsley",
+      "1 teaspoon curry powder"
+    ],
+    "calories": 4105.237145264081,
+    "totalWeight": 2475.5957929066353,
+    "totalTime": 0,
+    "cuisineType": [
+      "middle eastern"
+    ],
+    "mealType": [
+      "lunch/dinner"
+    ],
+    "dishType": [
+      "main course"
+    ],
+    "instructions":[
+      "Sear and cook all meat.",
+      "Mix together.",
+      "Serve."
+    ]
+  },
+  {
+    "label": "Kreplach (Chicken Dumplings)",
+    "url": "https://www.tastingtable.com/entry_detail/chefs_recipes/10154/Matzo_balls_watch_your_back.htm",
+    "ingredients": [
+      {
+        "text": "1½ teaspoons canola oil",
+        "quantity": 1.5,
+        "measure": "teaspoon",
+        "food": "canola oil",
+        "weight": 6.75,
+        "foodCategory": "Oils",
+        "foodId": "food_bk9p9aaavhvoq4bqsnprobpsiuxs",
+        "image": "https://www.edamam.com/food-img/07e/07e106ab3536d57428e5c46d009038f8.jpg"
+      },
+      {
+        "text": "½ small shallot, finely chopped",
+        "quantity": 0.5,
+        "measure": "<unit>",
+        "food": "shallot",
+        "weight": 20,
+        "foodCategory": "vegetables",
+        "foodId": "food_bu2ver7a5f52dfap8q9f0bn085qb",
+        "image": "https://www.edamam.com/food-img/d23/d23e3be21df05e9e16c05eadb12341e7.jpeg"
+      },
+      {
+        "text": "1 cup (about ½ pound) raw, boneless chicken meat (preferably from 3 boneless chicken thighs), roughly chopped",
+        "quantity": 0.5,
+        "measure": "pound",
+        "food": "chicken meat",
+        "weight": 226.796185,
+        "foodCategory": "Poultry",
+        "foodId": "food_bm8j53kbu73enhamxkr92a7x5nq6",
+        "image": "https://www.edamam.com/food-img/e54/e546d27ffc3d338f99031ce1423cd331.jpg"
+      },
+      {
+        "text": "⅔ cup (about ¼ pound) chicken skin and fat (reserved from the 3 chicken thighs)",
+        "quantity": 0.25,
+        "measure": "pound",
+        "food": "chicken thighs",
+        "weight": 113.3980925,
+        "foodCategory": "Poultry",
+        "foodId": "food_bsarl08be0gwarb34bpviafna9d4",
+        "image": "https://www.edamam.com/food-img/007/00792642367e1f55de680762f85cfb3b.jpg"
+      },
+      {
+        "text": "2 chicken livers (optional)",
+        "quantity": 2,
+        "measure": "<unit>",
+        "food": "chicken livers",
+        "weight": 88,
+        "foodCategory": "Poultry",
+        "foodId": "food_a9xs7abb632dn3aozv3w4a9351fh",
+        "image": "https://www.edamam.com/food-img/9aa/9aa4760ac12b682555a37a1cdc91150b.jpg"
+      },
+      {
+        "text": "2 garlic cloves, finely chopped",
+        "quantity": 2,
+        "measure": "clove",
+        "food": "garlic",
+        "weight": 6,
+        "foodCategory": "vegetables",
+        "foodId": "food_avtcmx6bgjv1jvay6s6stan8dnyp",
+        "image": "https://www.edamam.com/food-img/6ee/6ee142951f48aaf94f4312409f8d133d.jpg"
+      },
+      {
+        "text": "¼ cup finely chopped chives, plus extra for serving",
+        "quantity": 0.25,
+        "measure": "cup",
+        "food": "chives",
+        "weight": 12.000000000202874,
+        "foodCategory": "vegetables",
+        "foodId": "food_btg1uzjak79lawbirsitkaeai60l",
+        "image": "https://www.edamam.com/food-img/f3f/f3f48643a924ba174b894e979cb48620.jpg"
+      },
+      {
+        "text": "1¼ teaspoons kosher salt",
+        "quantity": 1.25,
+        "measure": "teaspoon",
+        "food": "kosher salt",
+        "weight": 6.067708333641094,
+        "foodCategory": "Condiments and sauces",
+        "foodId": "food_a1vgrj1bs8rd1majvmd9ubz8ttkg",
+        "image": "https://www.edamam.com/food-img/694/6943ea510918c6025795e8dc6e6eaaeb.jpg"
+      },
+      {
+        "text": "¾ teaspoon freshly ground black pepper",
+        "quantity": 0.75,
+        "measure": "teaspoon",
+        "food": "black pepper",
+        "weight": 1.7249999999999999,
+        "foodCategory": "Condiments and sauces",
+        "foodId": "food_b6ywzluaaxv02wad7s1r9ag4py89",
+        "image": "https://www.edamam.com/food-img/c6e/c6e5c3bd8d3bc15175d9766971a4d1b2.jpg"
+      },
+      {
+        "text": "30 to 34 square wonton wrappers",
+        "quantity": 32,
+        "measure": "<unit>",
+        "food": "square wonton wrappers",
+        "weight": 1024,
+        "foodCategory": "quick breads and pastries",
+        "foodId": "food_aciwn4ebx5qeeobklsjebb6s408x",
+        "image": "https://www.edamam.com/food-img/64e/64e52edbb86d08069012c6a331738ace.jpg"
+      },
+      {
+        "text": "8 cups store-bought or homemade chicken broth",
+        "quantity": 8,
+        "measure": "cup",
+        "food": "chicken broth",
+        "weight": 1920,
+        "foodCategory": "canned soup",
+        "foodId": "food_bptblvzambd16nbhewqmhaw1rnh5",
+        "image": "https://www.edamam.com/food-img/26a/26a10c4cb4e07bab54d8a687ef5ac7d8.jpg"
+      }
+    ],
+    "uri": "http://www.edamam.com/ontologies/edamam.owl#recipe_1817e7fccea9ae39d09c0e2c7fb86cb2",
+    "image": "https://edamam-product-images.s3.amazonaws.com/web-img/4dd/4dd1c7a0d8b00e8929bd6babf0968ba2.jpg?X-Amz-Security-Token=IQoJb3JpZ2luX2VjEGsaCXVzLWVhc3QtMSJHMEUCIC5EcVohn5KOF%2BqsJMnWN15QAQiEjniqRzrDkKyFbnySAiEAklir9G9lxG0xv0NtH%2BbNUzcDusmggahGna36Vka0pfsqwQUIs%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FARAAGgwxODcwMTcxNTA5ODYiDE38n9doIwHPgmHkWCqVBbisrUc9re%2F9CDcggsOnHnBDSRivSr3n%2FpYDQwMNPvf0SYUmrug6XHTenjdFdVWV1Ff4x%2FBsbtdGVuGulJC598dBW%2FIXmHxB4RjkYiS0v%2BNR9rt8jcBLiQUdFZ1UDal6PePuO4XlD02vZtgzOL2rjk1S1%2FRf02SGPYJDSeRFq6YjIqTzCh0jJZTg0%2FA3mMwFzUHaQfuQhzaODUHy1ebxM9d9XMiSmONtMNlrIpIOojhoDIOugj9wpKzV1B4G2F%2FqIWaDFP25ylNKNxv88Xm00chUeTkgDxIn0%2BqyokvCIZdkiTHYWrZx9j%2B7gtiIywqN4eoqf48CItxwd3eZ71tpbn8KAdJRsFADWtqRn6XaPyfWjEnaZusqQyD%2FM5IgFH8v7T7kORlhTNQqvu3qWAZeMYp6hUGrDS%2FF7XZuXXkQ9yzH4skZOOMi6r1nr0sCJrML1oDJvC7Q7IsuvUWJPtpZVHDhzi8aUFs%2F2N8ILHtfUhPKIRzDCuh9FVjGw99civG%2BPOzyxr8RdH7%2FBMXZn%2B1WacULKtWF1byJOq56cJr48nuUeFCUM6pc2T6B50aVoJ9Gz5mPJtrrDmxRwPP3gRaKs%2BjhgPZ2p7zF7m7UbnvAzsnKmT6ea9fdY9eOAlr%2FVVEFAej3tXqn%2BRExSPcoysRWrzlGdsGFyCIb4LnjHQN3x8ndZ2m3BlYfR4pzXkXPytgvuQEcM7a3rznYy74k8Tf4m5AmnC92WA0MQ7C6%2BkvAO04Dhs06NMw8rJU8BgjyGK%2B%2F8PH9%2FFvH2PwUnqOVlkRSXlV1JtA70t5Kj6MYcZ3zB8jMYefoRof3Yo72ahjXkanHysD141KKoDO2UX3DxRT3zwC%2B7JvAZjqahjJyrfNtPsg%2FrNyahrUw17jgqgY6sQGeksuY%2F97zXR%2BobwqmxhruCnjVQr%2BL2fGGQNCFMEuHGe6Qqw57JcQ2csndirt5ZrsgvI37Rll9JHP3FXR2svQVNgb6%2BxCZWqynfWvMKZDTFTSVmUtYaqez1LlAuKXnuqJW2j8Han1M%2BhZGYZhwmUyADyPiBl0N2JHAR%2BMfdYrmkWOG2mNDMiJrkrBkg5SmzABy3VtH3F46kLOE0hf3Mgbc6VKYTVszV6sdIdys475UY1I%3D&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Date=20231118T025228Z&X-Amz-SignedHeaders=host&X-Amz-Expires=3600&X-Amz-Credential=ASIASXCYXIIFBUSCGD4D%2F20231118%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Signature=c672d5b9f135f5fab2b4cfd1a50e16f72ab4c959fddeaae4a4a71e196147d397",
+    "source": "Tasting Table",
+    "shareAs": "http://www.edamam.com/recipe/kreplach-chicken-dumplings-1817e7fccea9ae39d09c0e2c7fb86cb2/chicken",
+    "yield": 8,
+    "dietLabels": [],
+    "healthLabels": [
+      "Mediterranean",
+      "Dairy-Free",
+      "Peanut-Free",
+      "Tree-Nut-Free",
+      "Soy-Free",
+      "Fish-Free",
+      "Shellfish-Free",
+      "Pork-Free",
+      "Red-Meat-Free",
+      "Crustacean-Free",
+      "Celery-Free",
+      "Mustard-Free",
+      "Sesame-Free",
+      "Lupine-Free",
+      "Mollusk-Free",
+      "Alcohol-Free",
+      "Sulfite-Free",
+      "Kosher"
+    ],
+    "cautions": [
+      "Sulfites"
+    ],
+    "ingredientLines": [
+      "1½ teaspoons canola oil",
+      "½ small shallot, finely chopped",
+      "1 cup (about ½ pound) raw, boneless chicken meat (preferably from 3 boneless chicken thighs), roughly chopped",
+      "⅔ cup (about ¼ pound) chicken skin and fat (reserved from the 3 chicken thighs)",
+      "2 chicken livers (optional)",
+      "2 garlic cloves, finely chopped",
+      "¼ cup finely chopped chives, plus extra for serving",
+      "1¼ teaspoons kosher salt",
+      "¾ teaspoon freshly ground black pepper",
+      "30 to 34 square wonton wrappers",
+      "8 cups store-bought or homemade chicken broth"
+    ],
+    "calories": 4387.196994575062,
+    "totalWeight": 3418.669277500203,
+    "totalTime": 10,
+    "cuisineType": [
+      "chinese"
+    ],
+    "mealType": [
+      "lunch/dinner"
+    ],
+    "dishType": [
+      "main course"
+    ],
+    "instructions": [
+      "sear and cook all meat.",
+      "mix",
+      "serve"
+    ]
+  },
+  {
+    "label": "Chicken cacciatore",
+    "url": "http://www.bbc.co.uk/food/recipes/chickenalocacciatore_70349",
+    "ingredients": [
+      {
+        "text": "8 tbsp olive oil",
+        "quantity": 8,
+        "measure": "tablespoon",
+        "food": "olive oil",
+        "weight": 108,
+        "foodCategory": "Oils",
+        "foodId": "food_b1d1icuad3iktrbqby0hiagafaz7",
+        "image": "https://www.edamam.com/food-img/4d6/4d651eaa8a353647746290c7a9b29d84.jpg"
+      },
+      {
+        "text": "1 onion, sliced",
+        "quantity": 1,
+        "measure": "<unit>",
+        "food": "onion",
+        "weight": 125,
+        "foodCategory": "vegetables",
+        "foodId": "food_bmrvi4ob4binw9a5m7l07amlfcoy",
+        "image": "https://www.edamam.com/food-img/205/205e6bf2399b85d34741892ef91cc603.jpg"
+      },
+      {
+        "text": "2 celery stalks, roughly chopped",
+        "quantity": 2,
+        "measure": "stalk",
+        "food": "celery",
+        "weight": 80,
+        "foodCategory": "vegetables",
+        "foodId": "food_bffeoksbyyur8ja4da73ub2xs57g",
+        "image": "https://www.edamam.com/food-img/d91/d91d2aed1c36d8fad54c4d7dc58f5a18.jpg"
+      },
+      {
+        "text": "2 medium carrots, roughly chopped",
+        "quantity": 2,
+        "measure": "<unit>",
+        "food": "carrots",
+        "weight": 122,
+        "foodCategory": "vegetables",
+        "foodId": "food_ai215e5b85pdh5ajd4aafa3w2zm8",
+        "image": "https://www.edamam.com/food-img/121/121e33fce0bb9546ed7d060b6c114e29.jpg"
+      },
+      {
+        "text": "6 chicken breasts, or chicken thighs, bones removed",
+        "quantity": 6,
+        "measure": "<unit>",
+        "food": "chicken breasts",
+        "weight": 1632,
+        "foodCategory": "Poultry",
+        "foodId": "food_bdrxu94aj3x2djbpur8dhagfhkcn",
+        "image": "https://www.edamam.com/food-img/da5/da510379d3650787338ca16fb69f4c94.jpg"
+      },
+      {
+        "text": "175ml/6fl oz white wine",
+        "quantity": 175,
+        "measure": "milliliter",
+        "food": "white wine",
+        "weight": 173.97314680098222,
+        "foodCategory": "wines",
+        "foodId": "food_bn44h7baron9ufaoxinmya8l0yye",
+        "image": "https://www.edamam.com/food-img/a71/a718cf3c52add522128929f1f324d2ab.jpg"
+      },
+      {
+        "text": "3 tbsp tomato purée",
+        "quantity": 3,
+        "measure": "tablespoon",
+        "food": "tomato purée",
+        "weight": 45.3749999992329,
+        "foodCategory": "canned vegetables",
+        "foodId": "food_aqqtb83adjyq8ybf51yo8bsjetdh",
+        "image": null
+      },
+      {
+        "text": "500ml/17 fl oz chicken stock",
+        "quantity": 500,
+        "measure": "milliliter",
+        "food": "chicken stock",
+        "weight": 507.21034052764503,
+        "foodCategory": "canned soup",
+        "foodId": "food_bptblvzambd16nbhewqmhaw1rnh5",
+        "image": "https://www.edamam.com/food-img/26a/26a10c4cb4e07bab54d8a687ef5ac7d8.jpg"
+      },
+      {
+        "text": "2 bay leaves",
+        "quantity": 2,
+        "measure": "<unit>",
+        "food": "bay leaves",
+        "weight": 1.2,
+        "foodCategory": "Condiments and sauces",
+        "foodId": "food_asx39x4ayja4jab6ivj6zayvkblo",
+        "image": "https://www.edamam.com/food-img/0f9/0f9f5f95df173e9ffaaff2977bef88f3.jpg"
+      },
+      {
+        "text": "2-3 sage leaves",
+        "quantity": 2.5,
+        "measure": "leaf",
+        "food": "sage",
+        "weight": 2.5,
+        "foodCategory": "Condiments and sauces",
+        "foodId": "food_b00mwy0bne9gs4au15ja8ab10h0e",
+        "image": "https://www.edamam.com/food-img/509/50984580e9aad4b4ddd5b7ed45a64bf4.jpg"
+      },
+      {
+        "text": "1 rosemary sprig",
+        "quantity": 1,
+        "measure": "<unit>",
+        "food": "rosemary sprig",
+        "weight": 5,
+        "foodCategory": "Condiments and sauces",
+        "foodId": "food_b6tm2t2blxi7okaeiv91wb8bmygq",
+        "image": "https://www.edamam.com/food-img/0ac/0ac8f7cf6f2d0ad7b1a2f9900fae44f3.jpg"
+      },
+      {
+        "text": "250g/9oz easy-cook polenta",
+        "quantity": 250,
+        "measure": "gram",
+        "food": "polenta",
+        "weight": 250,
+        "foodCategory": "grains",
+        "foodId": "food_b05sp8gagykqhgb4uo2jhbsbfftc",
+        "image": null
+      },
+      {
+        "text": "Knob of butter",
+        "quantity": 1,
+        "measure": "knob",
+        "food": "butter",
+        "weight": 28.4,
+        "foodCategory": "Dairy",
+        "foodId": "food_awz3iefajbk1fwahq9logahmgltj",
+        "image": "https://www.edamam.com/food-img/713/71397239b670d88c04faa8d05035cab4.jpg"
+      },
+      {
+        "text": "25g/1oz parmesan",
+        "quantity": 25,
+        "measure": "gram",
+        "food": "parmesan",
+        "weight": 25,
+        "foodCategory": "Cheese",
+        "foodId": "food_a104ppxa06d3emb272fkcab3cugd",
+        "image": "https://www.edamam.com/food-img/f58/f588658627c59d5041e4664119829aa9.jpg"
+      }
+    ],
+    "uri": "http://www.edamam.com/ontologies/edamam.owl#recipe_a6ee2e431ba83557209f48e1cf194f2f",
+    "image": "https://edamam-product-images.s3.amazonaws.com/web-img/2ca/2ca946a40338e9b93c1d14dec518e1b8.jpg?X-Amz-Security-Token=IQoJb3JpZ2luX2VjEGsaCXVzLWVhc3QtMSJHMEUCIC5EcVohn5KOF%2BqsJMnWN15QAQiEjniqRzrDkKyFbnySAiEAklir9G9lxG0xv0NtH%2BbNUzcDusmggahGna36Vka0pfsqwQUIs%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FARAAGgwxODcwMTcxNTA5ODYiDE38n9doIwHPgmHkWCqVBbisrUc9re%2F9CDcggsOnHnBDSRivSr3n%2FpYDQwMNPvf0SYUmrug6XHTenjdFdVWV1Ff4x%2FBsbtdGVuGulJC598dBW%2FIXmHxB4RjkYiS0v%2BNR9rt8jcBLiQUdFZ1UDal6PePuO4XlD02vZtgzOL2rjk1S1%2FRf02SGPYJDSeRFq6YjIqTzCh0jJZTg0%2FA3mMwFzUHaQfuQhzaODUHy1ebxM9d9XMiSmONtMNlrIpIOojhoDIOugj9wpKzV1B4G2F%2FqIWaDFP25ylNKNxv88Xm00chUeTkgDxIn0%2BqyokvCIZdkiTHYWrZx9j%2B7gtiIywqN4eoqf48CItxwd3eZ71tpbn8KAdJRsFADWtqRn6XaPyfWjEnaZusqQyD%2FM5IgFH8v7T7kORlhTNQqvu3qWAZeMYp6hUGrDS%2FF7XZuXXkQ9yzH4skZOOMi6r1nr0sCJrML1oDJvC7Q7IsuvUWJPtpZVHDhzi8aUFs%2F2N8ILHtfUhPKIRzDCuh9FVjGw99civG%2BPOzyxr8RdH7%2FBMXZn%2B1WacULKtWF1byJOq56cJr48nuUeFCUM6pc2T6B50aVoJ9Gz5mPJtrrDmxRwPP3gRaKs%2BjhgPZ2p7zF7m7UbnvAzsnKmT6ea9fdY9eOAlr%2FVVEFAej3tXqn%2BRExSPcoysRWrzlGdsGFyCIb4LnjHQN3x8ndZ2m3BlYfR4pzXkXPytgvuQEcM7a3rznYy74k8Tf4m5AmnC92WA0MQ7C6%2BkvAO04Dhs06NMw8rJU8BgjyGK%2B%2F8PH9%2FFvH2PwUnqOVlkRSXlV1JtA70t5Kj6MYcZ3zB8jMYefoRof3Yo72ahjXkanHysD141KKoDO2UX3DxRT3zwC%2B7JvAZjqahjJyrfNtPsg%2FrNyahrUw17jgqgY6sQGeksuY%2F97zXR%2BobwqmxhruCnjVQr%2BL2fGGQNCFMEuHGe6Qqw57JcQ2csndirt5ZrsgvI37Rll9JHP3FXR2svQVNgb6%2BxCZWqynfWvMKZDTFTSVmUtYaqez1LlAuKXnuqJW2j8Han1M%2BhZGYZhwmUyADyPiBl0N2JHAR%2BMfdYrmkWOG2mNDMiJrkrBkg5SmzABy3VtH3F46kLOE0hf3Mgbc6VKYTVszV6sdIdys475UY1I%3D&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Date=20231118T025228Z&X-Amz-SignedHeaders=host&X-Amz-Expires=3600&X-Amz-Credential=ASIASXCYXIIFBUSCGD4D%2F20231118%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Signature=72301ab0186ee6f628c05565541683659bc2b0f59f3c31b5828d67f70a5a97f2",
+    "source": "BBC",
+    "shareAs": "http://www.edamam.com/recipe/chicken-cacciatore-a6ee2e431ba83557209f48e1cf194f2f/chicken",
+    "yield": 6,
+    "dietLabels": [],
+    "healthLabels": [
+      "Gluten-Free",
+      "Wheat-Free",
+      "Egg-Free",
+      "Peanut-Free",
+      "Tree-Nut-Free",
+      "Soy-Free",
+      "Fish-Free",
+      "Shellfish-Free",
+      "Pork-Free",
+      "Red-Meat-Free",
+      "Crustacean-Free",
+      "Mustard-Free",
+      "Sesame-Free",
+      "Lupine-Free",
+      "Mollusk-Free"
+    ],
+    "cautions": [
+      "Sulfites"
+    ],
+    "ingredientLines": [
+      "8 tbsp olive oil",
+      "1 onion, sliced",
+      "2 celery stalks, roughly chopped",
+      "2 medium carrots, roughly chopped",
+      "6 chicken breasts, or chicken thighs, bones removed",
+      "175ml/6fl oz white wine",
+      "3 tbsp tomato purée",
+      "500ml/17 fl oz chicken stock",
+      "2 bay leaves",
+      "2-3 sage leaves",
+      "1 rosemary sprig",
+      "250g/9oz easy-cook polenta",
+      "Knob of butter",
+      "25g/1oz parmesan"
+    ],
+    "calories": 4608.922702966512,
+    "totalWeight": 3105.6584873278603,
+    "totalTime": 60,
+    "cuisineType": [
+      "italian"
+    ],
+    "mealType": [
+      "lunch/dinner"
+    ],
+    "dishType": [
+      "main course"
+    ],
+    "instructions":[
+      "Heat the oil in a frying pan and fry the onion, celery and carrots for 4–5 minutes, or until softened. Add the chicken pieces and continue to cook for 2–3 minutes or until the have browned a little.",
+      "Pour in the wine and continue to cook until the volume of the liquid has reduced by half. Stir in the tomato purée and the stock. Add the herbs, reduce the heat and simmer for 30 minutes, or until the chicken is cooked through.",
+      "Meanwhile, cook the polenta according to packet instructions. Add the butter and parmesan and stir until well combined.",
+      "To serve, spoon the polenta onto serving plates and top with the chicken."
+    ]
+  },
+  {
+    "label": "Roast Chicken",
+    "url": "http://www.sfgate.com/food/recipes/detail.html?rid=18229&sorig=qs",
+    "ingredients": [
+      {
+        "text": "1 whole chicken, about 3-4 pounds",
+        "quantity": 3.5,
+        "measure": "pound",
+        "food": "chicken",
+        "weight": 1587.5732950000001,
+        "foodCategory": "Poultry",
+        "foodId": "food_bmyxrshbfao9s1amjrvhoauob6mo",
+        "image": "https://www.edamam.com/food-img/d33/d338229d774a743f7858f6764e095878.jpg"
+      },
+      {
+        "text": "-- Salt and fresh-ground pepper, to taste",
+        "quantity": 0,
+        "measure": null,
+        "food": "Salt",
+        "weight": 9.58843977,
+        "foodCategory": "Condiments and sauces",
+        "foodId": "food_btxz81db72hwbra2pncvebzzzum9",
+        "image": "https://www.edamam.com/food-img/694/6943ea510918c6025795e8dc6e6eaaeb.jpg"
+      },
+      {
+        "text": "3 to 4 sprigs thyme, or other herbs",
+        "quantity": 3.5,
+        "measure": "sprig",
+        "food": "thyme",
+        "weight": 10.5,
+        "foodCategory": "Condiments and sauces",
+        "foodId": "food_b3o3cj7a5gskecb0ufphtadnbfqb",
+        "image": "https://www.edamam.com/food-img/3e7/3e7cf3c8d767a90b906447f5e74059f7.jpg"
+      },
+      {
+        "text": "-- Olive oil, to taste",
+        "quantity": 0,
+        "measure": null,
+        "food": "Olive oil",
+        "weight": 21.733796812,
+        "foodCategory": "Oils",
+        "foodId": "food_b1d1icuad3iktrbqby0hiagafaz7",
+        "image": "https://www.edamam.com/food-img/4d6/4d651eaa8a353647746290c7a9b29d84.jpg"
+      },
+      {
+        "text": "-- Chicken stock (optional)",
+        "quantity": 0,
+        "measure": null,
+        "food": "Chicken stock",
+        "weight": 319.6146590000001,
+        "foodCategory": "canned soup",
+        "foodId": "food_bptblvzambd16nbhewqmhaw1rnh5",
+        "image": "https://www.edamam.com/food-img/26a/26a10c4cb4e07bab54d8a687ef5ac7d8.jpg"
+      }
+    ],
+    "uri": "http://www.edamam.com/ontologies/edamam.owl#recipe_690c3797b4f56fc1e119c14096d651c5",
+    "image": "https://edamam-product-images.s3.amazonaws.com/web-img/25f/25feccd2eed4722604be4a9ffa1ac768.jpg?X-Amz-Security-Token=IQoJb3JpZ2luX2VjEGsaCXVzLWVhc3QtMSJHMEUCIC5EcVohn5KOF%2BqsJMnWN15QAQiEjniqRzrDkKyFbnySAiEAklir9G9lxG0xv0NtH%2BbNUzcDusmggahGna36Vka0pfsqwQUIs%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FARAAGgwxODcwMTcxNTA5ODYiDE38n9doIwHPgmHkWCqVBbisrUc9re%2F9CDcggsOnHnBDSRivSr3n%2FpYDQwMNPvf0SYUmrug6XHTenjdFdVWV1Ff4x%2FBsbtdGVuGulJC598dBW%2FIXmHxB4RjkYiS0v%2BNR9rt8jcBLiQUdFZ1UDal6PePuO4XlD02vZtgzOL2rjk1S1%2FRf02SGPYJDSeRFq6YjIqTzCh0jJZTg0%2FA3mMwFzUHaQfuQhzaODUHy1ebxM9d9XMiSmONtMNlrIpIOojhoDIOugj9wpKzV1B4G2F%2FqIWaDFP25ylNKNxv88Xm00chUeTkgDxIn0%2BqyokvCIZdkiTHYWrZx9j%2B7gtiIywqN4eoqf48CItxwd3eZ71tpbn8KAdJRsFADWtqRn6XaPyfWjEnaZusqQyD%2FM5IgFH8v7T7kORlhTNQqvu3qWAZeMYp6hUGrDS%2FF7XZuXXkQ9yzH4skZOOMi6r1nr0sCJrML1oDJvC7Q7IsuvUWJPtpZVHDhzi8aUFs%2F2N8ILHtfUhPKIRzDCuh9FVjGw99civG%2BPOzyxr8RdH7%2FBMXZn%2B1WacULKtWF1byJOq56cJr48nuUeFCUM6pc2T6B50aVoJ9Gz5mPJtrrDmxRwPP3gRaKs%2BjhgPZ2p7zF7m7UbnvAzsnKmT6ea9fdY9eOAlr%2FVVEFAej3tXqn%2BRExSPcoysRWrzlGdsGFyCIb4LnjHQN3x8ndZ2m3BlYfR4pzXkXPytgvuQEcM7a3rznYy74k8Tf4m5AmnC92WA0MQ7C6%2BkvAO04Dhs06NMw8rJU8BgjyGK%2B%2F8PH9%2FFvH2PwUnqOVlkRSXlV1JtA70t5Kj6MYcZ3zB8jMYefoRof3Yo72ahjXkanHysD141KKoDO2UX3DxRT3zwC%2B7JvAZjqahjJyrfNtPsg%2FrNyahrUw17jgqgY6sQGeksuY%2F97zXR%2BobwqmxhruCnjVQr%2BL2fGGQNCFMEuHGe6Qqw57JcQ2csndirt5ZrsgvI37Rll9JHP3FXR2svQVNgb6%2BxCZWqynfWvMKZDTFTSVmUtYaqez1LlAuKXnuqJW2j8Han1M%2BhZGYZhwmUyADyPiBl0N2JHAR%2BMfdYrmkWOG2mNDMiJrkrBkg5SmzABy3VtH3F46kLOE0hf3Mgbc6VKYTVszV6sdIdys475UY1I%3D&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Date=20231118T025228Z&X-Amz-SignedHeaders=host&X-Amz-Expires=3600&X-Amz-Credential=ASIASXCYXIIFBUSCGD4D%2F20231118%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Signature=6e974d716d31a30dea33420f213b3848398e20ce887fd8835e3bd533506e2ca1",
+    "source": "San Francisco Gate",
+    "shareAs": "http://www.edamam.com/recipe/roast-chicken-690c3797b4f56fc1e119c14096d651c5/chicken",
+    "yield": 10,
+    "dietLabels": [
+      "Low-Carb"
+    ],
+    "healthLabels": [
+      "Sugar-Conscious",
+      "Kidney-Friendly",
+      "Keto-Friendly",
+      "Paleo",
+      "Mediterranean",
+      "Dairy-Free",
+      "Gluten-Free",
+      "Wheat-Free",
+      "Egg-Free",
+      "Peanut-Free",
+      "Tree-Nut-Free",
+      "Soy-Free",
+      "Fish-Free",
+      "Shellfish-Free",
+      "Pork-Free",
+      "Red-Meat-Free",
+      "Crustacean-Free",
+      "Celery-Free",
+      "Mustard-Free",
+      "Sesame-Free",
+      "Lupine-Free",
+      "Mollusk-Free",
+      "Alcohol-Free",
+      "Sulfite-Free",
+      "Kosher",
+      "Immuno-Supportive"
+    ],
+    "cautions": [
+      "Sulfites"
+    ],
+    "ingredientLines": [
+      "1 whole chicken, about 3-4 pounds",
+      "-- Salt and fresh-ground pepper, to taste",
+      "3 to 4 sprigs thyme, or other herbs",
+      "-- Olive oil, to taste",
+      "-- Chicken stock (optional)"
+    ],
+    "calories": 2638.8251983480804,
+    "totalWeight": 1947.9165264984747,
+    "totalTime": 90,
+    "cuisineType": [
+      "american"
+    ],
+    "mealType": [
+      "lunch/dinner"
+    ],
+    "dishType": [
+      "main course"
+    ],
+    "instructions":[
+      "mix all ingredients and fully season chicken",
+      "place in oven for 80 minutes",
+      "let cool and serve."
+    ]
+  }
+]

@@ -1,0 +1,107 @@
+{
+  "data": [
+    {
+      "productId": "0005000042904",
+      "brand": "Fancy Feast",
+      "upc": "0005000042904",
+      "price": [
+        {
+          "regular": 0.95,
+          "promo": 0
+        }
+      ]
+    },
+    {
+      "productId": "0005000029261",
+      "brand": "Fancy Feast",
+      "upc": "0005000029261",
+      "price": [
+        {
+          "regular": 0.95,
+          "promo": 0
+        }
+      ]
+    },
+    {
+      "productId": "0007562056813",
+      "brand": "Tyson",
+      "upc": "0007562056813",
+      "price": [
+        {
+          "regular": 2.99,
+          "promo": 0
+        }
+      ]
+    },
+    {
+      "productId": "0005000043464",
+      "brand": "Fancy Feast",
+      "upc": "0005000043464",
+      "price": [
+        {
+          "regular": 0.95,
+          "promo": 0
+        }
+      ]
+    },
+    {
+      "productId": "0075764561255",
+      "brand": "Newman's Own Organic",
+      "upc": "0075764561255",
+      "price": [
+        null
+      ]
+    },
+    {
+      "productId": "0074615582083",
+      "upc": "0074615582083",
+      "price": [
+        null
+      ]
+    },
+    {
+      "productId": "0007904122638",
+      "brand": "Skylark",
+      "upc": "0007904122638",
+      "price": [
+        {
+          "regular": 4.79,
+          "promo": 0
+        }
+      ]
+    },
+    {
+      "productId": "0002310010926",
+      "brand": "Temptations",
+      "upc": "0002310010926",
+      "price": [
+        {
+          "regular": 9.49,
+          "promo": 0
+        }
+      ]
+    },
+    {
+      "productId": "0007365701156",
+      "brand": "Evolve",
+      "upc": "0007365701156",
+      "price": [
+        {
+          "regular": 17.99,
+          "promo": 0
+        }
+      ]
+    },
+    {
+      "productId": "0001111081906",
+      "brand": "Luvsome",
+      "upc": "0001111081906",
+      "price": [
+        {
+          "regular": 1.29,
+          "promo": 0
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,111 @@
+{
+  "data": [
+    {
+      "productId": "0002460001003",
+      "brand": "Morton",
+      "upc": "0002460001003",
+      "price": [
+        {
+          "regular": 1.49,
+          "promo": 0
+        }
+      ]
+    },
+    {
+      "productId": "0001111004807",
+      "brand": "Kroger",
+      "upc": "0001111004807",
+      "price": [
+        {
+          "regular": 0.79,
+          "promo": 0
+        }
+      ]
+    },
+    {
+      "productId": "0072806010008",
+      "brand": "Celtic Sea Salt",
+      "upc": "0072806010008",
+      "price": [
+        null
+      ]
+    },
+    {
+      "productId": "0001111004808",
+      "brand": "Kroger",
+      "upc": "0001111004808",
+      "price": [
+        {
+          "regular": 0.79,
+          "promo": 0
+        }
+      ]
+    },
+    {
+      "productId": "0002460001085",
+      "brand": "Morton",
+      "upc": "0002460001085",
+      "price": [
+        {
+          "regular": 3.49,
+          "promo": 2.99
+        }
+      ]
+    },
+    {
+      "productId": "0005210074602",
+      "brand": "McCormick",
+      "upc": "0005210074602",
+      "price": [
+        {
+          "regular": 3.29,
+          "promo": 2.99
+        }
+      ]
+    },
+    {
+      "productId": "0002460001097",
+      "brand": "Morton",
+      "upc": "0002460001097",
+      "price": [
+        {
+          "regular": 3.49,
+          "promo": 2.79
+        }
+      ]
+    },
+    {
+      "productId": "0002460001093",
+      "brand": "Morton",
+      "upc": "0002460001093",
+      "price": [
+        {
+          "regular": 3.49,
+          "promo": 2.79
+        }
+      ]
+    },
+    {
+      "productId": "0002460001700",
+      "brand": "Morton",
+      "upc": "0002460001700",
+      "price": [
+        {
+          "regular": 4.79,
+          "promo": 0
+        }
+      ]
+    },
+    {
+      "productId": "0001111071352",
+      "brand": "Kroger",
+      "upc": "0001111071352",
+      "price": [
+        {
+          "regular": 2.19,
+          "promo": 0
+        }
+      ]
+    }
+  ]
+}

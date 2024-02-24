@@ -1,0 +1,118 @@
+{
+  "data": [
+    {
+      "productId": "0007080021635",
+      "brand": "Smithfield",
+      "upc": "0007080021635",
+      "price": [
+        {
+          "regular": 9.99,
+          "promo": 6.99
+        }
+      ]
+    },
+    {
+      "productId": "0020322450000",
+      "upc": "0020322450000",
+      "price": [
+        {
+          "regular": 2.99,
+          "promo": 2.49,
+          "regularPerUnitEstimate": 2.99,
+          "promoPerUnitEstimate": 2.49
+        }
+      ]
+    },
+    {
+      "productId": "0007080074684",
+      "brand": "Smithfield",
+      "upc": "0007080074684",
+      "price": [
+        {
+          "regular": 9.99,
+          "promo": 6.99
+        }
+      ]
+    },
+    {
+      "productId": "0001111062642",
+      "brand": "Kroger",
+      "upc": "0001111062642",
+      "price": [
+        {
+          "regular": 8.99,
+          "promo": 0
+        }
+      ]
+    },
+    {
+      "productId": "0002718256301",
+      "brand": "Tyson",
+      "upc": "0002718256301",
+      "price": [
+        {
+          "regular": 12.99,
+          "promo": 0
+        }
+      ]
+    },
+    {
+      "productId": "0020799300000",
+      "brand": "Kroger",
+      "upc": "0020799300000",
+      "price": [
+        {
+          "regular": 2.69,
+          "promo": 2.49,
+          "regularPerUnitEstimate": 2.69,
+          "promoPerUnitEstimate": 2.49
+        }
+      ]
+    },
+    {
+      "productId": "0007080074687",
+      "brand": "Smithfield",
+      "upc": "0007080074687",
+      "price": [
+        {
+          "regular": 9.99,
+          "promo": 6.99
+        }
+      ]
+    },
+    {
+      "productId": "0020335800000",
+      "brand": "Harris Teeter",
+      "upc": "0020335800000",
+      "price": [
+        {
+          "regular": 4.99,
+          "promo": 0,
+          "regularPerUnitEstimate": 4.99
+        }
+      ]
+    },
+    {
+      "productId": "0001111097434",
+      "brand": "Kroger",
+      "upc": "0001111097434",
+      "price": [
+        {
+          "regular": 8.99,
+          "promo": 0
+        }
+      ]
+    },
+    {
+      "productId": "0007080074679",
+      "brand": "Smithfield",
+      "upc": "0007080074679",
+      "price": [
+        {
+          "regular": 9.99,
+          "promo": 6.99
+        }
+      ]
+    }
+  ]
+}

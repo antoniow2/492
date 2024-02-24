@@ -1,0 +1,102 @@
+{
+  "data": [
+    {
+      "productId": "0085893100368",
+      "brand": "Palouse Brand",
+      "upc": "0085893100368",
+      "price": [
+        null
+      ]
+    },
+    {
+      "productId": "0001111084769",
+      "brand": "Simple Truth Organic",
+      "upc": "0001111084769",
+      "price": [
+        {
+          "regular": 1.25,
+          "promo": 0
+        }
+      ]
+    },
+    {
+      "productId": "0004133102344",
+      "brand": "GOYA",
+      "upc": "0004133102344",
+      "price": [
+        {
+          "regular": 1.69,
+          "promo": 0
+        }
+      ]
+    },
+    {
+      "productId": "0003940001700",
+      "brand": "Bush's Best",
+      "upc": "0003940001700",
+      "price": [
+        {
+          "regular": 1.59,
+          "promo": 1.5
+        }
+      ]
+    },
+    {
+      "productId": "0002880015901",
+      "brand": "Hanover",
+      "upc": "0002880015901",
+      "price": [
+        {
+          "regular": 1.25,
+          "promo": 0
+        }
+      ]
+    },
+    {
+      "productId": "0085893100300",
+      "brand": "Palouse Brand",
+      "upc": "0085893100300",
+      "price": [
+        null
+      ]
+    },
+    {
+      "productId": "0085893100333",
+      "brand": "Palouse Brand",
+      "upc": "0085893100333",
+      "price": [
+        null
+      ]
+    },
+    {
+      "productId": "0001111089689",
+      "brand": "Kroger",
+      "upc": "0001111089689",
+      "price": [
+        {
+          "regular": 1.49,
+          "promo": 0
+        }
+      ]
+    },
+    {
+      "productId": "0001111080627",
+      "brand": "Kroger",
+      "upc": "0001111080627",
+      "price": [
+        {
+          "regular": 0.79,
+          "promo": 0
+        }
+      ]
+    },
+    {
+      "productId": "0007487316320",
+      "brand": "Westbrae Natural",
+      "upc": "0007487316320",
+      "price": [
+        null
+      ]
+    }
+  ]
+}

@@ -1,0 +1,114 @@
+{
+  "data": [
+    {
+      "productId": "0007283000552",
+      "brand": "Tillamook",
+      "upc": "0007283000552",
+      "price": [
+        {
+          "regular": 4.99,
+          "promo": 3.5
+        }
+      ]
+    },
+    {
+      "productId": "0001111050170",
+      "brand": "Kroger",
+      "upc": "0001111050170",
+      "price": [
+        {
+          "regular": 2.49,
+          "promo": 2.33
+        }
+      ]
+    },
+    {
+      "productId": "0001111058604",
+      "brand": "Kroger",
+      "upc": "0001111058604",
+      "price": [
+        {
+          "regular": 7.99,
+          "promo": 0
+        }
+      ]
+    },
+    {
+      "productId": "0001111058626",
+      "brand": "Kroger",
+      "upc": "0001111058626",
+      "price": [
+        {
+          "regular": 2.49,
+          "promo": 2.33
+        }
+      ]
+    },
+    {
+      "productId": "0001111058733",
+      "brand": "Kroger",
+      "upc": "0001111058733",
+      "price": [
+        {
+          "regular": 4.29,
+          "promo": 0
+        }
+      ]
+    },
+    {
+      "productId": "0001111050158",
+      "brand": "Kroger",
+      "upc": "0001111050158",
+      "price": [
+        {
+          "regular": 2.49,
+          "promo": 2.33
+        }
+      ]
+    },
+    {
+      "productId": "0001111058627",
+      "brand": "Kroger",
+      "upc": "0001111058627",
+      "price": [
+        {
+          "regular": 2.49,
+          "promo": 2.33
+        }
+      ]
+    },
+    {
+      "productId": "0007283001134",
+      "brand": "Tillamook",
+      "upc": "0007283001134",
+      "price": [
+        {
+          "regular": 4.79,
+          "promo": 3.5
+        }
+      ]
+    },
+    {
+      "productId": "0007283000551",
+      "brand": "Tillamook",
+      "upc": "0007283000551",
+      "price": [
+        {
+          "regular": 4.99,
+          "promo": 3.5
+        }
+      ]
+    },
+    {
+      "productId": "0001111059671",
+      "brand": "Kroger",
+      "upc": "0001111059671",
+      "price": [
+        {
+          "regular": 7.99,
+          "promo": 0
+        }
+      ]
+    }
+  ]
+}

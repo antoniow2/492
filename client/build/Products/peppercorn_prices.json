@@ -1,0 +1,108 @@
+{
+  "data": [
+    {
+      "productId": "0005210003026",
+      "brand": "McCormick",
+      "upc": "0005210003026",
+      "price": [
+        {
+          "regular": 3.29,
+          "promo": 2.99
+        }
+      ]
+    },
+    {
+      "productId": "0001111073822",
+      "brand": "Private Selection",
+      "upc": "0001111073822",
+      "price": [
+        {
+          "regular": 4.29,
+          "promo": 3.5
+        }
+      ]
+    },
+    {
+      "productId": "0001111001061",
+      "brand": "Private Selection",
+      "upc": "0001111001061",
+      "price": [
+        {
+          "regular": 4.29,
+          "promo": 3.5
+        }
+      ]
+    },
+    {
+      "productId": "0082699800755",
+      "brand": "Spicely Organics",
+      "upc": "0082699800755",
+      "price": [
+        null
+      ]
+    },
+    {
+      "productId": "0082699800751",
+      "brand": "Spicely Organics",
+      "upc": "0082699800751",
+      "price": [
+        null
+      ]
+    },
+    {
+      "productId": "0002460002184",
+      "brand": "Morton",
+      "upc": "0002460002184",
+      "price": [
+        {
+          "regular": 3.99,
+          "promo": 2.99
+        }
+      ]
+    },
+    {
+      "productId": "0001111073808",
+      "brand": "Private Selection",
+      "upc": "0001111073808",
+      "price": [
+        {
+          "regular": 3.29,
+          "promo": 0
+        }
+      ]
+    },
+    {
+      "productId": "0005210074604",
+      "brand": "McCormick",
+      "upc": "0005210074604",
+      "price": [
+        {
+          "regular": 3.29,
+          "promo": 2.99
+        }
+      ]
+    },
+    {
+      "productId": "0001111000311",
+      "brand": "Kroger",
+      "upc": "0001111000311",
+      "price": [
+        {
+          "regular": 3.49,
+          "promo": 3.49
+        }
+      ]
+    },
+    {
+      "productId": "0001111070022",
+      "brand": "Kroger",
+      "upc": "0001111070022",
+      "price": [
+        {
+          "regular": 14.99,
+          "promo": 0
+        }
+      ]
+    }
+  ]
+}

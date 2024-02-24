@@ -1,0 +1,96 @@
+{
+  "data": [
+    {
+      "productId": "0075346440460",
+      "brand": "Angeleno Heritage",
+      "upc": "0075346440460",
+      "price": [
+        null
+      ]
+    },
+    {
+      "productId": "0060786926246",
+      "brand": "Ignite USA",
+      "upc": "0060786926246",
+      "price": [
+        null
+      ]
+    },
+    {
+      "productId": "0087671802149",
+      "brand": "True",
+      "upc": "0087671802149",
+      "price": [
+        null
+      ]
+    },
+    {
+      "productId": "0008639509500",
+      "brand": "Sho Chiku Bai",
+      "upc": "0008639509500",
+      "price": [
+        {
+          "regular": 8.99,
+          "promo": 8.49
+        }
+      ]
+    },
+    {
+      "productId": "0328255211651",
+      "brand": "PacknWood",
+      "upc": "0328255211651",
+      "price": [
+        null
+      ]
+    },
+    {
+      "productId": "0072881719912",
+      "brand": "Gekkeikan",
+      "upc": "0072881719912",
+      "price": [
+        {
+          "regular": 15.99,
+          "promo": 9.99
+        }
+      ]
+    },
+    {
+      "productId": "0072881719911",
+      "brand": "Gekkeikan",
+      "upc": "0072881719911",
+      "price": [
+        {
+          "regular": 21.99,
+          "promo": 16.99
+        }
+      ]
+    },
+    {
+      "productId": "0074615561123",
+      "brand": "Viski",
+      "upc": "0074615561123",
+      "price": [
+        null
+      ]
+    },
+    {
+      "productId": "0075346413584",
+      "brand": "Ornament Collection",
+      "upc": "0075346413584",
+      "price": [
+        null
+      ]
+    },
+    {
+      "productId": "0074784601008",
+      "brand": "Hakutsuru",
+      "upc": "0074784601008",
+      "price": [
+        {
+          "regular": 7.99,
+          "promo": 6.99
+        }
+      ]
+    }
+  ]
+}

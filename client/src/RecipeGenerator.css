@@ -1,0 +1,21 @@
+.recipe_page{
+    background-color: tan;
+}
+
+.library-list {
+    display: flex;
+    overflow-x: auto; /* Add horizontal scrollbar when needed */
+}
+
+.library-item img{
+    width: 100px;
+    height: 100px;
+}
+
+.library-item {
+    margin-right: 20px;
+    background-color: white;
+    width: auto;
+    height: auto;
+    flex-shrink: 0;
+}

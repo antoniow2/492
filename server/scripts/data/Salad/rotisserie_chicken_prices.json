@@ -1,0 +1,114 @@
+{
+  "data": [
+    {
+      "productId": "0001111083764",
+      "brand": "Kroger",
+      "upc": "0001111083764",
+      "price": [
+        {
+          "regular": 1.59,
+          "promo": 1.5
+        }
+      ]
+    },
+    {
+      "productId": "0001111006809",
+      "brand": "Simple Truth",
+      "upc": "0001111006809",
+      "price": [
+        {
+          "regular": 9.99,
+          "promo": 0
+        }
+      ]
+    },
+    {
+      "productId": "0001111006806",
+      "brand": "Simple Truth",
+      "upc": "0001111006806",
+      "price": [
+        {
+          "regular": 9.99,
+          "promo": 0
+        }
+      ]
+    },
+    {
+      "productId": "0002310010495",
+      "brand": "Cesar",
+      "upc": "0002310010495",
+      "price": [
+        {
+          "regular": 17.99,
+          "promo": 0
+        }
+      ]
+    },
+    {
+      "productId": "0002310010269",
+      "brand": "Cesar",
+      "upc": "0002310010269",
+      "price": [
+        {
+          "regular": 1.59,
+          "promo": 0
+        }
+      ]
+    },
+    {
+      "productId": "0007111719008",
+      "brand": "Reser's",
+      "upc": "0007111719008",
+      "price": [
+        {
+          "regular": 5.99,
+          "promo": 0
+        }
+      ]
+    },
+    {
+      "productId": "0084013430121",
+      "brand": "Home Chef",
+      "upc": "0084013430121",
+      "price": [
+        {
+          "regular": 7.99,
+          "promo": 0
+        }
+      ]
+    },
+    {
+      "productId": "0084013430120",
+      "brand": "Home Chef",
+      "upc": "0084013430120",
+      "price": [
+        {
+          "regular": 7.99,
+          "promo": 0
+        }
+      ]
+    },
+    {
+      "productId": "0009830800202",
+      "brand": "Better Than Bouillon",
+      "upc": "0009830800202",
+      "price": [
+        {
+          "regular": 5.49,
+          "promo": 3.99
+        }
+      ]
+    },
+    {
+      "productId": "0005210004968",
+      "brand": "McCormick",
+      "upc": "0005210004968",
+      "price": [
+        {
+          "regular": 5.49,
+          "promo": 0
+        }
+      ]
+    }
+  ]
+}

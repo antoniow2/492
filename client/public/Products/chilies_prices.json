@@ -1,0 +1,101 @@
+{
+  "data": [
+    {
+      "productId": "0074956927348",
+      "brand": "Hatch Chile",
+      "upc": "0074956927348",
+      "price": [
+        null
+      ]
+    },
+    {
+      "productId": "0001111084543",
+      "brand": "Kroger",
+      "upc": "0001111084543",
+      "price": [
+        {
+          "regular": 1.29,
+          "promo": 0
+        }
+      ]
+    },
+    {
+      "productId": "0074956927347",
+      "brand": "Hatch Chile",
+      "upc": "0074956927347",
+      "price": [
+        null
+      ]
+    },
+    {
+      "productId": "0003900001021",
+      "brand": "Ortega",
+      "upc": "0003900001021",
+      "price": [
+        {
+          "regular": 1.99,
+          "promo": 1.25
+        }
+      ]
+    },
+    {
+      "productId": "0004150101006",
+      "brand": "Ortega",
+      "upc": "0004150101006",
+      "price": [
+        {
+          "regular": 1.99,
+          "promo": 1.25
+        }
+      ]
+    },
+    {
+      "productId": "0083211200226",
+      "brand": "Nature's Eats",
+      "upc": "0083211200226",
+      "price": [
+        {
+          "regular": 6.99,
+          "promo": 0
+        }
+      ]
+    },
+    {
+      "productId": "1085810200410",
+      "brand": "Mateo's",
+      "upc": "1085810200410",
+      "price": [
+        null
+      ]
+    },
+    {
+      "productId": "0001111084009",
+      "brand": "Kroger",
+      "upc": "0001111084009",
+      "price": [
+        {
+          "regular": 0.89,
+          "promo": 0
+        }
+      ]
+    },
+    {
+      "productId": "0078561413633",
+      "brand": "Hatch Chile",
+      "upc": "0078561413633",
+      "price": [
+        null
+      ]
+    },
+    {
+      "productId": "0000000004772",
+      "upc": "0000000004772",
+      "price": [
+        {
+          "regular": 2.59,
+          "promo": 0
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,90 @@
+{
+  "data": [
+    {
+      "productId": "0001111002758",
+      "brand": "Pre Packaged Bulk",
+      "upc": "0001111002758",
+      "price": [
+        {
+          "regular": 7.29,
+          "promo": 0
+        }
+      ]
+    },
+    {
+      "productId": "0003024384789",
+      "brand": "Good Sense Snacks",
+      "upc": "0003024384789",
+      "price": [
+        null
+      ]
+    },
+    {
+      "productId": "0007248899897",
+      "brand": "Torn & Glasser",
+      "upc": "0007248899897",
+      "price": [
+        {
+          "regular": 5.99,
+          "promo": 0
+        }
+      ]
+    },
+    {
+      "productId": "0075279811735",
+      "brand": "Good Sense Snacks",
+      "upc": "0075279811735",
+      "price": [
+        null
+      ]
+    },
+    {
+      "productId": "0074941004078",
+      "brand": "Stonybrook",
+      "upc": "0074941004078",
+      "price": [
+        null
+      ]
+    },
+    {
+      "productId": "0074941004087",
+      "brand": "Stonybrook",
+      "upc": "0074941004087",
+      "price": [
+        null
+      ]
+    },
+    {
+      "productId": "0371193419212",
+      "brand": "Kitcheniva",
+      "upc": "0371193419212",
+      "price": [
+        null
+      ]
+    },
+    {
+      "productId": "0074941004086",
+      "brand": "Stonybrook",
+      "upc": "0074941004086",
+      "price": [
+        null
+      ]
+    },
+    {
+      "productId": "0003024387721",
+      "brand": "Good Sense Snacks",
+      "upc": "0003024387721",
+      "price": [
+        null
+      ]
+    },
+    {
+      "productId": "0371193419213",
+      "brand": "Kitcheniva",
+      "upc": "0371193419213",
+      "price": [
+        null
+      ]
+    }
+  ]
+}

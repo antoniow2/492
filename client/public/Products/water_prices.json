@@ -1,0 +1,114 @@
+{
+  "data": [
+    {
+      "productId": "0001111087902",
+      "brand": "Kroger",
+      "upc": "0001111087902",
+      "price": [
+        {
+          "regular": 3.99,
+          "promo": 0
+        }
+      ]
+    },
+    {
+      "productId": "0001111042130",
+      "brand": "Kroger",
+      "upc": "0001111042130",
+      "price": [
+        {
+          "regular": 1.49,
+          "promo": 0
+        }
+      ]
+    },
+    {
+      "productId": "0006827419514",
+      "brand": "Pure Life",
+      "upc": "0006827419514",
+      "price": [
+        {
+          "regular": 3.49,
+          "promo": 2.99
+        }
+      ]
+    },
+    {
+      "productId": "0001111010433",
+      "brand": "Kroger",
+      "upc": "0001111010433",
+      "price": [
+        {
+          "regular": 5.99,
+          "promo": 0
+        }
+      ]
+    },
+    {
+      "productId": "0001111009855",
+      "brand": "Kroger",
+      "upc": "0001111009855",
+      "price": [
+        {
+          "regular": 5.99,
+          "promo": 0
+        }
+      ]
+    },
+    {
+      "productId": "0001200001311",
+      "brand": "Aquafina",
+      "upc": "0001200001311",
+      "price": [
+        {
+          "regular": 8.99,
+          "promo": 7.79
+        }
+      ]
+    },
+    {
+      "productId": "0006827473529",
+      "brand": "Pure Life",
+      "upc": "0006827473529",
+      "price": [
+        {
+          "regular": 5.49,
+          "promo": 0
+        }
+      ]
+    },
+    {
+      "productId": "0001111085808",
+      "brand": "Kroger",
+      "upc": "0001111085808",
+      "price": [
+        {
+          "regular": 4.19,
+          "promo": 3.49
+        }
+      ]
+    },
+    {
+      "productId": "0001111049213",
+      "brand": "Kroger",
+      "upc": "0001111049213",
+      "price": [
+        {
+          "regular": 3.99,
+          "promo": 3.49
+        }
+      ]
+    },
+    {
+      "productId": "0004900004805",
+      "brand": "Dasani",
+      "upc": "0004900004805",
+      "price": [
+        {
+          "regular": 7.99,
+          "promo": 6.99
+        }
+      ]
+    }
+  ]
+}

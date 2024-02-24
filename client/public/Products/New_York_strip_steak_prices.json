@@ -1,0 +1,110 @@
+{
+  "data": [
+    {
+      "productId": "0024203100000",
+      "brand": "Kroger",
+      "upc": "0024203100000",
+      "price": [
+        {
+          "regular": 14.99,
+          "promo": 0,
+          "regularPerUnitEstimate": 21.41
+        }
+      ]
+    },
+    {
+      "productId": "0021222600000",
+      "brand": "Private Selection",
+      "upc": "0021222600000",
+      "price": [
+        {
+          "regular": 16.99,
+          "promo": 0,
+          "regularPerUnitEstimate": 16.99
+        }
+      ]
+    },
+    {
+      "productId": "0002310023537",
+      "brand": "Cesar",
+      "upc": "0002310023537",
+      "price": [
+        {
+          "regular": 16.49,
+          "promo": 0
+        }
+      ]
+    },
+    {
+      "productId": "0025203100000",
+      "upc": "0025203100000",
+      "price": [
+        {
+          "regular": 14.99,
+          "promo": 13.99,
+          "regularPerUnitEstimate": 5.32,
+          "promoPerUnitEstimate": 4.96
+        }
+      ]
+    },
+    {
+      "productId": "0028888900000",
+      "brand": "Kroger Mercado",
+      "upc": "0028888900000",
+      "price": [
+        {
+          "regular": 14.99,
+          "promo": 0,
+          "regularPerUnitEstimate": 14.99
+        }
+      ]
+    },
+    {
+      "productId": "0027147000000",
+      "brand": "Kroger Mercado",
+      "upc": "0027147000000",
+      "price": [
+        {
+          "regular": 14.29,
+          "promo": 13.29,
+          "regularPerUnitEstimate": 14.29,
+          "promoPerUnitEstimate": 13.29
+        }
+      ]
+    },
+    {
+      "productId": "0002310012176",
+      "brand": "Cesar",
+      "upc": "0002310012176",
+      "price": [
+        {
+          "regular": 32.49,
+          "promo": 30.99
+        }
+      ]
+    },
+    {
+      "productId": "0020222600000",
+      "upc": "0020222600000",
+      "price": [
+        {
+          "regular": 14.99,
+          "promo": 13.99,
+          "regularPerUnitEstimate": 14.99,
+          "promoPerUnitEstimate": 13.99
+        }
+      ]
+    },
+    {
+      "productId": "0001111097773",
+      "brand": "Private Selection",
+      "upc": "0001111097773",
+      "price": [
+        {
+          "regular": 14.99,
+          "promo": 0
+        }
+      ]
+    }
+  ]
+}

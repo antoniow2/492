@@ -1,0 +1,99 @@
+{
+  "data": [
+    {
+      "productId": "0001111009533",
+      "brand": "Simple Truth Organic",
+      "upc": "0001111009533",
+      "price": [
+        {
+          "regular": 2.49,
+          "promo": 0
+        }
+      ]
+    },
+    {
+      "productId": "0004133500034",
+      "brand": "Ken's Steak House",
+      "upc": "0004133500034",
+      "price": [
+        {
+          "regular": 3.99,
+          "promo": 0
+        }
+      ]
+    },
+    {
+      "productId": "0002727111528",
+      "brand": "Brianna's",
+      "upc": "0002727111528",
+      "price": [
+        {
+          "regular": 4.49,
+          "promo": 0
+        }
+      ]
+    },
+    {
+      "productId": "0074615562643",
+      "brand": "Brianna's",
+      "upc": "0074615562643",
+      "price": [
+        null
+      ]
+    },
+    {
+      "productId": "0009232522222",
+      "brand": "Annie's",
+      "upc": "0009232522222",
+      "price": [
+        null
+      ]
+    },
+    {
+      "productId": "0004133533292",
+      "brand": "Ken's Steak House",
+      "upc": "0004133533292",
+      "price": [
+        {
+          "regular": 5.49,
+          "promo": 0
+        }
+      ]
+    },
+    {
+      "productId": "0074615582716",
+      "brand": "Newman's Own",
+      "upc": "0074615582716",
+      "price": [
+        null
+      ]
+    },
+    {
+      "productId": "0086369900013",
+      "brand": "Primal Kitchen",
+      "upc": "0086369900013",
+      "price": [
+        null
+      ]
+    },
+    {
+      "productId": "0001111003622",
+      "brand": "Kroger",
+      "upc": "0001111003622",
+      "price": [
+        {
+          "regular": 2.39,
+          "promo": 0
+        }
+      ]
+    },
+    {
+      "productId": "0068465913849",
+      "brand": "Blues Hog",
+      "upc": "0068465913849",
+      "price": [
+        null
+      ]
+    }
+  ]
+}

@@ -1,0 +1,1294 @@
+[
+  {
+    "label": "Salmon Rillettes/Salmon Spread",
+    "url": "http://www.davidlebovitz.com/2007/11/salmon-rillette/",
+    "ingredients": [
+      {
+        "text": "8 ounce (250 g) piece of salmon, preferably wild, bones removed",
+        "quantity": 8,
+        "measure": "ounce",
+        "food": "salmon",
+        "weight": 226.796185,
+        "foodCategory": "seafood",
+        "foodId": "food_bhncugnadgibupafbeeapbislbom",
+        "image": "https://www.edamam.com/food-img/9a0/9a0f38422e9f21dcedbc2dca0d8209ac.jpg"
+      },
+      {
+        "text": "salt",
+        "quantity": 0,
+        "measure": null,
+        "food": "salt",
+        "weight": 2.74886566499768,
+        "foodCategory": "Condiments and sauces",
+        "foodId": "food_btxz81db72hwbra2pncvebzzzum9",
+        "image": "https://www.edamam.com/food-img/694/6943ea510918c6025795e8dc6e6eaaeb.jpg"
+      },
+      {
+        "text": "5 tablespoons (75 g) unsalted butter)",
+        "quantity": 75,
+        "measure": "gram",
+        "food": "unsalted butter",
+        "weight": 75,
+        "foodCategory": "Dairy",
+        "foodId": "food_awz3iefajbk1fwahq9logahmgltj",
+        "image": "https://www.edamam.com/food-img/713/71397239b670d88c04faa8d05035cab4.jpg"
+      },
+      {
+        "text": "1 tablespoon olive oil",
+        "quantity": 1,
+        "measure": "tablespoon",
+        "food": "olive oil",
+        "weight": 13.5,
+        "foodCategory": "Oils",
+        "foodId": "food_b1d1icuad3iktrbqby0hiagafaz7",
+        "image": "https://www.edamam.com/food-img/4d6/4d651eaa8a353647746290c7a9b29d84.jpg"
+      },
+      {
+        "text": "1½ tablespoons fresh lemon juice",
+        "quantity": 1.5,
+        "measure": "tablespoon",
+        "food": "lemon juice",
+        "weight": 22.8749999996133,
+        "foodCategory": "100% juice",
+        "foodId": "food_bglm6vxahuauteb0n6ynfbg9eryu",
+        "image": "https://www.edamam.com/food-img/e31/e310952d214e78a4cb8b73f30ceeaaf2.jpg"
+      },
+      {
+        "text": "2 tablespoons chopped chives",
+        "quantity": 2,
+        "measure": "tablespoon",
+        "food": "chives",
+        "weight": 6,
+        "foodCategory": "vegetables",
+        "foodId": "food_btg1uzjak79lawbirsitkaeai60l",
+        "image": "https://www.edamam.com/food-img/f3f/f3f48643a924ba174b894e979cb48620.jpg"
+      },
+      {
+        "text": "4 ounces (125 g) smoked salmon, cut into thin strips, then cut into ½-inch (2 cm) pieces",
+        "quantity": 4,
+        "measure": "ounce",
+        "food": "smoked salmon",
+        "weight": 113.3980925,
+        "foodCategory": "seafood",
+        "foodId": "food_a6rqub2a7zak4tb5v5s1saf99j1b",
+        "image": "https://www.edamam.com/food-img/c91/c918b85b824c85e231e13a2b831d6d18.gif"
+      },
+      {
+        "text": "¼ teaspoon chili powder or smoke paprika (I use pimente d’Espelette) or a few turns of freshly-ground white pepper",
+        "quantity": 0.25,
+        "measure": "teaspoon",
+        "food": "paprika",
+        "weight": 0.575,
+        "foodCategory": "Condiments and sauces",
+        "foodId": "food_a9dpcnjb883g67b3lq82ca0421ql",
+        "image": "https://www.edamam.com/food-img/474/474d63763b9d8b9da98c5f43a114648c.jpg"
+      }
+    ],
+    "uri": "http://www.edamam.com/ontologies/edamam.owl#recipe_6d4439a7df0e7bf009cc761ad6b51012",
+    "image": "https://edamam-product-images.s3.amazonaws.com/web-img/2ad/2ada9d9680243e2cc13c09b7ed978e96.jpg?X-Amz-Security-Token=IQoJb3JpZ2luX2VjEGoaCXVzLWVhc3QtMSJHMEUCIFIil1jd5NHOSvMOKXmiga%2F7CRpL9SqT90pjzpQvMpS1AiEA9ABMxynDIYnPNFSoTb7ZMBckcrDLvv4e6dtYzK1N0iIqwgUIs%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FARAAGgwxODcwMTcxNTA5ODYiDJ0JUiSQioeZN09KpyqWBVe1sbdKBl4lqNSDGR5UVO8dIqqE5WJuXebdX3lZD4OaGW51LWKTCCXZuBKs2ISuKPh91m2%2BsZ6ktPbGE2AhkybcxwieCVK%2BK7l84Bj24ywSDZsP1yn%2FPQvPSOPdtnqKR68nmtPicbTTb2iN1fNYmLpy0S%2FnwrF8mkwdmHhvUaEbcAUyjMHohThRkgvTO7TCgSpOGWKVTQEFsLHvsgi4bWMGi1ZtCdznqWdnvOSGhPIQKiLCFUVTI1oRtogKh0lqCDL4eD4Xt5720oaytX%2FzK60NnLdU6s2vGCG9kL1rEzM1fp%2FYqaRoi9XQXp3hj79AyZsUJuPSW2wBsyauTTAprw9V0oSJ%2BkgyFsGc7Ge21I74u8u%2BUNk7NGsVmUYeMeKK6TI%2B0Rjmc6gRjNT%2FzDhfv7vJG7pMLWR%2FOUMWNa9yQUISZ8lh6vjj0kkFOzMlze5lBdHr%2FnWvNqWN3MkH70GXWEsIEh43bVc1guPIoprq%2Bu47idhxaAzP1HurGLQr7p64dzS9lpwPYzY6lcy%2FURRoDKTRQG4E%2FCEP5VCwURQtf7DgsBTBfS1SBxALeyc8mv8DNadhiSKCTJIn%2BIy5cJE6p56IH%2FPy%2BLDoFKWBjEyTq%2B485casZ1GZkBnH8U522cCwhIpNLcykX%2F4wNUr86O6r5UklISiFuq1Fd0yu9W3z6zJUJ4XVYRI9130kMvqmT%2FWXqW8YAlY3uDF32GhawMfgb7KSBBrnSCeHfWshej%2BfYfsb%2FLLReGZxgMPqGgbsfZYqxDpHj6ybFJVzSw6l8QriLDoi8oT9adjEPELXp0rV5YgcHAyQDtWXjZ99CXlSqj0bLUoeo8aQQjTT8V8rzygz0yXkostwb4FyfVN5cyxFoE1S0FloEdNSMKW24KoGOrEBFDB4UqY3hmGXzAo%2Bg1EAXCZSzy18Zg6aqXEnnaM9l2m9b6ZdoEhKpA3zaGpQeiK72d9loW2TJU%2FxVT11CkQoWJnc5vc%2BvEAEWhFcrNhGRjVyEL68aqO6lD%2FuH94JxctuAJ2UWf%2BJsGDngPUA01yn%2B8aRAjoZ6PyU1JWIWSrw9CbhMr8XDOwYorTcKjT1xK76ZXfjU6C%2FWO%2BB8Ahq6zvqxZM3%2F4GQPiRkwzYuKPC78a5%2B&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Date=20231118T025713Z&X-Amz-SignedHeaders=host&X-Amz-Expires=3600&X-Amz-Credential=ASIASXCYXIIFLO2MWB7Q%2F20231118%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Signature=6b1a2e2ba465bb7f7c1933162fffcd55f4a8150cd5677cf871fcdbfd18b9ebb3",
+    "source": "David Lebovitz",
+    "shareAs": "http://www.edamam.com/recipe/salmon-rillettes-salmon-spread-6d4439a7df0e7bf009cc761ad6b51012/salmon",
+    "yield": 6,
+    "dietLabels": [
+      "Low-Carb"
+    ],
+    "healthLabels": [
+      "Sugar-Conscious",
+      "Kidney-Friendly",
+      "Keto-Friendly",
+      "Pescatarian",
+      "Gluten-Free",
+      "Wheat-Free",
+      "Egg-Free",
+      "Peanut-Free",
+      "Tree-Nut-Free",
+      "Soy-Free",
+      "Shellfish-Free",
+      "Pork-Free",
+      "Red-Meat-Free",
+      "Crustacean-Free",
+      "Celery-Free",
+      "Mustard-Free",
+      "Sesame-Free",
+      "Lupine-Free",
+      "Mollusk-Free",
+      "Alcohol-Free",
+      "Sulfite-Free"
+    ],
+    "cautions": [
+      "Sulfites"
+    ],
+    "ingredientLines": [
+      "8 ounce (250 g) piece of salmon, preferably wild, bones removed",
+      "salt",
+      "5 tablespoons (75 g) unsalted butter)",
+      "1 tablespoon olive oil",
+      "1½ tablespoons fresh lemon juice",
+      "2 tablespoons chopped chives",
+      "4 ounces (125 g) smoked salmon, cut into thin strips, then cut into ½-inch (2 cm) pieces",
+      "¼ teaspoon chili powder or smoke paprika (I use pimente d’Espelette) or a few turns of freshly-ground white pepper"
+    ],
+    "calories": 1269.955833024915,
+    "totalWeight": 458.5572689266489,
+    "totalTime": 0,
+    "cuisineType": [
+      "nordic"
+    ],
+    "mealType": [
+      "lunch/dinner"
+    ],
+    "dishType": [
+      "starter"
+    ]
+  },
+  {
+    "label": "Salmon Rillette",
+    "url": "http://www.seriouseats.com/recipes/2011/12/salmon-rillette-recipe.html",
+    "ingredients": [
+      {
+        "text": "1 pound salmon fillet, skin and pin bones removed",
+        "quantity": 1,
+        "measure": "pound",
+        "food": "salmon",
+        "weight": 453.59237,
+        "foodCategory": "seafood",
+        "foodId": "food_bhncugnadgibupafbeeapbislbom",
+        "image": "https://www.edamam.com/food-img/9a0/9a0f38422e9f21dcedbc2dca0d8209ac.jpg"
+      },
+      {
+        "text": "2 tablespoons pernod",
+        "quantity": 2,
+        "measure": "tablespoon",
+        "food": "pernod",
+        "weight": 27.9999999993688,
+        "foodCategory": "liquors and cocktails",
+        "foodId": "food_ajguqpia53yz3oah6w2frad3tz65",
+        "image": "https://www.edamam.com/food-img/c7f/c7fcc63de96b349534aade3de3f9fa7d.jpg"
+      },
+      {
+        "text": "3 1/2 teaspoons salt, divided",
+        "quantity": 3.5,
+        "measure": "teaspoon",
+        "food": "salt",
+        "weight": 21,
+        "foodCategory": "Condiments and sauces",
+        "foodId": "food_btxz81db72hwbra2pncvebzzzum9",
+        "image": "https://www.edamam.com/food-img/694/6943ea510918c6025795e8dc6e6eaaeb.jpg"
+      },
+      {
+        "text": "1 teaspoon pepper, divided",
+        "quantity": 1,
+        "measure": "teaspoon",
+        "food": "pepper",
+        "weight": 3.104166666824113,
+        "foodCategory": "vegetables",
+        "foodId": "food_bz8rcwobbzm7zhb3wh2n7aznivou",
+        "image": "https://www.edamam.com/food-img/629/629dc9fddc1f8aec27fa337dd6ce2b7c.jpg"
+      },
+      {
+        "text": "1 cup unsalted butter, at room temperature, divided",
+        "quantity": 1,
+        "measure": "cup",
+        "food": "unsalted butter",
+        "weight": 227,
+        "foodCategory": "Dairy",
+        "foodId": "food_awz3iefajbk1fwahq9logahmgltj",
+        "image": "https://www.edamam.com/food-img/713/71397239b670d88c04faa8d05035cab4.jpg"
+      },
+      {
+        "text": "1/2 cup minced shallots",
+        "quantity": 0.5,
+        "measure": "cup",
+        "food": "shallots",
+        "weight": 80.00000000135256,
+        "foodCategory": "vegetables",
+        "foodId": "food_bu2ver7a5f52dfap8q9f0bn085qb",
+        "image": "https://www.edamam.com/food-img/d23/d23e3be21df05e9e16c05eadb12341e7.jpeg"
+      },
+      {
+        "text": "1 tablespoon creme fraiche",
+        "quantity": 1,
+        "measure": "tablespoon",
+        "food": "creme fraiche",
+        "weight": 13.9999999997633,
+        "foodCategory": "Dairy",
+        "foodId": "food_ayjzu0oak0shbnaeroxs8b6t9uyy",
+        "image": "https://www.edamam.com/food-img/f9d/f9d6183267b041b0aff9a10b89c9c15f.jpg"
+      },
+      {
+        "text": "1/2 pound smoked salmon, diced",
+        "quantity": 0.5,
+        "measure": "pound",
+        "food": "smoked salmon",
+        "weight": 226.796185,
+        "foodCategory": "seafood",
+        "foodId": "food_a6rqub2a7zak4tb5v5s1saf99j1b",
+        "image": "https://www.edamam.com/food-img/c91/c918b85b824c85e231e13a2b831d6d18.gif"
+      },
+      {
+        "text": "2 1/2 tablespoons lemon juice",
+        "quantity": 2.5,
+        "measure": "tablespoon",
+        "food": "lemon juice",
+        "weight": 38.1249999993555,
+        "foodCategory": "100% juice",
+        "foodId": "food_bglm6vxahuauteb0n6ynfbg9eryu",
+        "image": "https://www.edamam.com/food-img/e31/e310952d214e78a4cb8b73f30ceeaaf2.jpg"
+      },
+      {
+        "text": "1 tablespoon extra-virgin olive oil",
+        "quantity": 1,
+        "measure": "tablespoon",
+        "food": "extra-virgin olive oil",
+        "weight": 13.5,
+        "foodCategory": "Oils",
+        "foodId": "food_b1d1icuad3iktrbqby0hiagafaz7",
+        "image": "https://www.edamam.com/food-img/4d6/4d651eaa8a353647746290c7a9b29d84.jpg"
+      },
+      {
+        "text": "2 egg yolks, lightly beaten",
+        "quantity": 2,
+        "measure": "<unit>",
+        "food": "egg yolks",
+        "weight": 26.933333333333334,
+        "foodCategory": "Eggs",
+        "foodId": "food_awlnigdb6qm6i1biwv7rlalfg2ni",
+        "image": "https://www.edamam.com/food-img/e3f/e3f697887aec0e8ecf09a9ca8ef3944a.jpg"
+      },
+      {
+        "text": "1/4 cup minced chives",
+        "quantity": 0.25,
+        "measure": "cup",
+        "food": "chives",
+        "weight": 12.000000000202874,
+        "foodCategory": "vegetables",
+        "foodId": "food_btg1uzjak79lawbirsitkaeai60l",
+        "image": "https://www.edamam.com/food-img/f3f/f3f48643a924ba174b894e979cb48620.jpg"
+      }
+    ],
+    "uri": "http://www.edamam.com/ontologies/edamam.owl#recipe_84b670bb097a65851397c2aaf7ae31ec",
+    "image": "https://edamam-product-images.s3.amazonaws.com/web-img/084/084df1023be09bf04c03701b7d6962bd.JPG?X-Amz-Security-Token=IQoJb3JpZ2luX2VjEGoaCXVzLWVhc3QtMSJHMEUCIFIil1jd5NHOSvMOKXmiga%2F7CRpL9SqT90pjzpQvMpS1AiEA9ABMxynDIYnPNFSoTb7ZMBckcrDLvv4e6dtYzK1N0iIqwgUIs%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FARAAGgwxODcwMTcxNTA5ODYiDJ0JUiSQioeZN09KpyqWBVe1sbdKBl4lqNSDGR5UVO8dIqqE5WJuXebdX3lZD4OaGW51LWKTCCXZuBKs2ISuKPh91m2%2BsZ6ktPbGE2AhkybcxwieCVK%2BK7l84Bj24ywSDZsP1yn%2FPQvPSOPdtnqKR68nmtPicbTTb2iN1fNYmLpy0S%2FnwrF8mkwdmHhvUaEbcAUyjMHohThRkgvTO7TCgSpOGWKVTQEFsLHvsgi4bWMGi1ZtCdznqWdnvOSGhPIQKiLCFUVTI1oRtogKh0lqCDL4eD4Xt5720oaytX%2FzK60NnLdU6s2vGCG9kL1rEzM1fp%2FYqaRoi9XQXp3hj79AyZsUJuPSW2wBsyauTTAprw9V0oSJ%2BkgyFsGc7Ge21I74u8u%2BUNk7NGsVmUYeMeKK6TI%2B0Rjmc6gRjNT%2FzDhfv7vJG7pMLWR%2FOUMWNa9yQUISZ8lh6vjj0kkFOzMlze5lBdHr%2FnWvNqWN3MkH70GXWEsIEh43bVc1guPIoprq%2Bu47idhxaAzP1HurGLQr7p64dzS9lpwPYzY6lcy%2FURRoDKTRQG4E%2FCEP5VCwURQtf7DgsBTBfS1SBxALeyc8mv8DNadhiSKCTJIn%2BIy5cJE6p56IH%2FPy%2BLDoFKWBjEyTq%2B485casZ1GZkBnH8U522cCwhIpNLcykX%2F4wNUr86O6r5UklISiFuq1Fd0yu9W3z6zJUJ4XVYRI9130kMvqmT%2FWXqW8YAlY3uDF32GhawMfgb7KSBBrnSCeHfWshej%2BfYfsb%2FLLReGZxgMPqGgbsfZYqxDpHj6ybFJVzSw6l8QriLDoi8oT9adjEPELXp0rV5YgcHAyQDtWXjZ99CXlSqj0bLUoeo8aQQjTT8V8rzygz0yXkostwb4FyfVN5cyxFoE1S0FloEdNSMKW24KoGOrEBFDB4UqY3hmGXzAo%2Bg1EAXCZSzy18Zg6aqXEnnaM9l2m9b6ZdoEhKpA3zaGpQeiK72d9loW2TJU%2FxVT11CkQoWJnc5vc%2BvEAEWhFcrNhGRjVyEL68aqO6lD%2FuH94JxctuAJ2UWf%2BJsGDngPUA01yn%2B8aRAjoZ6PyU1JWIWSrw9CbhMr8XDOwYorTcKjT1xK76ZXfjU6C%2FWO%2BB8Ahq6zvqxZM3%2F4GQPiRkwzYuKPC78a5%2B&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Date=20231118T025713Z&X-Amz-SignedHeaders=host&X-Amz-Expires=3600&X-Amz-Credential=ASIASXCYXIIFLO2MWB7Q%2F20231118%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Signature=391e06e39a54482e4fc40a67b1f4588edf1e6f30e534fbe4169c0febdbd5b01d",
+    "source": "Serious Eats",
+    "shareAs": "http://www.edamam.com/recipe/salmon-rillette-84b670bb097a65851397c2aaf7ae31ec/salmon",
+    "yield": 10,
+    "dietLabels": [
+      "Low-Carb"
+    ],
+    "healthLabels": [
+      "Sugar-Conscious",
+      "Kidney-Friendly",
+      "Keto-Friendly",
+      "Pescatarian",
+      "Gluten-Free",
+      "Wheat-Free",
+      "Peanut-Free",
+      "Tree-Nut-Free",
+      "Soy-Free",
+      "Shellfish-Free",
+      "Pork-Free",
+      "Red-Meat-Free",
+      "Crustacean-Free",
+      "Celery-Free",
+      "Mustard-Free",
+      "Sesame-Free",
+      "Lupine-Free",
+      "Mollusk-Free",
+      "Sulfite-Free"
+    ],
+    "cautions": [
+      "Sulfites"
+    ],
+    "ingredientLines": [
+      "1 pound salmon fillet, skin and pin bones removed",
+      "2 tablespoons pernod",
+      "3 1/2 teaspoons salt, divided",
+      "1 teaspoon pepper, divided",
+      "1 cup unsalted butter, at room temperature, divided",
+      "1/2 cup minced shallots",
+      "1 tablespoon creme fraiche",
+      "1/2 pound smoked salmon, diced",
+      "2 1/2 tablespoons lemon juice",
+      "1 tablespoon extra-virgin olive oil",
+      "2 egg yolks, lightly beaten",
+      "1/4 cup minced chives",
+      "Gaguette, for serving"
+    ],
+    "calories": 3205.0873327156646,
+    "totalWeight": 1125.0271388426793,
+    "totalTime": 165,
+    "cuisineType": [
+      "nordic"
+    ],
+    "mealType": [
+      "lunch/dinner"
+    ],
+    "dishType": [
+      "starter"
+    ]
+  },
+  {
+    "label": "Potted Fresh & Smoked Salmon",
+    "url": "http://www.bbcgoodfood.com/recipes/1975/",
+    "ingredients": [
+      {
+        "text": "600.0g skinless salmon fillets",
+        "quantity": 600,
+        "measure": "gram",
+        "food": "salmon",
+        "weight": 600,
+        "foodCategory": "seafood",
+        "foodId": "food_bhncugnadgibupafbeeapbislbom",
+        "image": "https://www.edamam.com/food-img/9a0/9a0f38422e9f21dcedbc2dca0d8209ac.jpg"
+      },
+      {
+        "text": "100.0g butter",
+        "quantity": 100,
+        "measure": "gram",
+        "food": "butter",
+        "weight": 100,
+        "foodCategory": "Dairy",
+        "foodId": "food_awz3iefajbk1fwahq9logahmgltj",
+        "image": "https://www.edamam.com/food-img/713/71397239b670d88c04faa8d05035cab4.jpg"
+      },
+      {
+        "text": "200.0g smoked salmon",
+        "quantity": 200,
+        "measure": "gram",
+        "food": "smoked salmon",
+        "weight": 200,
+        "foodCategory": "seafood",
+        "foodId": "food_a6rqub2a7zak4tb5v5s1saf99j1b",
+        "image": "https://www.edamam.com/food-img/c91/c918b85b824c85e231e13a2b831d6d18.gif"
+      },
+      {
+        "text": "½ tsp chilli paste or harissa paste",
+        "quantity": 0.5,
+        "measure": "teaspoon",
+        "food": "chilli paste",
+        "weight": 2.864583333478628,
+        "foodCategory": "plant-based protein",
+        "foodId": "food_b23eh15b115s1majxlxypahp1k2f",
+        "image": "https://www.edamam.com/food-img/352/3525e5a38bb13c74aa34ef6c0273bf33.jpg"
+      },
+      {
+        "text": "2 lemons , juice only",
+        "quantity": 2,
+        "measure": "<unit>",
+        "food": "lemons",
+        "weight": 168,
+        "foodCategory": "fruit",
+        "foodId": "food_a6uzc62astrxcgbtzyq59b6fncrr",
+        "image": "https://www.edamam.com/food-img/70a/70acba3d4c734d7c70ef4efeed85dc8f.jpg"
+      }
+    ],
+    "uri": "http://www.edamam.com/ontologies/edamam.owl#recipe_b30cc30271d4b33f4bb10a2a7d3aa389",
+    "image": "https://edamam-product-images.s3.amazonaws.com/web-img/b64/b6487e523d13e47c9947c1bb0d3facc8.jpg?X-Amz-Security-Token=IQoJb3JpZ2luX2VjEGoaCXVzLWVhc3QtMSJHMEUCIFIil1jd5NHOSvMOKXmiga%2F7CRpL9SqT90pjzpQvMpS1AiEA9ABMxynDIYnPNFSoTb7ZMBckcrDLvv4e6dtYzK1N0iIqwgUIs%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FARAAGgwxODcwMTcxNTA5ODYiDJ0JUiSQioeZN09KpyqWBVe1sbdKBl4lqNSDGR5UVO8dIqqE5WJuXebdX3lZD4OaGW51LWKTCCXZuBKs2ISuKPh91m2%2BsZ6ktPbGE2AhkybcxwieCVK%2BK7l84Bj24ywSDZsP1yn%2FPQvPSOPdtnqKR68nmtPicbTTb2iN1fNYmLpy0S%2FnwrF8mkwdmHhvUaEbcAUyjMHohThRkgvTO7TCgSpOGWKVTQEFsLHvsgi4bWMGi1ZtCdznqWdnvOSGhPIQKiLCFUVTI1oRtogKh0lqCDL4eD4Xt5720oaytX%2FzK60NnLdU6s2vGCG9kL1rEzM1fp%2FYqaRoi9XQXp3hj79AyZsUJuPSW2wBsyauTTAprw9V0oSJ%2BkgyFsGc7Ge21I74u8u%2BUNk7NGsVmUYeMeKK6TI%2B0Rjmc6gRjNT%2FzDhfv7vJG7pMLWR%2FOUMWNa9yQUISZ8lh6vjj0kkFOzMlze5lBdHr%2FnWvNqWN3MkH70GXWEsIEh43bVc1guPIoprq%2Bu47idhxaAzP1HurGLQr7p64dzS9lpwPYzY6lcy%2FURRoDKTRQG4E%2FCEP5VCwURQtf7DgsBTBfS1SBxALeyc8mv8DNadhiSKCTJIn%2BIy5cJE6p56IH%2FPy%2BLDoFKWBjEyTq%2B485casZ1GZkBnH8U522cCwhIpNLcykX%2F4wNUr86O6r5UklISiFuq1Fd0yu9W3z6zJUJ4XVYRI9130kMvqmT%2FWXqW8YAlY3uDF32GhawMfgb7KSBBrnSCeHfWshej%2BfYfsb%2FLLReGZxgMPqGgbsfZYqxDpHj6ybFJVzSw6l8QriLDoi8oT9adjEPELXp0rV5YgcHAyQDtWXjZ99CXlSqj0bLUoeo8aQQjTT8V8rzygz0yXkostwb4FyfVN5cyxFoE1S0FloEdNSMKW24KoGOrEBFDB4UqY3hmGXzAo%2Bg1EAXCZSzy18Zg6aqXEnnaM9l2m9b6ZdoEhKpA3zaGpQeiK72d9loW2TJU%2FxVT11CkQoWJnc5vc%2BvEAEWhFcrNhGRjVyEL68aqO6lD%2FuH94JxctuAJ2UWf%2BJsGDngPUA01yn%2B8aRAjoZ6PyU1JWIWSrw9CbhMr8XDOwYorTcKjT1xK76ZXfjU6C%2FWO%2BB8Ahq6zvqxZM3%2F4GQPiRkwzYuKPC78a5%2B&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Date=20231118T025713Z&X-Amz-SignedHeaders=host&X-Amz-Expires=3600&X-Amz-Credential=ASIASXCYXIIFLO2MWB7Q%2F20231118%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Signature=fdc1ae14f0d68088e6deec15e17d375024c2b53c87a5cd6813a43f650fba8e2c",
+    "source": "BBC Good Food",
+    "shareAs": "http://www.edamam.com/recipe/potted-fresh-smoked-salmon-b30cc30271d4b33f4bb10a2a7d3aa389/salmon",
+    "yield": 6,
+    "dietLabels": [
+      "Low-Carb"
+    ],
+    "healthLabels": [
+      "Sugar-Conscious",
+      "Keto-Friendly",
+      "Pescatarian",
+      "Gluten-Free",
+      "Wheat-Free",
+      "Egg-Free",
+      "Peanut-Free",
+      "Tree-Nut-Free",
+      "Shellfish-Free",
+      "Pork-Free",
+      "Red-Meat-Free",
+      "Crustacean-Free",
+      "Celery-Free",
+      "Mustard-Free",
+      "Sesame-Free",
+      "Lupine-Free",
+      "Mollusk-Free",
+      "Alcohol-Free",
+      "Sulfite-Free"
+    ],
+    "cautions": [
+      "Gluten",
+      "Wheat",
+      "Sulfites"
+    ],
+    "ingredientLines": [
+      "600.0g skinless salmon fillets",
+      "100.0g butter",
+      "200.0g smoked salmon",
+      "½ tsp chilli paste or harissa paste",
+      "2 lemons , juice only"
+    ],
+    "calories": 2253.3918750002877,
+    "totalWeight": 1070.8645833334785,
+    "totalTime": 0,
+    "cuisineType": [
+      "nordic"
+    ],
+    "mealType": [
+      "lunch/dinner"
+    ],
+    "dishType": [
+      "main course"
+    ]
+  },
+  {
+    "label": "Salmon Tartare",
+    "url": "http://www.deliciousdays.com/archives/2009/01/23/salmon-tartar-kiss/",
+    "ingredients": [
+      {
+        "text": "250 g Salmon Filets",
+        "quantity": 250,
+        "measure": "gram",
+        "food": "Salmon",
+        "weight": 250,
+        "foodCategory": "seafood",
+        "foodId": "food_bhncugnadgibupafbeeapbislbom",
+        "image": "https://www.edamam.com/food-img/9a0/9a0f38422e9f21dcedbc2dca0d8209ac.jpg"
+      },
+      {
+        "text": "1 x Shallot finely diced",
+        "quantity": 1,
+        "measure": "<unit>",
+        "food": "Shallot",
+        "weight": 59.111111111111114,
+        "foodCategory": "vegetables",
+        "foodId": "food_bu2ver7a5f52dfap8q9f0bn085qb",
+        "image": "https://www.edamam.com/food-img/d23/d23e3be21df05e9e16c05eadb12341e7.jpeg"
+      },
+      {
+        "text": "1 x Lime",
+        "quantity": 1,
+        "measure": "<unit>",
+        "food": "Lime",
+        "weight": 67,
+        "foodCategory": "fruit",
+        "foodId": "food_av58muyb8kg92fbk0g8g8aui5knv",
+        "image": "https://www.edamam.com/food-img/48a/48a123c9576647c4ada6a41df5eeb22a.jpg"
+      },
+      {
+        "text": "Sea Salt",
+        "quantity": 0,
+        "measure": null,
+        "food": "Sea Salt",
+        "weight": 2.2566666666666664,
+        "foodCategory": "Condiments and sauces",
+        "foodId": "food_a1vgrj1bs8rd1majvmd9ubz8ttkg",
+        "image": "https://www.edamam.com/food-img/694/6943ea510918c6025795e8dc6e6eaaeb.jpg"
+      },
+      {
+        "text": "Black Pepper-freshly ground",
+        "quantity": 0,
+        "measure": null,
+        "food": "Black Pepper",
+        "weight": 1.1283333333333332,
+        "foodCategory": "Condiments and sauces",
+        "foodId": "food_b6ywzluaaxv02wad7s1r9ag4py89",
+        "image": "https://www.edamam.com/food-img/c6e/c6e5c3bd8d3bc15175d9766971a4d1b2.jpg"
+      }
+    ],
+    "uri": "http://www.edamam.com/ontologies/edamam.owl#recipe_1356a760a73b96460168435f7d997d7e",
+    "image": "https://edamam-product-images.s3.amazonaws.com/web-img/280/28045d6b085e9b63fd12295c4a409a81.jpg?X-Amz-Security-Token=IQoJb3JpZ2luX2VjEGoaCXVzLWVhc3QtMSJHMEUCIFIil1jd5NHOSvMOKXmiga%2F7CRpL9SqT90pjzpQvMpS1AiEA9ABMxynDIYnPNFSoTb7ZMBckcrDLvv4e6dtYzK1N0iIqwgUIs%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FARAAGgwxODcwMTcxNTA5ODYiDJ0JUiSQioeZN09KpyqWBVe1sbdKBl4lqNSDGR5UVO8dIqqE5WJuXebdX3lZD4OaGW51LWKTCCXZuBKs2ISuKPh91m2%2BsZ6ktPbGE2AhkybcxwieCVK%2BK7l84Bj24ywSDZsP1yn%2FPQvPSOPdtnqKR68nmtPicbTTb2iN1fNYmLpy0S%2FnwrF8mkwdmHhvUaEbcAUyjMHohThRkgvTO7TCgSpOGWKVTQEFsLHvsgi4bWMGi1ZtCdznqWdnvOSGhPIQKiLCFUVTI1oRtogKh0lqCDL4eD4Xt5720oaytX%2FzK60NnLdU6s2vGCG9kL1rEzM1fp%2FYqaRoi9XQXp3hj79AyZsUJuPSW2wBsyauTTAprw9V0oSJ%2BkgyFsGc7Ge21I74u8u%2BUNk7NGsVmUYeMeKK6TI%2B0Rjmc6gRjNT%2FzDhfv7vJG7pMLWR%2FOUMWNa9yQUISZ8lh6vjj0kkFOzMlze5lBdHr%2FnWvNqWN3MkH70GXWEsIEh43bVc1guPIoprq%2Bu47idhxaAzP1HurGLQr7p64dzS9lpwPYzY6lcy%2FURRoDKTRQG4E%2FCEP5VCwURQtf7DgsBTBfS1SBxALeyc8mv8DNadhiSKCTJIn%2BIy5cJE6p56IH%2FPy%2BLDoFKWBjEyTq%2B485casZ1GZkBnH8U522cCwhIpNLcykX%2F4wNUr86O6r5UklISiFuq1Fd0yu9W3z6zJUJ4XVYRI9130kMvqmT%2FWXqW8YAlY3uDF32GhawMfgb7KSBBrnSCeHfWshej%2BfYfsb%2FLLReGZxgMPqGgbsfZYqxDpHj6ybFJVzSw6l8QriLDoi8oT9adjEPELXp0rV5YgcHAyQDtWXjZ99CXlSqj0bLUoeo8aQQjTT8V8rzygz0yXkostwb4FyfVN5cyxFoE1S0FloEdNSMKW24KoGOrEBFDB4UqY3hmGXzAo%2Bg1EAXCZSzy18Zg6aqXEnnaM9l2m9b6ZdoEhKpA3zaGpQeiK72d9loW2TJU%2FxVT11CkQoWJnc5vc%2BvEAEWhFcrNhGRjVyEL68aqO6lD%2FuH94JxctuAJ2UWf%2BJsGDngPUA01yn%2B8aRAjoZ6PyU1JWIWSrw9CbhMr8XDOwYorTcKjT1xK76ZXfjU6C%2FWO%2BB8Ahq6zvqxZM3%2F4GQPiRkwzYuKPC78a5%2B&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Date=20231118T025713Z&X-Amz-SignedHeaders=host&X-Amz-Expires=3600&X-Amz-Credential=ASIASXCYXIIFLO2MWB7Q%2F20231118%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Signature=e04b3cdad4285948ce7d77a5d00fda90843bcbfc49e0f232964c72dae2f6a10b",
+    "source": "Delicious Days",
+    "shareAs": "http://www.edamam.com/recipe/salmon-tartare-1356a760a73b96460168435f7d997d7e/salmon",
+    "yield": 4,
+    "dietLabels": [
+      "Low-Carb"
+    ],
+    "healthLabels": [
+      "Sugar-Conscious",
+      "Keto-Friendly",
+      "Pescatarian",
+      "Paleo",
+      "Mediterranean",
+      "DASH",
+      "Dairy-Free",
+      "Gluten-Free",
+      "Wheat-Free",
+      "Egg-Free",
+      "Peanut-Free",
+      "Tree-Nut-Free",
+      "Soy-Free",
+      "Shellfish-Free",
+      "Pork-Free",
+      "Red-Meat-Free",
+      "Crustacean-Free",
+      "Celery-Free",
+      "Mustard-Free",
+      "Sesame-Free",
+      "Lupine-Free",
+      "Mollusk-Free",
+      "Alcohol-Free",
+      "No oil added",
+      "Sulfite-Free"
+    ],
+    "cautions": [
+      "Sulfites"
+    ],
+    "ingredientLines": [
+      "250 g Salmon Filets",
+      "1 x Shallot finely diced",
+      "1 x Lime",
+      "Sea Salt",
+      "Black Pepper-freshly ground"
+    ],
+    "calories": 585.4921166666667,
+    "totalWeight": 379.09795934977086,
+    "totalTime": 0,
+    "cuisineType": [
+      "nordic"
+    ],
+    "mealType": [
+      "lunch/dinner"
+    ],
+    "dishType": [
+      "starter",
+      "main course"
+    ]
+  },
+  {
+    "label": "Double-Salmon Dip",
+    "url": "https://www.epicurious.com/recipes/food/views/double-salmon-dip-104796",
+    "ingredients": [
+      {
+        "text": "2 8-ounce containers whipped cream cheese",
+        "quantity": 16,
+        "measure": "ounce",
+        "food": "cream cheese",
+        "weight": 453.59237,
+        "foodCategory": "Cheese",
+        "foodId": "food_a7rvc49a09a7yjbq3ekjbbauyoqa",
+        "image": "https://www.edamam.com/food-img/ddd/dddce306e7ee41e8e07dc62e28cab94b.jpg"
+      },
+      {
+        "text": "3 tablespoons whole milk",
+        "quantity": 3,
+        "measure": "tablespoon",
+        "food": "whole milk",
+        "weight": 45,
+        "foodCategory": "Milk",
+        "foodId": "food_b49rs1kaw0jktabzkg2vvanvvsis",
+        "image": "https://www.edamam.com/food-img/7c9/7c9962acf83654a8d98ea6a2ade93735.jpg"
+      },
+      {
+        "text": "4 ounces thinly sliced smoked salmon, cut into 1/2-inch pieces",
+        "quantity": 4,
+        "measure": "ounce",
+        "food": "smoked salmon",
+        "weight": 113.3980925,
+        "foodCategory": "seafood",
+        "foodId": "food_a6rqub2a7zak4tb5v5s1saf99j1b",
+        "image": "https://www.edamam.com/food-img/c91/c918b85b824c85e231e13a2b831d6d18.gif"
+      },
+      {
+        "text": "2 tablespoons chopped fresh chives",
+        "quantity": 2,
+        "measure": "tablespoon",
+        "food": "chives",
+        "weight": 6,
+        "foodCategory": "vegetables",
+        "foodId": "food_btg1uzjak79lawbirsitkaeai60l",
+        "image": "https://www.edamam.com/food-img/f3f/f3f48643a924ba174b894e979cb48620.jpg"
+      },
+      {
+        "text": "1 2-ounce jar red salmon caviar",
+        "quantity": 2,
+        "measure": "ounce",
+        "food": "caviar",
+        "weight": 56.69904625,
+        "foodCategory": "seafood",
+        "foodId": "food_ax30sb5a5hiz7jb0nnszdb7131v4",
+        "image": "https://www.edamam.com/food-img/0b2/0b2ed2808d5e115b3cb3e57035d1ba91.jpg"
+      }
+    ],
+    "uri": "http://www.edamam.com/ontologies/edamam.owl#recipe_30c5633cd4c2d4f6dc2dc909f52407c1",
+    "image": "https://edamam-product-images.s3.amazonaws.com/web-img/136/13607924f6b4ef399f38dd134ad350ed.jpg?X-Amz-Security-Token=IQoJb3JpZ2luX2VjEGoaCXVzLWVhc3QtMSJHMEUCIFIil1jd5NHOSvMOKXmiga%2F7CRpL9SqT90pjzpQvMpS1AiEA9ABMxynDIYnPNFSoTb7ZMBckcrDLvv4e6dtYzK1N0iIqwgUIs%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FARAAGgwxODcwMTcxNTA5ODYiDJ0JUiSQioeZN09KpyqWBVe1sbdKBl4lqNSDGR5UVO8dIqqE5WJuXebdX3lZD4OaGW51LWKTCCXZuBKs2ISuKPh91m2%2BsZ6ktPbGE2AhkybcxwieCVK%2BK7l84Bj24ywSDZsP1yn%2FPQvPSOPdtnqKR68nmtPicbTTb2iN1fNYmLpy0S%2FnwrF8mkwdmHhvUaEbcAUyjMHohThRkgvTO7TCgSpOGWKVTQEFsLHvsgi4bWMGi1ZtCdznqWdnvOSGhPIQKiLCFUVTI1oRtogKh0lqCDL4eD4Xt5720oaytX%2FzK60NnLdU6s2vGCG9kL1rEzM1fp%2FYqaRoi9XQXp3hj79AyZsUJuPSW2wBsyauTTAprw9V0oSJ%2BkgyFsGc7Ge21I74u8u%2BUNk7NGsVmUYeMeKK6TI%2B0Rjmc6gRjNT%2FzDhfv7vJG7pMLWR%2FOUMWNa9yQUISZ8lh6vjj0kkFOzMlze5lBdHr%2FnWvNqWN3MkH70GXWEsIEh43bVc1guPIoprq%2Bu47idhxaAzP1HurGLQr7p64dzS9lpwPYzY6lcy%2FURRoDKTRQG4E%2FCEP5VCwURQtf7DgsBTBfS1SBxALeyc8mv8DNadhiSKCTJIn%2BIy5cJE6p56IH%2FPy%2BLDoFKWBjEyTq%2B485casZ1GZkBnH8U522cCwhIpNLcykX%2F4wNUr86O6r5UklISiFuq1Fd0yu9W3z6zJUJ4XVYRI9130kMvqmT%2FWXqW8YAlY3uDF32GhawMfgb7KSBBrnSCeHfWshej%2BfYfsb%2FLLReGZxgMPqGgbsfZYqxDpHj6ybFJVzSw6l8QriLDoi8oT9adjEPELXp0rV5YgcHAyQDtWXjZ99CXlSqj0bLUoeo8aQQjTT8V8rzygz0yXkostwb4FyfVN5cyxFoE1S0FloEdNSMKW24KoGOrEBFDB4UqY3hmGXzAo%2Bg1EAXCZSzy18Zg6aqXEnnaM9l2m9b6ZdoEhKpA3zaGpQeiK72d9loW2TJU%2FxVT11CkQoWJnc5vc%2BvEAEWhFcrNhGRjVyEL68aqO6lD%2FuH94JxctuAJ2UWf%2BJsGDngPUA01yn%2B8aRAjoZ6PyU1JWIWSrw9CbhMr8XDOwYorTcKjT1xK76ZXfjU6C%2FWO%2BB8Ahq6zvqxZM3%2F4GQPiRkwzYuKPC78a5%2B&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Date=20231118T025713Z&X-Amz-SignedHeaders=host&X-Amz-Expires=3600&X-Amz-Credential=ASIASXCYXIIFLO2MWB7Q%2F20231118%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Signature=192101d25c706a9902df835adca4619194b34e74bfef01b6fb4929b030aa0df8",
+    "source": "Epicurious",
+    "shareAs": "http://www.edamam.com/recipe/double-salmon-dip-30c5633cd4c2d4f6dc2dc909f52407c1/salmon",
+    "yield": 6,
+    "dietLabels": [
+      "Low-Carb"
+    ],
+    "healthLabels": [
+      "Sugar-Conscious",
+      "Keto-Friendly",
+      "Pescatarian",
+      "Mediterranean",
+      "Gluten-Free",
+      "Wheat-Free",
+      "Egg-Free",
+      "Peanut-Free",
+      "Tree-Nut-Free",
+      "Soy-Free",
+      "Shellfish-Free",
+      "Pork-Free",
+      "Red-Meat-Free",
+      "Crustacean-Free",
+      "Celery-Free",
+      "Mustard-Free",
+      "Sesame-Free",
+      "Lupine-Free",
+      "Mollusk-Free",
+      "Alcohol-Free",
+      "No oil added",
+      "Sulfite-Free"
+    ],
+    "cautions": [
+      "Sulfites"
+    ],
+    "ingredientLines": [
+      "2 8-ounce containers whipped cream cheese",
+      "3 tablespoons whole milk",
+      "4 ounces thinly sliced smoked salmon, cut into 1/2-inch pieces",
+      "2 tablespoons chopped fresh chives",
+      "1 2-ounce jar red salmon caviar"
+    ],
+    "calories": 1899.184545325,
+    "totalWeight": 674.6895087500001,
+    "totalTime": 0,
+    "cuisineType": [
+      "nordic"
+    ],
+    "mealType": [
+      "lunch/dinner"
+    ],
+    "dishType": [
+      "condiments and sauces"
+    ]
+  },
+  {
+    "label": "Roasted Salmon",
+    "url": "http://www.marthastewart.com/315526/roasted-salmon",
+    "ingredients": [
+      {
+        "text": "1 1/2 tablespoons olive oil",
+        "quantity": 1.5,
+        "measure": "tablespoon",
+        "food": "olive oil",
+        "weight": 20.25,
+        "foodCategory": "Oils",
+        "foodId": "food_b1d1icuad3iktrbqby0hiagafaz7",
+        "image": "https://www.edamam.com/food-img/4d6/4d651eaa8a353647746290c7a9b29d84.jpg"
+      },
+      {
+        "text": "1 tablespoon tamari or soy sauce",
+        "quantity": 1,
+        "measure": "tablespoon",
+        "food": "soy sauce",
+        "weight": 16,
+        "foodCategory": "plant-based protein",
+        "foodId": "food_a5g9yevb1iactoaiimbvjbkrxueh",
+        "image": "https://www.edamam.com/food-img/f56/f562e461eb0618f367f538b836c17b82.jpg"
+      },
+      {
+        "text": "Course salt and freshly ground black pepper",
+        "quantity": 0,
+        "measure": null,
+        "food": "salt",
+        "weight": 2.93905422,
+        "foodCategory": "Condiments and sauces",
+        "foodId": "food_btxz81db72hwbra2pncvebzzzum9",
+        "image": "https://www.edamam.com/food-img/694/6943ea510918c6025795e8dc6e6eaaeb.jpg"
+      },
+      {
+        "text": "Course salt and freshly ground black pepper",
+        "quantity": 0,
+        "measure": null,
+        "food": "black pepper",
+        "weight": 1.46952711,
+        "foodCategory": "Condiments and sauces",
+        "foodId": "food_b6ywzluaaxv02wad7s1r9ag4py89",
+        "image": "https://www.edamam.com/food-img/c6e/c6e5c3bd8d3bc15175d9766971a4d1b2.jpg"
+      },
+      {
+        "text": "1 pound salmon fillet, skin on",
+        "quantity": 1,
+        "measure": "pound",
+        "food": "salmon",
+        "weight": 453.59237,
+        "foodCategory": "seafood",
+        "foodId": "food_bhncugnadgibupafbeeapbislbom",
+        "image": "https://www.edamam.com/food-img/9a0/9a0f38422e9f21dcedbc2dca0d8209ac.jpg"
+      }
+    ],
+    "uri": "http://www.edamam.com/ontologies/edamam.owl#recipe_f6dff627c11f2019da255c3036412c87",
+    "image": "https://edamam-product-images.s3.amazonaws.com/web-img/5b0/5b03e74a5257172a689c73c8d6318f81.jpg?X-Amz-Security-Token=IQoJb3JpZ2luX2VjEGoaCXVzLWVhc3QtMSJHMEUCIFIil1jd5NHOSvMOKXmiga%2F7CRpL9SqT90pjzpQvMpS1AiEA9ABMxynDIYnPNFSoTb7ZMBckcrDLvv4e6dtYzK1N0iIqwgUIs%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FARAAGgwxODcwMTcxNTA5ODYiDJ0JUiSQioeZN09KpyqWBVe1sbdKBl4lqNSDGR5UVO8dIqqE5WJuXebdX3lZD4OaGW51LWKTCCXZuBKs2ISuKPh91m2%2BsZ6ktPbGE2AhkybcxwieCVK%2BK7l84Bj24ywSDZsP1yn%2FPQvPSOPdtnqKR68nmtPicbTTb2iN1fNYmLpy0S%2FnwrF8mkwdmHhvUaEbcAUyjMHohThRkgvTO7TCgSpOGWKVTQEFsLHvsgi4bWMGi1ZtCdznqWdnvOSGhPIQKiLCFUVTI1oRtogKh0lqCDL4eD4Xt5720oaytX%2FzK60NnLdU6s2vGCG9kL1rEzM1fp%2FYqaRoi9XQXp3hj79AyZsUJuPSW2wBsyauTTAprw9V0oSJ%2BkgyFsGc7Ge21I74u8u%2BUNk7NGsVmUYeMeKK6TI%2B0Rjmc6gRjNT%2FzDhfv7vJG7pMLWR%2FOUMWNa9yQUISZ8lh6vjj0kkFOzMlze5lBdHr%2FnWvNqWN3MkH70GXWEsIEh43bVc1guPIoprq%2Bu47idhxaAzP1HurGLQr7p64dzS9lpwPYzY6lcy%2FURRoDKTRQG4E%2FCEP5VCwURQtf7DgsBTBfS1SBxALeyc8mv8DNadhiSKCTJIn%2BIy5cJE6p56IH%2FPy%2BLDoFKWBjEyTq%2B485casZ1GZkBnH8U522cCwhIpNLcykX%2F4wNUr86O6r5UklISiFuq1Fd0yu9W3z6zJUJ4XVYRI9130kMvqmT%2FWXqW8YAlY3uDF32GhawMfgb7KSBBrnSCeHfWshej%2BfYfsb%2FLLReGZxgMPqGgbsfZYqxDpHj6ybFJVzSw6l8QriLDoi8oT9adjEPELXp0rV5YgcHAyQDtWXjZ99CXlSqj0bLUoeo8aQQjTT8V8rzygz0yXkostwb4FyfVN5cyxFoE1S0FloEdNSMKW24KoGOrEBFDB4UqY3hmGXzAo%2Bg1EAXCZSzy18Zg6aqXEnnaM9l2m9b6ZdoEhKpA3zaGpQeiK72d9loW2TJU%2FxVT11CkQoWJnc5vc%2BvEAEWhFcrNhGRjVyEL68aqO6lD%2FuH94JxctuAJ2UWf%2BJsGDngPUA01yn%2B8aRAjoZ6PyU1JWIWSrw9CbhMr8XDOwYorTcKjT1xK76ZXfjU6C%2FWO%2BB8Ahq6zvqxZM3%2F4GQPiRkwzYuKPC78a5%2B&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Date=20231118T025713Z&X-Amz-SignedHeaders=host&X-Amz-Expires=3600&X-Amz-Credential=ASIASXCYXIIFLO2MWB7Q%2F20231118%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Signature=fc62887b8409a07f938e46a21163b8b796e4b467011e8ea23c4c618ce2d26f9a",
+    "source": "Martha Stewart",
+    "shareAs": "http://www.edamam.com/recipe/roasted-salmon-f6dff627c11f2019da255c3036412c87/salmon",
+    "yield": 4,
+    "dietLabels": [
+      "Low-Carb"
+    ],
+    "healthLabels": [
+      "Sugar-Conscious",
+      "Keto-Friendly",
+      "Pescatarian",
+      "Mediterranean",
+      "Dairy-Free",
+      "Egg-Free",
+      "Peanut-Free",
+      "Tree-Nut-Free",
+      "Shellfish-Free",
+      "Pork-Free",
+      "Red-Meat-Free",
+      "Crustacean-Free",
+      "Celery-Free",
+      "Mustard-Free",
+      "Sesame-Free",
+      "Lupine-Free",
+      "Mollusk-Free",
+      "Alcohol-Free"
+    ],
+    "cautions": [],
+    "ingredientLines": [
+      "1 1/2 tablespoons olive oil",
+      "1 tablespoon tamari or soy sauce",
+      "Course salt and freshly ground black pepper",
+      "1 pound salmon fillet, skin on"
+    ],
+    "calories": 1134.6506426461,
+    "totalWeight": 491.31189711,
+    "totalTime": 242,
+    "cuisineType": [
+      "nordic"
+    ],
+    "mealType": [
+      "lunch/dinner"
+    ],
+    "dishType": [
+      "main course"
+    ]
+  },
+  {
+    "label": "Salmon Ceviche",
+    "url": "https://food52.com/recipes/58133-salmon-ceviche",
+    "ingredients": [
+      {
+        "text": "1 pound Fresh Salmon",
+        "quantity": 1,
+        "measure": "pound",
+        "food": "Salmon",
+        "weight": 453.59237,
+        "foodCategory": "seafood",
+        "foodId": "food_bhncugnadgibupafbeeapbislbom",
+        "image": "https://www.edamam.com/food-img/9a0/9a0f38422e9f21dcedbc2dca0d8209ac.jpg"
+      },
+      {
+        "text": "10 limes, squeezed",
+        "quantity": 10,
+        "measure": "<unit>",
+        "food": "limes",
+        "weight": 670,
+        "foodCategory": "fruit",
+        "foodId": "food_av58muyb8kg92fbk0g8g8aui5knv",
+        "image": "https://www.edamam.com/food-img/48a/48a123c9576647c4ada6a41df5eeb22a.jpg"
+      },
+      {
+        "text": "1 cup watermelon, cubed",
+        "quantity": 1,
+        "measure": "cup",
+        "food": "watermelon",
+        "weight": 154,
+        "foodCategory": "fruit",
+        "foodId": "food_aom4czfarp4wsxaeshkohaig1ou5",
+        "image": "https://www.edamam.com/food-img/e83/e83c09ce97ecd44e00b8c561ab682202.jpg"
+      },
+      {
+        "text": "1/2 cup cucumber, cubed",
+        "quantity": 0.5,
+        "measure": "cup",
+        "food": "cucumber",
+        "weight": 52,
+        "foodCategory": "vegetables",
+        "foodId": "food_bv7aggjag9rxsaatklqzobca5fzn",
+        "image": "https://www.edamam.com/food-img/501/5015da0e5fc2b384696b3d949aefef86.jpg"
+      },
+      {
+        "text": "1/4 cup pepitas, toasted",
+        "quantity": 0.25,
+        "measure": "cup",
+        "food": "pepitas",
+        "weight": 32.25,
+        "foodCategory": "plant-based protein",
+        "foodId": "food_b1o86grabpts6ta6igfy4a2b1x22",
+        "image": "https://www.edamam.com/food-img/fbd/fbd8c30b003fa93777ffaa2bcdd58db0.jpg"
+      }
+    ],
+    "uri": "http://www.edamam.com/ontologies/edamam.owl#recipe_5af17c95eb08677be4b9ee49f0698b86",
+    "image": "https://edamam-product-images.s3.amazonaws.com/web-img/a33/a332121eaa60a84c93174a5ee54e06b2.jpg?X-Amz-Security-Token=IQoJb3JpZ2luX2VjEGoaCXVzLWVhc3QtMSJHMEUCIFIil1jd5NHOSvMOKXmiga%2F7CRpL9SqT90pjzpQvMpS1AiEA9ABMxynDIYnPNFSoTb7ZMBckcrDLvv4e6dtYzK1N0iIqwgUIs%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FARAAGgwxODcwMTcxNTA5ODYiDJ0JUiSQioeZN09KpyqWBVe1sbdKBl4lqNSDGR5UVO8dIqqE5WJuXebdX3lZD4OaGW51LWKTCCXZuBKs2ISuKPh91m2%2BsZ6ktPbGE2AhkybcxwieCVK%2BK7l84Bj24ywSDZsP1yn%2FPQvPSOPdtnqKR68nmtPicbTTb2iN1fNYmLpy0S%2FnwrF8mkwdmHhvUaEbcAUyjMHohThRkgvTO7TCgSpOGWKVTQEFsLHvsgi4bWMGi1ZtCdznqWdnvOSGhPIQKiLCFUVTI1oRtogKh0lqCDL4eD4Xt5720oaytX%2FzK60NnLdU6s2vGCG9kL1rEzM1fp%2FYqaRoi9XQXp3hj79AyZsUJuPSW2wBsyauTTAprw9V0oSJ%2BkgyFsGc7Ge21I74u8u%2BUNk7NGsVmUYeMeKK6TI%2B0Rjmc6gRjNT%2FzDhfv7vJG7pMLWR%2FOUMWNa9yQUISZ8lh6vjj0kkFOzMlze5lBdHr%2FnWvNqWN3MkH70GXWEsIEh43bVc1guPIoprq%2Bu47idhxaAzP1HurGLQr7p64dzS9lpwPYzY6lcy%2FURRoDKTRQG4E%2FCEP5VCwURQtf7DgsBTBfS1SBxALeyc8mv8DNadhiSKCTJIn%2BIy5cJE6p56IH%2FPy%2BLDoFKWBjEyTq%2B485casZ1GZkBnH8U522cCwhIpNLcykX%2F4wNUr86O6r5UklISiFuq1Fd0yu9W3z6zJUJ4XVYRI9130kMvqmT%2FWXqW8YAlY3uDF32GhawMfgb7KSBBrnSCeHfWshej%2BfYfsb%2FLLReGZxgMPqGgbsfZYqxDpHj6ybFJVzSw6l8QriLDoi8oT9adjEPELXp0rV5YgcHAyQDtWXjZ99CXlSqj0bLUoeo8aQQjTT8V8rzygz0yXkostwb4FyfVN5cyxFoE1S0FloEdNSMKW24KoGOrEBFDB4UqY3hmGXzAo%2Bg1EAXCZSzy18Zg6aqXEnnaM9l2m9b6ZdoEhKpA3zaGpQeiK72d9loW2TJU%2FxVT11CkQoWJnc5vc%2BvEAEWhFcrNhGRjVyEL68aqO6lD%2FuH94JxctuAJ2UWf%2BJsGDngPUA01yn%2B8aRAjoZ6PyU1JWIWSrw9CbhMr8XDOwYorTcKjT1xK76ZXfjU6C%2FWO%2BB8Ahq6zvqxZM3%2F4GQPiRkwzYuKPC78a5%2B&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Date=20231118T025713Z&X-Amz-SignedHeaders=host&X-Amz-Expires=3599&X-Amz-Credential=ASIASXCYXIIFLO2MWB7Q%2F20231118%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Signature=2325a96d7bb11886743fea8018cebc4bb2ac2ed9256e9d896e447756b71cee08",
+    "source": "Food52",
+    "shareAs": "http://www.edamam.com/recipe/salmon-ceviche-5af17c95eb08677be4b9ee49f0698b86/salmon",
+    "yield": 4,
+    "dietLabels": [
+      "High-Fiber",
+      "Low-Carb",
+      "Low-Sodium"
+    ],
+    "healthLabels": [
+      "Pescatarian",
+      "Paleo",
+      "Mediterranean",
+      "DASH",
+      "Dairy-Free",
+      "Gluten-Free",
+      "Wheat-Free",
+      "Egg-Free",
+      "Peanut-Free",
+      "Tree-Nut-Free",
+      "Soy-Free",
+      "Shellfish-Free",
+      "Pork-Free",
+      "Red-Meat-Free",
+      "Crustacean-Free",
+      "Celery-Free",
+      "Mustard-Free",
+      "Sesame-Free",
+      "Lupine-Free",
+      "Mollusk-Free",
+      "Alcohol-Free",
+      "No oil added",
+      "Sulfite-Free"
+    ],
+    "cautions": [
+      "Sulfites"
+    ],
+    "ingredientLines": [
+      "1 pound Fresh Salmon",
+      "10 limes, squeezed",
+      "1 cup watermelon, cubed",
+      "1/2 cup cucumber, cubed",
+      "1/4 cup pepitas, toasted"
+    ],
+    "calories": 1378.7496296000002,
+    "totalWeight": 1361.84237,
+    "totalTime": 0,
+    "cuisineType": [
+      "nordic"
+    ],
+    "mealType": [
+      "lunch/dinner"
+    ],
+    "dishType": [
+      "main course"
+    ]
+  },
+  {
+    "label": "Quick Meal - Paprika Roasted Salmon",
+    "url": "http://honestcooking.com/quick-meal-paprika-roasted-salmon/",
+    "ingredients": [
+      {
+        "text": "2 (130g or thereabouts) salmon fillets",
+        "quantity": 2,
+        "measure": "fillet",
+        "food": "salmon",
+        "weight": 792,
+        "foodCategory": "seafood",
+        "foodId": "food_bhncugnadgibupafbeeapbislbom",
+        "image": "https://www.edamam.com/food-img/9a0/9a0f38422e9f21dcedbc2dca0d8209ac.jpg"
+      },
+      {
+        "text": "1 tbsp olive oil, plus extra",
+        "quantity": 1,
+        "measure": "tablespoon",
+        "food": "olive oil",
+        "weight": 13.5,
+        "foodCategory": "Oils",
+        "foodId": "food_b1d1icuad3iktrbqby0hiagafaz7",
+        "image": "https://www.edamam.com/food-img/4d6/4d651eaa8a353647746290c7a9b29d84.jpg"
+      },
+      {
+        "text": "1 tbsp smoky paprika",
+        "quantity": 1,
+        "measure": "tablespoon",
+        "food": "paprika",
+        "weight": 6.8,
+        "foodCategory": "Condiments and sauces",
+        "foodId": "food_a9dpcnjb883g67b3lq82ca0421ql",
+        "image": "https://www.edamam.com/food-img/474/474d63763b9d8b9da98c5f43a114648c.jpg"
+      }
+    ],
+    "uri": "http://www.edamam.com/ontologies/edamam.owl#recipe_45e1d02d1acd368c3576ef01db0a59b8",
+    "image": "https://edamam-product-images.s3.amazonaws.com/web-img/bd5/bd50b9c0ea8b7580b5cbba60522be57f.jpg?X-Amz-Security-Token=IQoJb3JpZ2luX2VjEGoaCXVzLWVhc3QtMSJHMEUCIFIil1jd5NHOSvMOKXmiga%2F7CRpL9SqT90pjzpQvMpS1AiEA9ABMxynDIYnPNFSoTb7ZMBckcrDLvv4e6dtYzK1N0iIqwgUIs%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FARAAGgwxODcwMTcxNTA5ODYiDJ0JUiSQioeZN09KpyqWBVe1sbdKBl4lqNSDGR5UVO8dIqqE5WJuXebdX3lZD4OaGW51LWKTCCXZuBKs2ISuKPh91m2%2BsZ6ktPbGE2AhkybcxwieCVK%2BK7l84Bj24ywSDZsP1yn%2FPQvPSOPdtnqKR68nmtPicbTTb2iN1fNYmLpy0S%2FnwrF8mkwdmHhvUaEbcAUyjMHohThRkgvTO7TCgSpOGWKVTQEFsLHvsgi4bWMGi1ZtCdznqWdnvOSGhPIQKiLCFUVTI1oRtogKh0lqCDL4eD4Xt5720oaytX%2FzK60NnLdU6s2vGCG9kL1rEzM1fp%2FYqaRoi9XQXp3hj79AyZsUJuPSW2wBsyauTTAprw9V0oSJ%2BkgyFsGc7Ge21I74u8u%2BUNk7NGsVmUYeMeKK6TI%2B0Rjmc6gRjNT%2FzDhfv7vJG7pMLWR%2FOUMWNa9yQUISZ8lh6vjj0kkFOzMlze5lBdHr%2FnWvNqWN3MkH70GXWEsIEh43bVc1guPIoprq%2Bu47idhxaAzP1HurGLQr7p64dzS9lpwPYzY6lcy%2FURRoDKTRQG4E%2FCEP5VCwURQtf7DgsBTBfS1SBxALeyc8mv8DNadhiSKCTJIn%2BIy5cJE6p56IH%2FPy%2BLDoFKWBjEyTq%2B485casZ1GZkBnH8U522cCwhIpNLcykX%2F4wNUr86O6r5UklISiFuq1Fd0yu9W3z6zJUJ4XVYRI9130kMvqmT%2FWXqW8YAlY3uDF32GhawMfgb7KSBBrnSCeHfWshej%2BfYfsb%2FLLReGZxgMPqGgbsfZYqxDpHj6ybFJVzSw6l8QriLDoi8oT9adjEPELXp0rV5YgcHAyQDtWXjZ99CXlSqj0bLUoeo8aQQjTT8V8rzygz0yXkostwb4FyfVN5cyxFoE1S0FloEdNSMKW24KoGOrEBFDB4UqY3hmGXzAo%2Bg1EAXCZSzy18Zg6aqXEnnaM9l2m9b6ZdoEhKpA3zaGpQeiK72d9loW2TJU%2FxVT11CkQoWJnc5vc%2BvEAEWhFcrNhGRjVyEL68aqO6lD%2FuH94JxctuAJ2UWf%2BJsGDngPUA01yn%2B8aRAjoZ6PyU1JWIWSrw9CbhMr8XDOwYorTcKjT1xK76ZXfjU6C%2FWO%2BB8Ahq6zvqxZM3%2F4GQPiRkwzYuKPC78a5%2B&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Date=20231118T025713Z&X-Amz-SignedHeaders=host&X-Amz-Expires=3600&X-Amz-Credential=ASIASXCYXIIFLO2MWB7Q%2F20231118%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Signature=c49f4bbe77fb5f5edef913b5a82cd83fb0a6ae0300cff32fa22a5d2f94c55969",
+    "source": "Honest Cooking",
+    "shareAs": "http://www.edamam.com/recipe/quick-meal-paprika-roasted-salmon-45e1d02d1acd368c3576ef01db0a59b8/salmon",
+    "yield": 2,
+    "dietLabels": [
+      "Low-Carb"
+    ],
+    "healthLabels": [
+      "Sugar-Conscious",
+      "Keto-Friendly",
+      "Pescatarian",
+      "Paleo",
+      "Mediterranean",
+      "DASH",
+      "Dairy-Free",
+      "Gluten-Free",
+      "Wheat-Free",
+      "Egg-Free",
+      "Peanut-Free",
+      "Tree-Nut-Free",
+      "Soy-Free",
+      "Shellfish-Free",
+      "Pork-Free",
+      "Red-Meat-Free",
+      "Crustacean-Free",
+      "Celery-Free",
+      "Mustard-Free",
+      "Sesame-Free",
+      "Lupine-Free",
+      "Mollusk-Free",
+      "Alcohol-Free",
+      "Sulfite-Free",
+      "FODMAP-Free"
+    ],
+    "cautions": [],
+    "ingredientLines": [
+      "For the oven-baked paprika salmon:",
+      "2 (130g or thereabouts) salmon fillets",
+      "1 tbsp olive oil, plus extra",
+      "1 tbsp smoky paprika",
+      "(2 vines of truss cherry tomatoes)"
+    ],
+    "calories": 1785.8759999999997,
+    "totalWeight": 812.3,
+    "totalTime": 20,
+    "cuisineType": [
+      "nordic"
+    ],
+    "mealType": [
+      "lunch/dinner"
+    ],
+    "dishType": [
+      "main course"
+    ]
+  },
+  {
+    "label": "Salmon Spread",
+    "url": "http://simplyrecipes.com/recipes/salmon_spread/",
+    "ingredients": [
+      {
+        "text": "8 ounces skinless salmon fillet",
+        "quantity": 8,
+        "measure": "ounce",
+        "food": "salmon",
+        "weight": 226.796185,
+        "foodCategory": "seafood",
+        "foodId": "food_bhncugnadgibupafbeeapbislbom",
+        "image": "https://www.edamam.com/food-img/9a0/9a0f38422e9f21dcedbc2dca0d8209ac.jpg"
+      },
+      {
+        "text": "8 ounces smoked salmon, finely chopped",
+        "quantity": 8,
+        "measure": "ounce",
+        "food": "smoked salmon",
+        "weight": 226.796185,
+        "foodCategory": "seafood",
+        "foodId": "food_a6rqub2a7zak4tb5v5s1saf99j1b",
+        "image": "https://www.edamam.com/food-img/c91/c918b85b824c85e231e13a2b831d6d18.gif"
+      },
+      {
+        "text": "1 teaspoon of grated lemon peel",
+        "quantity": 1,
+        "measure": "teaspoon",
+        "food": "lemon peel",
+        "weight": 2,
+        "foodCategory": "fruit",
+        "foodId": "food_bpg66j3a5vjuuga36uiiyaqeazpd",
+        "image": "https://www.edamam.com/food-img/540/5405605c8e9b284243f06c0b1587ab6f.jpg"
+      },
+      {
+        "text": "2 Tbsp of lemon juice",
+        "quantity": 2,
+        "measure": "tablespoon",
+        "food": "lemon juice",
+        "weight": 30.4999999994844,
+        "foodCategory": "100% juice",
+        "foodId": "food_bglm6vxahuauteb0n6ynfbg9eryu",
+        "image": "https://www.edamam.com/food-img/e31/e310952d214e78a4cb8b73f30ceeaaf2.jpg"
+      },
+      {
+        "text": "1 teaspoon Dijon mustard",
+        "quantity": 1,
+        "measure": "teaspoon",
+        "food": "Dijon mustard",
+        "weight": 5,
+        "foodCategory": "Condiments and sauces",
+        "foodId": "food_a34cdj5b0kyuhfbov30xcb50u4dv",
+        "image": "https://www.edamam.com/food-img/e23/e238f2e4cfa6aa1a30f46dc73e7344eb.jpg"
+      },
+      {
+        "text": "2 tablespoons plus 1 teaspoon chopped fresh chives",
+        "quantity": 2,
+        "measure": "tablespoon",
+        "food": "chives",
+        "weight": 6,
+        "foodCategory": "vegetables",
+        "foodId": "food_btg1uzjak79lawbirsitkaeai60l",
+        "image": "https://www.edamam.com/food-img/f3f/f3f48643a924ba174b894e979cb48620.jpg"
+      },
+      {
+        "text": "2 tablespoons plus 1 teaspoon chopped fresh chives",
+        "quantity": 1,
+        "measure": "teaspoon",
+        "food": "chives",
+        "weight": 1,
+        "foodCategory": "vegetables",
+        "foodId": "food_btg1uzjak79lawbirsitkaeai60l",
+        "image": "https://www.edamam.com/food-img/f3f/f3f48643a924ba174b894e979cb48620.jpg"
+      },
+      {
+        "text": "1/8 teaspoon coarsely ground black pepper",
+        "quantity": 0.125,
+        "measure": "teaspoon",
+        "food": "black pepper",
+        "weight": 0.2875,
+        "foodCategory": "Condiments and sauces",
+        "foodId": "food_b6ywzluaaxv02wad7s1r9ag4py89",
+        "image": "https://www.edamam.com/food-img/c6e/c6e5c3bd8d3bc15175d9766971a4d1b2.jpg"
+      },
+      {
+        "text": "1 teaspoon drained capers, chopped",
+        "quantity": 1,
+        "measure": "teaspoon",
+        "food": "capers",
+        "weight": 2.8666666668605334,
+        "foodCategory": "Condiments and sauces",
+        "foodId": "food_ak4s9lna3rmnfeaz93ni0blu823w",
+        "image": "https://www.edamam.com/food-img/627/627582f390a350d98c367f89c3a943fe.jpg"
+      },
+      {
+        "text": "1/2 cup butter (1 stick), softened",
+        "quantity": 1,
+        "measure": "stick",
+        "food": "butter",
+        "weight": 113,
+        "foodCategory": "Dairy",
+        "foodId": "food_awz3iefajbk1fwahq9logahmgltj",
+        "image": "https://www.edamam.com/food-img/713/71397239b670d88c04faa8d05035cab4.jpg"
+      },
+      {
+        "text": "A baguette",
+        "quantity": 1,
+        "measure": "<unit>",
+        "food": "baguette",
+        "weight": 300,
+        "foodCategory": "bread, rolls and tortillas",
+        "foodId": "food_bz1n7y8bupmgp0anvyqmda9dwufz",
+        "image": "https://www.edamam.com/food-img/470/47053c77e167539c64fef3f2a3249bb2.jpg"
+      }
+    ],
+    "uri": "http://www.edamam.com/ontologies/edamam.owl#recipe_43ca00bbec56727bba83a995a5052741",
+    "image": "https://edamam-product-images.s3.amazonaws.com/web-img/9a8/9a85ea021fb2262bbf12e8ec460f4757.jpg?X-Amz-Security-Token=IQoJb3JpZ2luX2VjEGoaCXVzLWVhc3QtMSJHMEUCIFIil1jd5NHOSvMOKXmiga%2F7CRpL9SqT90pjzpQvMpS1AiEA9ABMxynDIYnPNFSoTb7ZMBckcrDLvv4e6dtYzK1N0iIqwgUIs%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FARAAGgwxODcwMTcxNTA5ODYiDJ0JUiSQioeZN09KpyqWBVe1sbdKBl4lqNSDGR5UVO8dIqqE5WJuXebdX3lZD4OaGW51LWKTCCXZuBKs2ISuKPh91m2%2BsZ6ktPbGE2AhkybcxwieCVK%2BK7l84Bj24ywSDZsP1yn%2FPQvPSOPdtnqKR68nmtPicbTTb2iN1fNYmLpy0S%2FnwrF8mkwdmHhvUaEbcAUyjMHohThRkgvTO7TCgSpOGWKVTQEFsLHvsgi4bWMGi1ZtCdznqWdnvOSGhPIQKiLCFUVTI1oRtogKh0lqCDL4eD4Xt5720oaytX%2FzK60NnLdU6s2vGCG9kL1rEzM1fp%2FYqaRoi9XQXp3hj79AyZsUJuPSW2wBsyauTTAprw9V0oSJ%2BkgyFsGc7Ge21I74u8u%2BUNk7NGsVmUYeMeKK6TI%2B0Rjmc6gRjNT%2FzDhfv7vJG7pMLWR%2FOUMWNa9yQUISZ8lh6vjj0kkFOzMlze5lBdHr%2FnWvNqWN3MkH70GXWEsIEh43bVc1guPIoprq%2Bu47idhxaAzP1HurGLQr7p64dzS9lpwPYzY6lcy%2FURRoDKTRQG4E%2FCEP5VCwURQtf7DgsBTBfS1SBxALeyc8mv8DNadhiSKCTJIn%2BIy5cJE6p56IH%2FPy%2BLDoFKWBjEyTq%2B485casZ1GZkBnH8U522cCwhIpNLcykX%2F4wNUr86O6r5UklISiFuq1Fd0yu9W3z6zJUJ4XVYRI9130kMvqmT%2FWXqW8YAlY3uDF32GhawMfgb7KSBBrnSCeHfWshej%2BfYfsb%2FLLReGZxgMPqGgbsfZYqxDpHj6ybFJVzSw6l8QriLDoi8oT9adjEPELXp0rV5YgcHAyQDtWXjZ99CXlSqj0bLUoeo8aQQjTT8V8rzygz0yXkostwb4FyfVN5cyxFoE1S0FloEdNSMKW24KoGOrEBFDB4UqY3hmGXzAo%2Bg1EAXCZSzy18Zg6aqXEnnaM9l2m9b6ZdoEhKpA3zaGpQeiK72d9loW2TJU%2FxVT11CkQoWJnc5vc%2BvEAEWhFcrNhGRjVyEL68aqO6lD%2FuH94JxctuAJ2UWf%2BJsGDngPUA01yn%2B8aRAjoZ6PyU1JWIWSrw9CbhMr8XDOwYorTcKjT1xK76ZXfjU6C%2FWO%2BB8Ahq6zvqxZM3%2F4GQPiRkwzYuKPC78a5%2B&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Date=20231118T025713Z&X-Amz-SignedHeaders=host&X-Amz-Expires=3600&X-Amz-Credential=ASIASXCYXIIFLO2MWB7Q%2F20231118%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Signature=c378048dc7143ba8aa32f7d61427198a61653505f50fc38c7b616d075fc084a3",
+    "source": "Simply Recipes",
+    "shareAs": "http://www.edamam.com/recipe/salmon-spread-43ca00bbec56727bba83a995a5052741/salmon",
+    "yield": 10,
+    "dietLabels": [],
+    "healthLabels": [
+      "Sugar-Conscious",
+      "Kidney-Friendly",
+      "Pescatarian",
+      "Egg-Free",
+      "Peanut-Free",
+      "Tree-Nut-Free",
+      "Soy-Free",
+      "Shellfish-Free",
+      "Pork-Free",
+      "Red-Meat-Free",
+      "Crustacean-Free",
+      "Celery-Free",
+      "Sesame-Free",
+      "Lupine-Free",
+      "Mollusk-Free",
+      "Alcohol-Free",
+      "Sulfite-Free"
+    ],
+    "cautions": [
+      "Sulfites"
+    ],
+    "ingredientLines": [
+      "8 ounces skinless salmon fillet",
+      "8 ounces smoked salmon, finely chopped",
+      "1 teaspoon of grated lemon peel",
+      "2 Tbsp of lemon juice",
+      "1 teaspoon Dijon mustard",
+      "2 tablespoons plus 1 teaspoon chopped fresh chives",
+      "1/8 teaspoon coarsely ground black pepper",
+      "1 teaspoon drained capers, chopped",
+      "1/2 cup butter (1 stick), softened",
+      "A baguette"
+    ],
+    "calories": 2377.4285595832644,
+    "totalWeight": 914.2465366663449,
+    "totalTime": 0,
+    "cuisineType": [
+      "nordic"
+    ],
+    "mealType": [
+      "lunch/dinner"
+    ],
+    "dishType": [
+      "sandwiches"
+    ]
+  },
+  {
+    "label": "Salmon Rillettes Recipe",
+    "url": "http://www.foodrepublic.com/2014/07/29/salmon-rillettes-recipe",
+    "ingredients": [
+      {
+        "text": "1 baguette, thinly sliced and toasted",
+        "quantity": 1,
+        "measure": "<unit>",
+        "food": "baguette",
+        "weight": 300,
+        "foodCategory": "bread, rolls and tortillas",
+        "foodId": "food_bz1n7y8bupmgp0anvyqmda9dwufz",
+        "image": "https://www.edamam.com/food-img/470/47053c77e167539c64fef3f2a3249bb2.jpg"
+      },
+      {
+        "text": "1 pound salmon, bones removed",
+        "quantity": 1,
+        "measure": "pound",
+        "food": "salmon",
+        "weight": 453.59237,
+        "foodCategory": "seafood",
+        "foodId": "food_bhncugnadgibupafbeeapbislbom",
+        "image": "https://www.edamam.com/food-img/9a0/9a0f38422e9f21dcedbc2dca0d8209ac.jpg"
+      },
+      {
+        "text": "1 tablespoon olive oil",
+        "quantity": 1,
+        "measure": "tablespoon",
+        "food": "olive oil",
+        "weight": 13.5,
+        "foodCategory": "Oils",
+        "foodId": "food_b1d1icuad3iktrbqby0hiagafaz7",
+        "image": "https://www.edamam.com/food-img/4d6/4d651eaa8a353647746290c7a9b29d84.jpg"
+      },
+      {
+        "text": "kosher salt",
+        "quantity": 0,
+        "measure": null,
+        "food": "kosher salt",
+        "weight": 10.289531180998454,
+        "foodCategory": "Condiments and sauces",
+        "foodId": "food_a1vgrj1bs8rd1majvmd9ubz8ttkg",
+        "image": "https://www.edamam.com/food-img/694/6943ea510918c6025795e8dc6e6eaaeb.jpg"
+      },
+      {
+        "text": "1 1/2 cups Bridlewood Winery Chardonnay",
+        "quantity": 1.5,
+        "measure": "cup",
+        "food": "Chardonnay",
+        "weight": 351.6,
+        "foodCategory": "wines",
+        "foodId": "food_a4rtygsae20j1nbws00svaw07d4c",
+        "image": "https://www.edamam.com/food-img/de9/de94698005cc49ea0ad6d4fc959b3303.jpg"
+      },
+      {
+        "text": "1 1/2 cups water",
+        "quantity": 1.5,
+        "measure": "cup",
+        "food": "water",
+        "weight": 354.88235475,
+        "foodCategory": "water",
+        "foodId": "food_a99vzubbk1ayrsad318rvbzr3dh0",
+        "image": "https://www.edamam.com/food-img/5dd/5dd9d1361847b2ca53c4b19a8f92627e.jpg"
+      },
+      {
+        "text": "1/4 cup creme fraiche",
+        "quantity": 0.25,
+        "measure": "cup",
+        "food": "creme fraiche",
+        "weight": 56,
+        "foodCategory": "Dairy",
+        "foodId": "food_ayjzu0oak0shbnaeroxs8b6t9uyy",
+        "image": "https://www.edamam.com/food-img/f9d/f9d6183267b041b0aff9a10b89c9c15f.jpg"
+      },
+      {
+        "text": "1 tablespoon lemon juice",
+        "quantity": 1,
+        "measure": "tablespoon",
+        "food": "lemon juice",
+        "weight": 15.2499999997422,
+        "foodCategory": "100% juice",
+        "foodId": "food_bglm6vxahuauteb0n6ynfbg9eryu",
+        "image": "https://www.edamam.com/food-img/e31/e310952d214e78a4cb8b73f30ceeaaf2.jpg"
+      },
+      {
+        "text": "6 ounces smoked salmon, chopped into pieces",
+        "quantity": 6,
+        "measure": "ounce",
+        "food": "smoked salmon",
+        "weight": 170.09713875,
+        "foodCategory": "seafood",
+        "foodId": "food_a6rqub2a7zak4tb5v5s1saf99j1b",
+        "image": "https://www.edamam.com/food-img/c91/c918b85b824c85e231e13a2b831d6d18.gif"
+      },
+      {
+        "text": "white pepper, to taste",
+        "quantity": 0,
+        "measure": null,
+        "food": "pepper",
+        "weight": 5.144765590499227,
+        "foodCategory": "Condiments and sauces",
+        "foodId": "food_b6ywzluaaxv02wad7s1r9ag4py89",
+        "image": "https://www.edamam.com/food-img/c6e/c6e5c3bd8d3bc15175d9766971a4d1b2.jpg"
+      }
+    ],
+    "uri": "http://www.edamam.com/ontologies/edamam.owl#recipe_b5e86e59f9b81a317665b8f9372c3ca9",
+    "image": "https://edamam-product-images.s3.amazonaws.com/web-img/2ba/2ba537e3f687c21ddaaa7a85b3a09d68.jpg?X-Amz-Security-Token=IQoJb3JpZ2luX2VjEGoaCXVzLWVhc3QtMSJHMEUCIFIil1jd5NHOSvMOKXmiga%2F7CRpL9SqT90pjzpQvMpS1AiEA9ABMxynDIYnPNFSoTb7ZMBckcrDLvv4e6dtYzK1N0iIqwgUIs%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FARAAGgwxODcwMTcxNTA5ODYiDJ0JUiSQioeZN09KpyqWBVe1sbdKBl4lqNSDGR5UVO8dIqqE5WJuXebdX3lZD4OaGW51LWKTCCXZuBKs2ISuKPh91m2%2BsZ6ktPbGE2AhkybcxwieCVK%2BK7l84Bj24ywSDZsP1yn%2FPQvPSOPdtnqKR68nmtPicbTTb2iN1fNYmLpy0S%2FnwrF8mkwdmHhvUaEbcAUyjMHohThRkgvTO7TCgSpOGWKVTQEFsLHvsgi4bWMGi1ZtCdznqWdnvOSGhPIQKiLCFUVTI1oRtogKh0lqCDL4eD4Xt5720oaytX%2FzK60NnLdU6s2vGCG9kL1rEzM1fp%2FYqaRoi9XQXp3hj79AyZsUJuPSW2wBsyauTTAprw9V0oSJ%2BkgyFsGc7Ge21I74u8u%2BUNk7NGsVmUYeMeKK6TI%2B0Rjmc6gRjNT%2FzDhfv7vJG7pMLWR%2FOUMWNa9yQUISZ8lh6vjj0kkFOzMlze5lBdHr%2FnWvNqWN3MkH70GXWEsIEh43bVc1guPIoprq%2Bu47idhxaAzP1HurGLQr7p64dzS9lpwPYzY6lcy%2FURRoDKTRQG4E%2FCEP5VCwURQtf7DgsBTBfS1SBxALeyc8mv8DNadhiSKCTJIn%2BIy5cJE6p56IH%2FPy%2BLDoFKWBjEyTq%2B485casZ1GZkBnH8U522cCwhIpNLcykX%2F4wNUr86O6r5UklISiFuq1Fd0yu9W3z6zJUJ4XVYRI9130kMvqmT%2FWXqW8YAlY3uDF32GhawMfgb7KSBBrnSCeHfWshej%2BfYfsb%2FLLReGZxgMPqGgbsfZYqxDpHj6ybFJVzSw6l8QriLDoi8oT9adjEPELXp0rV5YgcHAyQDtWXjZ99CXlSqj0bLUoeo8aQQjTT8V8rzygz0yXkostwb4FyfVN5cyxFoE1S0FloEdNSMKW24KoGOrEBFDB4UqY3hmGXzAo%2Bg1EAXCZSzy18Zg6aqXEnnaM9l2m9b6ZdoEhKpA3zaGpQeiK72d9loW2TJU%2FxVT11CkQoWJnc5vc%2BvEAEWhFcrNhGRjVyEL68aqO6lD%2FuH94JxctuAJ2UWf%2BJsGDngPUA01yn%2B8aRAjoZ6PyU1JWIWSrw9CbhMr8XDOwYorTcKjT1xK76ZXfjU6C%2FWO%2BB8Ahq6zvqxZM3%2F4GQPiRkwzYuKPC78a5%2B&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Date=20231118T025713Z&X-Amz-SignedHeaders=host&X-Amz-Expires=3600&X-Amz-Credential=ASIASXCYXIIFLO2MWB7Q%2F20231118%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Signature=1f9c235057d34953a9b07e297a46f4e1d5c7b000339feed5cee727a1148c01c6",
+    "source": "Food Republic",
+    "shareAs": "http://www.edamam.com/recipe/salmon-rillettes-recipe-b5e86e59f9b81a317665b8f9372c3ca9/salmon",
+    "yield": 6,
+    "dietLabels": [],
+    "healthLabels": [
+      "Sugar-Conscious",
+      "Pescatarian",
+      "Mediterranean",
+      "Egg-Free",
+      "Peanut-Free",
+      "Tree-Nut-Free",
+      "Soy-Free",
+      "Shellfish-Free",
+      "Pork-Free",
+      "Red-Meat-Free",
+      "Crustacean-Free",
+      "Celery-Free",
+      "Mustard-Free",
+      "Sesame-Free",
+      "Lupine-Free",
+      "Mollusk-Free"
+    ],
+    "cautions": [
+      "Sulfites"
+    ],
+    "ingredientLines": [
+      "1 baguette, thinly sliced and toasted",
+      "1 pound salmon, bones removed",
+      "1 tablespoon olive oil",
+      "kosher salt",
+      "1 1/2 cups Bridlewood Winery Chardonnay",
+      "1 1/2 cups water",
+      "1/4 cup creme fraiche",
+      "1 tablespoon lemon juice",
+      "6 ounces smoked salmon, chopped into pieces",
+      "white pepper, to taste"
+    ],
+    "calories": 2500.3181435695965,
+    "totalWeight": 1721.9550866330471,
+    "totalTime": 0,
+    "cuisineType": [
+      "nordic"
+    ],
+    "mealType": [
+      "lunch/dinner"
+    ],
+    "dishType": [
+      "starter"
+    ]
+  }
+]

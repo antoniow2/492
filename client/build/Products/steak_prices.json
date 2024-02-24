@@ -1,0 +1,119 @@
+{
+  "data": [
+    {
+      "productId": "0024203100000",
+      "brand": "Kroger",
+      "upc": "0024203100000",
+      "price": [
+        {
+          "regular": 14.99,
+          "promo": 0,
+          "regularPerUnitEstimate": 21.41
+        }
+      ]
+    },
+    {
+      "productId": "0001111034567",
+      "brand": "Kroger",
+      "upc": "0001111034567",
+      "price": [
+        {
+          "regular": 7.99,
+          "promo": 5.99
+        }
+      ]
+    },
+    {
+      "productId": "0028888800000",
+      "brand": "Kroger Mercado",
+      "upc": "0028888800000",
+      "price": [
+        {
+          "regular": 16.29,
+          "promo": 0,
+          "regularPerUnitEstimate": 16.29
+        }
+      ]
+    },
+    {
+      "productId": "0001111019258",
+      "brand": "Simple Truth",
+      "upc": "0001111019258",
+      "price": [
+        {
+          "regular": 14.99,
+          "promo": 12.99
+        }
+      ]
+    },
+    {
+      "productId": "0001111019270",
+      "brand": "Simple Truth Organic",
+      "upc": "0001111019270",
+      "price": [
+        {
+          "regular": 14.49,
+          "promo": 13.99
+        }
+      ]
+    },
+    {
+      "productId": "0025203100000",
+      "upc": "0025203100000",
+      "price": [
+        {
+          "regular": 14.99,
+          "promo": 13.99,
+          "regularPerUnitEstimate": 5.32,
+          "promoPerUnitEstimate": 4.96
+        }
+      ]
+    },
+    {
+      "productId": "0024202300000",
+      "upc": "0024202300000",
+      "price": [
+        {
+          "regular": 16.99,
+          "promo": 0,
+          "regularPerUnitEstimate": 1.18
+        }
+      ]
+    },
+    {
+      "productId": "0028155350000",
+      "brand": "Kroger",
+      "upc": "0028155350000",
+      "price": [
+        {
+          "regular": 8.99,
+          "promo": 0,
+          "regularPerUnitEstimate": 7.82
+        }
+      ]
+    },
+    {
+      "productId": "0028888900000",
+      "brand": "Kroger Mercado",
+      "upc": "0028888900000",
+      "price": [
+        {
+          "regular": 14.99,
+          "promo": 0,
+          "regularPerUnitEstimate": 14.99
+        }
+      ]
+    },
+    {
+      "productId": "0004531095025",
+      "brand": "AdapTable Meals",
+      "upc": "0004531095025",
+      "price": [
+        {
+          "regular": 9.99,
+          "promo": 0
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,114 @@
+{
+  "data": [
+    {
+      "productId": "0004173600530",
+      "brand": "Filippo Berio",
+      "upc": "0004173600530",
+      "price": [
+        {
+          "regular": 6.49,
+          "promo": 3.99
+        }
+      ]
+    },
+    {
+      "productId": "0003915341300",
+      "brand": "Colavita",
+      "upc": "0003915341300",
+      "price": [
+        {
+          "regular": 5.49,
+          "promo": 0
+        }
+      ]
+    },
+    {
+      "productId": "0007040400103",
+      "brand": "Pompeian",
+      "upc": "0007040400103",
+      "price": [
+        {
+          "regular": 4.99,
+          "promo": 0
+        }
+      ]
+    },
+    {
+      "productId": "0073449270130",
+      "brand": "Modenaceti",
+      "upc": "0073449270130",
+      "price": [
+        {
+          "regular": 5.99,
+          "promo": 0
+        }
+      ]
+    },
+    {
+      "productId": "0007321000203",
+      "brand": "Star",
+      "upc": "0007321000203",
+      "price": [
+        {
+          "regular": 5.49,
+          "promo": 0
+        }
+      ]
+    },
+    {
+      "productId": "0001111079611",
+      "brand": "Private Selection",
+      "upc": "0001111079611",
+      "price": [
+        {
+          "regular": 4.99,
+          "promo": 0
+        }
+      ]
+    },
+    {
+      "productId": "0007040400434",
+      "brand": "Pompeian",
+      "upc": "0007040400434",
+      "price": [
+        {
+          "regular": 5.49,
+          "promo": 4.79
+        }
+      ]
+    },
+    {
+      "productId": "0001362860887",
+      "brand": "Monari Federzoni",
+      "upc": "0001362860887",
+      "price": [
+        {
+          "regular": 4.99,
+          "promo": 0
+        }
+      ]
+    },
+    {
+      "productId": "0002250600205",
+      "brand": "Spectrum",
+      "upc": "0002250600205",
+      "price": [
+        {
+          "regular": 7.99,
+          "promo": 0
+        }
+      ]
+    },
+    {
+      "productId": "0001111000522",
+      "brand": "Kroger",
+      "upc": "0001111000522",
+      "price": [
+        {
+          "regular": 4.49,
+          "promo": 0
+        }
+      ]
+    }
+  ]
+}

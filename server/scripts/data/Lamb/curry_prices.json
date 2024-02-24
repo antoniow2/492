@@ -1,0 +1,114 @@
+{
+  "data": [
+    {
+      "productId": "0001111068368",
+      "brand": "Kroger",
+      "upc": "0001111068368",
+      "price": [
+        {
+          "regular": 4.29,
+          "promo": 4.29
+        }
+      ]
+    },
+    {
+      "productId": "0085706300266",
+      "brand": "Saffron Road",
+      "upc": "0085706300266",
+      "price": [
+        {
+          "regular": 3.49,
+          "promo": 0
+        }
+      ]
+    },
+    {
+      "productId": "0006927607031",
+      "brand": "Patak's",
+      "upc": "0006927607031",
+      "price": [
+        {
+          "regular": 4.79,
+          "promo": 4.29
+        }
+      ]
+    },
+    {
+      "productId": "0001111002398",
+      "brand": "Simple Truth Organic",
+      "upc": "0001111002398",
+      "price": [
+        {
+          "regular": 4.29,
+          "promo": 0
+        }
+      ]
+    },
+    {
+      "productId": "0001111088149",
+      "brand": "Kroger",
+      "upc": "0001111088149",
+      "price": [
+        {
+          "regular": 3.99,
+          "promo": 0
+        }
+      ]
+    },
+    {
+      "productId": "0073762800300",
+      "brand": "Thai Kitchen",
+      "upc": "0073762800300",
+      "price": [
+        {
+          "regular": 4.79,
+          "promo": 0
+        }
+      ]
+    },
+    {
+      "productId": "0001111085796",
+      "brand": "Private Selection",
+      "upc": "0001111085796",
+      "price": [
+        {
+          "regular": 3.69,
+          "promo": 3
+        }
+      ]
+    },
+    {
+      "productId": "0007488003005",
+      "brand": "S&B",
+      "upc": "0007488003005",
+      "price": [
+        {
+          "regular": 3.79,
+          "promo": 3.49
+        }
+      ]
+    },
+    {
+      "productId": "0007488003004",
+      "brand": "S&B",
+      "upc": "0007488003004",
+      "price": [
+        {
+          "regular": 4.29,
+          "promo": 0
+        }
+      ]
+    },
+    {
+      "productId": "0006927607037",
+      "brand": "Patak's",
+      "upc": "0006927607037",
+      "price": [
+        {
+          "regular": 4.79,
+          "promo": 4.29
+        }
+      ]
+    }
+  ]
+}

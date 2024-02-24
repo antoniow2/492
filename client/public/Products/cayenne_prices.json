@@ -1,0 +1,105 @@
+{
+  "data": [
+    {
+      "productId": "0008983618761",
+      "brand": "Simply Organic",
+      "upc": "0008983618761",
+      "price": [
+        null
+      ]
+    },
+    {
+      "productId": "0001111000316",
+      "brand": "Kroger",
+      "upc": "0001111000316",
+      "price": [
+        {
+          "regular": 5.99,
+          "promo": 0
+        }
+      ]
+    },
+    {
+      "productId": "0001111072974",
+      "brand": "Private Selection",
+      "upc": "0001111072974",
+      "price": [
+        {
+          "regular": 4.29,
+          "promo": 0
+        }
+      ]
+    },
+    {
+      "productId": "0008983618312",
+      "brand": "Frontier Natural Products Co-op",
+      "upc": "0008983618312",
+      "price": [
+        null
+      ]
+    },
+    {
+      "productId": "0008983600114",
+      "brand": "Frontier Natural Products Co-op",
+      "upc": "0008983600114",
+      "price": [
+        null
+      ]
+    },
+    {
+      "productId": "0001111068327",
+      "brand": "Kroger",
+      "upc": "0001111068327",
+      "price": [
+        {
+          "regular": 3.49,
+          "promo": 3.49
+        }
+      ]
+    },
+    {
+      "productId": "0007175820112",
+      "brand": "Fiesta",
+      "upc": "0007175820112",
+      "price": [
+        {
+          "regular": 3.29,
+          "promo": 0
+        }
+      ]
+    },
+    {
+      "productId": "0001111002403",
+      "brand": "Simple Truth Organic",
+      "upc": "0001111002403",
+      "price": [
+        {
+          "regular": 4.49,
+          "promo": 0
+        }
+      ]
+    },
+    {
+      "productId": "0003384400224",
+      "brand": "Badia",
+      "upc": "0003384400224",
+      "price": [
+        {
+          "regular": 1.79,
+          "promo": 0
+        }
+      ]
+    },
+    {
+      "productId": "0001732400275",
+      "brand": "Spice Islands",
+      "upc": "0001732400275",
+      "price": [
+        {
+          "regular": 6.49,
+          "promo": 6.49
+        }
+      ]
+    }
+  ]
+}

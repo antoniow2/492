@@ -1,0 +1,114 @@
+{
+  "data": [
+    {
+      "productId": "0001111086090",
+      "brand": "Kroger",
+      "upc": "0001111086090",
+      "price": [
+        {
+          "regular": 4.79,
+          "promo": 0
+        }
+      ]
+    },
+    {
+      "productId": "0001740010667",
+      "brand": "Mahatma",
+      "upc": "0001740010667",
+      "price": [
+        {
+          "regular": 5.99,
+          "promo": 0
+        }
+      ]
+    },
+    {
+      "productId": "0001740014040",
+      "brand": "Minute",
+      "upc": "0001740014040",
+      "price": [
+        {
+          "regular": 2.39,
+          "promo": 1.99
+        }
+      ]
+    },
+    {
+      "productId": "0005480042338",
+      "brand": "Ben's Original",
+      "upc": "0005480042338",
+      "price": [
+        {
+          "regular": 2.59,
+          "promo": 2.49
+        }
+      ]
+    },
+    {
+      "productId": "0001740010039",
+      "brand": "Success",
+      "upc": "0001740010039",
+      "price": [
+        {
+          "regular": 2.99,
+          "promo": 2
+        }
+      ]
+    },
+    {
+      "productId": "0001111087423",
+      "brand": "Kroger",
+      "upc": "0001111087423",
+      "price": [
+        {
+          "regular": 20.99,
+          "promo": 0
+        }
+      ]
+    },
+    {
+      "productId": "0074504240002",
+      "brand": "Royal",
+      "upc": "0074504240002",
+      "price": [
+        {
+          "regular": 2.29,
+          "promo": 0
+        }
+      ]
+    },
+    {
+      "productId": "0074504210056",
+      "brand": "Royal",
+      "upc": "0074504210056",
+      "price": [
+        {
+          "regular": 12.49,
+          "promo": 0
+        }
+      ]
+    },
+    {
+      "productId": "0001111090134",
+      "brand": "Simple Truth Organic",
+      "upc": "0001111090134",
+      "price": [
+        {
+          "regular": 2.79,
+          "promo": 0
+        }
+      ]
+    },
+    {
+      "productId": "0007341640204",
+      "brand": "Lundberg",
+      "upc": "0007341640204",
+      "price": [
+        {
+          "regular": 7.99,
+          "promo": 7.49
+        }
+      ]
+    }
+  ]
+}

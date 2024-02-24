@@ -1,0 +1,105 @@
+{
+  "data": [
+    {
+      "productId": "0002400013356",
+      "brand": "Contadina",
+      "upc": "0002400013356",
+      "price": [
+        {
+          "regular": 2.99,
+          "promo": 2.49
+        }
+      ]
+    },
+    {
+      "productId": "0089777400031",
+      "brand": "Appalachian Naturals",
+      "upc": "0089777400031",
+      "price": [
+        null
+      ]
+    },
+    {
+      "productId": "0007294074926",
+      "brand": "San Marzano",
+      "upc": "0007294074926",
+      "price": [
+        {
+          "regular": 3.25,
+          "promo": 0
+        }
+      ]
+    },
+    {
+      "productId": "0072534228103",
+      "brand": "Muir Glen Organic",
+      "upc": "0072534228103",
+      "price": [
+        {
+          "regular": 3.79,
+          "promo": 2.99
+        }
+      ]
+    },
+    {
+      "productId": "0007079630001",
+      "brand": "Cento",
+      "upc": "0007079630001",
+      "price": [
+        {
+          "regular": 3.49,
+          "promo": 0
+        }
+      ]
+    },
+    {
+      "productId": "0007294075598",
+      "brand": "Tuttorosso",
+      "upc": "0007294075598",
+      "price": [
+        {
+          "regular": 3.25,
+          "promo": 0
+        }
+      ]
+    },
+    {
+      "productId": "0001111011615",
+      "brand": "Kroger",
+      "upc": "0001111011615",
+      "price": [
+        {
+          "regular": 1.89,
+          "promo": 0
+        }
+      ]
+    },
+    {
+      "productId": "0085469300003",
+      "brand": "Mutti",
+      "upc": "0085469300003",
+      "price": [
+        null
+      ]
+    },
+    {
+      "productId": "0074615567212",
+      "brand": "Muir Glen Organic",
+      "upc": "0074615567212",
+      "price": [
+        null
+      ]
+    },
+    {
+      "productId": "0085469300001",
+      "brand": "Mutti",
+      "upc": "0085469300001",
+      "price": [
+        {
+          "regular": 4.49,
+          "promo": 3.99
+        }
+      ]
+    }
+  ]
+}

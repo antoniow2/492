@@ -1,0 +1,116 @@
+{
+  "data": [
+    {
+      "productId": "0001111060578",
+      "brand": "Kroger",
+      "upc": "0001111060578",
+      "price": [
+        {
+          "regular": 3.99,
+          "promo": 0
+        }
+      ]
+    },
+    {
+      "productId": "0001111097191",
+      "brand": "Kroger",
+      "upc": "0001111097191",
+      "price": [
+        {
+          "regular": 4.99,
+          "promo": 0
+        }
+      ]
+    },
+    {
+      "productId": "0004470001988",
+      "brand": "Oscar Mayer",
+      "upc": "0004470001988",
+      "price": [
+        {
+          "regular": 8.49,
+          "promo": 0
+        }
+      ]
+    },
+    {
+      "productId": "0001111097205",
+      "brand": "Kroger",
+      "upc": "0001111097205",
+      "price": [
+        {
+          "regular": 4.39,
+          "promo": 3
+        }
+      ]
+    },
+    {
+      "productId": "0007080004118",
+      "brand": "Smithfield",
+      "upc": "0007080004118",
+      "price": [
+        {
+          "regular": 7.99,
+          "promo": 4.99
+        }
+      ]
+    },
+    {
+      "productId": "0001111097209",
+      "brand": "Kroger",
+      "upc": "0001111097209",
+      "price": [
+        {
+          "regular": 4.99,
+          "promo": 0
+        }
+      ]
+    },
+    {
+      "productId": "0004470002268",
+      "brand": "Oscar Mayer",
+      "upc": "0004470002268",
+      "price": [
+        {
+          "regular": 8.49,
+          "promo": 0
+        }
+      ]
+    },
+    {
+      "productId": "0026390290000",
+      "brand": "Private Selection",
+      "upc": "0026390290000",
+      "price": [
+        {
+          "regular": 7.99,
+          "promo": 5.99,
+          "regularPerUnitEstimate": 7.99,
+          "promoPerUnitEstimate": 5.99
+        }
+      ]
+    },
+    {
+      "productId": "0007962100001",
+      "brand": "Wright",
+      "upc": "0007962100001",
+      "price": [
+        {
+          "regular": 11.99,
+          "promo": 8.99
+        }
+      ]
+    },
+    {
+      "productId": "0004470001990",
+      "brand": "Oscar Mayer",
+      "upc": "0004470001990",
+      "price": [
+        {
+          "regular": 8.49,
+          "promo": 0
+        }
+      ]
+    }
+  ]
+}

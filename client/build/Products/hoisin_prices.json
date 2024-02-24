@@ -1,0 +1,90 @@
+{
+  "data": [
+    {
+      "productId": "0074281270061",
+      "brand": "Lee Kum Kee",
+      "upc": "0074281270061",
+      "price": [
+        {
+          "regular": 4.99,
+          "promo": 0
+        }
+      ]
+    },
+    {
+      "productId": "0007889570001",
+      "brand": "Lee Kum Kee",
+      "upc": "0007889570001",
+      "price": [
+        null
+      ]
+    },
+    {
+      "productId": "1007889570001",
+      "brand": "Lee Kum Kee",
+      "upc": "1007889570001",
+      "price": [
+        null
+      ]
+    },
+    {
+      "productId": "3004139001540",
+      "brand": "Kikkoman",
+      "upc": "3004139001540",
+      "price": [
+        null
+      ]
+    },
+    {
+      "productId": "0001111085181",
+      "brand": "Kroger",
+      "upc": "0001111085181",
+      "price": [
+        {
+          "regular": 3.79,
+          "promo": 0
+        }
+      ]
+    },
+    {
+      "productId": "0007067000336",
+      "brand": "Ty Ling",
+      "upc": "0007067000336",
+      "price": [
+        null
+      ]
+    },
+    {
+      "productId": "0007084400507",
+      "brand": "Ka-Me",
+      "upc": "0007084400507",
+      "price": [
+        null
+      ]
+    },
+    {
+      "productId": "1004139001540",
+      "brand": "Kikkoman",
+      "upc": "1004139001540",
+      "price": [
+        null
+      ]
+    },
+    {
+      "productId": "1007067000336",
+      "brand": "Ty Ling",
+      "upc": "1007067000336",
+      "price": [
+        null
+      ]
+    },
+    {
+      "productId": "0074956929788",
+      "brand": "San-J",
+      "upc": "0074956929788",
+      "price": [
+        null
+      ]
+    }
+  ]
+}

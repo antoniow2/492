@@ -1,0 +1,1562 @@
+[
+  {
+    "label": "Vegan cupcakes",
+    "url": "https://www.bbcgoodfood.com/recipes/vegan-cupcakes",
+    "ingredients": [
+      {
+        "text": "150ml almond or soy milk",
+        "quantity": 150,
+        "measure": "milliliter",
+        "food": "soy milk",
+        "weight": 154.06514093527218,
+        "foodCategory": "non-dairy beverages",
+        "foodId": "food_ajck21hbpf1sb6amwkjimb6xl24j",
+        "image": "https://www.edamam.com/food-img/8be/8bef4cf5daa1f41d90aff68c92ca56bc.jpg"
+      },
+      {
+        "text": "½ tsp cider vinegar",
+        "quantity": 0.5,
+        "measure": "teaspoon",
+        "food": "cider vinegar",
+        "weight": 2.5,
+        "foodCategory": "Condiments and sauces",
+        "foodId": "food_ar8m7esapmfvf8bnhfzdlabndh6v",
+        "image": "https://www.edamam.com/food-img/c7d/c7dbd1846c5d08e9739930d70a404d50.jpg"
+      },
+      {
+        "text": "110g vegan butter or sunflower spread",
+        "quantity": 110,
+        "measure": "gram",
+        "food": "vegan butter",
+        "weight": 110,
+        "foodCategory": "Oils",
+        "foodId": "food_bn7cczea5psahcbaqvd2ob43qksr",
+        "image": "https://www.edamam.com/food-img/330/3302cd340e3d2dcf7f02e72fdfe8b209.jpg"
+      },
+      {
+        "text": "110g caster sugar",
+        "quantity": 110,
+        "measure": "gram",
+        "food": "caster sugar",
+        "weight": 110,
+        "foodCategory": "sugars",
+        "foodId": "food_b83hz1dbrydiwzag8btahb15lu4l",
+        "image": "https://www.edamam.com/food-img/ecb/ecb3f5aaed96d0188c21b8369be07765.jpg"
+      },
+      {
+        "text": "1 tsp vanilla extract",
+        "quantity": 1,
+        "measure": "teaspoon",
+        "food": "vanilla extract",
+        "weight": 4.2,
+        "foodCategory": "Condiments and sauces",
+        "foodId": "food_bh1wvnqaw3q7ciascfoygaabax2a",
+        "image": "https://www.edamam.com/food-img/90f/90f910b0bf82750d4f6528263e014cca.jpg"
+      },
+      {
+        "text": "110g self-raising flour",
+        "quantity": 110,
+        "measure": "gram",
+        "food": "flour",
+        "weight": 110,
+        "foodCategory": "grains",
+        "foodId": "food_ahebfs0a985an4aubqaebbipra58",
+        "image": "https://www.edamam.com/food-img/b4c/b4c739e76a6f2172b7ad49d0aa41d5aa.jpg"
+      },
+      {
+        "text": "½ tsp baking powder",
+        "quantity": 0.5,
+        "measure": "teaspoon",
+        "food": "baking powder",
+        "weight": 2.3,
+        "foodCategory": "condiments and sauces",
+        "foodId": "food_bad4zycbt4w60dbut111vaub2g3e",
+        "image": "https://www.edamam.com/food-img/a84/a8410ec57a2e62a1ad9955ac14d40af6.jpg"
+      },
+      {
+        "text": "125g vegan butter",
+        "quantity": 125,
+        "measure": "gram",
+        "food": "vegan butter",
+        "weight": 125,
+        "foodCategory": "Oils",
+        "foodId": "food_bn7cczea5psahcbaqvd2ob43qksr",
+        "image": "https://www.edamam.com/food-img/330/3302cd340e3d2dcf7f02e72fdfe8b209.jpg"
+      },
+      {
+        "text": "250g icing sugar",
+        "quantity": 250,
+        "measure": "gram",
+        "food": "icing sugar",
+        "weight": 250,
+        "foodCategory": "sugars",
+        "foodId": "food_b7rbtshahirxisbtyc77sbv8jdue",
+        "image": "https://www.edamam.com/food-img/290/290624aa4c0e279551e462443e38bb40.jpg"
+      },
+      {
+        "text": "1¼ tsp vanilla extract",
+        "quantity": 1.25,
+        "measure": "teaspoon",
+        "food": "vanilla extract",
+        "weight": 5.25,
+        "foodCategory": "Condiments and sauces",
+        "foodId": "food_bh1wvnqaw3q7ciascfoygaabax2a",
+        "image": "https://www.edamam.com/food-img/90f/90f910b0bf82750d4f6528263e014cca.jpg"
+      },
+      {
+        "text": "a few drops of vegan food colourings (check the label)",
+        "quantity": 1,
+        "measure": "drop",
+        "food": "food colourings",
+        "weight": 0.06161152,
+        "foodCategory": "water",
+        "foodId": "food_avcjo2fattdi8eafpf0ujatvwb7i",
+        "image": "https://www.edamam.com/food-img/5dd/5dd9d1361847b2ca53c4b19a8f92627e.jpg"
+      }
+    ],
+    "uri": "http://www.edamam.com/ontologies/edamam.owl#recipe_225c6ad5a2b909c3f2bdca88fcaf8aee",
+    "image": "https://edamam-product-images.s3.amazonaws.com/web-img/73f/73f15b90b6e64653c77ef759ed9ccdea.jpg?X-Amz-Security-Token=IQoJb3JpZ2luX2VjEGoaCXVzLWVhc3QtMSJHMEUCIFIil1jd5NHOSvMOKXmiga%2F7CRpL9SqT90pjzpQvMpS1AiEA9ABMxynDIYnPNFSoTb7ZMBckcrDLvv4e6dtYzK1N0iIqwgUIs%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FARAAGgwxODcwMTcxNTA5ODYiDJ0JUiSQioeZN09KpyqWBVe1sbdKBl4lqNSDGR5UVO8dIqqE5WJuXebdX3lZD4OaGW51LWKTCCXZuBKs2ISuKPh91m2%2BsZ6ktPbGE2AhkybcxwieCVK%2BK7l84Bj24ywSDZsP1yn%2FPQvPSOPdtnqKR68nmtPicbTTb2iN1fNYmLpy0S%2FnwrF8mkwdmHhvUaEbcAUyjMHohThRkgvTO7TCgSpOGWKVTQEFsLHvsgi4bWMGi1ZtCdznqWdnvOSGhPIQKiLCFUVTI1oRtogKh0lqCDL4eD4Xt5720oaytX%2FzK60NnLdU6s2vGCG9kL1rEzM1fp%2FYqaRoi9XQXp3hj79AyZsUJuPSW2wBsyauTTAprw9V0oSJ%2BkgyFsGc7Ge21I74u8u%2BUNk7NGsVmUYeMeKK6TI%2B0Rjmc6gRjNT%2FzDhfv7vJG7pMLWR%2FOUMWNa9yQUISZ8lh6vjj0kkFOzMlze5lBdHr%2FnWvNqWN3MkH70GXWEsIEh43bVc1guPIoprq%2Bu47idhxaAzP1HurGLQr7p64dzS9lpwPYzY6lcy%2FURRoDKTRQG4E%2FCEP5VCwURQtf7DgsBTBfS1SBxALeyc8mv8DNadhiSKCTJIn%2BIy5cJE6p56IH%2FPy%2BLDoFKWBjEyTq%2B485casZ1GZkBnH8U522cCwhIpNLcykX%2F4wNUr86O6r5UklISiFuq1Fd0yu9W3z6zJUJ4XVYRI9130kMvqmT%2FWXqW8YAlY3uDF32GhawMfgb7KSBBrnSCeHfWshej%2BfYfsb%2FLLReGZxgMPqGgbsfZYqxDpHj6ybFJVzSw6l8QriLDoi8oT9adjEPELXp0rV5YgcHAyQDtWXjZ99CXlSqj0bLUoeo8aQQjTT8V8rzygz0yXkostwb4FyfVN5cyxFoE1S0FloEdNSMKW24KoGOrEBFDB4UqY3hmGXzAo%2Bg1EAXCZSzy18Zg6aqXEnnaM9l2m9b6ZdoEhKpA3zaGpQeiK72d9loW2TJU%2FxVT11CkQoWJnc5vc%2BvEAEWhFcrNhGRjVyEL68aqO6lD%2FuH94JxctuAJ2UWf%2BJsGDngPUA01yn%2B8aRAjoZ6PyU1JWIWSrw9CbhMr8XDOwYorTcKjT1xK76ZXfjU6C%2FWO%2BB8Ahq6zvqxZM3%2F4GQPiRkwzYuKPC78a5%2B&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Date=20231118T030438Z&X-Amz-SignedHeaders=host&X-Amz-Expires=3599&X-Amz-Credential=ASIASXCYXIIFLO2MWB7Q%2F20231118%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Signature=4a31ef2994730367ebc22bfacba769659fbb282baa45b247b1ba7a6d7b449161",
+    "source": "BBC Good Food",
+    "shareAs": "http://www.edamam.com/recipe/vegan-cupcakes-225c6ad5a2b909c3f2bdca88fcaf8aee/vegan",
+    "yield": 12,
+    "dietLabels": [
+      "Low-Sodium"
+    ],
+    "healthLabels": [
+      "Low Potassium",
+      "Kidney-Friendly",
+      "Vegan",
+      "Vegetarian",
+      "Pescatarian",
+      "Dairy-Free",
+      "Egg-Free",
+      "Peanut-Free",
+      "Fish-Free",
+      "Shellfish-Free",
+      "Pork-Free",
+      "Red-Meat-Free",
+      "Crustacean-Free",
+      "Celery-Free",
+      "Mustard-Free",
+      "Sesame-Free",
+      "Lupine-Free",
+      "Mollusk-Free",
+      "Alcohol-Free",
+      "Kosher"
+    ],
+    "cautions": [
+      "Gluten",
+      "Wheat",
+      "Sulfites"
+    ],
+    "ingredientLines": [
+      "150ml almond or soy milk",
+      "½ tsp cider vinegar",
+      "110g vegan butter or sunflower spread",
+      "110g caster sugar",
+      "1 tsp vanilla extract",
+      "110g self-raising flour",
+      "½ tsp baking powder",
+      "125g vegan butter",
+      "250g icing sugar",
+      "1¼ tsp vanilla extract",
+      "a few drops of vegan food colourings (check the label)"
+    ],
+    "calories": 3971.1620106021674,
+    "totalWeight": 873.3767524552723,
+    "totalTime": 50,
+    "cuisineType": [
+      "american"
+    ],
+    "mealType": [
+      "snack"
+    ],
+    "dishType": [
+      "desserts"
+    ]
+  },
+  {
+    "label": "Vegan Chocolate-Coffee Muffins Recipe",
+    "url": "http://www.seriouseats.com/recipes/2014/04/vegan-chocolate-coffee-muffins.html",
+    "ingredients": [
+      {
+        "text": "1 1/2 cups all purpose flour",
+        "quantity": 1.5,
+        "measure": "cup",
+        "food": "all purpose flour",
+        "weight": 187.5,
+        "foodCategory": "grains",
+        "foodId": "food_ar3x97tbq9o9p6b6gzwj0am0c81l",
+        "image": "https://www.edamam.com/food-img/368/368077bbcab62f862a8c766a56ea5dd1.jpg"
+      },
+      {
+        "text": "1/3 cup unsweetened cocoa powder",
+        "quantity": 0.3333333333333333,
+        "measure": "cup",
+        "food": "unsweetened cocoa powder",
+        "weight": 28.666666666666664,
+        "foodCategory": "chocolate",
+        "foodId": "food_afcmkjjaqwjkezbfz7htdb7mpkwz",
+        "image": "https://www.edamam.com/food-img/89a/89af89595db3cf2c3007f2b064c5fef6.jpg"
+      },
+      {
+        "text": "1 teaspoon baking soda",
+        "quantity": 1,
+        "measure": "teaspoon",
+        "food": "baking soda",
+        "weight": 4.6,
+        "foodCategory": "condiments and sauces",
+        "foodId": "food_asa4cjoa3lmt8ibwdg0cpblheo69",
+        "image": "https://www.edamam.com/food-img/7e5/7e55e4482cc2fde91f427fc568e6f5b8.jpeg"
+      },
+      {
+        "text": "1/2 teaspoon salt",
+        "quantity": 0.5,
+        "measure": "teaspoon",
+        "food": "salt",
+        "weight": 3,
+        "foodCategory": "Condiments and sauces",
+        "foodId": "food_btxz81db72hwbra2pncvebzzzum9",
+        "image": "https://www.edamam.com/food-img/694/6943ea510918c6025795e8dc6e6eaaeb.jpg"
+      },
+      {
+        "text": "1 1/4 cups sugar",
+        "quantity": 1.25,
+        "measure": "cup",
+        "food": "sugar",
+        "weight": 250,
+        "foodCategory": "sugars",
+        "foodId": "food_axi2ijobrk819yb0adceobnhm1c2",
+        "image": "https://www.edamam.com/food-img/ecb/ecb3f5aaed96d0188c21b8369be07765.jpg"
+      },
+      {
+        "text": "1 teaspoon instant espresso powder",
+        "quantity": 1,
+        "measure": "teaspoon",
+        "food": "espresso",
+        "weight": 4.933333333583557,
+        "foodCategory": "coffee and tea",
+        "foodId": "food_bwvztweawd5emqbcu3dqua2ts9ol",
+        "image": "https://www.edamam.com/food-img/433/43301ebd4f7c5903aa6bac567a890ac3.jpg"
+      },
+      {
+        "text": "1 cup freshly brewed coffee",
+        "quantity": 1,
+        "measure": "cup",
+        "food": "coffee",
+        "weight": 237,
+        "foodCategory": "coffee and tea",
+        "foodId": "food_ax0a0yxbbe4hx0apiz1tla01s2w7",
+        "image": "https://www.edamam.com/food-img/ee9/ee9566349cb84dfd9ddac1fdf8cbc907.jpg"
+      },
+      {
+        "text": "1 teaspoon vanilla extract",
+        "quantity": 1,
+        "measure": "teaspoon",
+        "food": "vanilla extract",
+        "weight": 4.2,
+        "foodCategory": "Condiments and sauces",
+        "foodId": "food_bh1wvnqaw3q7ciascfoygaabax2a",
+        "image": "https://www.edamam.com/food-img/90f/90f910b0bf82750d4f6528263e014cca.jpg"
+      },
+      {
+        "text": "1 teaspoon white vinegar",
+        "quantity": 1,
+        "measure": "teaspoon",
+        "food": "white vinegar",
+        "weight": 5,
+        "foodCategory": "Condiments and sauces",
+        "foodId": "food_am3vwadag9arxtadrwyfcau2w3b2",
+        "image": "https://www.edamam.com/food-img/5f6/5f69b84c399d778c4728e9ab4f8065a2.jpg"
+      },
+      {
+        "text": "3/4 cup vegan chocolate chips or vegan chocolate, chopped",
+        "quantity": 0.75,
+        "measure": "cup",
+        "food": "vegan chocolate chips",
+        "weight": 126,
+        "foodCategory": "candy",
+        "foodId": "food_bwowd1qbt8nrwzad9zwn7aptem0g",
+        "image": "https://www.edamam.com/food-img/1fd/1fdf37e875d26b6b50e57c61bac12c02.jpg"
+      }
+    ],
+    "uri": "http://www.edamam.com/ontologies/edamam.owl#recipe_3fad4068268ff8385e1cb926dbfe02ab",
+    "image": "https://edamam-product-images.s3.amazonaws.com/web-img/cd0/cd0f763c1566ec5a0f0ae099ecebc5a7.jpg?X-Amz-Security-Token=IQoJb3JpZ2luX2VjEGoaCXVzLWVhc3QtMSJHMEUCIFIil1jd5NHOSvMOKXmiga%2F7CRpL9SqT90pjzpQvMpS1AiEA9ABMxynDIYnPNFSoTb7ZMBckcrDLvv4e6dtYzK1N0iIqwgUIs%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FARAAGgwxODcwMTcxNTA5ODYiDJ0JUiSQioeZN09KpyqWBVe1sbdKBl4lqNSDGR5UVO8dIqqE5WJuXebdX3lZD4OaGW51LWKTCCXZuBKs2ISuKPh91m2%2BsZ6ktPbGE2AhkybcxwieCVK%2BK7l84Bj24ywSDZsP1yn%2FPQvPSOPdtnqKR68nmtPicbTTb2iN1fNYmLpy0S%2FnwrF8mkwdmHhvUaEbcAUyjMHohThRkgvTO7TCgSpOGWKVTQEFsLHvsgi4bWMGi1ZtCdznqWdnvOSGhPIQKiLCFUVTI1oRtogKh0lqCDL4eD4Xt5720oaytX%2FzK60NnLdU6s2vGCG9kL1rEzM1fp%2FYqaRoi9XQXp3hj79AyZsUJuPSW2wBsyauTTAprw9V0oSJ%2BkgyFsGc7Ge21I74u8u%2BUNk7NGsVmUYeMeKK6TI%2B0Rjmc6gRjNT%2FzDhfv7vJG7pMLWR%2FOUMWNa9yQUISZ8lh6vjj0kkFOzMlze5lBdHr%2FnWvNqWN3MkH70GXWEsIEh43bVc1guPIoprq%2Bu47idhxaAzP1HurGLQr7p64dzS9lpwPYzY6lcy%2FURRoDKTRQG4E%2FCEP5VCwURQtf7DgsBTBfS1SBxALeyc8mv8DNadhiSKCTJIn%2BIy5cJE6p56IH%2FPy%2BLDoFKWBjEyTq%2B485casZ1GZkBnH8U522cCwhIpNLcykX%2F4wNUr86O6r5UklISiFuq1Fd0yu9W3z6zJUJ4XVYRI9130kMvqmT%2FWXqW8YAlY3uDF32GhawMfgb7KSBBrnSCeHfWshej%2BfYfsb%2FLLReGZxgMPqGgbsfZYqxDpHj6ybFJVzSw6l8QriLDoi8oT9adjEPELXp0rV5YgcHAyQDtWXjZ99CXlSqj0bLUoeo8aQQjTT8V8rzygz0yXkostwb4FyfVN5cyxFoE1S0FloEdNSMKW24KoGOrEBFDB4UqY3hmGXzAo%2Bg1EAXCZSzy18Zg6aqXEnnaM9l2m9b6ZdoEhKpA3zaGpQeiK72d9loW2TJU%2FxVT11CkQoWJnc5vc%2BvEAEWhFcrNhGRjVyEL68aqO6lD%2FuH94JxctuAJ2UWf%2BJsGDngPUA01yn%2B8aRAjoZ6PyU1JWIWSrw9CbhMr8XDOwYorTcKjT1xK76ZXfjU6C%2FWO%2BB8Ahq6zvqxZM3%2F4GQPiRkwzYuKPC78a5%2B&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Date=20231118T030438Z&X-Amz-SignedHeaders=host&X-Amz-Expires=3600&X-Amz-Credential=ASIASXCYXIIFLO2MWB7Q%2F20231118%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Signature=9bf97d9c3f296076ece6edfff60c4517bb3e417ea6a8e1f0b608a36e87b74767",
+    "source": "Serious Eats",
+    "shareAs": "http://www.edamam.com/recipe/vegan-chocolate-coffee-muffins-recipe-3fad4068268ff8385e1cb926dbfe02ab/vegan",
+    "yield": 12,
+    "dietLabels": [],
+    "healthLabels": [
+      "Low Potassium",
+      "Kidney-Friendly",
+      "Vegan",
+      "Vegetarian",
+      "Pescatarian",
+      "Dairy-Free",
+      "Egg-Free",
+      "Peanut-Free",
+      "Tree-Nut-Free",
+      "Fish-Free",
+      "Shellfish-Free",
+      "Pork-Free",
+      "Red-Meat-Free",
+      "Crustacean-Free",
+      "Celery-Free",
+      "Mustard-Free",
+      "Sesame-Free",
+      "Lupine-Free",
+      "Mollusk-Free",
+      "Alcohol-Free",
+      "Kosher"
+    ],
+    "cautions": [
+      "Sulfites"
+    ],
+    "ingredientLines": [
+      "1 1/2 cups all purpose flour",
+      "1/3 cup unsweetened cocoa powder",
+      "1 teaspoon baking soda",
+      "1/2 teaspoon salt",
+      "1 1/4 cups sugar",
+      "1 teaspoon instant espresso powder",
+      "1 cup freshly brewed coffee",
+      "1 teaspoon vanilla extract",
+      "1 teaspoon white vinegar",
+      "3/4 cup vegan chocolate chips or vegan chocolate, chopped"
+    ],
+    "calories": 2411.5700000000224,
+    "totalWeight": 849.3391129521417,
+    "totalTime": 35,
+    "cuisineType": [
+      "american"
+    ],
+    "mealType": [
+      "breakfast"
+    ],
+    "dishType": [
+      "desserts"
+    ]
+  },
+  {
+    "label": "Spiked Vegan Eggnog",
+    "url": "http://www.eatingwell.com/recipe/269510/spiked-vegan-eggnog/",
+    "ingredients": [
+      {
+        "text": "4 cups vegan eggnog",
+        "quantity": 4,
+        "measure": "cup",
+        "food": "eggnog",
+        "weight": 1016,
+        "foodCategory": "Dairy",
+        "foodId": "food_bhvg1uwaawu8llba71voka6uc200",
+        "image": "https://www.edamam.com/food-img/f91/f91dda9da64e75cbc582840ac0272dca.jpg"
+      },
+      {
+        "text": "4 ounces brandy, bourbon or rum",
+        "quantity": 4,
+        "measure": "ounce",
+        "food": "brandy",
+        "weight": 113.3980925,
+        "foodCategory": "liquors and cocktails",
+        "foodId": "food_ajguqpia53yz3oah6w2frad3tz65",
+        "image": "https://www.edamam.com/food-img/c7f/c7fcc63de96b349534aade3de3f9fa7d.jpg"
+      },
+      {
+        "text": "Garnishes of your choice, like cinnamon sticks, freshly grated nutmeg, orange zest or a dollop of vegan whipped cream",
+        "quantity": 0,
+        "measure": null,
+        "food": "cinnamon sticks",
+        "weight": 3.3881942775000002,
+        "foodCategory": "Condiments and sauces",
+        "foodId": "food_atjxtznauw5zabaixm24xa787onz",
+        "image": "https://www.edamam.com/food-img/d4d/d4daa18b92c596a1c99c08537c38e65b.jpg"
+      }
+    ],
+    "uri": "http://www.edamam.com/ontologies/edamam.owl#recipe_9c09431874ed0b6e129f115871fb4ba8",
+    "image": "https://edamam-product-images.s3.amazonaws.com/web-img/b9c/b9c385924614ac8b303c25a456745d48.jpg?X-Amz-Security-Token=IQoJb3JpZ2luX2VjEGoaCXVzLWVhc3QtMSJHMEUCIFIil1jd5NHOSvMOKXmiga%2F7CRpL9SqT90pjzpQvMpS1AiEA9ABMxynDIYnPNFSoTb7ZMBckcrDLvv4e6dtYzK1N0iIqwgUIs%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FARAAGgwxODcwMTcxNTA5ODYiDJ0JUiSQioeZN09KpyqWBVe1sbdKBl4lqNSDGR5UVO8dIqqE5WJuXebdX3lZD4OaGW51LWKTCCXZuBKs2ISuKPh91m2%2BsZ6ktPbGE2AhkybcxwieCVK%2BK7l84Bj24ywSDZsP1yn%2FPQvPSOPdtnqKR68nmtPicbTTb2iN1fNYmLpy0S%2FnwrF8mkwdmHhvUaEbcAUyjMHohThRkgvTO7TCgSpOGWKVTQEFsLHvsgi4bWMGi1ZtCdznqWdnvOSGhPIQKiLCFUVTI1oRtogKh0lqCDL4eD4Xt5720oaytX%2FzK60NnLdU6s2vGCG9kL1rEzM1fp%2FYqaRoi9XQXp3hj79AyZsUJuPSW2wBsyauTTAprw9V0oSJ%2BkgyFsGc7Ge21I74u8u%2BUNk7NGsVmUYeMeKK6TI%2B0Rjmc6gRjNT%2FzDhfv7vJG7pMLWR%2FOUMWNa9yQUISZ8lh6vjj0kkFOzMlze5lBdHr%2FnWvNqWN3MkH70GXWEsIEh43bVc1guPIoprq%2Bu47idhxaAzP1HurGLQr7p64dzS9lpwPYzY6lcy%2FURRoDKTRQG4E%2FCEP5VCwURQtf7DgsBTBfS1SBxALeyc8mv8DNadhiSKCTJIn%2BIy5cJE6p56IH%2FPy%2BLDoFKWBjEyTq%2B485casZ1GZkBnH8U522cCwhIpNLcykX%2F4wNUr86O6r5UklISiFuq1Fd0yu9W3z6zJUJ4XVYRI9130kMvqmT%2FWXqW8YAlY3uDF32GhawMfgb7KSBBrnSCeHfWshej%2BfYfsb%2FLLReGZxgMPqGgbsfZYqxDpHj6ybFJVzSw6l8QriLDoi8oT9adjEPELXp0rV5YgcHAyQDtWXjZ99CXlSqj0bLUoeo8aQQjTT8V8rzygz0yXkostwb4FyfVN5cyxFoE1S0FloEdNSMKW24KoGOrEBFDB4UqY3hmGXzAo%2Bg1EAXCZSzy18Zg6aqXEnnaM9l2m9b6ZdoEhKpA3zaGpQeiK72d9loW2TJU%2FxVT11CkQoWJnc5vc%2BvEAEWhFcrNhGRjVyEL68aqO6lD%2FuH94JxctuAJ2UWf%2BJsGDngPUA01yn%2B8aRAjoZ6PyU1JWIWSrw9CbhMr8XDOwYorTcKjT1xK76ZXfjU6C%2FWO%2BB8Ahq6zvqxZM3%2F4GQPiRkwzYuKPC78a5%2B&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Date=20231118T030438Z&X-Amz-SignedHeaders=host&X-Amz-Expires=3600&X-Amz-Credential=ASIASXCYXIIFLO2MWB7Q%2F20231118%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Signature=6a0ea12981de00eb05929c568e80b62990e2f65a68a60196156f380f0ebfa355",
+    "source": "EatingWell",
+    "shareAs": "http://www.edamam.com/recipe/spiked-vegan-eggnog-9c09431874ed0b6e129f115871fb4ba8/vegan",
+    "yield": 8,
+    "dietLabels": [
+      "Balanced",
+      "Low-Sodium"
+    ],
+    "healthLabels": [
+      "Kidney-Friendly",
+      "Vegetarian",
+      "Pescatarian",
+      "Mediterranean",
+      "Gluten-Free",
+      "Wheat-Free",
+      "Peanut-Free",
+      "Tree-Nut-Free",
+      "Soy-Free",
+      "Fish-Free",
+      "Shellfish-Free",
+      "Pork-Free",
+      "Red-Meat-Free",
+      "Crustacean-Free",
+      "Celery-Free",
+      "Mustard-Free",
+      "Sesame-Free",
+      "Lupine-Free",
+      "Mollusk-Free",
+      "No oil added",
+      "Sulfite-Free",
+      "Kosher"
+    ],
+    "cautions": [],
+    "ingredientLines": [
+      "4 cups vegan eggnog",
+      "4 ounces brandy, bourbon or rum",
+      "Garnishes of your choice, like cinnamon sticks, freshly grated nutmeg, orange zest or a dollop of vegan whipped cream"
+    ],
+    "calories": 1164.398433540425,
+    "totalWeight": 1132.7862867775,
+    "totalTime": 5,
+    "cuisineType": [
+      "american"
+    ],
+    "mealType": [
+      "lunch/dinner"
+    ],
+    "dishType": [
+      "drinks"
+    ]
+  },
+  {
+    "label": "Vegan Cucumber Tea Sandwiches",
+    "url": "https://www.marthastewart.com/1526080/vegan-cucumber-tea-sandwiches",
+    "ingredients": [
+      {
+        "text": "1 (8-ounce) container vegan cream cheese, such as Kite Hill",
+        "quantity": 8,
+        "measure": "ounce",
+        "food": "vegan cream cheese",
+        "weight": 226.796185,
+        "foodCategory": "Plant-based protein",
+        "foodId": "food_afw1vv1ac3l17wbn9gcq2autcc91",
+        "image": "https://www.edamam.com/food-img/fc7/fc77c17a6b7310e939f328b32dc64e81.jpg"
+      },
+      {
+        "text": "2 tablespoons finely chopped fresh chives, plus more for serving",
+        "quantity": 2,
+        "measure": "tablespoon",
+        "food": "chives",
+        "weight": 6,
+        "foodCategory": "vegetables",
+        "foodId": "food_btg1uzjak79lawbirsitkaeai60l",
+        "image": "https://www.edamam.com/food-img/f3f/f3f48643a924ba174b894e979cb48620.jpg"
+      },
+      {
+        "text": "2 tablespoons finely chopped fresh flat-leaf parsley",
+        "quantity": 2,
+        "measure": "tablespoon",
+        "food": "parsley",
+        "weight": 7.6,
+        "foodCategory": "vegetables",
+        "foodId": "food_b244pqdazw24zobr5vqu2bf0uid8",
+        "image": "https://www.edamam.com/food-img/46a/46a132e96626d7989b4d6ed8c91f4da0.jpg"
+      },
+      {
+        "text": "1 tablespoon finely chopped fresh tarragon",
+        "quantity": 1,
+        "measure": "tablespoon",
+        "food": "fresh tarragon",
+        "weight": 2.49999999995773,
+        "foodCategory": "Condiments and sauces",
+        "foodId": "food_bcae9pdaob9i69bo94oxramms336",
+        "image": "https://www.edamam.com/food-img/22f/22f8945d157d8b759c30e6738639991b.jpg"
+      },
+      {
+        "text": "Kosher salt and freshly ground pepper",
+        "quantity": 0,
+        "measure": null,
+        "food": "Kosher salt",
+        "weight": 3.8093771099997467,
+        "foodCategory": "Condiments and sauces",
+        "foodId": "food_a1vgrj1bs8rd1majvmd9ubz8ttkg",
+        "image": "https://www.edamam.com/food-img/694/6943ea510918c6025795e8dc6e6eaaeb.jpg"
+      },
+      {
+        "text": "Kosher salt and freshly ground pepper",
+        "quantity": 0,
+        "measure": null,
+        "food": "pepper",
+        "weight": 1.9046885549998733,
+        "foodCategory": "Condiments and sauces",
+        "foodId": "food_b6ywzluaaxv02wad7s1r9ag4py89",
+        "image": "https://www.edamam.com/food-img/c6e/c6e5c3bd8d3bc15175d9766971a4d1b2.jpg"
+      },
+      {
+        "text": "8 slices vegan white or pumpernickel sandwich bread, or a combination",
+        "quantity": 8,
+        "measure": "slice",
+        "food": "sandwich bread",
+        "weight": 232,
+        "foodCategory": "bread, rolls and tortillas",
+        "foodId": "food_a3049hmbqj5wstaeeb3udaz6uaqv",
+        "image": "https://www.edamam.com/food-img/886/886960f6ce6ccec5b9163bacf2996853.jpg"
+      },
+      {
+        "text": "2 mini cucumbers, thinly sliced into rounds",
+        "quantity": 2,
+        "measure": "mini",
+        "food": "cucumbers",
+        "weight": 160,
+        "foodCategory": "vegetables",
+        "foodId": "food_bv7aggjag9rxsaatklqzobca5fzn",
+        "image": "https://www.edamam.com/food-img/501/5015da0e5fc2b384696b3d949aefef86.jpg"
+      }
+    ],
+    "uri": "http://www.edamam.com/ontologies/edamam.owl#recipe_0f2552085e2640b870d623d72fb87f6c",
+    "image": "https://edamam-product-images.s3.amazonaws.com/web-img/266/266b131b87cf6b01417b0515a2a7b41d?X-Amz-Security-Token=IQoJb3JpZ2luX2VjEGoaCXVzLWVhc3QtMSJHMEUCIFIil1jd5NHOSvMOKXmiga%2F7CRpL9SqT90pjzpQvMpS1AiEA9ABMxynDIYnPNFSoTb7ZMBckcrDLvv4e6dtYzK1N0iIqwgUIs%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FARAAGgwxODcwMTcxNTA5ODYiDJ0JUiSQioeZN09KpyqWBVe1sbdKBl4lqNSDGR5UVO8dIqqE5WJuXebdX3lZD4OaGW51LWKTCCXZuBKs2ISuKPh91m2%2BsZ6ktPbGE2AhkybcxwieCVK%2BK7l84Bj24ywSDZsP1yn%2FPQvPSOPdtnqKR68nmtPicbTTb2iN1fNYmLpy0S%2FnwrF8mkwdmHhvUaEbcAUyjMHohThRkgvTO7TCgSpOGWKVTQEFsLHvsgi4bWMGi1ZtCdznqWdnvOSGhPIQKiLCFUVTI1oRtogKh0lqCDL4eD4Xt5720oaytX%2FzK60NnLdU6s2vGCG9kL1rEzM1fp%2FYqaRoi9XQXp3hj79AyZsUJuPSW2wBsyauTTAprw9V0oSJ%2BkgyFsGc7Ge21I74u8u%2BUNk7NGsVmUYeMeKK6TI%2B0Rjmc6gRjNT%2FzDhfv7vJG7pMLWR%2FOUMWNa9yQUISZ8lh6vjj0kkFOzMlze5lBdHr%2FnWvNqWN3MkH70GXWEsIEh43bVc1guPIoprq%2Bu47idhxaAzP1HurGLQr7p64dzS9lpwPYzY6lcy%2FURRoDKTRQG4E%2FCEP5VCwURQtf7DgsBTBfS1SBxALeyc8mv8DNadhiSKCTJIn%2BIy5cJE6p56IH%2FPy%2BLDoFKWBjEyTq%2B485casZ1GZkBnH8U522cCwhIpNLcykX%2F4wNUr86O6r5UklISiFuq1Fd0yu9W3z6zJUJ4XVYRI9130kMvqmT%2FWXqW8YAlY3uDF32GhawMfgb7KSBBrnSCeHfWshej%2BfYfsb%2FLLReGZxgMPqGgbsfZYqxDpHj6ybFJVzSw6l8QriLDoi8oT9adjEPELXp0rV5YgcHAyQDtWXjZ99CXlSqj0bLUoeo8aQQjTT8V8rzygz0yXkostwb4FyfVN5cyxFoE1S0FloEdNSMKW24KoGOrEBFDB4UqY3hmGXzAo%2Bg1EAXCZSzy18Zg6aqXEnnaM9l2m9b6ZdoEhKpA3zaGpQeiK72d9loW2TJU%2FxVT11CkQoWJnc5vc%2BvEAEWhFcrNhGRjVyEL68aqO6lD%2FuH94JxctuAJ2UWf%2BJsGDngPUA01yn%2B8aRAjoZ6PyU1JWIWSrw9CbhMr8XDOwYorTcKjT1xK76ZXfjU6C%2FWO%2BB8Ahq6zvqxZM3%2F4GQPiRkwzYuKPC78a5%2B&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Date=20231118T030438Z&X-Amz-SignedHeaders=host&X-Amz-Expires=3600&X-Amz-Credential=ASIASXCYXIIFLO2MWB7Q%2F20231118%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Signature=9c3b8109f506cf28aa015e5a21b874b39521803f2fbba12ac9b2e353db958f1f",
+    "source": "Martha Stewart",
+    "shareAs": "http://www.edamam.com/recipe/vegan-cucumber-tea-sandwiches-0f2552085e2640b870d623d72fb87f6c/vegan",
+    "yield": 6,
+    "dietLabels": [],
+    "healthLabels": [
+      "Sugar-Conscious",
+      "Low Potassium",
+      "Kidney-Friendly",
+      "Vegan",
+      "Vegetarian",
+      "Pescatarian",
+      "Mediterranean",
+      "Dairy-Free",
+      "Egg-Free",
+      "Peanut-Free",
+      "Tree-Nut-Free",
+      "Soy-Free",
+      "Fish-Free",
+      "Shellfish-Free",
+      "Pork-Free",
+      "Red-Meat-Free",
+      "Crustacean-Free",
+      "Celery-Free",
+      "Mustard-Free",
+      "Sesame-Free",
+      "Lupine-Free",
+      "Mollusk-Free",
+      "Alcohol-Free",
+      "Sulfite-Free",
+      "Kosher"
+    ],
+    "cautions": [
+      "Tree-Nuts",
+      "Soy",
+      "FODMAP"
+    ],
+    "ingredientLines": [
+      "1 (8-ounce) container vegan cream cheese, such as Kite Hill",
+      "2 tablespoons finely chopped fresh chives, plus more for serving",
+      "2 tablespoons finely chopped fresh flat-leaf parsley",
+      "1 tablespoon finely chopped fresh tarragon",
+      "Kosher salt and freshly ground pepper",
+      "8 slices vegan white or pumpernickel sandwich bread, or a combination",
+      "2 mini cucumbers, thinly sliced into rounds"
+    ],
+    "calories": 1334.812305369699,
+    "totalWeight": 636.8008735549577,
+    "totalTime": 15,
+    "cuisineType": [
+      "american"
+    ],
+    "mealType": [
+      "lunch/dinner"
+    ],
+    "dishType": [
+      "sandwiches"
+    ]
+  },
+  {
+    "label": "Marbled Chocolate Protein Cookies (Vegan)",
+    "url": "https://food52.com/recipes/77222-marbled-chocolate-protein-cookies-vegan",
+    "ingredients": [
+      {
+        "text": "1/4 cup vegan butter",
+        "quantity": 0.25,
+        "measure": "cup",
+        "food": "vegan butter",
+        "weight": 54.5,
+        "foodCategory": "Oils",
+        "foodId": "food_bn7cczea5psahcbaqvd2ob43qksr",
+        "image": "https://www.edamam.com/food-img/330/3302cd340e3d2dcf7f02e72fdfe8b209.jpg"
+      },
+      {
+        "text": "scant 1/2 cups granulated sugar",
+        "quantity": 0.5,
+        "measure": "cup",
+        "food": "granulated sugar",
+        "weight": 100,
+        "foodCategory": "sugars",
+        "foodId": "food_axi2ijobrk819yb0adceobnhm1c2",
+        "image": "https://www.edamam.com/food-img/ecb/ecb3f5aaed96d0188c21b8369be07765.jpg"
+      },
+      {
+        "text": "1 tablespoon brown sugar",
+        "quantity": 1,
+        "measure": "tablespoon",
+        "food": "brown sugar",
+        "weight": 9.06249999984678,
+        "foodCategory": "sugars",
+        "foodId": "food_aodgtqwbmeu5f6bxeffn0art3bga",
+        "image": "https://www.edamam.com/food-img/8c6/8c6662bd73900645c6385b51a95d9b03.jpg"
+      },
+      {
+        "text": "2 tablespoons ground flaxseed",
+        "quantity": 2,
+        "measure": "tablespoon",
+        "food": "ground flaxseed",
+        "weight": 12.9999999997802,
+        "foodCategory": "grains",
+        "foodId": "food_auaq2zsa87h332b65eo4ib7dz1qx",
+        "image": null
+      },
+      {
+        "text": "7 tablespoons water",
+        "quantity": 7,
+        "measure": "tablespoon",
+        "food": "water",
+        "weight": 103.507353467,
+        "foodCategory": "water",
+        "foodId": "food_a99vzubbk1ayrsad318rvbzr3dh0",
+        "image": "https://www.edamam.com/food-img/5dd/5dd9d1361847b2ca53c4b19a8f92627e.jpg"
+      },
+      {
+        "text": "1 teaspoon vanilla extract",
+        "quantity": 1,
+        "measure": "teaspoon",
+        "food": "vanilla extract",
+        "weight": 4.2,
+        "foodCategory": "Condiments and sauces",
+        "foodId": "food_bh1wvnqaw3q7ciascfoygaabax2a",
+        "image": "https://www.edamam.com/food-img/90f/90f910b0bf82750d4f6528263e014cca.jpg"
+      },
+      {
+        "text": "2 cups all-purpose flour",
+        "quantity": 2,
+        "measure": "cup",
+        "food": "all-purpose flour",
+        "weight": 250,
+        "foodCategory": "grains",
+        "foodId": "food_ar3x97tbq9o9p6b6gzwj0am0c81l",
+        "image": "https://www.edamam.com/food-img/368/368077bbcab62f862a8c766a56ea5dd1.jpg"
+      },
+      {
+        "text": "1 1/4 teaspoons baking soda",
+        "quantity": 1.25,
+        "measure": "teaspoon",
+        "food": "baking soda",
+        "weight": 5.75,
+        "foodCategory": "condiments and sauces",
+        "foodId": "food_asa4cjoa3lmt8ibwdg0cpblheo69",
+        "image": "https://www.edamam.com/food-img/7e5/7e55e4482cc2fde91f427fc568e6f5b8.jpeg"
+      },
+      {
+        "text": "1 teaspoon cornstarch",
+        "quantity": 1,
+        "measure": "teaspoon",
+        "food": "cornstarch",
+        "weight": 2.66666666680192,
+        "foodCategory": "grains",
+        "foodId": "food_a6r17hrba37cqeabesko5a2gk233",
+        "image": "https://www.edamam.com/food-img/f9b/f9b74d9495b40c0aea955c37a1fc39dc.jpg"
+      },
+      {
+        "text": "1/2 teaspoon salt",
+        "quantity": 0.5,
+        "measure": "teaspoon",
+        "food": "salt",
+        "weight": 3,
+        "foodCategory": "Condiments and sauces",
+        "foodId": "food_btxz81db72hwbra2pncvebzzzum9",
+        "image": "https://www.edamam.com/food-img/694/6943ea510918c6025795e8dc6e6eaaeb.jpg"
+      },
+      {
+        "text": "scant 1/2 cups vegan chocolate protein powder",
+        "quantity": 0.5,
+        "measure": "cup",
+        "food": "protein powder",
+        "weight": 177.441177375,
+        "foodCategory": "protein and nutritional powders",
+        "foodId": "food_bakks6hadovz21bbgb85oa1iycf3",
+        "image": "https://www.edamam.com/food-img/76a/76ab108398f84ad08fe841d3409ab70a.jpg"
+      },
+      {
+        "text": "1/4 cup applesauce",
+        "quantity": 0.25,
+        "measure": "cup",
+        "food": "applesauce",
+        "weight": 61,
+        "foodCategory": "canned fruit",
+        "foodId": "food_a42ufi8ben9zhqbzqv66lab1lwvd",
+        "image": "https://www.edamam.com/food-img/c59/c59e749347516e4aa0aaa3ea25925426.jpg"
+      },
+      {
+        "text": "1 cup vegan chocolate chips",
+        "quantity": 1,
+        "measure": "cup",
+        "food": "vegan chocolate chips",
+        "weight": 168,
+        "foodCategory": "candy",
+        "foodId": "food_bwowd1qbt8nrwzad9zwn7aptem0g",
+        "image": "https://www.edamam.com/food-img/1fd/1fdf37e875d26b6b50e57c61bac12c02.jpg"
+      },
+      {
+        "text": "1/2 cup all-natural chocolate hazelnut spread (not Nutella)",
+        "quantity": 0.5,
+        "measure": "cup",
+        "food": "chocolate hazelnut spread",
+        "weight": 148,
+        "foodCategory": "chocolate",
+        "foodId": "food_aaz5y9abcv9nupabqhgm4a7hozy6",
+        "image": "https://www.edamam.com/food-img/375/37567989ef8d6f7392094111de56f62b.jpg"
+      }
+    ],
+    "uri": "http://www.edamam.com/ontologies/edamam.owl#recipe_2a4929c8467a3abc21672e195b200ee4",
+    "image": "https://edamam-product-images.s3.amazonaws.com/web-img/717/71733c4f84613e42b48ab33249bf838f.png?X-Amz-Security-Token=IQoJb3JpZ2luX2VjEGoaCXVzLWVhc3QtMSJHMEUCIFIil1jd5NHOSvMOKXmiga%2F7CRpL9SqT90pjzpQvMpS1AiEA9ABMxynDIYnPNFSoTb7ZMBckcrDLvv4e6dtYzK1N0iIqwgUIs%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FARAAGgwxODcwMTcxNTA5ODYiDJ0JUiSQioeZN09KpyqWBVe1sbdKBl4lqNSDGR5UVO8dIqqE5WJuXebdX3lZD4OaGW51LWKTCCXZuBKs2ISuKPh91m2%2BsZ6ktPbGE2AhkybcxwieCVK%2BK7l84Bj24ywSDZsP1yn%2FPQvPSOPdtnqKR68nmtPicbTTb2iN1fNYmLpy0S%2FnwrF8mkwdmHhvUaEbcAUyjMHohThRkgvTO7TCgSpOGWKVTQEFsLHvsgi4bWMGi1ZtCdznqWdnvOSGhPIQKiLCFUVTI1oRtogKh0lqCDL4eD4Xt5720oaytX%2FzK60NnLdU6s2vGCG9kL1rEzM1fp%2FYqaRoi9XQXp3hj79AyZsUJuPSW2wBsyauTTAprw9V0oSJ%2BkgyFsGc7Ge21I74u8u%2BUNk7NGsVmUYeMeKK6TI%2B0Rjmc6gRjNT%2FzDhfv7vJG7pMLWR%2FOUMWNa9yQUISZ8lh6vjj0kkFOzMlze5lBdHr%2FnWvNqWN3MkH70GXWEsIEh43bVc1guPIoprq%2Bu47idhxaAzP1HurGLQr7p64dzS9lpwPYzY6lcy%2FURRoDKTRQG4E%2FCEP5VCwURQtf7DgsBTBfS1SBxALeyc8mv8DNadhiSKCTJIn%2BIy5cJE6p56IH%2FPy%2BLDoFKWBjEyTq%2B485casZ1GZkBnH8U522cCwhIpNLcykX%2F4wNUr86O6r5UklISiFuq1Fd0yu9W3z6zJUJ4XVYRI9130kMvqmT%2FWXqW8YAlY3uDF32GhawMfgb7KSBBrnSCeHfWshej%2BfYfsb%2FLLReGZxgMPqGgbsfZYqxDpHj6ybFJVzSw6l8QriLDoi8oT9adjEPELXp0rV5YgcHAyQDtWXjZ99CXlSqj0bLUoeo8aQQjTT8V8rzygz0yXkostwb4FyfVN5cyxFoE1S0FloEdNSMKW24KoGOrEBFDB4UqY3hmGXzAo%2Bg1EAXCZSzy18Zg6aqXEnnaM9l2m9b6ZdoEhKpA3zaGpQeiK72d9loW2TJU%2FxVT11CkQoWJnc5vc%2BvEAEWhFcrNhGRjVyEL68aqO6lD%2FuH94JxctuAJ2UWf%2BJsGDngPUA01yn%2B8aRAjoZ6PyU1JWIWSrw9CbhMr8XDOwYorTcKjT1xK76ZXfjU6C%2FWO%2BB8Ahq6zvqxZM3%2F4GQPiRkwzYuKPC78a5%2B&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Date=20231118T030438Z&X-Amz-SignedHeaders=host&X-Amz-Expires=3600&X-Amz-Credential=ASIASXCYXIIFLO2MWB7Q%2F20231118%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Signature=00af6ba280266d36f20680781344232bd86e9cc0df52ff6506041a2b6849a2b7",
+    "source": "Food52",
+    "shareAs": "http://www.edamam.com/recipe/marbled-chocolate-protein-cookies-vegan-2a4929c8467a3abc21672e195b200ee4/vegan",
+    "yield": 12,
+    "dietLabels": [
+      "Balanced"
+    ],
+    "healthLabels": [
+      "Vegetarian",
+      "Pescatarian",
+      "Egg-Free",
+      "Peanut-Free",
+      "Fish-Free",
+      "Shellfish-Free",
+      "Pork-Free",
+      "Red-Meat-Free",
+      "Crustacean-Free",
+      "Celery-Free",
+      "Mustard-Free",
+      "Sesame-Free",
+      "Lupine-Free",
+      "Mollusk-Free",
+      "Alcohol-Free",
+      "Kosher"
+    ],
+    "cautions": [
+      "Gluten",
+      "Wheat",
+      "Soy",
+      "Sulfites",
+      "FODMAP"
+    ],
+    "ingredientLines": [
+      "1/4 cup vegan butter",
+      "scant 1/2 cups granulated sugar",
+      "1 tablespoon brown sugar",
+      "2 tablespoons ground flaxseed",
+      "7 tablespoons water",
+      "1 teaspoon vanilla extract",
+      "2 cups all-purpose flour",
+      "1 1/4 teaspoons baking soda",
+      "1 teaspoon cornstarch",
+      "1/2 teaspoon salt",
+      "scant 1/2 cups vegan chocolate protein powder",
+      "1/4 cup applesauce",
+      "1 cup vegan chocolate chips",
+      "1/2 cup all-natural chocolate hazelnut spread (not Nutella)"
+    ],
+    "calories": 4314.545268213918,
+    "totalWeight": 1097.1276975084288,
+    "totalTime": 30,
+    "cuisineType": [
+      "american"
+    ],
+    "mealType": [
+      "teatime"
+    ],
+    "dishType": [
+      "biscuits and cookies"
+    ]
+  },
+  {
+    "label": "Vegan Nachos",
+    "url": "http://honestcooking.com/dairy-free-vegan-nachos-recipe/",
+    "ingredients": [
+      {
+        "text": "1 bag corn tortilla chips",
+        "quantity": 1,
+        "measure": "bag",
+        "food": "corn tortilla chips",
+        "weight": 335,
+        "foodCategory": "savory snacks",
+        "foodId": "food_bkxl9s9bpcxmenbef89qbbofifnr",
+        "image": "https://www.edamam.com/food-img/24e/24eea039cad825c1745263674e9879df.jpg"
+      },
+      {
+        "text": "1½ cups go veggie! vegan mexican cheese shreds",
+        "quantity": 1.5,
+        "measure": "cup",
+        "food": "cheese",
+        "weight": 169.5,
+        "foodCategory": "Cheese",
+        "foodId": "food_bhppgmha1u27voagb8eptbp9g376",
+        "image": "https://www.edamam.com/food-img/bcd/bcd94dde1fcde1475b5bf0540f821c5d.jpg"
+      },
+      {
+        "text": "1 cup fresh salsa",
+        "quantity": 1,
+        "measure": "cup",
+        "food": "salsa",
+        "weight": 259,
+        "foodCategory": "canned soup",
+        "foodId": "food_b0t3obfawlm5k2b6erxscacez35u",
+        "image": "https://www.edamam.com/food-img/995/995d0f166754a0475c181b9c156fec43.jpg"
+      },
+      {
+        "text": "½ cup packed baby spinach",
+        "quantity": 0.5,
+        "measure": "cup",
+        "food": "spinach",
+        "weight": 4.999999999999995,
+        "foodCategory": "vegetables",
+        "foodId": "food_aoceuc6bshdej1bbsdammbnj6l6o",
+        "image": "https://www.edamam.com/food-img/e6e/e6e4be375c4554ce01c8ea75232efaa6.jpg"
+      },
+      {
+        "text": "1 extra ripe avocado, peeled, pitted and mashed",
+        "quantity": 1,
+        "measure": "<unit>",
+        "food": "avocado",
+        "weight": 201,
+        "foodCategory": "fruit",
+        "foodId": "food_b0yuze4b1g3afpanijno5abtiu28",
+        "image": "https://www.edamam.com/food-img/984/984a707ea8e9c6bf5f6498970a9e6d9d.jpg"
+      },
+      {
+        "text": "½ tsp. sea salt",
+        "quantity": 0.5,
+        "measure": "teaspoon",
+        "food": "sea salt",
+        "weight": 2.4270833334564377,
+        "foodCategory": "Condiments and sauces",
+        "foodId": "food_a1vgrj1bs8rd1majvmd9ubz8ttkg",
+        "image": "https://www.edamam.com/food-img/694/6943ea510918c6025795e8dc6e6eaaeb.jpg"
+      },
+      {
+        "text": "½ tsp. freshly ground pepper",
+        "quantity": 0.5,
+        "measure": "teaspoon",
+        "food": "ground pepper",
+        "weight": 1.45,
+        "foodCategory": "Condiments and sauces",
+        "foodId": "food_b6ywzluaaxv02wad7s1r9ag4py89",
+        "image": "https://www.edamam.com/food-img/c6e/c6e5c3bd8d3bc15175d9766971a4d1b2.jpg"
+      },
+      {
+        "text": "½ tsp. crushed red pepper flakes",
+        "quantity": 0.5,
+        "measure": "teaspoon",
+        "food": "red pepper flakes",
+        "weight": 0.38541666668621544,
+        "foodCategory": "vegetables",
+        "foodId": "food_bispmxiaijcuxcagex14mbhk2o48",
+        "image": "https://www.edamam.com/food-img/6cb/6cb8e4510251a322178f6e191b3a7b1b.jpeg"
+      },
+      {
+        "text": "1 tbsp. sesame seeds",
+        "quantity": 1,
+        "measure": "tablespoon",
+        "food": "sesame seeds",
+        "weight": 9,
+        "foodCategory": "plant-based protein",
+        "foodId": "food_bvxfnx8bwz2q3abs04kd6bbuf9w8",
+        "image": "https://www.edamam.com/food-img/291/291b355a7a0948716243164427697279.jpg"
+      },
+      {
+        "text": "½ cup finely chopped cilantro, for topping",
+        "quantity": 0.5,
+        "measure": "cup",
+        "food": "cilantro",
+        "weight": 8,
+        "foodCategory": "vegetables",
+        "foodId": "food_alhzhuwb4lc7jnb5s6f02by60bzp",
+        "image": "https://www.edamam.com/food-img/d57/d57e375b6ff99a90c7ee2b1990a1af36.jpg"
+      }
+    ],
+    "uri": "http://www.edamam.com/ontologies/edamam.owl#recipe_c6aff06888db5a3c4b6d47878d03eee2",
+    "image": "https://edamam-product-images.s3.amazonaws.com/web-img/ed3/ed32750be9cc9b518e464a812c533f59.jpg?X-Amz-Security-Token=IQoJb3JpZ2luX2VjEGoaCXVzLWVhc3QtMSJHMEUCIFIil1jd5NHOSvMOKXmiga%2F7CRpL9SqT90pjzpQvMpS1AiEA9ABMxynDIYnPNFSoTb7ZMBckcrDLvv4e6dtYzK1N0iIqwgUIs%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FARAAGgwxODcwMTcxNTA5ODYiDJ0JUiSQioeZN09KpyqWBVe1sbdKBl4lqNSDGR5UVO8dIqqE5WJuXebdX3lZD4OaGW51LWKTCCXZuBKs2ISuKPh91m2%2BsZ6ktPbGE2AhkybcxwieCVK%2BK7l84Bj24ywSDZsP1yn%2FPQvPSOPdtnqKR68nmtPicbTTb2iN1fNYmLpy0S%2FnwrF8mkwdmHhvUaEbcAUyjMHohThRkgvTO7TCgSpOGWKVTQEFsLHvsgi4bWMGi1ZtCdznqWdnvOSGhPIQKiLCFUVTI1oRtogKh0lqCDL4eD4Xt5720oaytX%2FzK60NnLdU6s2vGCG9kL1rEzM1fp%2FYqaRoi9XQXp3hj79AyZsUJuPSW2wBsyauTTAprw9V0oSJ%2BkgyFsGc7Ge21I74u8u%2BUNk7NGsVmUYeMeKK6TI%2B0Rjmc6gRjNT%2FzDhfv7vJG7pMLWR%2FOUMWNa9yQUISZ8lh6vjj0kkFOzMlze5lBdHr%2FnWvNqWN3MkH70GXWEsIEh43bVc1guPIoprq%2Bu47idhxaAzP1HurGLQr7p64dzS9lpwPYzY6lcy%2FURRoDKTRQG4E%2FCEP5VCwURQtf7DgsBTBfS1SBxALeyc8mv8DNadhiSKCTJIn%2BIy5cJE6p56IH%2FPy%2BLDoFKWBjEyTq%2B485casZ1GZkBnH8U522cCwhIpNLcykX%2F4wNUr86O6r5UklISiFuq1Fd0yu9W3z6zJUJ4XVYRI9130kMvqmT%2FWXqW8YAlY3uDF32GhawMfgb7KSBBrnSCeHfWshej%2BfYfsb%2FLLReGZxgMPqGgbsfZYqxDpHj6ybFJVzSw6l8QriLDoi8oT9adjEPELXp0rV5YgcHAyQDtWXjZ99CXlSqj0bLUoeo8aQQjTT8V8rzygz0yXkostwb4FyfVN5cyxFoE1S0FloEdNSMKW24KoGOrEBFDB4UqY3hmGXzAo%2Bg1EAXCZSzy18Zg6aqXEnnaM9l2m9b6ZdoEhKpA3zaGpQeiK72d9loW2TJU%2FxVT11CkQoWJnc5vc%2BvEAEWhFcrNhGRjVyEL68aqO6lD%2FuH94JxctuAJ2UWf%2BJsGDngPUA01yn%2B8aRAjoZ6PyU1JWIWSrw9CbhMr8XDOwYorTcKjT1xK76ZXfjU6C%2FWO%2BB8Ahq6zvqxZM3%2F4GQPiRkwzYuKPC78a5%2B&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Date=20231118T030438Z&X-Amz-SignedHeaders=host&X-Amz-Expires=3600&X-Amz-Credential=ASIASXCYXIIFLO2MWB7Q%2F20231118%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Signature=accb783728234ad26faebf6986fec75e24b43b2f14c0314fa7e751fac7eeebb5",
+    "source": "Honest Cooking",
+    "shareAs": "http://www.edamam.com/recipe/vegan-nachos-c6aff06888db5a3c4b6d47878d03eee2/vegan",
+    "yield": 4,
+    "dietLabels": [
+      "High-Fiber"
+    ],
+    "healthLabels": [
+      "Vegetarian",
+      "Pescatarian",
+      "Gluten-Free",
+      "Wheat-Free",
+      "Egg-Free",
+      "Peanut-Free",
+      "Tree-Nut-Free",
+      "Soy-Free",
+      "Fish-Free",
+      "Shellfish-Free",
+      "Pork-Free",
+      "Red-Meat-Free",
+      "Crustacean-Free",
+      "Celery-Free",
+      "Mustard-Free",
+      "Lupine-Free",
+      "Mollusk-Free",
+      "Alcohol-Free",
+      "Sulfite-Free",
+      "Kosher"
+    ],
+    "cautions": [
+      "Sulfites"
+    ],
+    "ingredientLines": [
+      "1 bag corn tortilla chips",
+      "1½ cups go veggie! vegan mexican cheese shreds",
+      "1 cup fresh salsa",
+      "½ cup packed baby spinach",
+      "1 extra ripe avocado, peeled, pitted and mashed",
+      "½ tsp. sea salt",
+      "½ tsp. freshly ground pepper",
+      "½ tsp. crushed red pepper flakes",
+      "1 tbsp. sesame seeds",
+      "½ cup finely chopped cilantro, for topping"
+    ],
+    "calories": 2804.193250000064,
+    "totalWeight": 988.3354166666862,
+    "totalTime": 15,
+    "cuisineType": [
+      "american"
+    ],
+    "mealType": [
+      "lunch/dinner"
+    ],
+    "dishType": [
+      "starter"
+    ]
+  },
+  {
+    "label": "The Best Vegan Breakfast Sandwich",
+    "url": "https://www.epicurious.com/recipes/food/views/the-best-vegan-tofu-breakfast-sandwich",
+    "ingredients": [
+      {
+        "text": "1 (16 oz/450 g) brick medium-firm tofu",
+        "quantity": 16,
+        "measure": "ounce",
+        "food": "tofu",
+        "weight": 453.59237,
+        "foodCategory": "plant-based protein",
+        "foodId": "food_a269ixea1yf51xbfwgnq2boiwc7x",
+        "image": "https://www.edamam.com/food-img/b6a/b6ae13c3cfe37e16f820840f90231bff.jpg"
+      },
+      {
+        "text": "3/4 cup unsweetened nondairy milk",
+        "quantity": 0.75,
+        "measure": "cup",
+        "food": "nondairy milk",
+        "weight": 183,
+        "foodCategory": "Milk",
+        "foodId": "food_aldsn8sa3rioenar1lwhob4bpdj2",
+        "image": "https://www.edamam.com/food-img/694/6944c7790a123419b8500a7db252eb15.jpg"
+      },
+      {
+        "text": "1/3 cup nutritional yeast",
+        "quantity": 0.3333333333333333,
+        "measure": "cup",
+        "food": "nutritional yeast",
+        "weight": 85.33333333333333,
+        "foodCategory": "Vegan products",
+        "foodId": "food_abjagi2b7qlt18aryyugvbnm0tlu",
+        "image": null
+      },
+      {
+        "text": "1/4 cup tapioca flour",
+        "quantity": 0.25,
+        "measure": "cup",
+        "food": "tapioca flour",
+        "weight": 30,
+        "foodCategory": "grains",
+        "foodId": "food_a2j0fzta3x3yg9azedc0xb5wccng",
+        "image": "https://www.edamam.com/food-img/a30/a3063ea98ee3270b27743406d5536880.jpg"
+      },
+      {
+        "text": "1 teaspoon ground turmeric",
+        "quantity": 1,
+        "measure": "teaspoon",
+        "food": "ground turmeric",
+        "weight": 3,
+        "foodCategory": "Condiments and sauces",
+        "foodId": "food_bc3ig84amucgmwba3vixyatnyd9b",
+        "image": "https://www.edamam.com/food-img/03e/03eb469286b3caf1ae9c13e4eba13587.jpg"
+      },
+      {
+        "text": "1 teaspoon garlic powder",
+        "quantity": 1,
+        "measure": "teaspoon",
+        "food": "garlic powder",
+        "weight": 3.1,
+        "foodCategory": "Condiments and sauces",
+        "foodId": "food_boq94r1a036492bdup9u1beyph0l",
+        "image": "https://www.edamam.com/food-img/5c3/5c3db1d5a1a16b1f0a74796f74dd5985.jpg"
+      },
+      {
+        "text": "1 teaspoon onion powder",
+        "quantity": 1,
+        "measure": "teaspoon",
+        "food": "onion powder",
+        "weight": 2.4,
+        "foodCategory": "Condiments and sauces",
+        "foodId": "food_bmv8z27b1o25vcbu41ooyawd2zj4",
+        "image": "https://www.edamam.com/food-img/1e7/1e73e6f5dd96bb233abc0fcc05fb0ec8.jpg"
+      },
+      {
+        "text": "1 teaspoon sea salt",
+        "quantity": 1,
+        "measure": "teaspoon",
+        "food": "sea salt",
+        "weight": 4.854166666912875,
+        "foodCategory": "Condiments and sauces",
+        "foodId": "food_a1vgrj1bs8rd1majvmd9ubz8ttkg",
+        "image": "https://www.edamam.com/food-img/694/6943ea510918c6025795e8dc6e6eaaeb.jpg"
+      },
+      {
+        "text": "1/2 teaspoon ground pepper",
+        "quantity": 0.5,
+        "measure": "teaspoon",
+        "food": "ground pepper",
+        "weight": 1.45,
+        "foodCategory": "Condiments and sauces",
+        "foodId": "food_b6ywzluaaxv02wad7s1r9ag4py89",
+        "image": "https://www.edamam.com/food-img/c6e/c6e5c3bd8d3bc15175d9766971a4d1b2.jpg"
+      },
+      {
+        "text": "2 tablespoons finely chopped chives",
+        "quantity": 2,
+        "measure": "tablespoon",
+        "food": "chives",
+        "weight": 6,
+        "foodCategory": "vegetables",
+        "foodId": "food_btg1uzjak79lawbirsitkaeai60l",
+        "image": "https://www.edamam.com/food-img/f3f/f3f48643a924ba174b894e979cb48620.jpg"
+      },
+      {
+        "text": "3 tablespoons vegan butter, for frying",
+        "quantity": 3,
+        "measure": "tablespoon",
+        "food": "vegan butter",
+        "weight": 40.8,
+        "foodCategory": "Oils",
+        "foodId": "food_bn7cczea5psahcbaqvd2ob43qksr",
+        "image": "https://www.edamam.com/food-img/330/3302cd340e3d2dcf7f02e72fdfe8b209.jpg"
+      },
+      {
+        "text": "5 English muffins, split in half",
+        "quantity": 5,
+        "measure": "<unit>",
+        "food": "English muffins",
+        "weight": 285,
+        "foodCategory": "bread, rolls and tortillas",
+        "foodId": "food_a2cnfomb05l36abpxyronby1slmi",
+        "image": "https://www.edamam.com/food-img/27b/27be1e4962864c7ac5ef87013879a352.jpg"
+      },
+      {
+        "text": "5 tablespoons vegan butter",
+        "quantity": 5,
+        "measure": "tablespoon",
+        "food": "vegan butter",
+        "weight": 68,
+        "foodCategory": "Oils",
+        "foodId": "food_bn7cczea5psahcbaqvd2ob43qksr",
+        "image": "https://www.edamam.com/food-img/330/3302cd340e3d2dcf7f02e72fdfe8b209.jpg"
+      },
+      {
+        "text": "5 vegan cheddar cheese slices",
+        "quantity": 5,
+        "measure": "slice",
+        "food": "cheddar cheese",
+        "weight": 140,
+        "foodCategory": "Cheese",
+        "foodId": "food_bhppgmha1u27voagb8eptbp9g376",
+        "image": "https://www.edamam.com/food-img/bcd/bcd94dde1fcde1475b5bf0540f821c5d.jpg"
+      },
+      {
+        "text": "Cassava Bacon",
+        "quantity": 0,
+        "measure": null,
+        "food": "Cassava",
+        "weight": 0,
+        "foodCategory": "vegetables",
+        "foodId": "food_b3imt6vbxvc1xeaot5kwgbqn8uyt",
+        "image": "https://www.edamam.com/food-img/a3e/a3e1d2a45a123ff2393a75a20dc75d2b.jpg"
+      },
+      {
+        "text": "Cassava Bacon",
+        "quantity": 0,
+        "measure": null,
+        "food": "Bacon",
+        "weight": 0,
+        "foodCategory": "cured meats",
+        "foodId": "food_av0awb0bgs18qub01sd9kbx44b61",
+        "image": "https://www.edamam.com/food-img/d42/d426884a125fa39a70d5a5d7217864ec.jpg"
+      },
+      {
+        "text": "2 vine tomatoes, sliced thick",
+        "quantity": 2,
+        "measure": "<unit>",
+        "food": "vine tomatoes",
+        "weight": 246,
+        "foodCategory": "vegetables",
+        "foodId": "food_b4p5snhbwax8dzbchpn5xb7wn05q",
+        "image": "https://www.edamam.com/food-img/23e/23e727a14f1035bdc2733bb0477efbd2.jpg"
+      }
+    ],
+    "uri": "http://www.edamam.com/ontologies/edamam.owl#recipe_9559557a0cc426dfd7d7aca79a0bce98",
+    "image": "https://edamam-product-images.s3.amazonaws.com/web-img/a73/a73159b4affa3460299feea42c4430be.jpg?X-Amz-Security-Token=IQoJb3JpZ2luX2VjEGoaCXVzLWVhc3QtMSJHMEUCIFIil1jd5NHOSvMOKXmiga%2F7CRpL9SqT90pjzpQvMpS1AiEA9ABMxynDIYnPNFSoTb7ZMBckcrDLvv4e6dtYzK1N0iIqwgUIs%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FARAAGgwxODcwMTcxNTA5ODYiDJ0JUiSQioeZN09KpyqWBVe1sbdKBl4lqNSDGR5UVO8dIqqE5WJuXebdX3lZD4OaGW51LWKTCCXZuBKs2ISuKPh91m2%2BsZ6ktPbGE2AhkybcxwieCVK%2BK7l84Bj24ywSDZsP1yn%2FPQvPSOPdtnqKR68nmtPicbTTb2iN1fNYmLpy0S%2FnwrF8mkwdmHhvUaEbcAUyjMHohThRkgvTO7TCgSpOGWKVTQEFsLHvsgi4bWMGi1ZtCdznqWdnvOSGhPIQKiLCFUVTI1oRtogKh0lqCDL4eD4Xt5720oaytX%2FzK60NnLdU6s2vGCG9kL1rEzM1fp%2FYqaRoi9XQXp3hj79AyZsUJuPSW2wBsyauTTAprw9V0oSJ%2BkgyFsGc7Ge21I74u8u%2BUNk7NGsVmUYeMeKK6TI%2B0Rjmc6gRjNT%2FzDhfv7vJG7pMLWR%2FOUMWNa9yQUISZ8lh6vjj0kkFOzMlze5lBdHr%2FnWvNqWN3MkH70GXWEsIEh43bVc1guPIoprq%2Bu47idhxaAzP1HurGLQr7p64dzS9lpwPYzY6lcy%2FURRoDKTRQG4E%2FCEP5VCwURQtf7DgsBTBfS1SBxALeyc8mv8DNadhiSKCTJIn%2BIy5cJE6p56IH%2FPy%2BLDoFKWBjEyTq%2B485casZ1GZkBnH8U522cCwhIpNLcykX%2F4wNUr86O6r5UklISiFuq1Fd0yu9W3z6zJUJ4XVYRI9130kMvqmT%2FWXqW8YAlY3uDF32GhawMfgb7KSBBrnSCeHfWshej%2BfYfsb%2FLLReGZxgMPqGgbsfZYqxDpHj6ybFJVzSw6l8QriLDoi8oT9adjEPELXp0rV5YgcHAyQDtWXjZ99CXlSqj0bLUoeo8aQQjTT8V8rzygz0yXkostwb4FyfVN5cyxFoE1S0FloEdNSMKW24KoGOrEBFDB4UqY3hmGXzAo%2Bg1EAXCZSzy18Zg6aqXEnnaM9l2m9b6ZdoEhKpA3zaGpQeiK72d9loW2TJU%2FxVT11CkQoWJnc5vc%2BvEAEWhFcrNhGRjVyEL68aqO6lD%2FuH94JxctuAJ2UWf%2BJsGDngPUA01yn%2B8aRAjoZ6PyU1JWIWSrw9CbhMr8XDOwYorTcKjT1xK76ZXfjU6C%2FWO%2BB8Ahq6zvqxZM3%2F4GQPiRkwzYuKPC78a5%2B&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Date=20231118T030438Z&X-Amz-SignedHeaders=host&X-Amz-Expires=3600&X-Amz-Credential=ASIASXCYXIIFLO2MWB7Q%2F20231118%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Signature=3cf412e8ac66fbf599ef7e5892df8a211b75538a846686a47ee5df11b3bd6d76",
+    "source": "Epicurious",
+    "shareAs": "http://www.edamam.com/recipe/the-best-vegan-breakfast-sandwich-9559557a0cc426dfd7d7aca79a0bce98/vegan",
+    "yield": 12,
+    "dietLabels": [],
+    "healthLabels": [
+      "Egg-Free",
+      "Peanut-Free",
+      "Tree-Nut-Free",
+      "Fish-Free",
+      "Shellfish-Free",
+      "Crustacean-Free",
+      "Celery-Free",
+      "Mustard-Free",
+      "Sesame-Free",
+      "Lupine-Free",
+      "Mollusk-Free",
+      "Alcohol-Free"
+    ],
+    "cautions": [
+      "Gluten",
+      "Wheat",
+      "Sulfites"
+    ],
+    "ingredientLines": [
+      "1 (16 oz/450 g) brick medium-firm tofu",
+      "3/4 cup unsweetened nondairy milk",
+      "1/3 cup nutritional yeast",
+      "1/4 cup tapioca flour",
+      "1 teaspoon ground turmeric",
+      "1 teaspoon garlic powder",
+      "1 teaspoon onion powder",
+      "1 teaspoon sea salt",
+      "1/2 teaspoon ground pepper",
+      "2 tablespoons finely chopped chives",
+      "3 tablespoons vegan butter, for frying",
+      "5 English muffins, split in half",
+      "5 tablespoons vegan butter",
+      "5 vegan cheddar cheese slices",
+      "Cassava Bacon",
+      "2 vine tomatoes, sliced thick"
+    ],
+    "calories": 3040.285215266667,
+    "totalWeight": 1551.3651220881125,
+    "totalTime": 0,
+    "cuisineType": [
+      "american"
+    ],
+    "mealType": [
+      "lunch/dinner"
+    ],
+    "dishType": [
+      "sandwiches"
+    ]
+  },
+  {
+    "label": "Classic American Fare, Now In Vegan! recipes",
+    "url": "http://www.foodrepublic.com/recipes/classic-american-fare-now-in-vegan/",
+    "ingredients": [
+      {
+        "text": "1/4 cup vegan butter",
+        "quantity": 0.25,
+        "measure": "cup",
+        "food": "vegan butter",
+        "weight": 54.5,
+        "foodCategory": "Oils",
+        "foodId": "food_bn7cczea5psahcbaqvd2ob43qksr",
+        "image": "https://www.edamam.com/food-img/330/3302cd340e3d2dcf7f02e72fdfe8b209.jpg"
+      },
+      {
+        "text": "1 cup onion, diced finely",
+        "quantity": 1,
+        "measure": "cup",
+        "food": "onion",
+        "weight": 160,
+        "foodCategory": "vegetables",
+        "foodId": "food_bmrvi4ob4binw9a5m7l07amlfcoy",
+        "image": "https://www.edamam.com/food-img/205/205e6bf2399b85d34741892ef91cc603.jpg"
+      },
+      {
+        "text": "1/2 tablespoon garlic, minced",
+        "quantity": 0.5,
+        "measure": "tablespoon",
+        "food": "garlic",
+        "weight": 4.2499999999281455,
+        "foodCategory": "vegetables",
+        "foodId": "food_avtcmx6bgjv1jvay6s6stan8dnyp",
+        "image": "https://www.edamam.com/food-img/6ee/6ee142951f48aaf94f4312409f8d133d.jpg"
+      },
+      {
+        "text": "16 ounces broccoli, fresh or frozen, chopped",
+        "quantity": 16,
+        "measure": "ounce",
+        "food": "broccoli",
+        "weight": 453.59237,
+        "foodCategory": "vegetables",
+        "foodId": "food_aahw0jha9f8337ajbopx9aec6z7i",
+        "image": "https://www.edamam.com/food-img/3e4/3e47317a3dd54dc911b9c44122285df1.jpg"
+      },
+      {
+        "text": "1 quart water or vegetable stock",
+        "quantity": 1,
+        "measure": "quart",
+        "food": "vegetable stock",
+        "weight": 908,
+        "foodCategory": "Vegan products",
+        "foodId": "food_bb2qjrjamst0vmam39stubtkmrs4",
+        "image": "https://www.edamam.com/food-img/e61/e6184a8681b772e5198ef0ca1919e1b7.jpg"
+      },
+      {
+        "text": "1/4 teaspoon white pepper",
+        "quantity": 0.25,
+        "measure": "teaspoon",
+        "food": "white pepper",
+        "weight": 0.6,
+        "foodCategory": "Condiments and sauces",
+        "foodId": "food_a443px0bncpqa5avv80p3anrp26k",
+        "image": "https://www.edamam.com/food-img/4f0/4f0e35fe6c042996408b337fb550324a.jpg"
+      },
+      {
+        "text": "1 tablespoon cornstarch, mixed with 1/2 cup water",
+        "quantity": 1,
+        "measure": "tablespoon",
+        "food": "cornstarch",
+        "weight": 7.999999999864745,
+        "foodCategory": "grains",
+        "foodId": "food_a6r17hrba37cqeabesko5a2gk233",
+        "image": "https://www.edamam.com/food-img/f9b/f9b74d9495b40c0aea955c37a1fc39dc.jpg"
+      },
+      {
+        "text": "1/4 cup nutritional yeast",
+        "quantity": 0.25,
+        "measure": "cup",
+        "food": "nutritional yeast",
+        "weight": 64,
+        "foodCategory": "Vegan products",
+        "foodId": "food_abjagi2b7qlt18aryyugvbnm0tlu",
+        "image": null
+      },
+      {
+        "text": "1 1/2 cups unsweetened unflavored soy or almond milk",
+        "quantity": 1.5,
+        "measure": "cup",
+        "food": "almond milk",
+        "weight": 360,
+        "foodCategory": "Vegan products",
+        "foodId": "food_aa8o4pkbhgkey4btmg1daaclqmww",
+        "image": "https://www.edamam.com/food-img/b26/b267bf598feaabd7349fddda7a481f00.jpg"
+      },
+      {
+        "text": "8 ounces vegan cheddar cheese",
+        "quantity": 8,
+        "measure": "ounce",
+        "food": "cheddar cheese",
+        "weight": 226.796185,
+        "foodCategory": "Cheese",
+        "foodId": "food_bhppgmha1u27voagb8eptbp9g376",
+        "image": "https://www.edamam.com/food-img/bcd/bcd94dde1fcde1475b5bf0540f821c5d.jpg"
+      }
+    ],
+    "uri": "http://www.edamam.com/ontologies/edamam.owl#recipe_fb2c2aff0392eb951d3b220b16f5a54a",
+    "image": "https://edamam-product-images.s3.amazonaws.com/web-img/bee/beea3f58e66dbe7ab6e6923fdb4ba670?X-Amz-Security-Token=IQoJb3JpZ2luX2VjEGoaCXVzLWVhc3QtMSJHMEUCIFIil1jd5NHOSvMOKXmiga%2F7CRpL9SqT90pjzpQvMpS1AiEA9ABMxynDIYnPNFSoTb7ZMBckcrDLvv4e6dtYzK1N0iIqwgUIs%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FARAAGgwxODcwMTcxNTA5ODYiDJ0JUiSQioeZN09KpyqWBVe1sbdKBl4lqNSDGR5UVO8dIqqE5WJuXebdX3lZD4OaGW51LWKTCCXZuBKs2ISuKPh91m2%2BsZ6ktPbGE2AhkybcxwieCVK%2BK7l84Bj24ywSDZsP1yn%2FPQvPSOPdtnqKR68nmtPicbTTb2iN1fNYmLpy0S%2FnwrF8mkwdmHhvUaEbcAUyjMHohThRkgvTO7TCgSpOGWKVTQEFsLHvsgi4bWMGi1ZtCdznqWdnvOSGhPIQKiLCFUVTI1oRtogKh0lqCDL4eD4Xt5720oaytX%2FzK60NnLdU6s2vGCG9kL1rEzM1fp%2FYqaRoi9XQXp3hj79AyZsUJuPSW2wBsyauTTAprw9V0oSJ%2BkgyFsGc7Ge21I74u8u%2BUNk7NGsVmUYeMeKK6TI%2B0Rjmc6gRjNT%2FzDhfv7vJG7pMLWR%2FOUMWNa9yQUISZ8lh6vjj0kkFOzMlze5lBdHr%2FnWvNqWN3MkH70GXWEsIEh43bVc1guPIoprq%2Bu47idhxaAzP1HurGLQr7p64dzS9lpwPYzY6lcy%2FURRoDKTRQG4E%2FCEP5VCwURQtf7DgsBTBfS1SBxALeyc8mv8DNadhiSKCTJIn%2BIy5cJE6p56IH%2FPy%2BLDoFKWBjEyTq%2B485casZ1GZkBnH8U522cCwhIpNLcykX%2F4wNUr86O6r5UklISiFuq1Fd0yu9W3z6zJUJ4XVYRI9130kMvqmT%2FWXqW8YAlY3uDF32GhawMfgb7KSBBrnSCeHfWshej%2BfYfsb%2FLLReGZxgMPqGgbsfZYqxDpHj6ybFJVzSw6l8QriLDoi8oT9adjEPELXp0rV5YgcHAyQDtWXjZ99CXlSqj0bLUoeo8aQQjTT8V8rzygz0yXkostwb4FyfVN5cyxFoE1S0FloEdNSMKW24KoGOrEBFDB4UqY3hmGXzAo%2Bg1EAXCZSzy18Zg6aqXEnnaM9l2m9b6ZdoEhKpA3zaGpQeiK72d9loW2TJU%2FxVT11CkQoWJnc5vc%2BvEAEWhFcrNhGRjVyEL68aqO6lD%2FuH94JxctuAJ2UWf%2BJsGDngPUA01yn%2B8aRAjoZ6PyU1JWIWSrw9CbhMr8XDOwYorTcKjT1xK76ZXfjU6C%2FWO%2BB8Ahq6zvqxZM3%2F4GQPiRkwzYuKPC78a5%2B&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Date=20231118T030438Z&X-Amz-SignedHeaders=host&X-Amz-Expires=3600&X-Amz-Credential=ASIASXCYXIIFLO2MWB7Q%2F20231118%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Signature=e8f095a92dd01656a7ddc13e5704508c8dbfb94f37f204255767a83d4ec458e4",
+    "source": "Food Republic",
+    "shareAs": "http://www.edamam.com/recipe/classic-american-fare-now-in-vegan-recipes-fb2c2aff0392eb951d3b220b16f5a54a/vegan",
+    "yield": 4,
+    "dietLabels": [
+      "High-Fiber",
+      "Low-Carb"
+    ],
+    "healthLabels": [
+      "Vegetarian",
+      "Pescatarian",
+      "Gluten-Free",
+      "Wheat-Free",
+      "Egg-Free",
+      "Peanut-Free",
+      "Fish-Free",
+      "Shellfish-Free",
+      "Pork-Free",
+      "Red-Meat-Free",
+      "Crustacean-Free",
+      "Celery-Free",
+      "Mustard-Free",
+      "Sesame-Free",
+      "Lupine-Free",
+      "Mollusk-Free",
+      "Alcohol-Free",
+      "Kosher"
+    ],
+    "cautions": [
+      "Gluten",
+      "Wheat",
+      "Sulfites"
+    ],
+    "ingredientLines": [
+      "1/4 cup vegan butter",
+      "1 cup onion, diced finely",
+      "1/2 tablespoon garlic, minced",
+      "16 ounces broccoli, fresh or frozen, chopped",
+      "1 quart water or vegetable stock",
+      "1/4 teaspoon white pepper",
+      "1 tablespoon cornstarch, mixed with 1/2 cup water",
+      "1/4 cup nutritional yeast",
+      "1 1/2 cups unsweetened unflavored soy or almond milk",
+      "8 ounces vegan cheddar cheese"
+    ],
+    "calories": 1895.1654884264976,
+    "totalWeight": 2239.738554999793,
+    "totalTime": 30,
+    "cuisineType": [
+      "american"
+    ],
+    "mealType": [
+      "lunch/dinner"
+    ],
+    "dishType": [
+      "starter"
+    ]
+  },
+  {
+    "label": "{Vegan} Peanut Butter & Honey Muffins recipes",
+    "url": "http://pinchofyum.com/peanut-butter-honey-muffins",
+    "ingredients": [
+      {
+        "text": "1 cup flour",
+        "quantity": 1,
+        "measure": "cup",
+        "food": "flour",
+        "weight": 125,
+        "foodCategory": "grains",
+        "foodId": "food_ahebfs0a985an4aubqaebbipra58",
+        "image": "https://www.edamam.com/food-img/b4c/b4c739e76a6f2172b7ad49d0aa41d5aa.jpg"
+      },
+      {
+        "text": "1½ teaspoons baking powder",
+        "quantity": 1.5,
+        "measure": "teaspoon",
+        "food": "baking powder",
+        "weight": 6.8999999999999995,
+        "foodCategory": "condiments and sauces",
+        "foodId": "food_bad4zycbt4w60dbut111vaub2g3e",
+        "image": "https://www.edamam.com/food-img/a84/a8410ec57a2e62a1ad9955ac14d40af6.jpg"
+      },
+      {
+        "text": "pinch of salt",
+        "quantity": 1,
+        "measure": "pinch",
+        "food": "salt",
+        "weight": 0.380208333815447,
+        "foodCategory": "Condiments and sauces",
+        "foodId": "food_btxz81db72hwbra2pncvebzzzum9",
+        "image": "https://www.edamam.com/food-img/694/6943ea510918c6025795e8dc6e6eaaeb.jpg"
+      },
+      {
+        "text": "3 tablespoons peanut butter (crunchy or smooth)",
+        "quantity": 3,
+        "measure": "tablespoon",
+        "food": "peanut butter",
+        "weight": 48,
+        "foodCategory": "plant-based protein",
+        "foodId": "food_bz6b8fsbccyn3zaij72f7av8dl9m",
+        "image": "https://www.edamam.com/food-img/d74/d740276ae1409472a8714b2cee88a310.jpg"
+      },
+      {
+        "text": "2 tablespoons oil",
+        "quantity": 2,
+        "measure": "tablespoon",
+        "food": "oil",
+        "weight": 28,
+        "foodCategory": "Oils",
+        "foodId": "food_bk9p9aaavhvoq4bqsnprobpsiuxs",
+        "image": "https://www.edamam.com/food-img/07e/07e106ab3536d57428e5c46d009038f8.jpg"
+      },
+      {
+        "text": "3 tablespoons honey (agave nectar if vegan)",
+        "quantity": 3,
+        "measure": "tablespoon",
+        "food": "honey",
+        "weight": 63,
+        "foodCategory": "sugar syrups",
+        "foodId": "food_b1cj2pmac27zngan87974b0a40hk",
+        "image": "https://www.edamam.com/food-img/198/198c7b25c23b4235b4cc33818c7b335f.jpg"
+      },
+      {
+        "text": "¾ cup milk (almond, soy, etc. if vegan)",
+        "quantity": 0.75,
+        "measure": "cup",
+        "food": "milk",
+        "weight": 183,
+        "foodCategory": "Milk",
+        "foodId": "food_b49rs1kaw0jktabzkg2vvanvvsis",
+        "image": "https://www.edamam.com/food-img/7c9/7c9962acf83654a8d98ea6a2ade93735.jpg"
+      }
+    ],
+    "uri": "http://www.edamam.com/ontologies/edamam.owl#recipe_c88419507e9b9f4e963b4b0df3e4c1e1",
+    "image": "https://edamam-product-images.s3.amazonaws.com/web-img/389/389330863fe0a761d97a1b138e00bb0d?X-Amz-Security-Token=IQoJb3JpZ2luX2VjEGoaCXVzLWVhc3QtMSJHMEUCIFIil1jd5NHOSvMOKXmiga%2F7CRpL9SqT90pjzpQvMpS1AiEA9ABMxynDIYnPNFSoTb7ZMBckcrDLvv4e6dtYzK1N0iIqwgUIs%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FARAAGgwxODcwMTcxNTA5ODYiDJ0JUiSQioeZN09KpyqWBVe1sbdKBl4lqNSDGR5UVO8dIqqE5WJuXebdX3lZD4OaGW51LWKTCCXZuBKs2ISuKPh91m2%2BsZ6ktPbGE2AhkybcxwieCVK%2BK7l84Bj24ywSDZsP1yn%2FPQvPSOPdtnqKR68nmtPicbTTb2iN1fNYmLpy0S%2FnwrF8mkwdmHhvUaEbcAUyjMHohThRkgvTO7TCgSpOGWKVTQEFsLHvsgi4bWMGi1ZtCdznqWdnvOSGhPIQKiLCFUVTI1oRtogKh0lqCDL4eD4Xt5720oaytX%2FzK60NnLdU6s2vGCG9kL1rEzM1fp%2FYqaRoi9XQXp3hj79AyZsUJuPSW2wBsyauTTAprw9V0oSJ%2BkgyFsGc7Ge21I74u8u%2BUNk7NGsVmUYeMeKK6TI%2B0Rjmc6gRjNT%2FzDhfv7vJG7pMLWR%2FOUMWNa9yQUISZ8lh6vjj0kkFOzMlze5lBdHr%2FnWvNqWN3MkH70GXWEsIEh43bVc1guPIoprq%2Bu47idhxaAzP1HurGLQr7p64dzS9lpwPYzY6lcy%2FURRoDKTRQG4E%2FCEP5VCwURQtf7DgsBTBfS1SBxALeyc8mv8DNadhiSKCTJIn%2BIy5cJE6p56IH%2FPy%2BLDoFKWBjEyTq%2B485casZ1GZkBnH8U522cCwhIpNLcykX%2F4wNUr86O6r5UklISiFuq1Fd0yu9W3z6zJUJ4XVYRI9130kMvqmT%2FWXqW8YAlY3uDF32GhawMfgb7KSBBrnSCeHfWshej%2BfYfsb%2FLLReGZxgMPqGgbsfZYqxDpHj6ybFJVzSw6l8QriLDoi8oT9adjEPELXp0rV5YgcHAyQDtWXjZ99CXlSqj0bLUoeo8aQQjTT8V8rzygz0yXkostwb4FyfVN5cyxFoE1S0FloEdNSMKW24KoGOrEBFDB4UqY3hmGXzAo%2Bg1EAXCZSzy18Zg6aqXEnnaM9l2m9b6ZdoEhKpA3zaGpQeiK72d9loW2TJU%2FxVT11CkQoWJnc5vc%2BvEAEWhFcrNhGRjVyEL68aqO6lD%2FuH94JxctuAJ2UWf%2BJsGDngPUA01yn%2B8aRAjoZ6PyU1JWIWSrw9CbhMr8XDOwYorTcKjT1xK76ZXfjU6C%2FWO%2BB8Ahq6zvqxZM3%2F4GQPiRkwzYuKPC78a5%2B&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Date=20231118T030438Z&X-Amz-SignedHeaders=host&X-Amz-Expires=3600&X-Amz-Credential=ASIASXCYXIIFLO2MWB7Q%2F20231118%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Signature=355853806c8d6d585f20a75c26ed9ddb35d97c7a6c8ab34fb3b32de6f08fb5ca",
+    "source": "Pinch of Yum",
+    "shareAs": "http://www.edamam.com/recipe/vegan-peanut-butter-honey-muffins-recipes-c88419507e9b9f4e963b4b0df3e4c1e1/vegan",
+    "yield": 6,
+    "dietLabels": [
+      "Low-Sodium"
+    ],
+    "healthLabels": [
+      "Low Potassium",
+      "Kidney-Friendly",
+      "Vegetarian",
+      "Pescatarian",
+      "Egg-Free",
+      "Fish-Free",
+      "Shellfish-Free",
+      "Pork-Free",
+      "Red-Meat-Free",
+      "Crustacean-Free",
+      "Celery-Free",
+      "Mustard-Free",
+      "Sesame-Free",
+      "Lupine-Free",
+      "Mollusk-Free",
+      "Alcohol-Free",
+      "Kosher"
+    ],
+    "cautions": [
+      "Sulfites"
+    ],
+    "ingredientLines": [
+      "1 cup flour",
+      "1½ teaspoons baking powder",
+      "pinch of salt",
+      "3 tablespoons peanut butter (crunchy or smooth)",
+      "2 tablespoons oil",
+      "3 tablespoons honey (agave nectar if vegan)",
+      "¾ cup milk (almond, soy, etc. if vegan)"
+    ],
+    "calories": 1296.229,
+    "totalWeight": 454.2802083338155,
+    "totalTime": 25,
+    "cuisineType": [
+      "american"
+    ],
+    "mealType": [
+      "lunch/dinner"
+    ],
+    "dishType": [
+      "desserts"
+    ]
+  },
+  {
+    "label": "Vegan Pots de Crème",
+    "url": "http://www.pbs.org/food/recipes/pots-de-creme/",
+    "ingredients": [
+      {
+        "text": "3⁄4 cup vanilla nondairy milk",
+        "quantity": 0.75,
+        "measure": "cup",
+        "food": "nondairy milk",
+        "weight": 183,
+        "foodCategory": "Milk",
+        "foodId": "food_aldsn8sa3rioenar1lwhob4bpdj2",
+        "image": "https://www.edamam.com/food-img/694/6944c7790a123419b8500a7db252eb15.jpg"
+      },
+      {
+        "text": "12 ounces soft regular or silken tofu, drained and cubed",
+        "quantity": 12,
+        "measure": "ounce",
+        "food": "tofu",
+        "weight": 340.1942775,
+        "foodCategory": "plant-based protein",
+        "foodId": "food_a269ixea1yf51xbfwgnq2boiwc7x",
+        "image": "https://www.edamam.com/food-img/b6a/b6ae13c3cfe37e16f820840f90231bff.jpg"
+      },
+      {
+        "text": "2 teaspoons brown sugar",
+        "quantity": 2,
+        "measure": "teaspoon",
+        "food": "brown sugar",
+        "weight": 6,
+        "foodCategory": "sugars",
+        "foodId": "food_aodgtqwbmeu5f6bxeffn0art3bga",
+        "image": "https://www.edamam.com/food-img/8c6/8c6662bd73900645c6385b51a95d9b03.jpg"
+      },
+      {
+        "text": "1 cup vegan dark chocolate chips",
+        "quantity": 1,
+        "measure": "cup",
+        "food": "dark chocolate chips",
+        "weight": 182,
+        "foodCategory": "chocolate",
+        "foodId": "food_afwurvlasugs4ibig02xbblph5bn",
+        "image": "https://www.edamam.com/food-img/3cf/3cf0e13350f43392dc13c07d27ad145d.jpg"
+      }
+    ],
+    "uri": "http://www.edamam.com/ontologies/edamam.owl#recipe_32d874b63d84dd76081f024ae98caa14",
+    "image": "https://edamam-product-images.s3.amazonaws.com/web-img/77d/77da20635b276eda8615dfd197efdccf.jpg?X-Amz-Security-Token=IQoJb3JpZ2luX2VjEGoaCXVzLWVhc3QtMSJHMEUCIFIil1jd5NHOSvMOKXmiga%2F7CRpL9SqT90pjzpQvMpS1AiEA9ABMxynDIYnPNFSoTb7ZMBckcrDLvv4e6dtYzK1N0iIqwgUIs%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FARAAGgwxODcwMTcxNTA5ODYiDJ0JUiSQioeZN09KpyqWBVe1sbdKBl4lqNSDGR5UVO8dIqqE5WJuXebdX3lZD4OaGW51LWKTCCXZuBKs2ISuKPh91m2%2BsZ6ktPbGE2AhkybcxwieCVK%2BK7l84Bj24ywSDZsP1yn%2FPQvPSOPdtnqKR68nmtPicbTTb2iN1fNYmLpy0S%2FnwrF8mkwdmHhvUaEbcAUyjMHohThRkgvTO7TCgSpOGWKVTQEFsLHvsgi4bWMGi1ZtCdznqWdnvOSGhPIQKiLCFUVTI1oRtogKh0lqCDL4eD4Xt5720oaytX%2FzK60NnLdU6s2vGCG9kL1rEzM1fp%2FYqaRoi9XQXp3hj79AyZsUJuPSW2wBsyauTTAprw9V0oSJ%2BkgyFsGc7Ge21I74u8u%2BUNk7NGsVmUYeMeKK6TI%2B0Rjmc6gRjNT%2FzDhfv7vJG7pMLWR%2FOUMWNa9yQUISZ8lh6vjj0kkFOzMlze5lBdHr%2FnWvNqWN3MkH70GXWEsIEh43bVc1guPIoprq%2Bu47idhxaAzP1HurGLQr7p64dzS9lpwPYzY6lcy%2FURRoDKTRQG4E%2FCEP5VCwURQtf7DgsBTBfS1SBxALeyc8mv8DNadhiSKCTJIn%2BIy5cJE6p56IH%2FPy%2BLDoFKWBjEyTq%2B485casZ1GZkBnH8U522cCwhIpNLcykX%2F4wNUr86O6r5UklISiFuq1Fd0yu9W3z6zJUJ4XVYRI9130kMvqmT%2FWXqW8YAlY3uDF32GhawMfgb7KSBBrnSCeHfWshej%2BfYfsb%2FLLReGZxgMPqGgbsfZYqxDpHj6ybFJVzSw6l8QriLDoi8oT9adjEPELXp0rV5YgcHAyQDtWXjZ99CXlSqj0bLUoeo8aQQjTT8V8rzygz0yXkostwb4FyfVN5cyxFoE1S0FloEdNSMKW24KoGOrEBFDB4UqY3hmGXzAo%2Bg1EAXCZSzy18Zg6aqXEnnaM9l2m9b6ZdoEhKpA3zaGpQeiK72d9loW2TJU%2FxVT11CkQoWJnc5vc%2BvEAEWhFcrNhGRjVyEL68aqO6lD%2FuH94JxctuAJ2UWf%2BJsGDngPUA01yn%2B8aRAjoZ6PyU1JWIWSrw9CbhMr8XDOwYorTcKjT1xK76ZXfjU6C%2FWO%2BB8Ahq6zvqxZM3%2F4GQPiRkwzYuKPC78a5%2B&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Date=20231118T030438Z&X-Amz-SignedHeaders=host&X-Amz-Expires=3600&X-Amz-Credential=ASIASXCYXIIFLO2MWB7Q%2F20231118%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Signature=0a43f310735c4fffbc49bda3399dc43074dc492129077761ab304e5d01fe7da0",
+    "source": "PBS Food",
+    "shareAs": "http://www.edamam.com/recipe/vegan-pots-de-cr%C3%A8me-32d874b63d84dd76081f024ae98caa14/vegan",
+    "yield": 6,
+    "dietLabels": [
+      "Low-Sodium"
+    ],
+    "healthLabels": [
+      "Vegetarian",
+      "Pescatarian",
+      "Gluten-Free",
+      "Wheat-Free",
+      "Egg-Free",
+      "Peanut-Free",
+      "Tree-Nut-Free",
+      "Fish-Free",
+      "Shellfish-Free",
+      "Pork-Free",
+      "Red-Meat-Free",
+      "Crustacean-Free",
+      "Celery-Free",
+      "Mustard-Free",
+      "Sesame-Free",
+      "Lupine-Free",
+      "Mollusk-Free",
+      "Alcohol-Free",
+      "Kosher"
+    ],
+    "cautions": [
+      "Gluten",
+      "Wheat",
+      "Sulfites"
+    ],
+    "ingredientLines": [
+      "3⁄4 cup vanilla nondairy milk",
+      "12 ounces soft regular or silken tofu, drained and cubed",
+      "2 teaspoons brown sugar",
+      "1 cup vegan dark chocolate chips"
+    ],
+    "calories": 1488.14153645,
+    "totalWeight": 711.1942775,
+    "totalTime": 172,
+    "cuisineType": [
+      "american"
+    ],
+    "mealType": [
+      "lunch/dinner"
+    ],
+    "dishType": [
+      "desserts"
+    ]
+  }
+]

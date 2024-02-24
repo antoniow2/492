@@ -1,0 +1,114 @@
+{
+  "data": [
+    {
+      "productId": "0001235400429",
+      "brand": "19 Crimes Wine",
+      "upc": "0001235400429",
+      "price": [
+        {
+          "regular": 17.99,
+          "promo": 11.99
+        }
+      ]
+    },
+    {
+      "productId": "0008520002903",
+      "brand": "California Dream",
+      "upc": "0008520002903",
+      "price": [
+        {
+          "regular": 10.88,
+          "promo": 5.99
+        }
+      ]
+    },
+    {
+      "productId": "0009998807136",
+      "brand": "Menage a Trois",
+      "upc": "0009998807136",
+      "price": [
+        {
+          "regular": 19.99,
+          "promo": 9.99
+        }
+      ]
+    },
+    {
+      "productId": "0008500001774",
+      "brand": "Apothic",
+      "upc": "0008500001774",
+      "price": [
+        {
+          "regular": 21.99,
+          "promo": 10.99
+        }
+      ]
+    },
+    {
+      "productId": "0008312001224",
+      "brand": "Bay Bridge",
+      "upc": "0008312001224",
+      "price": [
+        {
+          "regular": 5.88,
+          "promo": 4.49
+        }
+      ]
+    },
+    {
+      "productId": "0008158401310",
+      "brand": "Kendall-Jackson",
+      "upc": "0008158401310",
+      "price": [
+        {
+          "regular": 17.99,
+          "promo": 12.99
+        }
+      ]
+    },
+    {
+      "productId": "0008312001225",
+      "brand": "Bay Bridge",
+      "upc": "0008312001225",
+      "price": [
+        {
+          "regular": 5.88,
+          "promo": 4.49
+        }
+      ]
+    },
+    {
+      "productId": "0008224201392",
+      "brand": "Z. Alexander Brown",
+      "upc": "0008224201392",
+      "price": [
+        {
+          "regular": 22.99,
+          "promo": 14.99
+        }
+      ]
+    },
+    {
+      "productId": "0085774400131",
+      "brand": "Josh Cellars",
+      "upc": "0085774400131",
+      "price": [
+        {
+          "regular": 19.99,
+          "promo": 14.99
+        }
+      ]
+    },
+    {
+      "productId": "0008500002045",
+      "brand": "Barefoot",
+      "upc": "0008500002045",
+      "price": [
+        {
+          "regular": 8.99,
+          "promo": 6.99
+        }
+      ]
+    }
+  ]
+}

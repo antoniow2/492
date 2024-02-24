@@ -1,0 +1,794 @@
+[
+  {
+    "recipeName": "Chicken Vesuvio",
+    "ingredients": [
+      {
+        "food": "olive oil",
+        "quantity": 0.5,
+        "measure": "cup"
+      },
+      {
+        "food": "garlic",
+        "quantity": 5,
+        "measure": "clove"
+      },
+      {
+        "food": "russet potatoes",
+        "quantity": 2,
+        "measure": "<unit>"
+      },
+      {
+        "food": "chicken",
+        "quantity": 3.5,
+        "measure": "pound"
+      },
+      {
+        "food": "white wine",
+        "quantity": 0.75,
+        "measure": "cup"
+      },
+      {
+        "food": "chicken stock",
+        "quantity": 0.75,
+        "measure": "cup"
+      },
+      {
+        "food": "parsley",
+        "quantity": 3,
+        "measure": "tablespoon"
+      },
+      {
+        "food": "dried oregano",
+        "quantity": 1,
+        "measure": "tablespoon"
+      },
+      {
+        "food": "Salt",
+        "quantity": 0,
+        "measure": null
+      },
+      {
+        "food": "pepper",
+        "quantity": 0,
+        "measure": null
+      },
+      {
+        "food": "frozen peas",
+        "quantity": 1,
+        "measure": "cup"
+      }
+    ],
+    "healthLabels": [
+      "Mediterranean",
+      "DairyFree",
+      "GlutenFree",
+      "WheatFree",
+      "EggFree",
+      "PeanutFree",
+      "TreeNutFree",
+      "SoyFree",
+      "FishFree",
+      "ShellfishFree",
+      "PorkFree",
+      "RedMeatFree",
+      "CrustaceanFree",
+      "CeleryFree",
+      "MustardFree",
+      "SesameFree",
+      "LupineFree",
+      "MolluskFree",
+      "Kosher"
+    ],
+    "totalTime": 60,
+    "instructions": [
+      "Heat an oven to 325°F. In a roasting pan (or a large (14-inch) oven-proof skillet), heat the olive oil over medium until shimmering. Add the potatoes and garlic and cook until golden brown, about 12 minutes. Remove to a plate, leaving behind as much oil as possible.\n",
+      "Add the chicken to the skillet, skin-side down. Cook until golden and crisp, then turn and cook the other side until golden as well. Add the wine and cook until it reduces by half.\n",
+      "Return the garlic and potatoes to the pan, along with the chicken stock, parsley, oregano, and a pinch of salt and pepper. Transfer to the oven and cook, uncovered, until the chicken is cooked through, about 45 minutes. Add the peas to the pan with 5 minutes left in the cooking time. Serve with the roasting juices in the pan."
+    ]
+  },
+  {
+    "recipeName": "Chicken Paprikash",
+    "ingredients": [
+      {
+        "food": "chicken - drumsticks",
+        "quantity": 640,
+        "measure": "gram"
+      },
+      {
+        "food": "thighs",
+        "quantity": 640,
+        "measure": "gram"
+      },
+      {
+        "food": "salt",
+        "quantity": 0.5,
+        "measure": "teaspoon"
+      },
+      {
+        "food": "black pepper",
+        "quantity": 0.25,
+        "measure": "teaspoon"
+      },
+      {
+        "food": "olive oil",
+        "quantity": 1,
+        "measure": "tablespoon"
+      },
+      {
+        "food": "onion",
+        "quantity": 1,
+        "measure": "onion"
+      },
+      {
+        "food": "Anaheim pepper",
+        "quantity": 1,
+        "measure": "pepper"
+      },
+      {
+        "food": "paprika",
+        "quantity": 0.25,
+        "measure": "cup"
+      },
+      {
+        "food": "chicken stock",
+        "quantity": 1,
+        "measure": "cup"
+      },
+      {
+        "food": "salt",
+        "quantity": 0.5,
+        "measure": "teaspoon"
+      },
+      {
+        "food": "sour cream",
+        "quantity": 0.5,
+        "measure": "cup"
+      },
+      {
+        "food": "flour",
+        "quantity": 1,
+        "measure": "tablespoon"
+      }
+    ],
+    "healthLabels": [
+      "EggFree",
+      "PeanutFree",
+      "TreeNutFree",
+      "SoyFree",
+      "FishFree",
+      "ShellfishFree",
+      "PorkFree",
+      "RedMeatFree",
+      "CrustaceanFree",
+      "CeleryFree",
+      "MustardFree",
+      "SesameFree",
+      "LupineFree",
+      "MolluskFree",
+      "AlcoholFree",
+      "SulfiteFree"
+    ],
+    "totalTime": 70,
+    "instructions": [
+      "Use paper towels to dry the chicken thoroughly. Reducing the moisture content on the surface of the chicken is essential to get it to brown.",
+      "Sprinkle the chicken evenly with the salt and black pepper.",
+      "Heat a heavy bottomed pot (such as a Dutch oven) over medium heat until hot. Add the olive oil and swirl to coat the pan.",
+      "When the pot is hot, add the chicken in a single layer, skin side down, being careful not to overcrowd the pan. If they don't all fit in your pan, divide the chicken into two batches. Leave the chicken undisturbed until golden brown (about 5-7 minutes).",
+      "Flip the chicken pieces over and brown the other side. Repeat with the rest of the chicken if necessary.",
+      "Transfer the chicken to a bowl and then add the onions and peppers to the pot. Stir to distribute evenly and then cover with a lid to let the vegetables steam for about 10 minutes.",
+      "Remove the lid and saute the onions until they are golden brown.",
+      "Add the sweet paprika and fry, continually stirring for about 10 seconds. Paprika burns easily and will become bitter, so be careful not to burn it.",
+      "Add the chicken stock and then return the chicken to the pot along with any accumulated juices. Cover with a lid and turn down the heat to maintain a gentle simmer. Cook the chicken until it is tender (about 45 minutes).",
+      "While you're waiting for the chicken to cook, mix the sour cream and flour in a bowl until it's free of lumps.",
+      "When the chicken is done, temper the sour cream by transferring some cooking liquid from the chicken a spoonful at a time to the cream mixture and stirring after each addition. You want to slowly raise the temperature of the sour cream until it is very warm.",
+      "Once the sour cream is tempered, you can pour it all back into the pot and stir to combine. Do not let it boil once you've added the sour cream. Taste the sauce and add some more salt if needed. The paprika chicken is done when the sauce has thickened."
+    ]
+  },
+  {
+    "recipeName": "Baked Chicken",
+    "ingredients": [
+      {
+        "food": "chicken breast",
+        "quantity": 6,
+        "measure": "half"
+      },
+      {
+        "food": "coarse salt",
+        "quantity": 0.5,
+        "measure": "teaspoon"
+      },
+      {
+        "food": "seasoning",
+        "quantity": 0.5,
+        "measure": "teaspoon"
+      },
+      {
+        "food": "black pepper",
+        "quantity": 0.25,
+        "measure": "teaspoon"
+      }
+    ],
+    "healthLabels": [
+      "SugarConscious",
+      "KetoFriendly",
+      "Paleo",
+      "Mediterranean",
+      "DairyFree",
+      "GlutenFree",
+      "WheatFree",
+      "EggFree",
+      "PeanutFree",
+      "TreeNutFree",
+      "SoyFree",
+      "FishFree",
+      "ShellfishFree",
+      "PorkFree",
+      "RedMeatFree",
+      "CrustaceanFree",
+      "CeleryFree",
+      "MustardFree",
+      "SesameFree",
+      "LupineFree",
+      "MolluskFree",
+      "AlcoholFree",
+      "No oil added",
+      "SulfiteFree",
+      "FODMAPFree",
+      "Kosher"
+    ],
+    "totalTime": 65,
+    "instructions": [
+      "Season chicken on both sides with salt and pepper. Heat oil in a large (6 quart) pot over medium-high heat until shimmering. Sear chicken in batches, turning once, until golden, 7 to 8 minutes. Transfer to a plate.",
+      "Reduce heat to medium; add onion and poblanos. Cook, stirring occasionally, until softened, about 5 minutes.",
+      "Stir in garlic, cumin, coriander, and chili powder, and cook until fragrant, 1 minute more. Stir in canned chiles.",
+      "Add chicken back to pot along with broth and juices, scraping up bits from the bottom of the pan. Bring to a boil then reduce heat to medium-low and simmer, partially covered, until chicken is cooked through and flavors meld, about 15 minutes.",
+      "Remove chicken to a plate and shred into bite-size pieces.",
+      "In a small bowl, whisk together cornmeal with 1 cup hot cooking liquid. Return to pot, along with beans, and simmer 5 minutes.",
+      "Stir in chicken until heated through. Taste and adjust seasoning. Divide among bowls and top with sour cream, fresh cilantro sprigs, tortilla chips and lime."
+    ]
+  },
+  {
+    "recipeName": "Catalan Chicken",
+    "ingredients": [
+      {
+        "food": "chicken",
+        "quantity": 1,
+        "measure": "<unit>"
+      },
+      {
+        "food": "bacon",
+        "quantity": 8,
+        "measure": "slice"
+      },
+      {
+        "food": "garlic",
+        "quantity": 30,
+        "measure": "clove"
+      },
+      {
+        "food": "lemons",
+        "quantity": 3,
+        "measure": "<unit>"
+      },
+      {
+        "food": "dessert wine",
+        "quantity": 0.5,
+        "measure": "cup"
+      },
+      {
+        "food": "chicken stock",
+        "quantity": 1,
+        "measure": "cup"
+      }
+    ],
+    "healthLabels": [
+      "SugarConscious",
+      "KetoFriendly",
+      "Paleo",
+      "DairyFree",
+      "GlutenFree",
+      "WheatFree",
+      "EggFree",
+      "PeanutFree",
+      "TreeNutFree",
+      "SoyFree",
+      "FishFree",
+      "ShellfishFree",
+      "CrustaceanFree",
+      "CeleryFree",
+      "MustardFree",
+      "SesameFree",
+      "LupineFree",
+      "MolluskFree",
+      "No oil added",
+      "SulfiteFree"
+    ],
+    "totalTime": 30,
+    "instructions": [
+      "Cook bacon in heavy, 5-quart pot until crisp and fat is rendered. Remove the strips and reserve.",
+      "In the same pot, brown chicken on medium heat in bacon fat. Add ¾ cup water, bring to a boil, then reduce to a simmer. While chicken cooks, place peeled garlic in pan of water and bring to a boil. Cook for 1 minute, drain, and cover with cold water to stop cooking process. Cut 2 lemons into quarters. Slice the third across the grain. Bring small pan of water to boil. Add lemons and cook for 1 minute. Drain and place in cold water to stop cooking process.",
+      "When chicken is tender, about 20 minutes, remove and set aside. Add Banyuls, and scrape caramelized bits until bottom of pan is clean and sauce has darkened. Cut chicken into serving-size portions and return to pot along with stock. Simmer for 10 minutes, then add garlic and lemon and cook another 10 minutes.",
+      "Serve immediately with steamed potatoes or rice."
+    ]
+  },
+  {
+    "recipeName": "Chicken Stew",
+    "ingredients": [
+      {
+        "food": "chicken",
+        "quantity": 1,
+        "measure": "pound"
+      },
+      {
+        "food": "carrots",
+        "quantity": 4,
+        "measure": "<unit>"
+      },
+      {
+        "food": "onion",
+        "quantity": 1,
+        "measure": "<unit>"
+      },
+      {
+        "food": "leek",
+        "quantity": 1,
+        "measure": "<unit>"
+      },
+      {
+        "food": "green pepper",
+        "quantity": 1,
+        "measure": "<unit>"
+      },
+      {
+        "food": "kosher salt",
+        "quantity": 0,
+        "measure": null
+      },
+      {
+        "food": "black pepper",
+        "quantity": 0,
+        "measure": null
+      },
+      {
+        "food": "Extra Virgin Olive Oil",
+        "quantity": 0,
+        "measure": null
+      },
+      {
+        "food": "white wine",
+        "quantity": 1,
+        "measure": "cup"
+      },
+      {
+        "food": "Chicken broth",
+        "quantity": 0,
+        "measure": null
+      }
+    ],
+    "healthLabels": [
+      "Paleo",
+      "Mediterranean",
+      "DairyFree",
+      "GlutenFree",
+      "WheatFree",
+      "EggFree",
+      "PeanutFree",
+      "TreeNutFree",
+      "SoyFree",
+      "FishFree",
+      "ShellfishFree",
+      "PorkFree",
+      "RedMeatFree",
+      "CrustaceanFree",
+      "CeleryFree",
+      "MustardFree",
+      "SesameFree",
+      "LupineFree",
+      "MolluskFree",
+      "Kosher"
+    ],
+    "totalTime": 70,
+    "instructions": [
+      "In a large pot over medium heat, add oil. Add cutted carrots and leek and season with salt and pepper. Cook, stirring often, until vegetables are tender, about 5 minutes.",
+      "Then add chicken and white wine. Bring mixture to a simmer and cook until the chicken is no longer pink. Add broth until cover the chicken an cook for 45 minutes.",
+      "Serve"
+    ]
+  },
+  {
+    "recipeName": "Chicken Liver Pâté",
+    "ingredients": [
+      {
+        "food": "chicken livers",
+        "quantity": 8,
+        "measure": "ounce"
+      },
+      {
+        "food": "chicken stock",
+        "quantity": 4,
+        "measure": "cup"
+      },
+      {
+        "food": "rendered chicken fat",
+        "quantity": 2,
+        "measure": "tablespoon"
+      },
+      {
+        "food": "yellow onion",
+        "quantity": 0.5,
+        "measure": "<unit>"
+      },
+      {
+        "food": "cognac",
+        "quantity": 1.5,
+        "measure": "tablespoon"
+      },
+      {
+        "food": "hard-boiled eggs",
+        "quantity": 2,
+        "measure": "<unit>"
+      },
+      {
+        "food": "Kosher salt",
+        "quantity": 0,
+        "measure": null
+      },
+      {
+        "food": "black pepper",
+        "quantity": 0,
+        "measure": null
+      },
+      {
+        "food": "Toast",
+        "quantity": 1,
+        "measure": "serving"
+      }
+    ],
+    "healthLabels": [
+      "SugarConscious",
+      "PeanutFree",
+      "TreeNutFree",
+      "SoyFree",
+      "FishFree",
+      "ShellfishFree",
+      "CrustaceanFree",
+      "CeleryFree",
+      "MustardFree",
+      "SesameFree",
+      "LupineFree",
+      "MolluskFree",
+      "SulfiteFree"
+    ],
+    "totalTime": 30,
+    "instructions": [
+      "To a medium pot over medium-high heat, add the livers and stock, and bring to a boil. Lower the heat to maintain a simmer and cook until the livers are firm but still faintly pink at the center, 6–8 minutes.",
+      "Set a colander over a large bowl and strain the livers, reserving the cooking liquid. Transfer the livers to a food processor and set aside.",
+      "In a large skillet over high heat, melt the chicken fat or butter. Add the onion and cook, stirring frequently, until translucent and just beginning to brown, 6–8 minutes. Transfer the onions to the food processor, add ¼ cup of the reserved liver cooking liquid along with the Cognac and eggs and process until smooth. Season to taste with salt and pepper, transfer to a jar, and chill until ready to serve, at least 4 hours or up to 3 days. Serve cold or at room temperature with toast points."
+    ]
+  },
+  {
+    "recipeName": "Persian Chicken",
+    "ingredients": [
+      {
+        "food": "onions",
+        "quantity": 2,
+        "measure": "<unit>"
+      },
+      {
+        "food": "chicken",
+        "quantity": 750,
+        "measure": "gram"
+      },
+      {
+        "food": "mushrooms",
+        "quantity": 500,
+        "measure": "gram"
+      },
+      {
+        "food": "water",
+        "quantity": 1,
+        "measure": "cup"
+      },
+      {
+        "food": "red wine",
+        "quantity": 1,
+        "measure": "cup"
+      },
+      {
+        "food": "chicken stock",
+        "quantity": 2,
+        "measure": "teaspoon"
+      },
+      {
+        "food": "mayonnaise",
+        "quantity": 200,
+        "measure": "milliliter"
+      },
+      {
+        "food": "cream",
+        "quantity": 200,
+        "measure": "milliliter"
+      },
+      {
+        "food": "parsley",
+        "quantity": 1,
+        "measure": "bunch"
+      },
+      {
+        "food": "curry powder",
+        "quantity": 1,
+        "measure": "teaspoon"
+      }
+    ],
+    "healthLabels": [
+      "GlutenFree",
+      "WheatFree",
+      "PeanutFree",
+      "TreeNutFree",
+      "SoyFree",
+      "FishFree",
+      "ShellfishFree",
+      "PorkFree",
+      "RedMeatFree",
+      "CrustaceanFree",
+      "CeleryFree",
+      "SesameFree",
+      "LupineFree",
+      "MolluskFree"
+    ],
+    "totalTime": 20,
+    "instructions": [
+      "Sear and cook all meat.",
+      "Mix together.",
+      "Serve."
+    ]
+  },
+  {
+    "recipeName": "Kreplach (Chicken Dumplings)",
+    "ingredients": [
+      {
+        "food": "canola oil",
+        "quantity": 1.5,
+        "measure": "teaspoon"
+      },
+      {
+        "food": "shallot",
+        "quantity": 0.5,
+        "measure": "<unit>"
+      },
+      {
+        "food": "chicken meat",
+        "quantity": 0.5,
+        "measure": "pound"
+      },
+      {
+        "food": "chicken thighs",
+        "quantity": 0.25,
+        "measure": "pound"
+      },
+      {
+        "food": "chicken livers",
+        "quantity": 2,
+        "measure": "<unit>"
+      },
+      {
+        "food": "garlic",
+        "quantity": 2,
+        "measure": "clove"
+      },
+      {
+        "food": "chives",
+        "quantity": 0.25,
+        "measure": "cup"
+      },
+      {
+        "food": "kosher salt",
+        "quantity": 1.25,
+        "measure": "teaspoon"
+      },
+      {
+        "food": "black pepper",
+        "quantity": 0.75,
+        "measure": "teaspoon"
+      },
+      {
+        "food": "square wonton wrappers",
+        "quantity": 32,
+        "measure": "<unit>"
+      },
+      {
+        "food": "chicken broth",
+        "quantity": 8,
+        "measure": "cup"
+      }
+    ],
+    "healthLabels": [
+      "Mediterranean",
+      "DairyFree",
+      "PeanutFree",
+      "TreeNutFree",
+      "SoyFree",
+      "FishFree",
+      "ShellfishFree",
+      "PorkFree",
+      "RedMeatFree",
+      "CrustaceanFree",
+      "CeleryFree",
+      "MustardFree",
+      "SesameFree",
+      "LupineFree",
+      "MolluskFree",
+      "AlcoholFree",
+      "SulfiteFree",
+      "Kosher"
+    ],
+    "totalTime": 10,
+    "instructions": [
+      "sear and cook all meat.",
+      "mix",
+      "serve"
+    ]
+  },
+  {
+    "recipeName": "Chicken cacciatore",
+    "ingredients": [
+      {
+        "food": "olive oil",
+        "quantity": 8,
+        "measure": "tablespoon"
+      },
+      {
+        "food": "onion",
+        "quantity": 1,
+        "measure": "<unit>"
+      },
+      {
+        "food": "celery",
+        "quantity": 2,
+        "measure": "stalk"
+      },
+      {
+        "food": "carrots",
+        "quantity": 2,
+        "measure": "<unit>"
+      },
+      {
+        "food": "chicken breasts",
+        "quantity": 6,
+        "measure": "<unit>"
+      },
+      {
+        "food": "white wine",
+        "quantity": 175,
+        "measure": "milliliter"
+      },
+      {
+        "food": "tomato purée",
+        "quantity": 3,
+        "measure": "tablespoon"
+      },
+      {
+        "food": "chicken stock",
+        "quantity": 500,
+        "measure": "milliliter"
+      },
+      {
+        "food": "bay leaves",
+        "quantity": 2,
+        "measure": "<unit>"
+      },
+      {
+        "food": "sage",
+        "quantity": 2.5,
+        "measure": "leaf"
+      },
+      {
+        "food": "rosemary sprig",
+        "quantity": 1,
+        "measure": "<unit>"
+      },
+      {
+        "food": "polenta",
+        "quantity": 250,
+        "measure": "gram"
+      },
+      {
+        "food": "butter",
+        "quantity": 1,
+        "measure": "knob"
+      },
+      {
+        "food": "parmesan",
+        "quantity": 25,
+        "measure": "gram"
+      }
+    ],
+    "healthLabels": [
+      "GlutenFree",
+      "WheatFree",
+      "EggFree",
+      "PeanutFree",
+      "TreeNutFree",
+      "SoyFree",
+      "FishFree",
+      "ShellfishFree",
+      "PorkFree",
+      "RedMeatFree",
+      "CrustaceanFree",
+      "MustardFree",
+      "SesameFree",
+      "LupineFree",
+      "MolluskFree"
+    ],
+    "totalTime": 60,
+    "instructions": [
+      "Heat the oil in a frying pan and fry the onion, celery and carrots for 4–5 minutes, or until softened. Add the chicken pieces and continue to cook for 2–3 minutes or until the have browned a little.",
+      "Pour in the wine and continue to cook until the volume of the liquid has reduced by half. Stir in the tomato purée and the stock. Add the herbs, reduce the heat and simmer for 30 minutes, or until the chicken is cooked through.",
+      "Meanwhile, cook the polenta according to packet instructions. Add the butter and parmesan and stir until well combined.",
+      "To serve, spoon the polenta onto serving plates and top with the chicken."
+    ]
+  },
+  {
+    "recipeName": "Roast Chicken",
+    "ingredients": [
+      {
+        "food": "chicken",
+        "quantity": 3.5,
+        "measure": "pound"
+      },
+      {
+        "food": "Salt",
+        "quantity": 0,
+        "measure": null
+      },
+      {
+        "food": "thyme",
+        "quantity": 3.5,
+        "measure": "sprig"
+      },
+      {
+        "food": "Olive oil",
+        "quantity": 0,
+        "measure": null
+      },
+      {
+        "food": "Chicken stock",
+        "quantity": 0,
+        "measure": null
+      }
+    ],
+    "healthLabels": [
+      "SugarConscious",
+      "KidneyFriendly",
+      "KetoFriendly",
+      "Paleo",
+      "Mediterranean",
+      "DairyFree",
+      "GlutenFree",
+      "WheatFree",
+      "EggFree",
+      "PeanutFree",
+      "TreeNutFree",
+      "SoyFree",
+      "FishFree",
+      "ShellfishFree",
+      "PorkFree",
+      "RedMeatFree",
+      "CrustaceanFree",
+      "CeleryFree",
+      "MustardFree",
+      "SesameFree",
+      "LupineFree",
+      "MolluskFree",
+      "AlcoholFree",
+      "SulfiteFree",
+      "Kosher",
+      "ImmunoSupportive"
+    ],
+    "totalTime": 90,
+    "instructions": [
+      "mix all ingredients and fully season chicken",
+      "place in oven for 80 minutes",
+      "let cool and serve."
+    ]
+  }
+]

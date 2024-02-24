@@ -1,0 +1,114 @@
+{
+  "data": [
+    {
+      "productId": "0068954408020",
+      "brand": "Fage",
+      "upc": "0068954408020",
+      "price": [
+        {
+          "regular": 1.39,
+          "promo": 1
+        }
+      ]
+    },
+    {
+      "productId": "0001111003748",
+      "brand": "Kroger",
+      "upc": "0001111003748",
+      "price": [
+        {
+          "regular": 5.29,
+          "promo": 0
+        }
+      ]
+    },
+    {
+      "productId": "0003663200210",
+      "brand": "Dannon",
+      "upc": "0003663200210",
+      "price": [
+        {
+          "regular": 4.29,
+          "promo": 3.5
+        }
+      ]
+    },
+    {
+      "productId": "0007047000643",
+      "brand": "Yoplait",
+      "upc": "0007047000643",
+      "price": [
+        {
+          "regular": 0.8,
+          "promo": 0
+        }
+      ]
+    },
+    {
+      "productId": "0007047000653",
+      "brand": "Yoplait",
+      "upc": "0007047000653",
+      "price": [
+        {
+          "regular": 0.8,
+          "promo": 0
+        }
+      ]
+    },
+    {
+      "productId": "0007047013778",
+      "brand": "Yoplait",
+      "upc": "0007047013778",
+      "price": [
+        {
+          "regular": 3.99,
+          "promo": 0
+        }
+      ]
+    },
+    {
+      "productId": "0007047000655",
+      "brand": "Yoplait",
+      "upc": "0007047000655",
+      "price": [
+        {
+          "regular": 0.8,
+          "promo": 0
+        }
+      ]
+    },
+    {
+      "productId": "0007047000430",
+      "brand": "Yoplait",
+      "upc": "0007047000430",
+      "price": [
+        {
+          "regular": 3.59,
+          "promo": 0
+        }
+      ]
+    },
+    {
+      "productId": "0007047000650",
+      "brand": "Yoplait",
+      "upc": "0007047000650",
+      "price": [
+        {
+          "regular": 0.8,
+          "promo": 0
+        }
+      ]
+    },
+    {
+      "productId": "0003663202635",
+      "brand": "Activia",
+      "upc": "0003663202635",
+      "price": [
+        {
+          "regular": 3.29,
+          "promo": 0
+        }
+      ]
+    }
+  ]
+}

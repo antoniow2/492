@@ -1,0 +1,105 @@
+{
+  "data": [
+    {
+      "productId": "0085876400028",
+      "brand": "Hikari",
+      "upc": "0085876400028",
+      "price": [
+        {
+          "regular": 8.49,
+          "promo": 0
+        }
+      ]
+    },
+    {
+      "productId": "0002418213360",
+      "brand": "Eden",
+      "upc": "0002418213360",
+      "price": [
+        null
+      ]
+    },
+    {
+      "productId": "0086262300022",
+      "brand": "Norita",
+      "upc": "0086262300022",
+      "price": [
+        {
+          "regular": 5.89,
+          "promo": 0
+        }
+      ]
+    },
+    {
+      "productId": "0004139003070",
+      "brand": "Kikkoman",
+      "upc": "0004139003070",
+      "price": [
+        {
+          "regular": 3.19,
+          "promo": 0
+        }
+      ]
+    },
+    {
+      "productId": "0083075700023",
+      "brand": "Mishima",
+      "upc": "0083075700023",
+      "price": [
+        {
+          "regular": 2.99,
+          "promo": 0
+        }
+      ]
+    },
+    {
+      "productId": "0085189900575",
+      "brand": "Ocean's Halo",
+      "upc": "0085189900575",
+      "price": [
+        {
+          "regular": 4.99,
+          "promo": 0
+        }
+      ]
+    },
+    {
+      "productId": "0076733501110",
+      "brand": "Dr. McDougall's",
+      "upc": "0076733501110",
+      "price": [
+        null
+      ]
+    },
+    {
+      "productId": "0076566762859",
+      "brand": "Annie Chun's",
+      "upc": "0076566762859",
+      "price": [
+        {
+          "regular": 3.39,
+          "promo": 0
+        }
+      ]
+    },
+    {
+      "productId": "0007581037101",
+      "brand": "San-J",
+      "upc": "0007581037101",
+      "price": [
+        null
+      ]
+    },
+    {
+      "productId": "0001111005119",
+      "brand": "Private Selection",
+      "upc": "0001111005119",
+      "price": [
+        {
+          "regular": 3.99,
+          "promo": 0
+        }
+      ]
+    }
+  ]
+}

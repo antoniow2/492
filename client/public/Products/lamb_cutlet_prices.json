@@ -1,0 +1,120 @@
+{
+  "data": [
+    {
+      "productId": "0025292250000",
+      "brand": "Simple Truth",
+      "upc": "0025292250000",
+      "price": [
+        {
+          "regular": 10.99,
+          "promo": 9.99,
+          "regularPerUnitEstimate": 10.99,
+          "promoPerUnitEstimate": 9.99
+        }
+      ]
+    },
+    {
+      "productId": "0021326200000",
+      "brand": "Simple Truth Organic",
+      "upc": "0021326200000",
+      "price": [
+        {
+          "regular": 7.49,
+          "promo": 6.99
+        }
+      ]
+    },
+    {
+      "productId": "0085044600873",
+      "brand": "Saffron Road",
+      "upc": "0085044600873",
+      "price": [
+        {
+          "regular": 5.99,
+          "promo": 5.49
+        }
+      ]
+    },
+    {
+      "productId": "0026301650000",
+      "brand": "Simple Truth",
+      "upc": "0026301650000",
+      "price": [
+        {
+          "regular": 12.99,
+          "promo": 9.99,
+          "regularPerUnitEstimate": 12.99,
+          "promoPerUnitEstimate": 9.99
+        }
+      ]
+    },
+    {
+      "productId": "0085044600845",
+      "brand": "Saffron Road",
+      "upc": "0085044600845",
+      "price": [
+        {
+          "regular": 5.99,
+          "promo": 5.49
+        }
+      ]
+    },
+    {
+      "productId": "0085044600846",
+      "brand": "Saffron Road",
+      "upc": "0085044600846",
+      "price": [
+        {
+          "regular": 5.99,
+          "promo": 5.49
+        }
+      ]
+    },
+    {
+      "productId": "0029295550000",
+      "brand": "Simple Truth",
+      "upc": "0029295550000",
+      "price": [
+        {
+          "regular": 19.99,
+          "promo": 16.99,
+          "regularPerUnitEstimate": 19.99,
+          "promoPerUnitEstimate": 16.99
+        }
+      ]
+    },
+    {
+      "productId": "0001111060587",
+      "brand": "Simple Truth",
+      "upc": "0001111060587",
+      "price": [
+        {
+          "regular": 10.99,
+          "promo": 10.49
+        }
+      ]
+    },
+    {
+      "productId": "0085002995309",
+      "brand": "Saffron Road",
+      "upc": "0085002995309",
+      "price": [
+        {
+          "regular": 5.49,
+          "promo": 0
+        }
+      ]
+    },
+    {
+      "productId": "0001111060429",
+      "brand": "Simple Truth",
+      "upc": "0001111060429",
+      "price": [
+        {
+          "regular": 14.99,
+          "promo": 13.99
+        }
+      ]
+    }
+  ]
+}

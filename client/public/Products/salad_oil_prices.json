@@ -1,0 +1,96 @@
+{
+  "data": [
+    {
+      "productId": "0002727112141",
+      "brand": "Brianna's",
+      "upc": "0002727112141",
+      "price": [
+        null
+      ]
+    },
+    {
+      "productId": "0002727112142",
+      "brand": "Brianna's",
+      "upc": "0002727112142",
+      "price": [
+        null
+      ]
+    },
+    {
+      "productId": "0002727112140",
+      "brand": "Brianna's",
+      "upc": "0002727112140",
+      "price": [
+        null
+      ]
+    },
+    {
+      "productId": "0078136009539",
+      "brand": "Yo Mama's Foods",
+      "upc": "0078136009539",
+      "price": [
+        null
+      ]
+    },
+    {
+      "productId": "0002066200002",
+      "brand": "Newman's Own",
+      "upc": "0002066200002",
+      "price": [
+        {
+          "regular": 4.69,
+          "promo": 3.5
+        }
+      ]
+    },
+    {
+      "productId": "0007824500005",
+      "brand": "Hendrickson's",
+      "upc": "0007824500005",
+      "price": [
+        {
+          "regular": 5.29,
+          "promo": 0
+        }
+      ]
+    },
+    {
+      "productId": "0001111002993",
+      "brand": "Private Selection",
+      "upc": "0001111002993",
+      "price": [
+        {
+          "regular": 3.49,
+          "promo": 3.19
+        }
+      ]
+    },
+    {
+      "productId": "0085676900684",
+      "brand": "Primal Kitchen",
+      "upc": "0085676900684",
+      "price": [
+        {
+          "regular": 7.49,
+          "promo": 6.49
+        }
+      ]
+    },
+    {
+      "productId": "0085676900656",
+      "brand": "Primal Kitchen",
+      "upc": "0085676900656",
+      "price": [
+        null
+      ]
+    },
+    {
+      "productId": "0085000463925",
+      "brand": "Primal Kitchen",
+      "upc": "0085000463925",
+      "price": [
+        null
+      ]
+    }
+  ]
+}

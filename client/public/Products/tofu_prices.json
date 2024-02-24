@@ -1,0 +1,114 @@
+{
+  "data": [
+    {
+      "productId": "0008569660804",
+      "brand": "Mori-Nu",
+      "upc": "0008569660804",
+      "price": [
+        {
+          "regular": 2.69,
+          "promo": 0
+        }
+      ]
+    },
+    {
+      "productId": "0004432525001",
+      "brand": "Franklin Farms",
+      "upc": "0004432525001",
+      "price": [
+        {
+          "regular": 4.29,
+          "promo": 0
+        }
+      ]
+    },
+    {
+      "productId": "0001111082294",
+      "brand": "Simple Truth Organic",
+      "upc": "0001111082294",
+      "price": [
+        {
+          "regular": 1.79,
+          "promo": 0
+        }
+      ]
+    },
+    {
+      "productId": "0002548400815",
+      "brand": "Nasoya",
+      "upc": "0002548400815",
+      "price": [
+        {
+          "regular": 5.49,
+          "promo": 0
+        }
+      ]
+    },
+    {
+      "productId": "0002548400657",
+      "brand": "Nasoya",
+      "upc": "0002548400657",
+      "price": [
+        {
+          "regular": 3.79,
+          "promo": 0
+        }
+      ]
+    },
+    {
+      "productId": "0001111010546",
+      "brand": "Simple Truth Organic",
+      "upc": "0001111010546",
+      "price": [
+        {
+          "regular": 3.99,
+          "promo": 0
+        }
+      ]
+    },
+    {
+      "productId": "0001111091342",
+      "brand": "Simple Truth Organic",
+      "upc": "0001111091342",
+      "price": [
+        {
+          "regular": 1.69,
+          "promo": 1.67
+        }
+      ]
+    },
+    {
+      "productId": "0001111009716",
+      "brand": "Simple Truth Organic",
+      "upc": "0001111009716",
+      "price": [
+        {
+          "regular": 1.69,
+          "promo": 1.67
+        }
+      ]
+    },
+    {
+      "productId": "0001111091341",
+      "brand": "Simple Truth Organic",
+      "upc": "0001111091341",
+      "price": [
+        {
+          "regular": 1.69,
+          "promo": 1.67
+        }
+      ]
+    },
+    {
+      "productId": "0001111010547",
+      "brand": "Simple Truth Organic",
+      "upc": "0001111010547",
+      "price": [
+        {
+          "regular": 3.99,
+          "promo": 0
+        }
+      ]
+    }
+  ]
+}

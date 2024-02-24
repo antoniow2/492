@@ -1,0 +1,114 @@
+{
+  "data": [
+    {
+      "productId": "0007786500101",
+      "brand": "Fat Boy",
+      "upc": "0007786500101",
+      "price": [
+        {
+          "regular": 9.99,
+          "promo": 0
+        }
+      ]
+    },
+    {
+      "productId": "0001111008300",
+      "brand": "Kroger",
+      "upc": "0001111008300",
+      "price": [
+        {
+          "regular": 5.19,
+          "promo": 0
+        }
+      ]
+    },
+    {
+      "productId": "0001111050326",
+      "brand": "Kroger",
+      "upc": "0001111050326",
+      "price": [
+        {
+          "regular": 2.19,
+          "promo": 0
+        }
+      ]
+    },
+    {
+      "productId": "0002800077212",
+      "brand": "Nesquik",
+      "upc": "0002800077212",
+      "price": [
+        {
+          "regular": 2.19,
+          "promo": 0
+        }
+      ]
+    },
+    {
+      "productId": "0001111050279",
+      "brand": "Kroger",
+      "upc": "0001111050279",
+      "price": [
+        {
+          "regular": 1.49,
+          "promo": 0
+        }
+      ]
+    },
+    {
+      "productId": "0001111050573",
+      "brand": "Kroger",
+      "upc": "0001111050573",
+      "price": [
+        {
+          "regular": 3.69,
+          "promo": 0
+        }
+      ]
+    },
+    {
+      "productId": "0007786500108",
+      "brand": "Fat Boy",
+      "upc": "0007786500108",
+      "price": [
+        {
+          "regular": 9.99,
+          "promo": 0
+        }
+      ]
+    },
+    {
+      "productId": "0001111050574",
+      "brand": "Kroger",
+      "upc": "0001111050574",
+      "price": [
+        {
+          "regular": 2.59,
+          "promo": 0
+        }
+      ]
+    },
+    {
+      "productId": "0001111008019",
+      "brand": "Simple Truth Organic",
+      "upc": "0001111008019",
+      "price": [
+        {
+          "regular": 10.99,
+          "promo": 0
+        }
+      ]
+    },
+    {
+      "productId": "0003663207851",
+      "brand": "Horizon Organic",
+      "upc": "0003663207851",
+      "price": [
+        {
+          "regular": 5.99,
+          "promo": 0
+        }
+      ]
+    }
+  ]
+}

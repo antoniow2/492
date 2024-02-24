@@ -1,0 +1,102 @@
+{
+  "data": [
+    {
+      "productId": "0007067000172",
+      "brand": "Ty Ling",
+      "upc": "0007067000172",
+      "price": [
+        null
+      ]
+    },
+    {
+      "productId": "0001115203263",
+      "brand": "Dynasty",
+      "upc": "0001115203263",
+      "price": [
+        null
+      ]
+    },
+    {
+      "productId": "0007441025051",
+      "brand": "Shirakiku",
+      "upc": "0007441025051",
+      "price": [
+        {
+          "regular": 4.99,
+          "promo": 0
+        }
+      ]
+    },
+    {
+      "productId": "0002250610510",
+      "brand": "Spectrum",
+      "upc": "0002250610510",
+      "price": [
+        {
+          "regular": 10.99,
+          "promo": 0
+        }
+      ]
+    },
+    {
+      "productId": "0001115203260",
+      "brand": "Dynasty",
+      "upc": "0001115203260",
+      "price": [
+        null
+      ]
+    },
+    {
+      "productId": "0002250612510",
+      "brand": "Spectrum",
+      "upc": "0002250612510",
+      "price": [
+        null
+      ]
+    },
+    {
+      "productId": "0007050161820",
+      "brand": "Neutrogena",
+      "upc": "0007050161820",
+      "price": [
+        {
+          "regular": 12.49,
+          "promo": 0
+        }
+      ]
+    },
+    {
+      "productId": "0007613209007",
+      "brand": "Sun Luck",
+      "upc": "0007613209007",
+      "price": [
+        {
+          "regular": 4.79,
+          "promo": 0
+        }
+      ]
+    },
+    {
+      "productId": "0001282200907",
+      "brand": "Kadoya",
+      "upc": "0001282200907",
+      "price": [
+        {
+          "regular": 4.79,
+          "promo": 0
+        }
+      ]
+    },
+    {
+      "productId": "0001111090121",
+      "brand": "Kroger",
+      "upc": "0001111090121",
+      "price": [
+        {
+          "regular": 4.99,
+          "promo": 0
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,513 @@
+.Profile-Card {
+    width: 250px;
+    height: 370px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    margin: auto;
+    padding: 20px;
+    border: 1px solid black;
+    border-radius: 8px;
+    background-color: #f9f9f9;
+    margin-right: 20px; /* Add margin for space between Profile-Card and Meal-of-Week */
+}
+
+.Profile-Picture {
+    position: relative;
+}
+
+.profile-pic {
+    width: 150px; /* Adjust the size as needed */
+    height: 150px; /* Maintain the aspect ratio */
+    border-radius: 50%;
+    object-fit: cover; /* Ensure the image covers the circular area */
+}
+
+.default {
+    width: 150px; /* Adjust the size as needed */
+    height: 150px; /* Maintain the aspect ratio */
+    border-radius: 50%;
+    object-fit: cover; /* Ensure the image covers the circular area */   
+}
+
+.picture-icon {
+    width: 35px; /* Adjust the size as needed */
+    height: 35px; /* Maintain the aspect ratio */
+    justify-content: center;
+    align-items: center;
+    display: flex;
+    border-radius: 50%;
+    background-color: lightseagreen;
+    cursor: pointer;
+    position: absolute;
+    top: 0;
+    right: 0;
+}
+  
+.Profile-Picture button {
+    position: absolute;
+    bottom: 10px;
+    right: 10px;
+    background: none;
+    border: none;
+    cursor: pointer;
+}
+  
+.upload-modal {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background: rgb(0, 0, 0, 0.8);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    z-index: 9999;
+}
+  
+.upload-modal input[type="file"] {
+    margin-bottom: 10px;
+}  
+
+.preview-image {
+    max-width: 100%;
+    max-height: 200px;
+    margin-top: 10px;
+}
+
+.upload-modal-content {
+    width: 80%;
+    max-width: 400px;
+    padding: 20px;
+    background-color: #fff;
+    border-radius: 10px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.upload-modal input[type="file"] {
+    display: none;
+}
+
+.pic-upload,
+.pic-cancel,
+.file-input-button {
+  margin-top: 10px;
+  padding: 10px;
+  font-size: 16px;
+  cursor: pointer;
+  background-color: lightseagreen;
+  color: #fff;
+  border: none;
+  border-radius: 5px;
+  width: 100%;
+  max-width: 250px;
+  text-align: center;
+}
+
+.pic-cancel {
+    margin-top: -5px;
+    background-color: #e74c3c;
+}
+
+.Meal-of-Week {
+    margin-top: 160px;
+    margin-left: 70px;
+    background-color: white;
+    justify-content: center;
+    align-items: center;
+    width: 300px;
+    height: 250px;
+    border-radius: 8px;
+    padding: 10px;
+    position: relative;
+    border: 1px solid black; /* Increase the border thickness to 3px */
+}
+  
+.Meal-of-Week h1 {
+    font-weight: normal; /* Remove the bold style */
+    font-size: 25px;
+    margin-top: 5px; /* Add some space below the header */
+}
+  
+.Meal-of-Week img {
+    position: absolute;
+    top: 20px;
+    right: 10px;
+    width: 20px;
+    height: 20px;
+}
+  
+.Meal-of-Week img.recipe-img {
+    position: absolute;
+    margin-top: 20px;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    width: 275px; /* Adjust the width as needed */
+    height: 200px; /* Maintain the aspect ratio */
+}
+
+.Left-Panel {
+    background-color: lightgray; /* Set the background color to light gray */
+    height: 450px;
+    width: 700px;
+    border: 1.5px solid black; /* Increase the border thickness to 3px */
+    border-radius: 15px; /* Add border-radius for rounded corners */
+    box-shadow: 5px 5px 15px rgba(0, 0, 0, 0.3); /* Add a shadow effect */
+    display: flex;
+    justify-content: space-between; /* Add space between Profile-Card and Meal-of-Week */
+    padding: 20px;
+}
+
+.Profile-Page{
+    background-color: tan;
+}
+
+.middle-section,
+.top-section {
+    padding: 10px;
+    font-family: 'Brush Script Std';
+    flex-direction: row; /* Add this line */
+}
+
+.middle-section{
+    display: flex;
+    justify-content: space-between;
+    flex-direction: row; /* Add this line */
+    margin-top: 10px;
+    font-family: 'Brush Script MT', 'Brush Script Std', cursive;
+}
+
+.top-section{
+    display: flex;
+    justify-content: space-between;
+}
+
+.Right-Panel{
+    height: 450px;
+    width: 525px;
+    display: flex;
+    justify-content: space-between; /* Add space between Profile-Card and Meal-of-Week */
+    padding: 20px;
+}
+
+/* Favorite Section */
+.recipe-list{
+    display: flex;
+    justify-content: space-between;
+    overflow-x: auto;
+    height: 350px;
+    width: 500px;
+    padding: 10px;
+}
+
+.favorite-recipe{
+    background-color: lightgrey;
+    height: 300px;
+    width: 250px;
+    border-radius: 10px;
+    margin-right: 10px;
+}
+
+.fav_recipe_image {
+    width: 100%; /* Make the image fill its container */
+    width: 250px;
+    height: 80%; /* Adjust the height as needed */
+    object-fit: cover; /* Ensure the image covers the container without stretching */
+    border-radius: 10px; /* Add border-radius for rounded corners */
+}
+
+.recipe-info{
+    display: flex;
+    align-items: center;
+}
+
+.recipe-info p{
+    font-size: 15px;
+    margin-left: 5px;
+    align-self: center;
+    width: 200px;
+    height: 40px;
+}
+
+.bookmark_icon{
+    margin-left: 16px;
+    width: 0;
+    height: 0;
+    border-top: 14px solid blue;
+    border-right: 7.5px solid blue;
+    border-bottom: 7.5px solid transparent;
+    border-left: 7.5px solid blue;
+    cursor: pointer;
+}
+
+.R-Panel{
+    position: relative;
+    background-color: gray;
+    height: 475px;
+    width: 1000px;
+    padding: 10px;
+    border-radius: 10px;
+    overflow-y: auto;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+}
+
+.R-Panel h1{
+    font-family: 'Brush Script MT', 'Brush Script Std', cursive;
+    font-size: 50px;
+    color: whitesmoke;
+    margin-top: -5px;
+    font-weight: 100;
+}
+
+/* .underline{
+    margin-top: -45px;
+    height: 5px;
+    width: 400px;
+    border-radius: 5px;
+    background-color: rgb(255, 255, 225, 0.6);
+} */
+
+/* vapor */
+/* .vapor1 {
+    position: absolute;
+    top: 20px;
+    left: 475px;
+    transform: translateX(-50%);
+    display: flex;
+    z-index: 1;
+    padding: 0 20px;
+}
+
+.vapor2 {
+    position: absolute;
+    top: 0;
+    left: 200px;
+    display: flex;
+    z-index: 1;
+    padding: 0 20px;
+    transform: rotate(45deg);
+}
+
+.vapor3 {
+    position: absolute;
+    top: 0;
+    left: 500px;
+    display: flex;
+    justify-content: center;
+    z-index: 1;
+    padding: 0 20px;
+    transform: rotate(-45deg);
+}
+
+.vapor1 span{
+    position: relative;
+    bottom: 50px;
+    display: block;
+    margin: 0 2px 50px;
+    min-width: 8px;
+    height: 120px;
+    background: #fff;
+    border-radius: 50%;
+    animation: animate 5s linear infinite;
+    opacity: 0;
+    filter: blur(8px);
+    animation-delay: calc(var(--i) * -0.5s);
+    z-index: 1;
+}
+
+.vapor2 span{
+    position: relative;
+    bottom: 50px;
+    display: block;
+    margin: 0 2px 50px;
+    min-width: 8px;
+    height: 120px;
+    background: white;
+    border-radius: 50%;
+    animation: animate 5s linear infinite;
+    opacity: 0;
+    filter: blur(8px);
+    animation-delay: calc(var(--i) * -0.5s);
+    z-index: 1;
+}
+
+.vapor3 span {
+    position: relative;
+    bottom: 50px;
+    display: block;
+    margin: 0 2px 50px;
+    min-width: 8px;
+    height: 120px;
+    background: white;
+    border-radius: 50%;
+    animation: animate 5s linear infinite;
+    opacity: 0;
+    filter: blur(8px);
+    animation-delay: calc(var(--i) * -0.5s);
+    z-index: 1;
+}
+
+@keyframes animate {
+    0% {
+        opacity: 0;
+        transform: translateY(0) scaleX(1);
+    }
+    15% {
+        opacity: 1;
+    }
+    50% {
+        opacity: 0;
+        transform: translateY(150px) scaleX(5);
+    }
+    95% {
+        opacity: 0;
+    }
+    100% {
+        transform: translateY(300px) scaleX(10);
+    }
+} */
+
+.ingredient-item li{
+    background-color: rgba(209, 209, 209, 0.651);
+    width: 225px;
+    height: auto;
+    justify-content: center;
+    align-items: center;
+    border-radius: 10px;
+    list-style-type: none;
+    font-weight: 100;
+    margin-bottom: 10px;
+    z-index: 2;
+}
+
+.ingredient-item{
+    padding: 10px;
+    height: 300px;
+    display: flex;
+    flex-wrap: wrap; 
+    gap: 25px;  
+    z-index: 2;
+}
+
+.add-items button,
+.ingredient-item button{
+    font-family: 'Brush Script MT', 'Brush Script Std', cursive;
+    border-radius: 5px;
+    width: 150px;
+    z-index: 2;
+}
+
+.add-items h3{  
+    color: white;
+    font-family: 'Brush Script MT', 'Brush Script Std', cursive;
+    font-size: 25px;
+    font-weight: 100;
+}
+
+.add-items{  
+    padding: 10px;
+    border-radius: 10px;
+    width: 200px;
+    height: auto;
+    align-items: center;
+    justify-content: center;
+}
+
+.add-items-input{  
+    margin-top: -10px;
+    width: 170px;
+    margin-left: 40px;
+}
+
+.ingredient-modal {
+    position: fixed;
+    top: 0px;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background: rgb(0, 0, 0);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    z-index: 9999;
+}
+
+.Fridge {
+    background-color: gray;
+    padding: 10px;
+    border-radius: 10px;
+    width: 275px;
+    height: 475px;
+    align-items: center;
+    justify-content: center;
+}
+
+.save-button {
+    margin-top: 10px; /* Add margin to the top */
+    width: 275px; /* Set the width of the button */
+    padding: 10px; /* Add padding */
+    font-size: 16px; /* Set the font size */
+    cursor: pointer; /* Change cursor to pointer on hover */
+    background-color: black; /* Set background color */
+    color: #fff; /* Set text color */
+    border: none; /* Remove border */
+    border-radius: 5px; /* Add border-radius */
+}
+
+.top-fridge {
+    background-color: white;
+    padding: 15px;
+    border-radius: 10px;
+    width: 245px;
+    height: 100px;
+    align-items: center;
+    justify-content: center;
+}
+
+.t-thin-handle {
+    background-color: black;
+    padding: 5px; /* Adjust the padding as needed */
+    border-radius: 5px; /* Adjust the border-radius as needed */
+    width: 2px; /* Adjust the width as needed */
+    height: 90px; /* Adjust the height as needed */
+    position: absolute; /* Position it on top of the t-handle */
+}
+
+.b-thin-handle {
+    background-color: black;
+    padding: 5px; /* Adjust the padding as needed */
+    border-radius: 5px; /* Adjust the border-radius as needed */
+    width: 2px; /* Adjust the width as needed */
+    height: 100px; /* Adjust the height as needed */
+    position: absolute; /* Position it on top of the t-handle */
+}
+
+.bottom-fridge {
+    margin-top: 10px;
+    background-color: white;
+    padding: 15px;
+    border-radius: 10px;
+    width: 245px;
+    height: 250px;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+
+}
+
+.bottom-fridge ul{
+    list-style: none;
+}
+
+.error-message{
+    color: red;
+    font-size: 40px;
+    margin-top: 20px;
+}

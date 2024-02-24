@@ -1,0 +1,109 @@
+{
+  "data": [
+    {
+      "productId": "0000000004093",
+      "upc": "0000000004093",
+      "price": [
+        {
+          "regular": 0.99,
+          "promo": 0
+        }
+      ]
+    },
+    {
+      "productId": "0000000004082",
+      "upc": "0000000004082",
+      "price": [
+        {
+          "regular": 1.59,
+          "promo": 0,
+          "regularPerUnitEstimate": 0.0636
+        }
+      ]
+    },
+    {
+      "productId": "0000000004166",
+      "upc": "0000000004166",
+      "price": [
+        {
+          "regular": 1.49,
+          "promo": 0
+        }
+      ]
+    },
+    {
+      "productId": "0000000004068",
+      "upc": "0000000004068",
+      "price": [
+        {
+          "regular": 0.99,
+          "promo": 0
+        }
+      ]
+    },
+    {
+      "productId": "0000000004663",
+      "upc": "0000000004663",
+      "price": [
+        {
+          "regular": 1.39,
+          "promo": 0,
+          "regularPerUnitEstimate": 1.39
+        }
+      ]
+    },
+    {
+      "productId": "0001111060170",
+      "brand": "Private Selection",
+      "upc": "0001111060170",
+      "price": [
+        {
+          "regular": 4.29,
+          "promo": 3.99
+        }
+      ]
+    },
+    {
+      "productId": "0000000094093",
+      "upc": "0000000094093",
+      "price": [
+        {
+          "regular": 1.69,
+          "promo": 0
+        }
+      ]
+    },
+    {
+      "productId": "0001111060160",
+      "brand": "Simple Truth Organic",
+      "upc": "0001111060160",
+      "price": [
+        {
+          "regular": 2.99,
+          "promo": 0
+        }
+      ]
+    },
+    {
+      "productId": "0001111091684",
+      "brand": "Kroger",
+      "upc": "0001111091684",
+      "price": [
+        {
+          "regular": 2.69,
+          "promo": 0
+        }
+      ]
+    },
+    {
+      "productId": "0001111091682",
+      "upc": "0001111091682",
+      "price": [
+        {
+          "regular": 2.89,
+          "promo": 0
+        }
+      ]
+    }
+  ]
+}

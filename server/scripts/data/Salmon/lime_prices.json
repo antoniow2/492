@@ -1,0 +1,113 @@
+{
+  "data": [
+    {
+      "productId": "0008474400101",
+      "brand": "Nellie & Joe's",
+      "upc": "0008474400101",
+      "price": [
+        {
+          "regular": 3.19,
+          "promo": 2.99
+        }
+      ]
+    },
+    {
+      "productId": "0000000004048",
+      "upc": "0000000004048",
+      "price": [
+        {
+          "regular": 0.59,
+          "promo": 0
+        }
+      ]
+    },
+    {
+      "productId": "0004900002892",
+      "brand": "Sprite",
+      "upc": "0004900002892",
+      "price": [
+        {
+          "regular": 8.99,
+          "promo": 0
+        }
+      ]
+    },
+    {
+      "productId": "0004900006106",
+      "brand": "Sprite",
+      "upc": "0004900006106",
+      "price": [
+        {
+          "regular": 4.99,
+          "promo": 0
+        }
+      ]
+    },
+    {
+      "productId": "0004900005015",
+      "brand": "Sprite",
+      "upc": "0004900005015",
+      "price": [
+        {
+          "regular": 2.99,
+          "promo": 0
+        }
+      ]
+    },
+    {
+      "productId": "0001111072822",
+      "brand": "Kroger",
+      "upc": "0001111072822",
+      "price": [
+        {
+          "regular": 1.89,
+          "promo": 0
+        }
+      ]
+    },
+    {
+      "productId": "0007800000034",
+      "brand": "7UP",
+      "upc": "0007800000034",
+      "price": [
+        {
+          "regular": 2.99,
+          "promo": 0
+        }
+      ]
+    },
+    {
+      "productId": "0004900006724",
+      "brand": "Sprite",
+      "upc": "0004900006724",
+      "price": [
+        {
+          "regular": 6.99,
+          "promo": 5.99
+        }
+      ]
+    },
+    {
+      "productId": "0004140900045",
+      "brand": "Concord Foods",
+      "upc": "0004140900045",
+      "price": [
+        {
+          "regular": 1.25,
+          "promo": 0
+        }
+      ]
+    },
+    {
+      "productId": "0001480058205",
+      "brand": "ReaLime",
+      "upc": "0001480058205",
+      "price": [
+        {
+          "regular": 2.59,
+          "promo": 2.49
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,114 @@
+{
+  "data": [
+    {
+      "productId": "0007800008246",
+      "brand": "Dr Pepper",
+      "upc": "0007800008246",
+      "price": [
+        {
+          "regular": 2.99,
+          "promo": 0
+        }
+      ]
+    },
+    {
+      "productId": "0007800008231",
+      "brand": "Dr Pepper",
+      "upc": "0007800008231",
+      "price": [
+        {
+          "regular": 8.99,
+          "promo": 0
+        }
+      ]
+    },
+    {
+      "productId": "0007800003761",
+      "brand": "Dr Pepper",
+      "upc": "0007800003761",
+      "price": [
+        {
+          "regular": 8.99,
+          "promo": 0
+        }
+      ]
+    },
+    {
+      "productId": "0007800009816",
+      "brand": "Dr Pepper",
+      "upc": "0007800009816",
+      "price": [
+        {
+          "regular": 8.99,
+          "promo": 0
+        }
+      ]
+    },
+    {
+      "productId": "0007800000386",
+      "brand": "Dr Pepper",
+      "upc": "0007800000386",
+      "price": [
+        {
+          "regular": 5.49,
+          "promo": 5.49
+        }
+      ]
+    },
+    {
+      "productId": "0007800000388",
+      "brand": "Dr Pepper",
+      "upc": "0007800000388",
+      "price": [
+        {
+          "regular": 5.49,
+          "promo": 5.49
+        }
+      ]
+    },
+    {
+      "productId": "0007800008216",
+      "brand": "Dr Pepper",
+      "upc": "0007800008216",
+      "price": [
+        {
+          "regular": 8.99,
+          "promo": 0
+        }
+      ]
+    },
+    {
+      "productId": "0007800008316",
+      "brand": "Dr Pepper",
+      "upc": "0007800008316",
+      "price": [
+        {
+          "regular": 8.99,
+          "promo": 0
+        }
+      ]
+    },
+    {
+      "productId": "0007800000204",
+      "brand": "Dr Pepper",
+      "upc": "0007800000204",
+      "price": [
+        {
+          "regular": 4.99,
+          "promo": 3.99
+        }
+      ]
+    },
+    {
+      "productId": "0007800003349",
+      "brand": "Dr Pepper",
+      "upc": "0007800003349",
+      "price": [
+        {
+          "regular": 8.99,
+          "promo": 0
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,105 @@
+{
+  "data": [
+    {
+      "productId": "0075175942139",
+      "brand": "FinalCut",
+      "upc": "0075175942139",
+      "price": [
+        null
+      ]
+    },
+    {
+      "productId": "0078142100184",
+      "brand": "La Brea Bakery",
+      "upc": "0078142100184",
+      "price": [
+        {
+          "regular": 2.49,
+          "promo": 0
+        }
+      ]
+    },
+    {
+      "productId": "0001111062655",
+      "brand": "Private Selection",
+      "upc": "0001111062655",
+      "price": [
+        {
+          "regular": 1.49,
+          "promo": 0
+        }
+      ]
+    },
+    {
+      "productId": "0003967737720",
+      "brand": "The Cheesecake Factory",
+      "upc": "0003967737720",
+      "price": [
+        {
+          "regular": 5.49,
+          "promo": 4.99
+        }
+      ]
+    },
+    {
+      "productId": "0074615581247",
+      "brand": "The Essential Baking Company",
+      "upc": "0074615581247",
+      "price": [
+        null
+      ]
+    },
+    {
+      "productId": "0001111061364",
+      "brand": "Private Selection",
+      "upc": "0001111061364",
+      "price": [
+        {
+          "regular": 1,
+          "promo": 0
+        }
+      ]
+    },
+    {
+      "productId": "0078142117010",
+      "brand": "La Brea Bakery",
+      "upc": "0078142117010",
+      "price": [
+        {
+          "regular": 4.49,
+          "promo": 3.99
+        }
+      ]
+    },
+    {
+      "productId": "0001111061361",
+      "brand": "Private Selection",
+      "upc": "0001111061361",
+      "price": [
+        {
+          "regular": 1.99,
+          "promo": 0
+        }
+      ]
+    },
+    {
+      "productId": "0081199128155",
+      "brand": "Ironwood",
+      "upc": "0081199128155",
+      "price": [
+        null
+      ]
+    },
+    {
+      "productId": "0063538103603",
+      "brand": "Panera Bread",
+      "upc": "0063538103603",
+      "price": [
+        {
+          "regular": 4.49,
+          "promo": 3.49
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,111 @@
+{
+  "data": [
+    {
+      "productId": "0001111004186",
+      "brand": "Private Selection",
+      "upc": "0001111004186",
+      "price": [
+        {
+          "regular": 3.99,
+          "promo": 0
+        }
+      ]
+    },
+    {
+      "productId": "0001111087805",
+      "brand": "Private Selection",
+      "upc": "0001111087805",
+      "price": [
+        {
+          "regular": 4.19,
+          "promo": 0
+        }
+      ]
+    },
+    {
+      "productId": "0003663203640",
+      "brand": "Danimals",
+      "upc": "0003663203640",
+      "price": [
+        {
+          "regular": 3.79,
+          "promo": 3
+        }
+      ]
+    },
+    {
+      "productId": "0001111036741",
+      "brand": "Simple Truth Organic",
+      "upc": "0001111036741",
+      "price": [
+        {
+          "regular": 2.79,
+          "promo": 0
+        }
+      ]
+    },
+    {
+      "productId": "0003338320038",
+      "upc": "0003338320038",
+      "price": [
+        {
+          "regular": 5.99,
+          "promo": 0
+        }
+      ]
+    },
+    {
+      "productId": "0001111003252",
+      "brand": "Private Selection",
+      "upc": "0001111003252",
+      "price": [
+        {
+          "regular": 9.99,
+          "promo": 0
+        }
+      ]
+    },
+    {
+      "productId": "0003338320027",
+      "upc": "0003338320027",
+      "price": [
+        {
+          "regular": 3.99,
+          "promo": 0
+        }
+      ]
+    },
+    {
+      "productId": "0001111003795",
+      "brand": "Kroger",
+      "upc": "0001111003795",
+      "price": [
+        {
+          "regular": 1.99,
+          "promo": 0
+        }
+      ]
+    },
+    {
+      "productId": "0003338320030",
+      "upc": "0003338320030",
+      "price": [
+        {
+          "regular": 7.98,
+          "promo": 0
+        }
+      ]
+    },
+    {
+      "productId": "0001111010943",
+      "brand": "Private Selection",
+      "upc": "0001111010943",
+      "price": [
+        {
+          "regular": 4.99,
+          "promo": 0
+        }
+      ]
+    }
+  ]
+}

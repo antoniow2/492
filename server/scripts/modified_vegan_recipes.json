@@ -1,0 +1,742 @@
+[
+  {
+    "recipeName": "Vegan cupcakes",
+    "ingredients": [
+      {
+        "food": "soy milk",
+        "quantity": 150,
+        "measure": "milliliter"
+      },
+      {
+        "food": "cider vinegar",
+        "quantity": 0.5,
+        "measure": "teaspoon"
+      },
+      {
+        "food": "vegan butter",
+        "quantity": 110,
+        "measure": "gram"
+      },
+      {
+        "food": "caster sugar",
+        "quantity": 110,
+        "measure": "gram"
+      },
+      {
+        "food": "vanilla extract",
+        "quantity": 1,
+        "measure": "teaspoon"
+      },
+      {
+        "food": "flour",
+        "quantity": 110,
+        "measure": "gram"
+      },
+      {
+        "food": "baking powder",
+        "quantity": 0.5,
+        "measure": "teaspoon"
+      },
+      {
+        "food": "vegan butter",
+        "quantity": 125,
+        "measure": "gram"
+      },
+      {
+        "food": "icing sugar",
+        "quantity": 250,
+        "measure": "gram"
+      },
+      {
+        "food": "vanilla extract",
+        "quantity": 1.25,
+        "measure": "teaspoon"
+      },
+      {
+        "food": "food colourings",
+        "quantity": 1,
+        "measure": "drop"
+      }
+    ],
+    "healthLabels": [
+      "Low Potassium",
+      "Kidney-Friendly",
+      "Vegan",
+      "Vegetarian",
+      "Pescatarian",
+      "Dairy-Free",
+      "Egg-Free",
+      "Peanut-Free",
+      "Fish-Free",
+      "Shellfish-Free",
+      "Pork-Free",
+      "Red-Meat-Free",
+      "Crustacean-Free",
+      "Celery-Free",
+      "Mustard-Free",
+      "Sesame-Free",
+      "Lupine-Free",
+      "Mollusk-Free",
+      "Alcohol-Free",
+      "Kosher"
+    ],
+    "totalTime": 50
+  },
+  {
+    "recipeName": "Vegan Chocolate-Coffee Muffins Recipe",
+    "ingredients": [
+      {
+        "food": "all purpose flour",
+        "quantity": 1.5,
+        "measure": "cup"
+      },
+      {
+        "food": "unsweetened cocoa powder",
+        "quantity": 0.3333333333333333,
+        "measure": "cup"
+      },
+      {
+        "food": "baking soda",
+        "quantity": 1,
+        "measure": "teaspoon"
+      },
+      {
+        "food": "salt",
+        "quantity": 0.5,
+        "measure": "teaspoon"
+      },
+      {
+        "food": "sugar",
+        "quantity": 1.25,
+        "measure": "cup"
+      },
+      {
+        "food": "espresso",
+        "quantity": 1,
+        "measure": "teaspoon"
+      },
+      {
+        "food": "coffee",
+        "quantity": 1,
+        "measure": "cup"
+      },
+      {
+        "food": "vanilla extract",
+        "quantity": 1,
+        "measure": "teaspoon"
+      },
+      {
+        "food": "white vinegar",
+        "quantity": 1,
+        "measure": "teaspoon"
+      },
+      {
+        "food": "vegan chocolate chips",
+        "quantity": 0.75,
+        "measure": "cup"
+      }
+    ],
+    "healthLabels": [
+      "Low Potassium",
+      "Kidney-Friendly",
+      "Vegan",
+      "Vegetarian",
+      "Pescatarian",
+      "Dairy-Free",
+      "Egg-Free",
+      "Peanut-Free",
+      "Tree-Nut-Free",
+      "Fish-Free",
+      "Shellfish-Free",
+      "Pork-Free",
+      "Red-Meat-Free",
+      "Crustacean-Free",
+      "Celery-Free",
+      "Mustard-Free",
+      "Sesame-Free",
+      "Lupine-Free",
+      "Mollusk-Free",
+      "Alcohol-Free",
+      "Kosher"
+    ],
+    "totalTime": 35
+  },
+  {
+    "recipeName": "Spiked Vegan Eggnog",
+    "ingredients": [
+      {
+        "food": "eggnog",
+        "quantity": 4,
+        "measure": "cup"
+      },
+      {
+        "food": "brandy",
+        "quantity": 4,
+        "measure": "ounce"
+      },
+      {
+        "food": "cinnamon sticks",
+        "quantity": 0,
+        "measure": null
+      }
+    ],
+    "healthLabels": [
+      "Kidney-Friendly",
+      "Vegetarian",
+      "Pescatarian",
+      "Mediterranean",
+      "Gluten-Free",
+      "Wheat-Free",
+      "Peanut-Free",
+      "Tree-Nut-Free",
+      "Soy-Free",
+      "Fish-Free",
+      "Shellfish-Free",
+      "Pork-Free",
+      "Red-Meat-Free",
+      "Crustacean-Free",
+      "Celery-Free",
+      "Mustard-Free",
+      "Sesame-Free",
+      "Lupine-Free",
+      "Mollusk-Free",
+      "No oil added",
+      "Sulfite-Free",
+      "Kosher"
+    ],
+    "totalTime": 5
+  },
+  {
+    "recipeName": "Vegan Cucumber Tea Sandwiches",
+    "ingredients": [
+      {
+        "food": "vegan cream cheese",
+        "quantity": 8,
+        "measure": "ounce"
+      },
+      {
+        "food": "chives",
+        "quantity": 2,
+        "measure": "tablespoon"
+      },
+      {
+        "food": "parsley",
+        "quantity": 2,
+        "measure": "tablespoon"
+      },
+      {
+        "food": "fresh tarragon",
+        "quantity": 1,
+        "measure": "tablespoon"
+      },
+      {
+        "food": "Kosher salt",
+        "quantity": 0,
+        "measure": null
+      },
+      {
+        "food": "pepper",
+        "quantity": 0,
+        "measure": null
+      },
+      {
+        "food": "sandwich bread",
+        "quantity": 8,
+        "measure": "slice"
+      },
+      {
+        "food": "cucumbers",
+        "quantity": 2,
+        "measure": "mini"
+      }
+    ],
+    "healthLabels": [
+      "Sugar-Conscious",
+      "Low Potassium",
+      "Kidney-Friendly",
+      "Vegan",
+      "Vegetarian",
+      "Pescatarian",
+      "Mediterranean",
+      "Dairy-Free",
+      "Egg-Free",
+      "Peanut-Free",
+      "Tree-Nut-Free",
+      "Soy-Free",
+      "Fish-Free",
+      "Shellfish-Free",
+      "Pork-Free",
+      "Red-Meat-Free",
+      "Crustacean-Free",
+      "Celery-Free",
+      "Mustard-Free",
+      "Sesame-Free",
+      "Lupine-Free",
+      "Mollusk-Free",
+      "Alcohol-Free",
+      "Sulfite-Free",
+      "Kosher"
+    ],
+    "totalTime": 15
+  },
+  {
+    "recipeName": "Marbled Chocolate Protein Cookies (Vegan)",
+    "ingredients": [
+      {
+        "food": "vegan butter",
+        "quantity": 0.25,
+        "measure": "cup"
+      },
+      {
+        "food": "granulated sugar",
+        "quantity": 0.5,
+        "measure": "cup"
+      },
+      {
+        "food": "brown sugar",
+        "quantity": 1,
+        "measure": "tablespoon"
+      },
+      {
+        "food": "ground flaxseed",
+        "quantity": 2,
+        "measure": "tablespoon"
+      },
+      {
+        "food": "water",
+        "quantity": 7,
+        "measure": "tablespoon"
+      },
+      {
+        "food": "vanilla extract",
+        "quantity": 1,
+        "measure": "teaspoon"
+      },
+      {
+        "food": "all-purpose flour",
+        "quantity": 2,
+        "measure": "cup"
+      },
+      {
+        "food": "baking soda",
+        "quantity": 1.25,
+        "measure": "teaspoon"
+      },
+      {
+        "food": "cornstarch",
+        "quantity": 1,
+        "measure": "teaspoon"
+      },
+      {
+        "food": "salt",
+        "quantity": 0.5,
+        "measure": "teaspoon"
+      },
+      {
+        "food": "protein powder",
+        "quantity": 0.5,
+        "measure": "cup"
+      },
+      {
+        "food": "applesauce",
+        "quantity": 0.25,
+        "measure": "cup"
+      },
+      {
+        "food": "vegan chocolate chips",
+        "quantity": 1,
+        "measure": "cup"
+      },
+      {
+        "food": "chocolate hazelnut spread",
+        "quantity": 0.5,
+        "measure": "cup"
+      }
+    ],
+    "healthLabels": [
+      "Vegetarian",
+      "Pescatarian",
+      "Egg-Free",
+      "Peanut-Free",
+      "Fish-Free",
+      "Shellfish-Free",
+      "Pork-Free",
+      "Red-Meat-Free",
+      "Crustacean-Free",
+      "Celery-Free",
+      "Mustard-Free",
+      "Sesame-Free",
+      "Lupine-Free",
+      "Mollusk-Free",
+      "Alcohol-Free",
+      "Kosher"
+    ],
+    "totalTime": 30
+  },
+  {
+    "recipeName": "Vegan Nachos",
+    "ingredients": [
+      {
+        "food": "corn tortilla chips",
+        "quantity": 1,
+        "measure": "bag"
+      },
+      {
+        "food": "cheese",
+        "quantity": 1.5,
+        "measure": "cup"
+      },
+      {
+        "food": "salsa",
+        "quantity": 1,
+        "measure": "cup"
+      },
+      {
+        "food": "spinach",
+        "quantity": 0.5,
+        "measure": "cup"
+      },
+      {
+        "food": "avocado",
+        "quantity": 1,
+        "measure": "<unit>"
+      },
+      {
+        "food": "sea salt",
+        "quantity": 0.5,
+        "measure": "teaspoon"
+      },
+      {
+        "food": "ground pepper",
+        "quantity": 0.5,
+        "measure": "teaspoon"
+      },
+      {
+        "food": "red pepper flakes",
+        "quantity": 0.5,
+        "measure": "teaspoon"
+      },
+      {
+        "food": "sesame seeds",
+        "quantity": 1,
+        "measure": "tablespoon"
+      },
+      {
+        "food": "cilantro",
+        "quantity": 0.5,
+        "measure": "cup"
+      }
+    ],
+    "healthLabels": [
+      "Vegetarian",
+      "Pescatarian",
+      "Gluten-Free",
+      "Wheat-Free",
+      "Egg-Free",
+      "Peanut-Free",
+      "Tree-Nut-Free",
+      "Soy-Free",
+      "Fish-Free",
+      "Shellfish-Free",
+      "Pork-Free",
+      "Red-Meat-Free",
+      "Crustacean-Free",
+      "Celery-Free",
+      "Mustard-Free",
+      "Lupine-Free",
+      "Mollusk-Free",
+      "Alcohol-Free",
+      "Sulfite-Free",
+      "Kosher"
+    ],
+    "totalTime": 15
+  },
+  {
+    "recipeName": "The Best Vegan Breakfast Sandwich",
+    "ingredients": [
+      {
+        "food": "tofu",
+        "quantity": 16,
+        "measure": "ounce"
+      },
+      {
+        "food": "nondairy milk",
+        "quantity": 0.75,
+        "measure": "cup"
+      },
+      {
+        "food": "nutritional yeast",
+        "quantity": 0.3333333333333333,
+        "measure": "cup"
+      },
+      {
+        "food": "tapioca flour",
+        "quantity": 0.25,
+        "measure": "cup"
+      },
+      {
+        "food": "ground turmeric",
+        "quantity": 1,
+        "measure": "teaspoon"
+      },
+      {
+        "food": "garlic powder",
+        "quantity": 1,
+        "measure": "teaspoon"
+      },
+      {
+        "food": "onion powder",
+        "quantity": 1,
+        "measure": "teaspoon"
+      },
+      {
+        "food": "sea salt",
+        "quantity": 1,
+        "measure": "teaspoon"
+      },
+      {
+        "food": "ground pepper",
+        "quantity": 0.5,
+        "measure": "teaspoon"
+      },
+      {
+        "food": "chives",
+        "quantity": 2,
+        "measure": "tablespoon"
+      },
+      {
+        "food": "vegan butter",
+        "quantity": 3,
+        "measure": "tablespoon"
+      },
+      {
+        "food": "English muffins",
+        "quantity": 5,
+        "measure": "<unit>"
+      },
+      {
+        "food": "vegan butter",
+        "quantity": 5,
+        "measure": "tablespoon"
+      },
+      {
+        "food": "cheddar cheese",
+        "quantity": 5,
+        "measure": "slice"
+      },
+      {
+        "food": "Cassava",
+        "quantity": 0,
+        "measure": null
+      },
+      {
+        "food": "Bacon",
+        "quantity": 0,
+        "measure": null
+      },
+      {
+        "food": "vine tomatoes",
+        "quantity": 2,
+        "measure": "<unit>"
+      }
+    ],
+    "healthLabels": [
+      "Egg-Free",
+      "Peanut-Free",
+      "Tree-Nut-Free",
+      "Fish-Free",
+      "Shellfish-Free",
+      "Crustacean-Free",
+      "Celery-Free",
+      "Mustard-Free",
+      "Sesame-Free",
+      "Lupine-Free",
+      "Mollusk-Free",
+      "Alcohol-Free"
+    ],
+    "totalTime": 0
+  },
+  {
+    "recipeName": "Classic American Fare, Now In Vegan! recipes",
+    "ingredients": [
+      {
+        "food": "vegan butter",
+        "quantity": 0.25,
+        "measure": "cup"
+      },
+      {
+        "food": "onion",
+        "quantity": 1,
+        "measure": "cup"
+      },
+      {
+        "food": "garlic",
+        "quantity": 0.5,
+        "measure": "tablespoon"
+      },
+      {
+        "food": "broccoli",
+        "quantity": 16,
+        "measure": "ounce"
+      },
+      {
+        "food": "vegetable stock",
+        "quantity": 1,
+        "measure": "quart"
+      },
+      {
+        "food": "white pepper",
+        "quantity": 0.25,
+        "measure": "teaspoon"
+      },
+      {
+        "food": "cornstarch",
+        "quantity": 1,
+        "measure": "tablespoon"
+      },
+      {
+        "food": "nutritional yeast",
+        "quantity": 0.25,
+        "measure": "cup"
+      },
+      {
+        "food": "almond milk",
+        "quantity": 1.5,
+        "measure": "cup"
+      },
+      {
+        "food": "cheddar cheese",
+        "quantity": 8,
+        "measure": "ounce"
+      }
+    ],
+    "healthLabels": [
+      "Vegetarian",
+      "Pescatarian",
+      "Gluten-Free",
+      "Wheat-Free",
+      "Egg-Free",
+      "Peanut-Free",
+      "Fish-Free",
+      "Shellfish-Free",
+      "Pork-Free",
+      "Red-Meat-Free",
+      "Crustacean-Free",
+      "Celery-Free",
+      "Mustard-Free",
+      "Sesame-Free",
+      "Lupine-Free",
+      "Mollusk-Free",
+      "Alcohol-Free",
+      "Kosher"
+    ],
+    "totalTime": 30
+  },
+  {
+    "recipeName": "{Vegan} Peanut Butter & Honey Muffins recipes",
+    "ingredients": [
+      {
+        "food": "flour",
+        "quantity": 1,
+        "measure": "cup"
+      },
+      {
+        "food": "baking powder",
+        "quantity": 1.5,
+        "measure": "teaspoon"
+      },
+      {
+        "food": "salt",
+        "quantity": 1,
+        "measure": "pinch"
+      },
+      {
+        "food": "peanut butter",
+        "quantity": 3,
+        "measure": "tablespoon"
+      },
+      {
+        "food": "oil",
+        "quantity": 2,
+        "measure": "tablespoon"
+      },
+      {
+        "food": "honey",
+        "quantity": 3,
+        "measure": "tablespoon"
+      },
+      {
+        "food": "milk",
+        "quantity": 0.75,
+        "measure": "cup"
+      }
+    ],
+    "healthLabels": [
+      "Low Potassium",
+      "Kidney-Friendly",
+      "Vegetarian",
+      "Pescatarian",
+      "Egg-Free",
+      "Fish-Free",
+      "Shellfish-Free",
+      "Pork-Free",
+      "Red-Meat-Free",
+      "Crustacean-Free",
+      "Celery-Free",
+      "Mustard-Free",
+      "Sesame-Free",
+      "Lupine-Free",
+      "Mollusk-Free",
+      "Alcohol-Free",
+      "Kosher"
+    ],
+    "totalTime": 25
+  },
+  {
+    "recipeName": "Vegan Pots de Crème",
+    "ingredients": [
+      {
+        "food": "nondairy milk",
+        "quantity": 0.75,
+        "measure": "cup"
+      },
+      {
+        "food": "tofu",
+        "quantity": 12,
+        "measure": "ounce"
+      },
+      {
+        "food": "brown sugar",
+        "quantity": 2,
+        "measure": "teaspoon"
+      },
+      {
+        "food": "dark chocolate chips",
+        "quantity": 1,
+        "measure": "cup"
+      }
+    ],
+    "healthLabels": [
+      "Vegetarian",
+      "Pescatarian",
+      "Gluten-Free",
+      "Wheat-Free",
+      "Egg-Free",
+      "Peanut-Free",
+      "Tree-Nut-Free",
+      "Fish-Free",
+      "Shellfish-Free",
+      "Pork-Free",
+      "Red-Meat-Free",
+      "Crustacean-Free",
+      "Celery-Free",
+      "Mustard-Free",
+      "Sesame-Free",
+      "Lupine-Free",
+      "Mollusk-Free",
+      "Alcohol-Free",
+      "Kosher"
+    ],
+    "totalTime": 172
+  }
+]

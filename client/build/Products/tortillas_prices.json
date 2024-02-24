@@ -1,0 +1,114 @@
+{
+  "data": [
+    {
+      "productId": "0007373100419",
+      "brand": "Mission",
+      "upc": "0007373100419",
+      "price": [
+        {
+          "regular": 3.99,
+          "promo": 0
+        }
+      ]
+    },
+    {
+      "productId": "0007373107121",
+      "brand": "Mission",
+      "upc": "0007373107121",
+      "price": [
+        {
+          "regular": 5.79,
+          "promo": 0
+        }
+      ]
+    },
+    {
+      "productId": "0001111005265",
+      "brand": "Kroger",
+      "upc": "0001111005265",
+      "price": [
+        {
+          "regular": 2.19,
+          "promo": 0
+        }
+      ]
+    },
+    {
+      "productId": "0001111005266",
+      "brand": "Kroger",
+      "upc": "0001111005266",
+      "price": [
+        {
+          "regular": 2.29,
+          "promo": 0
+        }
+      ]
+    },
+    {
+      "productId": "0007373107151",
+      "brand": "Mission",
+      "upc": "0007373107151",
+      "price": [
+        {
+          "regular": 2.79,
+          "promo": 0
+        }
+      ]
+    },
+    {
+      "productId": "0002733100033",
+      "brand": "La Banderita",
+      "upc": "0002733100033",
+      "price": [
+        {
+          "regular": 3.49,
+          "promo": 0
+        }
+      ]
+    },
+    {
+      "productId": "0002733100032",
+      "brand": "La Banderita",
+      "upc": "0002733100032",
+      "price": [
+        {
+          "regular": 3.99,
+          "promo": 0
+        }
+      ]
+    },
+    {
+      "productId": "0007373100415",
+      "brand": "Mission",
+      "upc": "0007373100415",
+      "price": [
+        {
+          "regular": 2.99,
+          "promo": 0
+        }
+      ]
+    },
+    {
+      "productId": "0007373100830",
+      "brand": "Mission",
+      "upc": "0007373100830",
+      "price": [
+        {
+          "regular": 3.69,
+          "promo": 0
+        }
+      ]
+    },
+    {
+      "productId": "0007373107109",
+      "brand": "Mission",
+      "upc": "0007373107109",
+      "price": [
+        {
+          "regular": 5.49,
+          "promo": 0
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,104 @@
+{
+  "data": [
+    {
+      "productId": "0000000094053",
+      "upc": "0000000094053",
+      "price": [
+        {
+          "regular": 1.29,
+          "promo": 0
+        }
+      ]
+    },
+    {
+      "productId": "0007224054678",
+      "brand": "Wonderful",
+      "upc": "0007224054678",
+      "price": [
+        {
+          "regular": 2.99,
+          "promo": 2.49
+        }
+      ]
+    },
+    {
+      "productId": "0001111070205",
+      "brand": "Kroger",
+      "upc": "0001111070205",
+      "price": [
+        {
+          "regular": 1.89,
+          "promo": 0
+        }
+      ]
+    },
+    {
+      "productId": "0000000004033",
+      "upc": "0000000004033",
+      "price": [
+        null
+      ]
+    },
+    {
+      "productId": "0001111018206",
+      "brand": "Simple Truth Organic",
+      "upc": "0001111018206",
+      "price": [
+        {
+          "regular": 4.99,
+          "promo": 0
+        }
+      ]
+    },
+    {
+      "productId": "0001480058223",
+      "brand": "ReaLemon",
+      "upc": "0001480058223",
+      "price": [
+        {
+          "regular": 2.59,
+          "promo": 2.49
+        }
+      ]
+    },
+    {
+      "productId": "0001111062343",
+      "brand": "Kroger",
+      "upc": "0001111062343",
+      "price": [
+        {
+          "regular": 4.99,
+          "promo": 0
+        }
+      ]
+    },
+    {
+      "productId": "0000000004958",
+      "upc": "0000000004958",
+      "price": [
+        null
+      ]
+    },
+    {
+      "productId": "0001111091188",
+      "brand": "Kroger",
+      "upc": "0001111091188",
+      "price": [
+        {
+          "regular": 3.99,
+          "promo": 0
+        }
+      ]
+    },
+    {
+      "productId": "0000000004053",
+      "upc": "0000000004053",
+      "price": [
+        {
+          "regular": 0.79,
+          "promo": 0
+        }
+      ]
+    }
+  ]
+}

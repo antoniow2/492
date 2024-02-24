@@ -1,0 +1,114 @@
+{
+  "data": [
+    {
+      "productId": "0001300000854",
+      "brand": "Heinz",
+      "upc": "0001300000854",
+      "price": [
+        {
+          "regular": 2.99,
+          "promo": 0
+        }
+      ]
+    },
+    {
+      "productId": "0001111010764",
+      "brand": "Simple Truth Organic",
+      "upc": "0001111010764",
+      "price": [
+        {
+          "regular": 2.99,
+          "promo": 0
+        }
+      ]
+    },
+    {
+      "productId": "0001111010765",
+      "brand": "Simple Truth Organic",
+      "upc": "0001111010765",
+      "price": [
+        {
+          "regular": 2.99,
+          "promo": 0
+        }
+      ]
+    },
+    {
+      "productId": "0001111086204",
+      "brand": "Kroger",
+      "upc": "0001111086204",
+      "price": [
+        {
+          "regular": 1.29,
+          "promo": 0
+        }
+      ]
+    },
+    {
+      "productId": "0001111003110",
+      "brand": "Kroger",
+      "upc": "0001111003110",
+      "price": [
+        {
+          "regular": 2.99,
+          "promo": 0
+        }
+      ]
+    },
+    {
+      "productId": "0001111011200",
+      "brand": "Smart Way",
+      "upc": "0001111011200",
+      "price": [
+        {
+          "regular": 1.59,
+          "promo": 0
+        }
+      ]
+    },
+    {
+      "productId": "0007064100006",
+      "brand": "Marukan Vinegar",
+      "upc": "0007064100006",
+      "price": [
+        {
+          "regular": 3.99,
+          "promo": 3.79
+        }
+      ]
+    },
+    {
+      "productId": "0007430500132",
+      "brand": "Bragg",
+      "upc": "0007430500132",
+      "price": [
+        {
+          "regular": 6.99,
+          "promo": 6.49
+        }
+      ]
+    },
+    {
+      "productId": "0001111003113",
+      "brand": "Kroger",
+      "upc": "0001111003113",
+      "price": [
+        {
+          "regular": 3.99,
+          "promo": 0
+        }
+      ]
+    },
+    {
+      "productId": "0001111086200",
+      "brand": "Kroger",
+      "upc": "0001111086200",
+      "price": [
+        {
+          "regular": 1.39,
+          "promo": 0
+        }
+      ]
+    }
+  ]
+}

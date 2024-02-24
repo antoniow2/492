@@ -1,0 +1,17 @@
+{
+  "data": [
+    {
+      "productId": "0026301650000",
+      "brand": "Simple Truth",
+      "upc": "0026301650000",
+      "price": [
+        {
+          "regular": 12.99,
+          "promo": 9.99,
+          "regularPerUnitEstimate": 12.99,
+          "promoPerUnitEstimate": 9.99
+        }
+      ]
+    }
+  ]
+}

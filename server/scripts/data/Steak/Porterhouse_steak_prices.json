@@ -1,0 +1,99 @@
+{
+  "data": [
+    {
+      "productId": "0003588652369",
+      "brand": "Zwilling",
+      "upc": "0003588652369",
+      "price": [
+        null
+      ]
+    },
+    {
+      "productId": "0073855341376",
+      "brand": "Cesar",
+      "upc": "0073855341376",
+      "price": [
+        null
+      ]
+    },
+    {
+      "productId": "0002310070295",
+      "brand": "Cesar",
+      "upc": "0002310070295",
+      "price": [
+        {
+          "regular": 16.49,
+          "promo": 0
+        }
+      ]
+    },
+    {
+      "productId": "0001780000047",
+      "brand": "Beneful",
+      "upc": "0001780000047",
+      "price": [
+        {
+          "regular": 2.29,
+          "promo": 1.99
+        }
+      ]
+    },
+    {
+      "productId": "0001780010016",
+      "brand": "Beneful",
+      "upc": "0001780010016",
+      "price": [
+        {
+          "regular": 25.99,
+          "promo": 0
+        }
+      ]
+    },
+    {
+      "productId": "0075279849708",
+      "brand": "Cesar",
+      "upc": "0075279849708",
+      "price": [
+        null
+      ]
+    },
+    {
+      "productId": "0003588638247",
+      "brand": "Zwilling",
+      "upc": "0003588638247",
+      "price": [
+        null
+      ]
+    },
+    {
+      "productId": "0002310010257",
+      "brand": "Cesar",
+      "upc": "0002310010257",
+      "price": [
+        {
+          "regular": 32.49,
+          "promo": 30.99
+        }
+      ]
+    },
+    {
+      "productId": "0002310002451",
+      "brand": "Cesar",
+      "upc": "0002310002451",
+      "price": [
+        {
+          "regular": 1.59,
+          "promo": 1.39
+        }
+      ]
+    },
+    {
+      "productId": "0075279849702",
+      "brand": "Cesar",
+      "upc": "0075279849702",
+      "price": [
+        null
+      ]
+    }
+  ]
+}

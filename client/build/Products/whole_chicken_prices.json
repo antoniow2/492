@@ -1,0 +1,117 @@
+{
+  "data": [
+    {
+      "productId": "0006456322701",
+      "brand": "Yummy",
+      "upc": "0006456322701",
+      "price": [
+        {
+          "regular": 9.99,
+          "promo": 9.29
+        }
+      ]
+    },
+    {
+      "productId": "0021069500000",
+      "brand": "Heritage Farm",
+      "upc": "0021069500000",
+      "price": [
+        {
+          "regular": 1.29,
+          "promo": 0,
+          "regularPerUnitEstimate": 1.29
+        }
+      ]
+    },
+    {
+      "productId": "0001111006806",
+      "brand": "Simple Truth",
+      "upc": "0001111006806",
+      "price": [
+        {
+          "regular": 9.99,
+          "promo": 0
+        }
+      ]
+    },
+    {
+      "productId": "0026080500000",
+      "brand": "Tyson",
+      "upc": "0026080500000",
+      "price": [
+        {
+          "regular": 1.79,
+          "promo": 0,
+          "regularPerUnitEstimate": 1.79
+        }
+      ]
+    },
+    {
+      "productId": "0084013430078",
+      "brand": "Home Chef",
+      "upc": "0084013430078",
+      "price": [
+        {
+          "regular": 7.99,
+          "promo": 0
+        }
+      ]
+    },
+    {
+      "productId": "0084013430121",
+      "brand": "Home Chef",
+      "upc": "0084013430121",
+      "price": [
+        {
+          "regular": 7.99,
+          "promo": 0
+        }
+      ]
+    },
+    {
+      "productId": "0084013430120",
+      "brand": "Home Chef",
+      "upc": "0084013430120",
+      "price": [
+        {
+          "regular": 7.99,
+          "promo": 0
+        }
+      ]
+    },
+    {
+      "productId": "0024894500000",
+      "upc": "0024894500000",
+      "price": [
+        {
+          "regular": 2.99,
+          "promo": 0,
+          "regularPerUnitEstimate": 2.99
+        }
+      ]
+    },
+    {
+      "productId": "0020891150000",
+      "brand": "Simple Truth Organic",
+      "upc": "0020891150000",
+      "price": [
+        {
+          "regular": 3.99,
+          "promo": 0,
+          "regularPerUnitEstimate": 3.99
+        }
+      ]
+    },
+    {
+      "productId": "0084013430050",
+      "brand": "Home Chef",
+      "upc": "0084013430050",
+      "price": [
+        {
+          "regular": 7.99,
+          "promo": 0
+        }
+      ]
+    }
+  ]
+}

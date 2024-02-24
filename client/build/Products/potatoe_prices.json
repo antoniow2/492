@@ -1,0 +1,110 @@
+{
+  "data": [
+    {
+      "productId": "0000000004072",
+      "brand": "In Store",
+      "upc": "0000000004072",
+      "price": [
+        {
+          "regular": 1.29,
+          "promo": 0,
+          "regularPerUnitEstimate": 0.0161
+        }
+      ]
+    },
+    {
+      "productId": "0001111091757",
+      "brand": "Kroger",
+      "upc": "0001111091757",
+      "price": [
+        {
+          "regular": 6.49,
+          "promo": 0
+        }
+      ]
+    },
+    {
+      "productId": "0003338391098",
+      "upc": "0003338391098",
+      "price": [
+        {
+          "regular": 4.99,
+          "promo": 0
+        }
+      ]
+    },
+    {
+      "productId": "0001111091845",
+      "upc": "0001111091845",
+      "price": [
+        {
+          "regular": 7.99,
+          "promo": 4.99
+        }
+      ]
+    },
+    {
+      "productId": "0001111091756",
+      "upc": "0001111091756",
+      "price": [
+        {
+          "regular": 3.99,
+          "promo": 0
+        }
+      ]
+    },
+    {
+      "productId": "0001111091754",
+      "brand": "Kroger",
+      "upc": "0001111091754",
+      "price": [
+        {
+          "regular": 5.99,
+          "promo": 0
+        }
+      ]
+    },
+    {
+      "productId": "0000000004727",
+      "upc": "0000000004727",
+      "price": [
+        {
+          "regular": 1.29,
+          "promo": 0
+        }
+      ]
+    },
+    {
+      "productId": "0001111091871",
+      "upc": "0001111091871",
+      "price": [
+        {
+          "regular": 4.99,
+          "promo": 0
+        }
+      ]
+    },
+    {
+      "productId": "0001111091760",
+      "brand": "Kroger",
+      "upc": "0001111091760",
+      "price": [
+        {
+          "regular": 3.99,
+          "promo": 0
+        }
+      ]
+    },
+    {
+      "productId": "0001111079542",
+      "brand": "Private Selection",
+      "upc": "0001111079542",
+      "price": [
+        {
+          "regular": 3.99,
+          "promo": 0
+        }
+      ]
+    }
+  ]
+}

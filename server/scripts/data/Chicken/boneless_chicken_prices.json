@@ -1,0 +1,124 @@
+{
+  "data": [
+    {
+      "productId": "0007496096715",
+      "brand": "Kroger",
+      "upc": "0007496096715",
+      "price": [
+        {
+          "regular": 5,
+          "promo": 0
+        }
+      ]
+    },
+    {
+      "productId": "0021058100000",
+      "brand": "Heritage Farm",
+      "upc": "0021058100000",
+      "price": [
+        {
+          "regular": 4.49,
+          "promo": 0,
+          "regularPerUnitEstimate": 4.49
+        }
+      ]
+    },
+    {
+      "productId": "0021065600000",
+      "brand": "Heritage Farm",
+      "upc": "0021065600000",
+      "price": [
+        {
+          "regular": 2.99,
+          "promo": 0,
+          "regularPerUnitEstimate": 2.99
+        }
+      ]
+    },
+    {
+      "productId": "0001111097017",
+      "brand": "Heritage Farm",
+      "upc": "0001111097017",
+      "price": [
+        {
+          "regular": 10.99,
+          "promo": 8.99
+        }
+      ]
+    },
+    {
+      "productId": "0024061550000",
+      "brand": "Simple Truth",
+      "upc": "0024061550000",
+      "price": [
+        {
+          "regular": 6.49,
+          "promo": 5.99,
+          "regularPerUnitEstimate": 6.49,
+          "promoPerUnitEstimate": 5.99
+        }
+      ]
+    },
+    {
+      "productId": "0021086500000",
+      "brand": "Heritage Farm",
+      "upc": "0021086500000",
+      "price": [
+        {
+          "regular": 3.29,
+          "promo": 0,
+          "regularPerUnitEstimate": 3.29
+        }
+      ]
+    },
+    {
+      "productId": "0020890050000",
+      "brand": "Simple Truth Organic",
+      "upc": "0020890050000",
+      "price": [
+        {
+          "regular": 9.99,
+          "promo": 0,
+          "regularPerUnitEstimate": 0.49950000000000006
+        }
+      ]
+    },
+    {
+      "productId": "0020094700000",
+      "brand": "Simple Truth",
+      "upc": "0020094700000",
+      "price": [
+        {
+          "regular": 5.99,
+          "promo": 4.99,
+          "regularPerUnitEstimate": 5.99,
+          "promoPerUnitEstimate": 4.99
+        }
+      ]
+    },
+    {
+      "productId": "0026082900000",
+      "brand": "Tyson",
+      "upc": "0026082900000",
+      "price": [
+        {
+          "regular": 4.99,
+          "promo": 0,
+          "regularPerUnitEstimate": 4.99
+        }
+      ]
+    },
+    {
+      "productId": "0026086500000",
+      "brand": "Tyson",
+      "upc": "0026086500000",
+      "price": [
+        {
+          "regular": 3.99,
+          "promo": 0,
+          "regularPerUnitEstimate": 3.99
+        }
+      ]
+    }
+  ]
+}
