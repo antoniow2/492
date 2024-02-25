@@ -60,7 +60,7 @@ const recipeImages = {
   "Salmon Benedict": "salmon_benedict.png",
   "Salmon Sandwich": "salmon_sandwich.png",
   "Vegan cupcakes": "vegan_cupcakes.png",
-  "Vegan Chocolate-Coffee Muffins": "vegan_chocolate-coffee_muffins.png",
+  "Vegan ChocolateCoffee Muffins": "vegan_chocolate-coffee_muffins.png",
   "Spiked Vegan Eggnog": "spiked_vegan_eggnog.png",
   "Vegan Cucumber Tea Sandwiches": "vegan_cucumber_tea_sandwiches.png",
   "Marbled Chocolate Protein Cookies": "marbled_chocolate_protein_cookies.png",
@@ -70,8 +70,7 @@ const recipeImages = {
   "Peanut Butter & Honey Muffins": "peanut_butter_&_honey_muffins.png",
   "Pots de Crème": "pots_de_crème.png",
   "Individual vegetarian lasagnes": "individual_vegetarian_lasagnes.png",
-  "Vegetarian Stir-Fried Garlic Scape":
-    "vegetarian_stir-fried_garlic_scape.png",
+  "Vegetarian StirFried Garlic Scape": "vegetarian_stir-fried_garlic_scape.png",
   "Cheat’s cheesy focaccia": "cheat’s_cheesy_focaccia.png",
   "Vegetarian Shepherd's Pie": "vegetarian_shepherd's_pie.png",
   "Vegetarian Gumbo": "vegetarian_gumbo.png",
