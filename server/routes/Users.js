@@ -150,7 +150,7 @@ router.post("/logout", authenticate, async (req, res) => {
 }); **/
 
 // Gets User's data for profile page
-router.get("/profile", authenticate, async (req, res) => {
+/*router.get("/profile", authenticate, async (req, res) => {
   try {
     //Check if the user exists
     const user = await Users.findOne({
@@ -169,6 +169,49 @@ router.get("/profile", authenticate, async (req, res) => {
     };
 
     res.json(responseData);
+  } catch (error) {
+    console.error(error);
+    res.status(500).json({ error: "Internal Server Error" });
+  }
+}); **/
+
+router.get("/profile", authenticate, async (req, res) => {
+  try {
+    pool.getConnection((err, connection) => {
+      if (err) {
+        console.error("Error getting connection from pool:", err);
+        return res.status(500).json({ error: "Internal Server Error" });
+      }
+
+      const userId = req.userId;
+
+      // Check if the user exists
+      connection.query(
+        "SELECT username, email, profilePicture FROM Users WHERE id = ?",
+        [userId],
+        (err, results) => {
+          connection.release(); // Release the connection back to the pool
+
+          if (err) {
+            console.error("Error executing query:", err);
+            return res.status(500).json({ error: "Internal Server Error" });
+          }
+
+          if (results.length === 0) {
+            return res.status(404).json({ error: "User not found" });
+          }
+
+          const user = results[0];
+          const responseData = {
+            username: user.username,
+            email: user.email,
+            profilePicture: user.profilePicture,
+          };
+
+          res.json(responseData);
+        }
+      );
+    });
   } catch (error) {
     console.error(error);
     res.status(500).json({ error: "Internal Server Error" });

@@ -384,7 +384,7 @@ const Profile = ({ onRecipeSelect }) => {
                   {recipe.image ? (
                     <img
                       className="fav_recipe_image"
-                      src={`https://whattocook2-4e261a72626f.herokuapp.com/recipe_images/${recipe.image}`}
+                      src={`${recipe.image}`}
                       alt={recipe.title}
                       onClick={() => handleRecipeToSearchBar(recipe.title)}
                     />
