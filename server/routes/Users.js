@@ -17,7 +17,6 @@ const authenticate = require("../middlewares/authenticate");
 const bcrypt = require("bcryptjs");
 const saltRounds = 10;
 const fs = require("fs");
-const pool = require("../pool");
 
 const multer = require("multer");
 const { error } = require("console");
@@ -63,7 +62,7 @@ router.post("/register", async (req, res) => {
   }
 });
 
-// Login and pool.js
+// Login
 router.post("/login", (req, res) => {
   const { username, password } = req.body;
 
@@ -112,6 +111,32 @@ router.post("/login", (req, res) => {
   });
 });
 
+/*router.post("/login", async (req, res) => {
+  const { username, password } = req.body;
+  try {
+    const foundUser = await Users.findOne({
+      where: { username },
+    });
+
+    if (foundUser) {
+      const passwordMatch = await bcrypt.compare(password, foundUser.password);
+      if (passwordMatch) {
+        const token = jwt.sign({ userId: foundUser.id }, "skey", {
+          expiresIn: "5h",
+        });
+        res.json({ message: "Login successful", token });
+      } else {
+        res.status(401).json({ error: "Invalid credentials" });
+      }
+    } else {
+      res.status(401).json({ error: "Invalid credentials" });
+    }
+  } catch (error) {
+    console.error(error);
+    res.status(500).json({ error: "Internal Server Error" });
+  }
+});
+
 // Logout
 router.post("/logout", authenticate, async (req, res) => {
   try {
@@ -122,158 +147,115 @@ router.post("/logout", authenticate, async (req, res) => {
     console.error(error);
     res.status(500).json({ error: "Internal Server Error" });
   }
-});
+}); **/
 
-// Gets User's data for profile page and pool.js
+// Gets User's data for profile page
 router.get("/profile", authenticate, async (req, res) => {
   try {
-    pool.getConnection((err, connection) => {
-      if (err) {
-        console.error("Error getting connection from pool:", err);
-        return res.status(500).json({ error: "Internal Server Error" });
-      }
-
-      const userId = req.userId;
-
-      // Check if the user exists
-      connection.query(
-        "SELECT username, email, profilePicture FROM Users WHERE id = ?",
-        [userId],
-        (err, results) => {
-          connection.release(); // Release the connection back to the pool
-
-          if (err) {
-            console.error("Error executing query:", err);
-            return res.status(500).json({ error: "Internal Server Error" });
-          }
-
-          if (results.length === 0) {
-            return res.status(404).json({ error: "User not found" });
-          }
-
-          const user = results[0];
-          const responseData = {
-            username: user.username,
-            email: user.email,
-            profilePicture: user.profilePicture,
-          };
-
-          res.json(responseData);
-        }
-      );
+    //Check if the user exists
+    const user = await Users.findOne({
+      where: { id: req.userId },
+      attributes: ["username", "email", "profilePicture"],
     });
+
+    if (!user) {
+      return res.status(404).json({ error: "User not found" });
+    }
+
+    const responseData = {
+      username: user.username,
+      email: user.email,
+      profilePicture: user.profilePicture,
+    };
+
+    res.json(responseData);
   } catch (error) {
     console.error(error);
     res.status(500).json({ error: "Internal Server Error" });
   }
 });
 
-// Gets the User's Ingredient Options and pool.js
+// Gets the User's Ingredient Options
 router.get("/ingredient_options", async (req, res) => {
   try {
-    pool.getConnection((err, connection) => {
-      if (err) {
-        console.error("Error getting connection from pool:", err);
-        return res.status(500).json({ error: "Internal Server Error" });
-      }
+    const { query } = req.query;
+    console.log("query" + query);
 
-      const { query } = req.query;
-
-      // Query the database for ingredients that match the provided query
-      connection.query(
-        "SELECT name FROM Ingredients WHERE name LIKE ?",
-        [`%${query}%`],
-        (err, results) => {
-          connection.release(); // Release the connection back to the pool
-
-          if (err) {
-            console.error("Error executing query:", err);
-            return res.status(500).json({ error: "Internal Server Error" });
-          }
-
-          if (results.length === 0) {
-            return res
-              .status(404)
-              .json({ error: "Ingredient not found in our recipes." });
-          }
-
-          // Extract the names of matching ingredients from the query result
-          const ingredientOptions = results.map(
-            (ingredient) => ingredient.name
-          );
-
-          res.status(200).json({ ingredientOptions });
-        }
-      );
+    // Query the database for ingredients that match the provided query
+    const matchingIngredients = await Ingredient.findAll({
+      where: {
+        name: {
+          [Sequelize.Op.like]: `%${query}%`,
+        },
+      },
+      attributes: ["name"],
     });
+
+    if (matchingIngredients == 0) {
+      res.status(404).json({ error: "Ingredient not found in our recipes." });
+    } else if (query == "") {
+      res.status(404).json({ error: "input is empty" });
+    } else {
+      // Extract the names of matching ingredients from the query result
+      const ingredientOptions = matchingIngredients.map(
+        (ingredient) => ingredient.name
+      );
+
+      res.status(200).json({ ingredientOptions });
+    }
   } catch (error) {
     console.error(error);
     res.status(500).json({ error: "Internal Server Error" });
   }
 });
 
-//pool.js
 router.post("/profile_ingredient_list", authenticate, async (req, res) => {
   try {
-    pool.getConnection((err, connection) => {
-      if (err) {
-        console.error("Error getting connection from pool:", err);
-        return res.status(500).json({ error: "Internal Server Error" });
+    const { name, quantity } = req.body;
+
+    console.log("req.body" + name + quantity);
+
+    // check if user's ingredient name is in the Ingredient table
+    const ingredient = await Ingredient.findOne({
+      where: {
+        name: {
+          [Sequelize.Op.like]: `%${name}%`,
+        },
+      },
+    });
+
+    // if true
+    if (ingredient) {
+      console.log("Ingredient:", ingredient.name);
+      // Check if the ingredient already exists in the user's profile
+      const [userProfile, created] = await FridgeIngredient.findOrCreate({
+        where: {
+          user_id: req.userId,
+          ingredient_id: ingredient.id,
+        },
+        defaults: {
+          quantity: quantity,
+        },
+      });
+      // handle case if the user profile already has the ingrendient
+      if (!created) {
+        //console.log('User already has this ingredient!')
+        await userProfile.update({ quantity: quantity });
       }
 
-      const { name, quantity } = req.body;
-
-      console.log("req.body" + name + quantity);
-
-      // check if user's ingredient name is in the Ingredient table
-      connection.query(
-        "SELECT * FROM Ingredient WHERE name LIKE ?",
-        [`%${name}%`],
-        async (err, results) => {
-          if (err) {
-            connection.release(); // Release the connection back to the pool
-            console.error("Error executing query:", err);
-            return res.status(500).json({ error: "Internal Server Error" });
-          }
-
-          if (results.length > 0) {
-            const ingredient = results[0];
-            console.log("Ingredient:", ingredient.name);
-
-            // Check if the ingredient already exists in the user's profile
-            const [userProfile, created] = await FridgeIngredient.findOrCreate({
-              where: {
-                user_id: req.userId,
-                ingredient_id: ingredient.id,
-              },
-              defaults: {
-                quantity: quantity,
-              },
-            });
-
-            // handle case if the user profile already has the ingredient
-            if (!created) {
-              await userProfile.update({ quantity: quantity });
-            }
-
-            connection.release(); // Release the connection back to the pool
-            res.json({ message: "Fridge updated successfully" });
-          } else {
-            connection.release(); // Release the connection back to the pool
-            console.error("Ingredient not found for: ", name);
-            res.status(404).json({ error: "Ingredient not found." });
-          }
-        }
-      );
-    });
+      res.json({ message: "Fridge updated successfully" });
+    } else {
+      console.error("Ingredient not found for: ", name);
+      res.status(404).json({ error: "Ingredient not found." });
+    }
   } catch (error) {
-    console.error(error);
     res.status(500).json({ error: "Internal Server Error" });
   }
 });
 
 router.get("/saved_ingredients", authenticate, async (req, res) => {
   try {
+    console.log("HIT SAVED INGREDIENTS");
     const userProfile = await FridgeIngredient.findAll({
       where: { user_id: req.userId },
       include: [
@@ -361,9 +343,11 @@ router.delete("/delete_ingredient", authenticate, async (req, res) => {
 
 router.post("/dietary_restrictions", authenticate, async (req, res) => {
   try {
+    console.log("hit diet route");
     const userId = req.userId;
-
+    console.log("userId: => ", userId);
     const { selectedRestrictions } = req.body;
+    console.log("selectedRestrictions: => ", selectedRestrictions);
 
     const healthLabelIds = Array.isArray(selectedRestrictions)
       ? selectedRestrictions
@@ -459,86 +443,35 @@ router.get("/healthlabels", async (req, res) => {
   }
 });
 
-// router.post("/upload_profile_picture", upload.single("profilePicture"), authenticate,
-//   async (req, res) => {
-//     try {
-//       if (!req.file) {
-//         return res.status(400).json({ error: "No profile picture uploaded" });
-//       }
-
-//       // Save the uploaded file
-//       const fileName = `${req.userId}_profile_picture`;
-//       const filePath = path.join(__dirname, "../uploads", fileName);
-//       fs.writeFileSync(filePath, req.file.buffer);
-
-//       // Update user's profile with the file path
-//       await Users.update({ profilePicture: fileName }, { where: { id: req.userId } });
-
-//       res.json({ message: "Profile Picture uploaded successfully", filePath: fileName });
-//     }
-//     catch (error) {
-//       console.error(error);
-//       res.status(500).json({ error: "Internal Server Error" });
-//     }
-//   }
-// );
-
-// profile router with pool
 router.post(
   "/upload_profile_picture",
   upload.single("profilePicture"),
   authenticate,
-  (req, res) => {
-    pool.getConnection((err, conn) => {
-      if (err) {
-        console.error("Error occurred while connecting to the database:", err);
-        res.status(500).json({ error: "Internal Server Error" });
-        return;
+  async (req, res) => {
+    try {
+      if (!req.file) {
+        return res.status(400).json({ error: "No profile picture uploaded" });
       }
 
-      try {
-        if (!req.file) {
-          conn.release();
-          return res.status(400).json({ error: "No profile picture uploaded" });
-        }
+      // Save the uploaded file
+      const fileName = `${req.userId}_profile_picture`;
+      const filePath = path.join(__dirname, "../uploads", fileName);
+      fs.writeFileSync(filePath, req.file.buffer);
 
-        // Save the uploaded file
-        const fileName = `${req.userId}_profile_picture`;
-        const filePath = path.join(__dirname, "../uploads", fileName);
-        fs.writeFileSync(filePath, req.file.buffer);
+      // Update user's profile with the file path
+      await Users.update(
+        { profilePicture: fileName },
+        { where: { id: req.userId } }
+      );
 
-        // Update user's profile with the file path
-        const updateQuery = {
-          profilePicture: fileName,
-        };
-
-        const whereClause = {
-          id: req.userId,
-        };
-
-        conn.query(
-          "UPDATE Users SET ? WHERE ?",
-          [updateQuery, whereClause],
-          async (error) => {
-            conn.release(); // Release the connection back to the pool
-
-            if (error) {
-              console.error("Error updating user's profile picture:", error);
-              return res.status(500).json({ error: "Internal Server Error" });
-            }
-
-            res.json({
-              message: "Profile Picture uploaded successfully",
-              filePath: fileName,
-            });
-          }
-        );
-      } catch (error) {
-        console.error(error);
-        conn.release(); // Release the connection back to the pool
-        res.status(500).json({ error: "Internal Server Error" });
-      }
-    });
+      res.json({
+        message: "Profile Picture uploaded successfully",
+        filePath: fileName,
+      });
+    } catch (error) {
+      console.error(error);
+      res.status(500).json({ error: "Internal Server Error" });
+    }
   }
 );
 
@@ -617,7 +550,7 @@ router.get("/favorite_recipe", authenticate, async (req, res) => {
         id,
         title,
         image: image
-          ? `https://whattocookapp-ed9fe9a2a3d4.herokuapp.com/recipe_images/${image}`
+          ? `https://whattocook2-4e261a72626f.herokuapp.com/recipe_images/${image}`
           : null,
       };
     });
