@@ -135,7 +135,7 @@ router.post("/login", (req, res) => {
     console.error(error);
     res.status(500).json({ error: "Internal Server Error" });
   }
-});
+}); **/
 
 // Logout
 router.post("/logout", authenticate, async (req, res) => {
@@ -147,7 +147,7 @@ router.post("/logout", authenticate, async (req, res) => {
     console.error(error);
     res.status(500).json({ error: "Internal Server Error" });
   }
-}); **/
+});
 
 // Gets User's data for profile page
 /*router.get("/profile", authenticate, async (req, res) => {
